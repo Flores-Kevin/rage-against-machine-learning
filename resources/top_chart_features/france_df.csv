@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+3D29kjUyWxsT3jUUTtARVQ,Gazo,DIE,France,0.695,0.63,8,-7.16,0,0.035,0.229,0.0,0.118,0.55,130.968,4.01,4
+6PrB4KpvuoYWtwjPC5a44S,"Soolking, Niska",Balader,France,0.603,0.802,4,-5.089,0,0.111,0.306,5.06e-05,0.124,0.787,130.121,2.94,4
+4ZpIuzx91EAPK3VimONbfB,"ZEG P, Hamza, SCH",FADE UP,France,0.758,0.599,4,-5.99,0,0.0877,0.57,1.13e-06,0.129,0.557,129.96,3.65,4
+6OZwia8loN0aPS0vTvsBjR,"Alonzo, Ninho, Naps",TOUT VA BIEN (feat. Ninho & Naps),France,0.66,0.72,3,-5.874,0,0.0753,0.301,0.0,0.226,0.628,99.937,3.22,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),France,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+0z3bi63SNZ5ylyHOzb81Uq,Gambi,PETETE,France,0.752,0.669,10,-9.817,0,0.251,0.167,0.0,0.0795,0.627,155.997,2.06,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,France,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+0H5JKQ7qQ5MBeRSZSieZsM,Lomepal,Mauvais ordre,France,0.764,0.43,4,-9.956,0,0.0594,0.767,0.0585,0.0843,0.426,143.992,3.66,4
+7IXQrRgmHxWYWitSlyFY7z,"Kerchak, Ziak",Peur (feat. Ziak),France,0.715,0.836,11,-4.972,1,0.366,0.203,0.0,0.0288,0.777,160.015,3.17,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),France,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,France,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+48BdA5qBxXVoe59xvu0bwc,Gazo,RAPPEL,France,0.486,0.786,4,-6.468,0,0.209,0.441,4.46e-06,0.077,0.534,94.644,3.63,3
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,France,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,France,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+3TVUW7bJJWDOonkVCZxfLV,Beendo Z,Pas bête,France,0.734,0.532,7,-9.038,0,0.102,0.361,0.0,0.105,0.491,138.043,2.39,4
+4VpmtsVKIRfNlmrtaEnrQi,Lomepal,À peu près,France,0.739,0.682,10,-6.811,1,0.0561,0.089,0.000259,0.526,0.638,129.983,3.41,4
+3BsYL1gVsiFpo0bM8oTbi0,"Mig, Tiakola",Quand j'y repense,France,0.609,0.692,4,-5.887,0,0.24,0.614,0.0,0.147,0.718,139.873,3.23,4
+5QQKWOwPjG9vcDBTQ5Hv5Q,"PEDRO SAMPAIO, Anitta, Dadju, Mc Pedrinho, Nicky Jam","DANÇARINA (feat. Nicky Jam, MC Pedrinho) - Remix",France,0.763,0.669,9,-4.402,0,0.0651,0.156,0.0,0.0867,0.609,135.028,3.53,4
+5EWPzyWm0b9McPS5Qyaijp,Pierre de Maere,Un jour je marierai un ange,France,0.544,0.578,7,-9.49,0,0.18,0.216,1.92e-06,0.0949,0.219,169.973,2.76,4
+3fgEIHsl6ecyAK1rpAxBIY,Jul,J'ai tout su,France,0.786,0.757,9,-4.889,0,0.106,0.0978,0.00106,0.131,0.898,175.903,3.16,4
+6KHsTu4Ht4XYiWcZOOdwbW,Fresh,Chop (Nouvelle École),France,0.745,0.801,3,-6.545,0,0.724,0.439,1.13e-06,0.519,0.486,143.011,3.26,4
+6kwmp0U8M1tPvgPHqvbwsr,"Tiakola, Rsko",Gasolina (feat. Rsko),France,0.684,0.493,6,-7.946,0,0.124,0.517,0.0,0.0672,0.501,119.087,3.05,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,France,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+4otT81iBBpaf36roGtzT4a,Lomepal,Decrescendo,France,0.681,0.459,0,-7.178,0,0.0398,0.595,0.0,0.0828,0.33,83.47,3.64,4
+6YWjskKykdPsBuiTBOg1VK,Damso,Δ. Dieu ne ment jamais,France,0.756,0.736,11,-7.719,1,0.0443,0.0597,4.98e-06,0.0373,0.612,115.985,3.32,4
+3sgzxVe4NjuezbZ8CiPlLP,"Kalash, Damso",Malpolis,France,0.796,0.534,1,-8.074,0,0.073,0.26,0.00103,0.0863,0.172,130.008,3.34,4
+3BnDvpeuGOj21Ir2aVEtQo,Rema,Calm Down,France,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,0.842,107.003,3.66,4
+0i9RysNKssk6syOrKDX3U2,"Gazo, Tiakola",FLEURS (feat. Tiakola),France,0.673,0.636,10,-7.431,1,0.0771,0.268,0.0,0.108,0.438,127.021,3.52,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),France,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+2WigMwGJysIh9fRnSJvpjn,Oxlade,KU LO SA - A COLORS SHOW,France,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9,2.46,4
+2wqnUV5B4g6u3somiH9JkX,Lomepal,Tee,France,0.606,0.41,4,-9.532,0,0.0874,0.689,0.000356,0.321,0.228,123.315,3.39,4
+6V40xLcDlYwZpz3oKIVNhL,Lomepal,Hasarder,France,0.77,0.649,1,-8.011,0,0.0865,0.282,0.0,0.117,0.181,91.046,2.98,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),France,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+4UyVCLbNG8yhrqbzeSmdho,"Black Eyed Peas, Shakira, David Guetta",DON'T YOU WORRY,France,0.816,0.874,11,-4.822,1,0.0308,0.201,0.0,0.209,0.5,131.967,3.27,4
+3fWhjGSW3jCVL6uLfl6Qlm,Mig,Encore une fois (Maman),France,0.653,0.772,4,-6.693,0,0.0628,0.45,0.0,0.211,0.442,145.0,3.57,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,France,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+6HTJgY7iWWlVLSDHsfHePf,Ninho,Jefe,France,0.648,0.599,7,-8.611,0,0.0799,0.474,6.81e-06,0.121,0.213,120.985,2.96,4
+2wXS2IXCyBX0WL76LLYT31,Gazo,CELINE 3X,France,0.677,0.841,9,-7.179,1,0.378,0.162,0.0,0.141,0.563,138.906,2.64,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,France,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+7pZayfJlwlHulmzt0xUN9m,"Werenoi, Maes",Selfie,France,0.715,0.776,4,-5.626,0,0.291,0.646,0.0,0.143,0.559,152.946,2.61,4
+63WuQOXohQIxOxIFA2K7bR,Måneskin,SUPERMODEL,France,0.636,0.876,7,-3.413,1,0.0555,0.00164,0.0,0.117,0.799,120.983,2.47,4
+5b8HD1dJDuPawgS5FjSC2q,"Tiakola, Niska, Gazo",Mode AV (feat. Niska & Gazo),France,0.684,0.538,10,-8.189,1,0.038,0.352,0.000144,0.194,0.788,144.005,3.22,4
+5S12Ds2RswM2ITC0u1J01f,Ninho,VVS,France,0.751,0.61,10,-8.368,0,0.485,0.337,0.0,0.11,0.525,167.983,3.12,4
+79MRbiyZFHSPDQkezu3DeM,"Dosseh, Tiakola","Plus belle la vie, plus belle la mort",France,0.743,0.761,2,-6.102,0,0.0461,0.332,0.0,0.234,0.557,161.976,3.17,4
+2GS9AEoOjgbztBfIbCJ2mr,Lucenzo,Baila Pa Mi,France,0.853,0.619,5,-5.842,1,0.154,0.499,0.0124,0.102,0.755,94.988,2.67,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,France,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+7sA2SKTo1QbTSSYn5YvJC4,Imagine Dragons,Sharks,France,0.927,0.642,10,-4.466,0,0.0657,0.00791,3.62e-05,0.279,0.901,123.969,3.18,4
+63siBeZzxXVaY0uASns1V2,"Bigflo & Oli, Julien Doré",Coup de vieux,France,0.834,0.624,9,-8.565,0,0.0838,0.0729,0.0,0.106,0.831,115.981,3.87,4
+0Jh6iWjna1wk5le0Ahn7No,Ninho,La vie qu'on mène,France,0.8,0.756,7,-4.4,0,0.0367,0.687,2.06e-06,0.111,0.456,113.204,3.22,3
+7eb7JIRN6HKpedFSDGd4yI,"Timal, Gazo",Filtré,France,0.854,0.867,6,-3.63,1,0.0534,0.122,1.53e-06,0.131,0.787,129.989,2.81,4
+5YbPxJwPfrj7uswNwoF1pJ,Burna Boy,Last Last,France,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,2.87,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),France,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+2YGtFjsTpSrsGb2rQy4ARj,"Fresh, Niska",Allez dehors,France,0.699,0.848,7,-5.331,1,0.431,0.407,2.49e-05,0.114,0.754,139.825,2.78,4
+5QowMIujytktMDC8pktNXH,"Naps, Gazo",Vamos,France,0.814,0.817,11,-5.456,0,0.206,0.203,0.0,0.152,0.768,139.955,4.02,4
+0RGpd5zCowfEItCUF7Itpr,Farruko,Nazareno,France,0.658,0.725,7,-4.604,0,0.0321,0.0292,0.000107,0.163,0.368,128.117,3.72,4
+32ujt0CBVLsFyQtAhVk7WN,La petite culotte,La goffa Lolita,France,0.624,0.944,9,-5.723,0,0.173,0.00506,0.0,0.313,0.362,130.092,3.69,4
+4WB9OeauHXnGOMUK4s80gM,Lomepal,Trop beau,France,0.748,0.66,4,-6.034,0,0.0404,0.295,5.56e-06,0.0883,0.324,123.902,4.08,4
+2toEys3zZ8rRB242Na7FZh,"Disiz, Damso",RENCONTRE,France,0.62,0.458,2,-10.557,1,0.269,0.521,0.0,0.11,0.518,125.132,3.31,4
+0Fqpx84jq1cK3pDtPvTFyM,Gazo,BECTE,France,0.845,0.632,1,-6.416,0,0.142,0.318,0.00354,0.121,0.516,154.045,2.31,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,France,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+14nd5q1v6c7HsRVwWTAxyN,Mig,A tout à l'heure,France,0.662,0.661,0,-8.488,1,0.378,0.676,0.0,0.0921,0.402,139.531,2.93,4
+6KNw3UKRp3QRsO7Cf4ASVE,Gazo,MOLLY - A COLORS SHOW,France,0.787,0.827,1,-6.441,1,0.13,0.476,0.00071,0.135,0.657,145.072,2.37,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,France,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+2cHQh4eyfAasH8AzkiFtJO,"Dadju, Ronisia",Toko Toko,France,0.739,0.741,4,-7.386,0,0.174,0.276,0.0,0.19,0.616,94.964,2.91,4
+2ewjMyCbNv2X1dB2qIDCwD,Damso,Θ. Macarena,France,0.777,0.554,2,-8.179,1,0.0572,0.182,1.7e-06,0.0477,0.27,129.933,3.45,4
+1WkliDsYrTr7UdNcQVDy2Q,Werenoi,La League,France,0.576,0.672,4,-7.382,0,0.236,0.871,7.48e-05,0.134,0.472,104.198,2.99,3
+1nVM3VSyr53sTjrWnwSXWE,"Mig, Leto",Dans nos blocks,France,0.711,0.8,3,-5.403,0,0.273,0.335,0.0,0.164,0.825,147.086,2.62,4
+1SlLP2AI4L2oh3VRJfHBpf,"Blasterjaxx, Prezioso, LIZOT, Shibui",Hurricane (feat. SHIBUI),France,0.372,0.915,11,-4.577,1,0.085,0.064,0.00011,0.126,0.466,91.124,2.55,3
+6Qe7YCkIOc1iaw9HKqO3qV,Soolking,Suavemente,France,0.862,0.696,0,-4.519,1,0.0538,0.326,0.00467,0.0418,0.519,140.018,2.66,4
+1hlHyt8OJfKU1g8g7rZxxb,Slimane,La recette,France,0.725,0.647,7,-6.281,0,0.0717,0.251,0.0,0.21,0.378,95.963,3.3,4
+38g82yE6pxULo8b1S6r4pb,"RK, Guy2bezbar, Mig",Indiana,France,0.779,0.719,8,-6.015,0,0.266,0.203,0.0,0.106,0.778,150.998,2.83,4
+775qtHu1rNoq1N2aKFa4nD,Lomepal,Etna,France,0.697,0.7,2,-7.006,1,0.0892,0.262,3.21e-06,0.114,0.195,149.972,4.38,4
+6hzi3AGB39FjxFqcjgbWs7,PNL,Deux frères,France,0.794,0.659,7,-7.063,0,0.0498,0.143,0.00224,0.0944,0.308,112.019,4.12,4
+6aZPMuJetqwKQCPClCNgd3,Yanns,Clic clic pan pan,France,0.798,0.763,10,-6.134,0,0.0654,0.204,0.0,0.213,0.698,132.016,2.73,4
+5lXYy0wrrcWrQh1DHa8Uin,Jul,Baïla,France,0.934,0.541,11,-9.156,0,0.181,0.092,0.0,0.136,0.649,133.996,3.04,4
+3UizQJoEShTLDSUUByJLDr,menace Santana,Guapman,France,0.865,0.446,5,-9.836,1,0.352,0.324,0.00024,0.132,0.772,159.927,2.15,4
+300qyqciMysj4MXc08qCle,"Emkal, Lynda","J'la connais, Pt. 1 - Remix",France,0.778,0.499,3,-6.668,0,0.0537,0.46,0.0,0.138,0.174,113.013,3.56,4
+7AoYApfKZO5jADcj7AmWg2,Lomepal,Maladie moderne,France,0.645,0.506,8,-8.403,0,0.0635,0.174,0.0,0.128,0.331,149.752,3.95,4
+17jlkHSNHFu1zUuu8QZyOW,Dinos,Placebo,France,0.792,0.438,6,-9.076,0,0.114,0.132,3.88e-05,0.0963,0.292,138.005,3.17,4
+6qvyN6NTUpdfOJRYjtSSd7,Josman,Intro,France,0.755,0.636,8,-6.529,0,0.281,0.324,0.0,0.0717,0.523,144.953,2.46,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,France,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+4GCIYE1x1TWJCChPkpy9by,PNL,Onizuka,France,0.688,0.569,10,-7.007,0,0.0375,0.392,0.000175,0.12,0.359,109.041,4.21,4
+6mh6vp2c7zK00E1jLbcDhA,"Dosseh, Momsii",Branché,France,0.615,0.628,1,-6.041,1,0.492,0.146,0.0,0.148,0.596,118.446,4.97,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,France,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+6hVOBUdubnXycTHmwBjkUO,Keen' V,Outété,France,0.88,0.627,10,-7.341,1,0.0724,0.328,0.0,0.227,0.519,114.986,3.09,4
+4BuRrEwP1C4E8NkpUMe6mI,Jul,Superstar,France,0.895,0.704,7,-6.605,0,0.204,0.0842,0.0,0.129,0.681,123.972,3.9,4
+4wNyrbY6B2Okii8VeKo2B2,Tiakola,Meuda,France,0.724,0.593,9,-6.498,1,0.0766,0.508,0.0,0.196,0.624,141.901,2.54,4
+3im90dPSC5z1PYJ305kgSy,"Gazo, Damso",BODIES (feat. Damso),France,0.906,0.518,1,-7.104,1,0.18,0.00864,0.00174,0.0711,0.259,146.06,2.77,4
+656vbT8JKkVx7g1yG12L89,OBOY,Avec Toi,France,0.661,0.666,10,-5.932,0,0.0277,0.457,0.0,0.13,0.381,92.475,3.23,4
+1cgRpYVOkYnxomkDpYLyba,"Koba LaD, Naps",Doudou,France,0.837,0.615,6,-5.274,0,0.0762,0.37,1.29e-05,0.0914,0.858,130.062,3.02,4
+2Hkj54nCgTnGOqJ3DslNQJ,Lomepal,Crystal,France,0.855,0.439,1,-9.074,0,0.0787,0.284,0.012,0.0789,0.706,135.04,4.65,4
+3wfQEIvOfeVkXgGZogK3gL,RIDSA,Santa Maria,France,0.664,0.656,7,-7.089,1,0.0399,0.408,0.0,0.246,0.562,169.978,3.16,4
+5jceHfkyTOUMFmcZaxfV8t,Mig,Toujours +,France,0.683,0.72,1,-7.23,0,0.239,0.133,0.0,0.0891,0.481,134.983,2.35,4
+2yl8lePeFcQAPJKef8AM93,Lomepal,50°,France,0.739,0.543,6,-7.68,1,0.24,0.425,0.0,0.123,0.3,146.032,3.99,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,France,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+1I4dwH7C0jBAEtz5DjlJgQ,Sofia Carson,Come Back Home,France,0.552,0.531,7,-7.732,1,0.0421,0.241,1.21e-05,0.122,0.438,144.946,2.95,4
+717QGTmZdkemDaCo1vQHG0,"13 Organisé, SCH, Kofs, Jul, Naps, Soso Maness, Elams, Solda, Houari",Bande organisée,France,0.901,0.939,6,-2.762,1,0.274,0.117,0.0,0.0643,0.805,142.948,5.94,4
+1oXn8nhl44cH6HXqGQnOgY,"Tiakola, Hamza",Atasanté (feat. Hamza),France,0.833,0.49,7,-8.892,1,0.0877,0.408,0.0,0.0887,0.665,130.007,3.58,4
+737gzPI5VAmgUGWiJ9yXuu,"Sofía Reyes, Jason Derulo, De La Ghetto","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",France,0.792,0.895,1,-3.112,0,0.0587,0.165,0.0,0.0501,0.793,94.968,3.36,4
+08Wp4lUKmtyAgX6w9KhTeM,Lujipeka,Poupée Russe,France,0.834,0.606,7,-6.946,0,0.0538,0.256,0.000576,0.211,0.808,129.917,2.65,4
+3qYfcGBdH6Nqe18QTGgfXz,Mentissa,Et Bam,France,0.472,0.345,2,-5.555,1,0.0331,0.866,0.0,0.0962,0.319,81.254,3.65,3
+1O2mX6MrjsJlkCGEF0TVWL,PLK,Émotif (Booska 1H),France,0.89,0.749,4,-4.761,0,0.0722,0.562,0.0,0.137,0.864,133.99,2.7,4
+1O1EqgvgRyj1ejZPUxI0UX,Ninho,Vérité,France,0.721,0.509,6,-9.356,0,0.153,0.423,7.74e-05,0.116,0.317,157.022,3.33,4
+1c2hJSwcCfoPEw1su83Sw0,Lady Gaga,Hold My Hand,France,0.53,0.612,7,-4.286,1,0.0331,0.0403,0.0,0.393,0.264,148.009,3.75,3
+46vfSYsDJZaNQcD4YvT8GD,"Naps, GIMS",Best life,France,0.919,0.779,7,-4.739,0,0.147,0.258,0.0,0.0991,0.941,138.038,3.16,4
+1bwhDrXcAtqePp8mNJ0pTe,Naps,La kiffance,France,0.805,0.637,6,-6.515,1,0.0869,0.228,0.0,0.071,0.678,140.045,2.99,4
+0w6lsLBvhtGcqMYA7MB7r6,Orelsan,La Quête,France,0.832,0.54,6,-8.667,1,0.397,0.36,0.0,0.101,0.84,120.105,4.07,4
+5hgcfNLhMD81mx1DTJVeXp,"Mig, Heuss L'enfoiré",Les frères,France,0.579,0.769,6,-5.521,0,0.33,0.444,0.0,0.116,0.785,97.163,3.38,4
+7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,France,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,2.52,4
+4Gx40GXz92VgLvVTi9ns17,Lomepal,Prends ce que tu veux chez moi,France,0.782,0.546,9,-6.925,0,0.0915,0.0768,0.000367,0.159,0.401,140.058,3.54,4
+1bgL66Umw2xitBzjQnRSMx,Tiakola,Si j'savais,France,0.747,0.51,8,-9.563,1,0.352,0.66,0.0,0.113,0.759,129.064,3.72,4
+0HWSPtqekwwTL142oB71sg,Dosseh,Djamel,France,0.651,0.567,6,-9.502,0,0.467,0.471,0.0,0.188,0.407,92.626,4.26,4
+0Kvkx0NcqsdYOhQzYfDuDZ,Ziak,Fixette - Bonus,France,0.866,0.694,1,-5.222,0,0.363,0.168,0.0,0.0585,0.649,145.041,3.56,4
+5rf3KdurcBMEOg2LmEHRd7,"Dosseh, Werenoi",La vie de Cesar,France,0.691,0.716,10,-6.505,0,0.193,0.125,0.0,0.323,0.827,92.255,4.21,3
+5ioieZofgvXQK70RFhVohl,"PLK, OBOY",Attentat,France,0.844,0.656,7,-5.935,0,0.216,0.192,1.82e-05,0.115,0.398,99.983,3.24,4
+1CxtymiucDK0AB9vgGZ6q2,PNL,J’comprends pas,France,0.373,0.523,1,-9.111,1,0.041,0.228,0.0171,0.111,0.0398,104.959,4.72,4
+0hveTnaqO8nXDMwwsJGJI3,"SDM, Tiakola",Redescends (feat Tiakola),France,0.77,0.599,10,-8.943,0,0.189,0.0759,1.94e-05,0.125,0.524,93.006,2.66,4
+6rBcGDHoonyyNeoRNWzu8d,Mig,Bouge ton boule,France,0.723,0.73,0,-5.543,0,0.293,0.353,0.0,0.123,0.627,124.963,3.06,4
+62u6D0NgRPtFcCdF5rNLeh,Djadja & Dinaz,BONKASA,France,0.557,0.746,6,-4.066,0,0.258,0.293,0.0,0.115,0.577,86.683,2.43,5
+0goer5e8B6SJaTV2B51k6f,Jul,La bandite,France,0.845,0.717,5,-6.771,0,0.211,0.666,0.0,0.11,0.686,122.491,2.68,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,France,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+0uSjZhPKuYBcObeetfVlpn,Werenoi,Solitaire,France,0.765,0.744,1,-9.147,0,0.0644,0.244,0.000223,0.0966,0.523,117.989,2.44,4
+5FZYRhf3SNsQuHmP83DldK,Mig,A la mode,France,0.446,0.761,1,-6.083,1,0.265,0.431,0.0,0.195,0.725,139.942,2.8,4
+4RVPmkIVvzcWF27zfn3sap,Fresh,Drama queen,France,0.808,0.506,11,-9.949,0,0.436,0.115,0.0,0.124,0.32,135.087,2.66,4
+5vv0ZW6DSpbVmoXP4VfdL9,Mig,La beuh,France,0.708,0.649,10,-5.756,0,0.0943,0.178,0.0,0.19,0.653,135.066,2.3,4
+0ztoHvOaAfkIUQyDvKpRff,Mig,Trafic,France,0.747,0.722,8,-5.582,1,0.254,0.164,0.0,0.0712,0.674,132.971,1.6,4
+2gS8lDl64QTXdeIzWxLrJG,"Calema, Dj Youcef",Te Amo - DJ Youcef Remix,France,0.535,0.786,6,-5.544,0,0.147,0.364,0.0,0.142,0.685,94.818,3.43,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,France,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+73OIG7WFqOyfh0vRZCczu8,Angèle,"Amour, Haine & Danger",France,0.798,0.663,7,-7.238,1,0.0702,0.0867,0.0157,0.12,0.182,113.012,3.32,4
+4kqsT3yDyJr1KZ2AkM9qfD,"Nekfeu, Nemir",Elle pleut,France,0.62,0.375,8,-11.064,1,0.455,0.724,2.86e-06,0.125,0.226,92.641,4.78,4
+5yHoANSze7sGzhn9MUarH3,"SDM, Maes",Passat,France,0.665,0.54,1,-8.373,0,0.129,0.749,0.0,0.109,0.437,139.978,3.39,4
+4gPVkvBL2TSyk4y4feOkot,Lomepal,Le miel et le vinaigre,France,0.744,0.512,0,-8.67,0,0.212,0.412,9.46e-05,0.113,0.343,79.912,2.61,4
+2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,France,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,2.87,4
+30d0q6kt1BIfwAQUCAfxVQ,Kerchak,Calme toi,France,0.755,0.713,8,-8.895,1,0.436,0.137,3.43e-06,0.283,0.723,167.043,1.58,4
+181AxLRTyYh9WUxEjmJt1Y,Willy William,Trompeta,France,0.64,0.863,7,-3.864,0,0.0321,0.0152,0.088,0.301,0.36,128.042,2.81,4
+1RF02Cf80mTaeNXG2P2boR,"Nathan Dawe, Ella Henderson",21 Reasons (feat. Ella Henderson),France,0.621,0.785,6,-4.499,1,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,2.59,4
+0z0izoGFPCoPJKFi41azyb,Damso,Ε. Signaler,France,0.642,0.695,7,-8.972,0,0.0549,0.499,5.14e-05,0.0852,0.956,176.134,3.36,4
+0X5zETsfr8nGAVABRcD4o4,Djadja & Dinaz,Dans le Réseau,France,0.866,0.628,6,-5.575,0,0.0536,0.644,2.48e-06,0.107,0.731,125.991,2.42,4
+6NCJTDAQsOErJGv7mhdvsB,Aya Nakamura,VIP,France,0.889,0.436,5,-9.576,0,0.172,0.0485,0.00129,0.106,0.411,92.998,2.46,4
+5V5enVBzBmxMzq5TNv9AWg,"Dosseh, Dinos",Demain j’arrête,France,0.673,0.463,2,-15.248,1,0.37,0.738,0.00475,0.123,0.258,125.918,2.21,4
+5YoDQgB4j7oBHWXH3DcwFD,OBOY,TDB,France,0.882,0.675,3,-6.004,1,0.141,0.0474,0.000598,0.124,0.758,140.092,2.57,4
+3Oj1LNWn6826ugw1fHzUYv,"Ed Sheeran, Lil Baby",2step (feat. Lil Baby),France,0.763,0.661,4,-5.592,0,0.056,0.169,0.0,0.117,0.632,95.002,2.56,4
+6ySYehW8e6YRC6Cyw453SV,Lomepal,Pour de faux,France,0.449,0.283,2,-12.361,0,0.141,0.916,0.00068,0.0872,0.148,79.91,4.89,4
+7ELft1cx8anhsXE405kckI,Tiakola,M3lo,France,0.674,0.445,5,-11.317,0,0.147,0.839,0.0,0.0988,0.541,135.001,2.32,4
+476Nn5jU0ua9JnrAZcn6Fl,Nekfeu,Galatée,France,0.726,0.757,5,-6.997,0,0.41,0.38,0.0,0.14,0.706,93.565,3.9,4
+7kkqPU6MK4JcPebaDEg9QV,Mig,Dans ma tête,France,0.435,0.695,1,-7.257,1,0.271,0.32,0.0,0.174,0.64,186.966,3.04,3
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,France,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+2SUxn2O9NHL6GHGQFgwCY0,Ed Sheeran,2step,France,0.763,0.661,4,-5.592,0,0.056,0.169,0.0,0.117,0.632,95.002,2.56,4
+52UT99qy9z0YfQ0CQLCmAu,"Niska, Ninho",N.I,France,0.763,0.762,5,-5.112,0,0.0773,0.148,0.0,0.196,0.789,135.014,2.98,4
+1wlksYa0f0F5IXEt4DOXHC,Tiakola,Sans nouvelle,France,0.704,0.615,10,-9.116,1,0.387,0.548,0.0,0.0872,0.816,65.292,2.89,4
+75lUl0IK1bGTtnIdk05Lwz,Mig,Jamais fini,France,0.603,0.736,11,-6.234,0,0.238,0.399,0.0,0.152,0.47,191.97,2.36,4
+4m3X0hcI4dZdZ802yxpm35,Lomepal,Auburn,France,0.857,0.635,8,-6.627,0,0.068,0.238,2.3e-06,0.107,0.324,127.012,4.2,4
+3BFeedrXNebJC3W4QLnuZj,"Dosseh, Zed",Smooth Criminel,France,0.84,0.712,8,-5.893,0,0.0488,0.344,0.0032,0.0961,0.566,104.009,3.59,4
+0fukO3WYYUHaXOrvEohpEG,Damso,Σ. MOROSE,France,0.721,0.588,4,-7.801,0,0.0501,0.37,0.00208,0.1,0.276,150.031,4.39,4
+2kg6gav2Y7ceVoZ0s5l3Zz,Niska,44,France,0.771,0.689,5,-4.352,1,0.292,0.322,0.0,0.222,0.79,142.068,2.79,4
+28n4yesf3IGNnsYzg6foRS,"Timal, Booba",Caméléon,France,0.454,0.71,10,-5.15,0,0.219,0.403,0.0,0.143,0.419,86.588,3.3,5
+5HEtuK03ygUzqca6yfgOYZ,Ninho,Lettre à une femme,France,0.487,0.398,1,-9.901,0,0.0697,0.835,0.0,0.12,0.905,149.367,2.63,4
+7wFK2ReVQpq80IAGs6eI1l,Damso,Γ. Mosaïque solitaire,France,0.56,0.591,6,-9.914,1,0.316,0.375,5.74e-06,0.127,0.369,126.628,5.09,4
+4zQe2lIRL1SCtBNVpbWlDS,Dosseh,Fleur d’Automne,France,0.501,0.728,11,-7.989,0,0.415,0.483,0.0,0.0776,0.41,165.694,4.26,4
+3mTOTW2KnH9pJlpy5o3cJK,Alonzo,TRAFICANTE,France,0.785,0.834,5,-6.336,0,0.0658,0.045,0.0,0.0777,0.686,133.945,3.16,4
+5gJTFGsEWpjma28XdJbkWP,Ashh,Motel,France,0.393,0.627,9,-10.743,0,0.0537,0.217,0.0102,0.103,0.0966,92.937,4.02,4
+6UlSVbJrj3wsyxjGM4KPAv,"Gazo, Ninho",MAUVAIS 2X (feat. Ninho),France,0.736,0.666,0,-7.851,1,0.255,0.36,0.0,0.0881,0.744,138.656,4.01,4
+6RXHipTclQenO0vKFeGZYi,Jul,La miss,France,0.824,0.803,7,-4.583,0,0.0448,0.473,6.18e-05,0.0976,0.773,119.952,4.02,4
+4IbDTrLxImTJfZePAX2nKB,"Koba LaD, Gazo",Daddy chocolat,France,0.721,0.523,7,-8.399,1,0.147,0.0693,0.0,0.281,0.757,141.034,3.2,4
+75UUG6x5zQe0gCVOiQpa6X,"Purple Disco Machine, Sophie and the Giants",In The Dark,France,0.691,0.763,6,-5.628,0,0.0464,0.0405,3.67e-05,0.0783,0.771,115.936,3.1,4
+1s3XtkdfT3obSCbQVWtvX9,PNL,La misère est si belle,France,0.803,0.624,7,-6.764,0,0.0477,0.451,0.000734,0.1,0.628,95.968,5.08,4
+2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,France,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4.79,4
+6jcfITWcR5egvbD4fsGayr,Kungs,Clap Your Hands,France,0.878,0.875,1,-4.923,1,0.0658,0.0507,3.42e-05,0.356,0.84,124.006,3.16,4
+3t52Hs4LPHYt1OeUSliFpP,"Soolking, Kendji Girac",Baila,France,0.678,0.832,11,-5.122,0,0.148,0.287,0.000308,0.0678,0.887,191.979,2.42,4
+6x0Rg35cPDLUP1IO9P0zvH,Kendji Girac,Eva,France,0.586,0.513,1,-5.917,1,0.0258,0.603,0.000241,0.238,0.214,90.013,3.67,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,France,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,France,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+5h9OvsTeNydBaZp7swQubV,Angèle,Libre,France,0.786,0.695,9,-6.474,0,0.0284,0.37,0.0,0.233,0.816,125.992,2.75,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,France,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+16qPUnDBqGkzj4SYPMM71o,Mig,La chance,France,0.558,0.775,10,-6.216,0,0.211,0.507,0.0,0.0999,0.717,89.762,3.06,4
+0F0KohfOIw0WnqTpsoz8t9,Dosseh,Mode S,France,0.846,0.505,1,-7.837,1,0.164,0.0074,0.0,0.087,0.443,131.993,2.52,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,France,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+5l6bU8XVnVyiTjZN7QQ2FW,Adé,Tout savoir,France,0.677,0.744,11,-5.917,0,0.0898,0.0459,0.0,0.122,0.713,95.969,3.27,4
+5cqLFudVQryezmVFmmyRJN,"Aya Nakamura, Damso",Dégaine (feat. Damso),France,0.618,0.698,10,-5.362,0,0.272,0.181,0.0,0.154,0.784,178.143,3.52,4
+6CyIkPh5mRkJg7T5xXynQ8,"Hornet La Frappe, Ninho",Gasolina (feat. Ninho),France,0.631,0.583,9,-6.402,0,0.0455,0.843,0.0,0.0744,0.618,84.87,2.56,4
+3gAEAmxdP1GIjgQ3Zud2mE,"Angèle, Damso",Démons,France,0.657,0.643,8,-6.661,0,0.0433,0.482,2.08e-06,0.189,0.394,82.516,4.19,4
+5c2HadbVTsMKjja4gohEFI,"Ninho, Niska",Maman ne le sait pas (feat. Niska),France,0.755,0.875,7,-5.944,0,0.193,0.399,0.0,0.115,0.393,145.008,3.39,4
+3pPN20syOYvbUuEiBpbenI,Ava Max,Million Dollar Baby,France,0.667,0.858,2,-2.268,0,0.0926,0.0367,1.47e-05,0.325,0.641,133.039,3.07,4
+1RaD2Sz7zQ01nYy668ivcU,Dosseh,RS-28,France,0.921,0.52,9,-8.763,1,0.25,0.435,1.74e-06,0.0904,0.888,126.037,2.73,4
+3wU34gBKjzcDMxpHlTmihG,Amir,Ce soir,France,0.632,0.663,11,-5.898,0,0.0389,0.0229,4.09e-06,0.105,0.475,163.887,3.56,4
+6sutxiq0dIw77z0rCB3Ekk,1PLIKÉ140,CANADA,France,0.817,0.51,1,-7.306,1,0.382,0.553,1.03e-05,0.104,0.59,156.085,2.99,4
+4qLJ1WY92vBOQ0EAV6UCHr,Dosseh,Dina Sanichar,France,0.683,0.699,7,-6.976,1,0.438,0.154,0.0,0.096,0.484,90.295,3.06,4
+6cWath96kzfqITDd6S0El8,CKay,emiliana,France,0.738,0.549,6,-9.704,1,0.0513,0.638,0.402,0.111,0.475,98.965,2.75,4
+22skzmqfdWrjJylampe0kt,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",Can't Hold Us (feat. Ray Dalton),France,0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,0.88,146.097,4.31,4
+5lCxlSBFyP5g4EhVypAoOu,PNL,Au DD,France,0.777,0.698,6,-7.706,0,0.0704,0.293,2.32e-05,0.0908,0.119,119.963,4.12,4
+0rQbvQpjQ6QeeCAnVRzokf,Ninho,Goutte d'eau,France,0.683,0.693,5,-6.441,0,0.127,0.647,0.0,0.121,0.322,137.826,2.62,4
+6Y46tOTRhkBamosyuWa6YX,"ROSALÍA, The Weeknd",LA FAMA,France,0.766,0.295,0,-7.893,0,0.0464,0.947,4.44e-05,0.119,0.805,136.016,3.14,4
+4cMetBWdY9Gqw6QMprw9BD,Mig,Haut-parleur,France,0.748,0.654,11,-8.367,0,0.222,0.511,0.0,0.144,0.86,140.088,2.49,4
+6VOUfCrjmxH62oijWgbC6O,Orelsan,Jour meilleur,France,0.656,0.463,2,-10.93,1,0.0598,0.38,0.0,0.446,0.407,81.499,3.02,4
+4L0Iwsk1s8cbdBcEgdm8K5,Damso,Feu de bois,France,0.789,0.633,2,-6.269,1,0.0734,0.256,1.31e-06,0.092,0.262,138.097,3.06,4
+2DuTgYkwiaIK6rZ0D34n9g,"Dosseh, Lacrim",Amsterdam,France,0.783,0.863,4,-3.359,0,0.0611,0.201,2.95e-06,0.15,0.567,138.048,2.81,4
+43yYuYeSOOupBHOkH9pRtF,Lomepal,Évidemment,France,0.64,0.715,10,-7.041,0,0.0945,0.675,6.26e-05,0.115,0.397,92.878,3.31,4
+41DFvj092Ab3wcUJXTCRqG,"Prince Waly, Freeze corleone",Balotelli (feat. Freeze Corleone),France,0.779,0.47,0,-10.336,1,0.406,0.508,0.0,0.105,0.521,112.05,3.49,4
+368KS9UNJ8cft7RJ1USwb9,Ziak,Raspoutine,France,0.91,0.658,5,-8.843,1,0.382,0.215,0.0,0.091,0.616,145.023,1.98,4
+0SKNkEMV313mE6oYsgVCgm,Jul,J'oublie tout,France,0.959,0.658,0,-6.222,0,0.0573,0.108,6.81e-05,0.0979,0.691,119.998,5.28,4

@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",Mexico,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4
+5JhUm1v5AbI5Yu6jLKCPRO,Grupo Frontera,No Se Va - En Vivo,Mexico,0.594,0.527,0,-9.335,1,0.0335,0.121,0.0,0.234,0.692,172.712,3.23,4
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Mexico,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4
+6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Mexico,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2.98,4
+5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,Mexico,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,3.55,4
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Mexico,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4
+31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,Mexico,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,0.428,122.016,2.89,4
+5PfFHceiEv61KldMOuVrv8,"Peso Pluma, Luis R Conriquez",Siempre Pendientes,Mexico,0.774,0.748,0,-7.086,1,0.0352,0.331,0.0057,0.126,0.714,135.929,3.11,3
+3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Mexico,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4.3,4
+4w273WCBXwM4P3jTX5HkB2,"Grupo Marca Registrada, Junior H",El Rescate,Mexico,0.794,0.594,7,-8.698,0,0.139,0.283,0.000381,0.109,0.637,99.238,2.68,3
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,Mexico,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,Mexico,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,3.5,4
+5kpxVMDvYGRmNqawPqDTYR,"La Adictiva, Luis R Conriquez",JGL,Mexico,0.702,0.586,8,-5.317,1,0.118,0.55,0.0,0.27,0.965,112.852,2.63,4
+6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,Mexico,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4.1,4
+0uBcoM4zxRXk7kmsmxoiFS,"Grupo Firme, Luis Mexia",Calidad,Mexico,0.731,0.491,0,-3.116,1,0.029,0.609,0.0,0.262,0.781,132.891,2.83,3
+74WROFXsox6wkeUrEK2DS6,Eden Muñoz,Chale,Mexico,0.551,0.436,8,-8.029,1,0.0428,0.395,0.0,0.0719,0.862,188.651,2.85,3
+7Jph6HJbfURt4Fea19IED3,Grupo Marca Registrada,Si Fuera Fácil,Mexico,0.794,0.677,10,-9.969,1,0.0713,0.446,0.0313,0.076,0.611,101.467,2.84,3
+79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,Mexico,0.834,0.828,11,-2.657,0,0.0452,0.21,5.91e-06,0.103,0.58,102.019,3.25,4
+4tYFy8ALRjIZvnvSLw5lxN,"Bad Bunny, Rauw Alejandro",Party,Mexico,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,0.471,97.013,3.79,4
+3ZGkdrigbWXLgHungXfZkt,"Junior H, Luis R Conriquez",Los Botones Azules,Mexico,0.784,0.737,5,-2.174,1,0.0758,0.0877,0.0,0.1,0.623,97.5,2.26,3
+7gwT3HGL84vF7bgtwL1N88,Lasso,Ojos Marrones,Mexico,0.809,0.649,8,-4.433,0,0.0416,0.0407,0.0,0.145,0.72,120.014,3.31,4
+1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Mexico,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,3.31,4
+7dMTCS9BLzBqYTlAuHP8TM,Danna Paola,XT4S1S,Mexico,0.797,0.677,9,-4.163,0,0.0857,0.101,0.0,0.441,0.919,130.034,3.66,4
+1kJXYVVUu7o3B9gaJpoxjm,Julión Álvarez y su Norteño Banda,Que Te Vaya Bien,Mexico,0.665,0.469,4,-5.809,0,0.028,0.23,0.0,0.234,0.383,97.972,2.53,3
+41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Mexico,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,3.96,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Mexico,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Mexico,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,2.87,4
+2NWaWZZLFMcr5P4uI2KvWy,Victor Cibrian,En El Radio Un Cochinero,Mexico,0.696,0.623,6,-8.738,0,0.0438,0.466,8.61e-06,0.0983,0.965,154.028,3.72,3
+3bvJftZKZe5QKz433NczyV,Carin Leon,No Es Por Acá,Mexico,0.746,0.37,2,-6.309,1,0.0306,0.456,0.0,0.106,0.595,97.568,2.79,3
+0kTMK4gNFfLXaTb62w1UaJ,"Pablo Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",BABY OTAKU,Mexico,0.835,0.747,9,-4.65,1,0.083,0.0492,0.0,0.055,0.432,102.003,2.94,4
+6VrQTLzzuyGIYjUDe4kAZk,Bad Bunny,Un Coco,Mexico,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,0.744,151.991,3.27,4
+3XfUFGzbr0LmwFVoLXd9cO,"Fuerza Regida, Edgardo Nuñez",Billete Grande (En Vivo),Mexico,0.751,0.601,5,-5.912,0,0.0828,0.533,0.0,0.377,0.56,100.994,2.73,1
+1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,Mexico,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,3.49,4
+1O2pcBJGej0pmH2Y9XZMs6,Cris Mj,Una Noche en Medellín,Mexico,0.87,0.548,10,-5.253,0,0.077,0.0924,4.6e-05,0.0534,0.832,96.018,2.56,4
+1RGlfmdvcfatN0ZLOmzanS,Junior H,El Hijo Mayor,Mexico,0.571,0.567,8,-6.873,1,0.0994,0.431,0.0,0.129,0.967,165.332,3.27,3
+4d4ZXH4dr5bYfgErHiZCX2,Bad Bunny,Dos Mil 16,Mexico,0.817,0.67,1,-6.534,1,0.0506,0.123,1.92e-06,0.128,0.495,130.058,3.48,3
+0UXlu64mDLvfzR8IXMz06J,Christian Nodal,Ya No Somos Ni Seremos,Mexico,0.588,0.452,7,-4.75,1,0.0268,0.437,0.0,0.344,0.734,139.953,3.1,4
+0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Mexico,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,4.04,4
+5IdyvWCaUa7AgTxMsFj0wB,Grupo Los de la O,Fuga Pa Cali 2,Mexico,0.743,0.89,7,-5.451,0,0.0837,0.366,0.0,0.0966,0.809,107.635,3.28,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Mexico,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+44XjoNvtwevktFKjvVe1vH,"Bad Bunny, Buscabulla",Andrea,Mexico,0.797,0.616,1,-10.229,0,0.375,0.762,0.000293,0.0979,0.451,103.071,5.66,4
+2CeKVsFFXG4QzA415QygGb,Feid,Feliz Cumpleaños Ferxxo,Mexico,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,2.6,4
+4YF13O2n16dcTyGgVmiGvN,"Mau y Ricky, Carin Leon",Llorar y Llorar - con Carin Leon,Mexico,0.62,0.436,10,-8.108,1,0.213,0.554,0.0,0.0891,0.368,172.854,2.83,3
+75UMtPC77vqKRwfSuYuNPO,Kevin Kaarl,San Lucas,Mexico,0.577,0.363,7,-12.378,1,0.0263,0.86,0.000282,0.0868,0.265,91.511,4.12,4
+3p6eieHX6oEOzJStPtEsLu,Calibre 50,Si Te Pudiera Mentir,Mexico,0.764,0.585,2,-7.796,1,0.0305,0.348,0.00294,0.369,0.89,90.013,4.26,4
+1Tcm4Qi0lbzXofH11MIzJs,Carin Leon,La Boda Del Huitlacoche - Live,Mexico,0.684,0.882,9,-7.963,1,0.0761,0.517,9.81e-05,0.296,0.892,140.545,3.14,3
+1UdzJEpgJxtuXAlCOvD4S0,Danny Ocean,Fuera del mercado,Mexico,0.453,0.673,8,-5.649,1,0.144,0.32,0.0,0.131,0.266,92.06,2.66,4
+1dm6z1fWB0cErMszU25dy2,Bad Bunny,Después de la Playa,Mexico,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,0.607,78.293,3.84,4
+2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,Mexico,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,3.45,4
+3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Mexico,0.627,0.429,1,-8.255,1,0.234,0.238,0.0,0.122,0.565,126.426,1.88,5
+5CzixCxDkRXX9mScCmah8O,Bad Bunny,Un Ratito,Mexico,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,2.95,4
+6Yard5LK4aXEn0kBKtHSob,"Grupo Firme, Grupo Recluta",Se Fue La Pantera (En Vivo),Mexico,0.557,0.66,3,-4.467,1,0.0768,0.118,0.0,0.085,0.907,128.179,3.37,4
+15UfWisTMmHsMjkUUEAoAa,"Peso Pluma, Raul Vega",El Belicon,Mexico,0.409,0.713,8,-6.713,1,0.03,0.434,0.000719,0.206,0.725,97.029,3.57,3
+5fhcuVxuBWfgNXGuyAtLmr,"Piso 21, Manuel Turizo",Los Cachos,Mexico,0.774,0.73,0,-3.865,1,0.134,0.108,0.0,0.194,0.421,91.966,3.54,4
+4gzsuuZypVbxs0Af1LSZyB,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Mexico,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888,3.46,4
+0hLHKOrFIHcr4NeWHlPTaI,Kenia OS,Mía Mía,Mexico,0.844,0.755,1,-4.192,1,0.182,0.0589,1.9e-05,0.101,0.781,153.845,2.18,4
+0E0DRHf5PfMeor0ZCwB3oT,"Bad Bunny, The Marías",Otro Atardecer,Mexico,0.777,0.595,2,-6.79,1,0.0375,0.59,0.00139,0.0669,0.546,108.02,4.07,4
+6mmPpaltUZK7xjNlBPQQ0p,"Rauw Alejandro, Chencho Corleone",Desesperados,Mexico,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,0.511,90.02,3.75,4
+7xsew7zvk3Y5XctO2W6MnO,"Camilo, Grupo Firme",Alaska,Mexico,0.588,0.866,8,-3.509,1,0.105,0.271,0.0,0.0502,0.952,178.145,4.02,3
+6i1g5ZRmJZAkDwBaUZ3f2i,Luar La L,Caile,Mexico,0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,0.461,121.737,2.36,3
+7FlQk2gJ6TBrHHiidvdR2O,"Becky G, KAROL G",MAMIII,Mexico,0.836,0.703,4,-3.554,0,0.0657,0.0845,0.0,0.138,0.902,94.048,3.77,4
+0OLLsFyVPrjI3iL03lDFXk,Grupo Marca Registrada,Solo Me Dejaste,Mexico,0.609,0.515,7,-9.843,0,0.0486,0.539,0.0839,0.0722,0.853,152.787,3.11,3
+1OZpgVRQKkxcoeEocqTMRZ,Julión Álvarez y su Norteño Banda,Pongámonos De Acuerdo,Mexico,0.758,0.525,8,-5.913,1,0.0611,0.43,0.0,0.0747,0.976,97.465,2.7,3
+798ahLNEcoFER7Vywg1FMT,Calibre 50,A La Antigüita,Mexico,0.651,0.726,8,-4.144,1,0.0539,0.382,0.0,0.0535,0.963,179.99,2.6,3
+3HgvO4B5LLmdPOT2d8cSZd,"LAGOS, Danny Ocean",Mónaco,Mexico,0.699,0.654,11,-6.264,1,0.0383,0.054,7.08e-06,0.095,0.319,100.037,3.21,4
+6HIIuuUIEzH1meVdGbMXyf,Grupo Firme,Ya Supérame (En Vivo),Mexico,0.436,0.4,0,-6.521,1,0.11,0.463,0.0,0.76,0.568,75.576,3.15,3
+0OTNHGKcqQbk51bOYe462Y,"Polimá Westcoast, Pailita",ULTRA SOLO,Mexico,0.802,0.846,1,-4.495,1,0.207,0.233,1.92e-05,0.114,0.26,109.982,3.79,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Mexico,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+3rdAz1fbUfZxYgaCviYhRo,Rauw Alejandro,Todo De Ti,Mexico,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,0.336,127.962,3.33,4
+5xwP3VbM3eBKOeFF3fwn6Z,Betillo Guerrero,Por Clave el 13,Mexico,0.786,0.67,7,-4.086,1,0.0389,0.787,1.04e-05,0.0357,0.973,123.654,3.18,4
+2g12ZAzSIybDe6QC3w9DYl,Grupo Marca Registrada,El Doctor,Mexico,0.864,0.765,8,-3.604,1,0.11,0.432,0.0,0.386,0.724,104.998,3.92,3
+71wFwRo8xGc4lrcyKwsvba,"Bad Bunny, Tainy",Callaita,Mexico,0.608,0.626,2,-4.773,1,0.301,0.597,2.16e-06,0.25,0.246,176.086,4.18,4
+2Nk3gXgekore0lfB7PCnub,Alfredo Olivas,El Paciente,Mexico,0.706,0.713,3,-3.609,1,0.0367,0.319,0.0,0.114,0.973,142.002,3.52,3
+4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Mexico,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,3.42,4
+6DoL1yYIwEW7VZMRaJhoJI,"Chris Jedi, Anuel AA, Chencho Corleone, Ñengo Flow",La Llevo Al Cielo (Ft. Ñengo Flow),Mexico,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4.25,4
+3qx4POjFiODHPwCBjq8IEW,"Romeo Santos, Christian Nodal",Me Extraño,Mexico,0.639,0.516,0,-4.418,1,0.0296,0.391,0.0,0.259,0.759,94.931,3.2,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Mexico,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+6981hdSOqG8tP6xTqaySa1,Julión Álvarez y su Norteño Banda,Ojos Verdes,Mexico,0.787,0.469,5,-5.503,1,0.039,0.653,0.0,0.0612,0.923,106.995,3.95,4
+6ifUES3keWjwXgae8pXI3o,Danny Ocean,Me Rehúso,Mexico,0.744,0.804,1,-6.327,1,0.0677,0.0231,0.0,0.0494,0.426,104.823,3.43,4
+2GQclWZHwE4fMdqShvOPWU,"Lasso, Sebastian Yatra",Ojos Marrones - Con Sebastián Yatra,Mexico,0.787,0.662,8,-4.285,0,0.0372,0.0648,0.0,0.133,0.79,119.983,3.31,4
+4khWEpnaijN0G1x019Uzdr,Morat,No Se Va,Mexico,0.734,0.685,0,-5.37,1,0.0453,0.117,0.0,0.109,0.754,92.042,3.61,4
+0akyEssGRVHstqCSWXusJL,Ed Maverick,Fuentes de Ortiz,Mexico,0.83,0.159,1,-14.461,1,0.0383,0.946,2.02e-05,0.362,0.189,104.95,3.46,4
+28GCbKgjlVD9eDmasGbe0T,Bad Bunny,Me Fui de Vacaciones,Mexico,0.714,0.645,10,-5.493,1,0.0514,0.229,0.00083,0.0942,0.434,85.046,3.02,4
+48AJSd42lXpicsGqcgopof,"Daddy Yankee, Bad Bunny",X ÚLTIMA VEZ,Mexico,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,3.21,4
+2uflssWlCaJ6CbTMOsUpNI,Bad Bunny,Aguacero,Mexico,0.861,0.645,6,-6.96,0,0.0743,0.423,0.000592,0.349,0.668,121.391,3.52,5
+5kVZxyMY1gfdCLiChsfjn1,Bad Bunny,Yo No Soy Celoso,Mexico,0.872,0.588,0,-6.276,1,0.0492,0.275,0.0,0.17,0.93,142.004,3.85,4
+69vlMrzHwATKzupwNcUPyK,"Bad Bunny, Daddy Yankee",La Santa,Mexico,0.744,0.868,1,-4.524,1,0.047,0.0326,0.0,0.0822,0.586,93.037,3.44,4
+0R7DSnSibvuE4PEHqUayqf,Plan B,Es un Secreto,Mexico,0.836,0.777,6,-5.376,0,0.0439,0.0951,1.68e-06,0.0561,0.504,94.977,3.18,4
+6yKoIv4jJSb7trcphSZofT,"Yuridia, Banda MS de Sergio Lizárraga",¿Y Qué Tal Si Funciona?,Mexico,0.667,0.498,5,-5.475,1,0.0327,0.634,0.0,0.103,0.704,130.989,3.08,4
+4R8BJggjosTswLxtkw8V7P,"Jhayco, J Balvin, Bad Bunny",No Me Conoce - Remix,Mexico,0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,5.15,4
+6YNTL320OEMAg4ORqGYt1v,"Matisse, Carin Leon",Como Lo Hice Yo,Mexico,0.69,0.662,2,-4.537,1,0.043,0.38,1.11e-06,0.0998,0.488,143.096,2.95,3
+3MjFu8fCCH2gSUxc9IVOdA,Alfredo Olivas,Sin Explicaciones,Mexico,0.627,0.652,7,-6.849,1,0.0349,0.106,4.6e-06,0.103,0.667,154.956,2.88,3
+6y8z28epOv5FlaxDv1Lo5B,Ryan Castro,Jordan,Mexico,0.796,0.68,10,-5.555,0,0.37,0.0575,0.000683,0.103,0.71,179.923,2.94,4
+4XqXNU8MwPHwbgZmNXmAdc,Maluma,Junio,Mexico,0.85,0.756,11,-3.439,0,0.0407,0.0999,0.0,0.0873,0.896,120.024,2.81,4
+6ylDpki1VpIsc525KC1ojF,Sebastian Yatra,Tacones Rojos,Mexico,0.746,0.844,11,-3.499,0,0.0359,0.062,0.0,0.149,0.934,123.014,3.16,4
+4hceSKjrkDTO0nMKFcb3sj,"Bizarrap, Villano Antillano","Villano Antillano: Bzrp Music Sessions, Vol. 51",Mexico,0.82,0.752,1,-7.635,0,0.0648,0.0584,0.00417,0.628,0.423,127.999,3.12,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Mexico,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Mexico,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+179TZwPk0txEvjkraVTVKo,Alfredo Olivas,El Precio De La Soledad,Mexico,0.715,0.846,10,-3.665,1,0.18,0.129,2.57e-06,0.084,0.909,95.426,3.11,4
+5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Mexico,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0,0.0717,0.464,91.911,3.37,4
+5TMLavqGRKNxgzMBrVpC9R,"zzoilo, Aitana",Mon Amour - Remix,Mexico,0.748,0.761,2,-6.621,1,0.102,0.122,6.56e-06,0.0984,0.362,116.041,3.0,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Mexico,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+3PpWCS95gDUDRPko3u1MZ9,Feid,Prohibidox,Mexico,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,2.77,4
+4r9jkMEnArtWGH2rL2FZl0,Bad Bunny,A Tu Merced,Mexico,0.86,0.791,0,-4.784,1,0.0568,0.169,0.000106,0.106,0.887,92.023,2.93,4
+18HOjcvTVV7W8YzBuOsAPS,Bad Bunny,Un Verano Sin Ti,Mexico,0.503,0.496,5,-9.123,0,0.0556,0.693,0.0,0.123,0.412,187.844,2.47,4
+1jGQu9LPVLRZ41u9onpfXy,"Cartel De Santa, Los Dos Carnales",Aka Entre el Humo,Mexico,0.967,0.629,0,-5.973,1,0.0857,0.234,7.41e-05,0.062,0.681,120.03,3.32,4
+7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Mexico,0.759,0.561,0,-5.643,0,0.131,0.803,0.121,0.101,0.491,104.915,3.01,4
+0wihfILRNOwE2156Shezc8,Bad Bunny,Agosto,Mexico,0.849,0.584,1,-8.195,0,0.115,0.0929,6.18e-06,0.492,0.724,115.018,2.32,4
+7KNSQcLwrl3bNEuV1OVHtv,Luis R Conriquez,Me Metí En El Ruedo,Mexico,0.805,0.614,9,-6.845,0,0.137,0.615,0.0,0.0915,0.633,100.035,2.91,3
+7hynhxDoDpgMIV12JuVtNa,"J Balvin, Bad Bunny, Marciano Cantero",UN PESO,Mexico,0.627,0.675,5,-7.125,0,0.213,0.125,0.0,0.0784,0.961,79.31,4.62,4
+4gBxREFDhxi8Hw4qeiYt7B,"Eden Muñoz, Michelle Maciel",No Sabía Cuánto,Mexico,0.848,0.552,5,-6.896,1,0.0571,0.251,0.0,0.075,0.733,135.932,2.76,4
+3pQYf90V5idOGrXzosm9rt,Junior H,Se Amerita,Mexico,0.752,0.719,6,-4.399,0,0.0285,0.264,7.96e-05,0.126,0.544,107.582,3.93,4
+7E9GeFGfjXw9LAI4ay6rsw,"Grupo Firme, Carin Leon",El Tóxico,Mexico,0.626,0.503,10,-5.087,1,0.141,0.407,0.0,0.234,0.821,72.985,3.0,4
+3K56RPWS4q200IwHiIZcUD,Los Gemelos De Sinaloa,Andamos Mejor,Mexico,0.855,0.59,9,-8.55,1,0.0751,0.28,0.0982,0.149,0.283,110.016,2.29,4
+1quaoU1wjFHLkDXC3bNghk,Luis R Conriquez,El Buho,Mexico,0.917,0.54,0,-6.27,0,0.0578,0.702,0.0,0.0753,0.935,112.579,2.95,3
+2MnLkFqY9Rpg9s3Zv6ZJdK,"Gera MX, Christian Nodal",Botella Tras Botella,Mexico,0.727,0.546,0,-4.572,1,0.0437,0.656,0.0,0.122,0.69,106.891,3.29,4
+0tKl8ZVM6xJkhznvJAS3Nq,Junior H,Ella,Mexico,0.478,0.732,4,-4.342,0,0.0779,0.363,3.34e-06,0.0768,0.664,184.819,4.32,3
+0bI5WRiDfU5BY38ufOJtGu,"Maluma, Chencho Corleone",Nos Comemos Vivos,Mexico,0.822,0.719,10,-3.633,0,0.0576,0.165,2.48e-05,0.174,0.659,82.01,3.76,4
+0T2pB7P1VdXPhLdQZ488uH,Feid,Normal,Mexico,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,2.86,4
+7dT9D6117e5DbhnKxDLNW9,Kevin Kaarl,Colapso,Mexico,0.544,0.216,7,-17.237,1,0.0402,0.922,0.311,0.112,0.145,75.004,3.92,4
+6TsVhM8qIkWN5cJVDIVbbz,"Wisin & Yandel, ROSALÍA",Besos Moja2,Mexico,0.736,0.727,5,-4.642,0,0.0571,0.0584,1.91e-06,0.0976,0.644,94.048,3.82,4
+3lGMtkONrZdJ8kTCg6KIFf,Natalia Lafourcade,Hasta la Raíz,Mexico,0.585,0.643,3,-8.392,1,0.0395,0.201,0.000306,0.144,0.592,152.98,3.7,3
+6nyl8kugrRsjzvpFhvw4hE,Los 2 de la S,Es Que Me Gustas - En Vivo,Mexico,0.627,0.339,8,-5.065,1,0.0342,0.541,0.0,0.147,0.657,81.426,2.54,4
+3yE8qL9HNfyzAbpqoMnUr8,"Aldo Trujillo, Legion RG, El Padrinito Toys",El Chaman,Mexico,0.636,0.619,9,-7.742,0,0.145,0.395,0.0,0.145,0.746,116.549,4.7,1
+3FkeNbs9Zeiqkr3WkbOiGp,Anitta,Envolver,Mexico,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,3.23,4
+4LdopLerbbhZxY6cBQyRsP,"Edicion Especial, Grupo Marca Registrada, La Ventaja, Código FN",Déjenme Hacer Dinero,Mexico,0.776,0.724,2,-6.332,1,0.0504,0.145,0.0,0.0943,0.634,101.448,3.23,3
+6ggHV1SCPqLLV5U2kyW9qD,"Lenin Ramírez, Luis R Conriquez",Solita (En Vivo),Mexico,0.677,0.657,1,-4.657,0,0.0596,0.498,0.0,0.0562,0.812,116.225,3.6,1
+0ldT3gl7aGNzrJyd4b1CA4,"Grupo Firme, Lenin Ramírez",En Tu Perra Vida,Mexico,0.546,0.438,5,-4.748,1,0.0669,0.353,0.0,0.261,0.568,112.136,3.98,3
+7cZoAjj5vufdREBJZGW2lH,"Junior H, Gabito Ballesteros",Vamos Para Arriba,Mexico,0.699,0.51,5,-7.153,0,0.0352,0.498,0.0,0.22,0.625,98.07,2.87,3
+4joPCNKibsoabhpuHPofqG,"Kany García, Christian Nodal",La Siguiente,Mexico,0.715,0.612,4,-4.32,1,0.0344,0.471,0.0,0.0838,0.602,93.869,3.37,3
+35wvL50xvKpCHEJPxLOLPI,Bad Bunny,Si Estuviésemos Juntos,Mexico,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-05,0.152,0.158,171.854,2.82,4
+2NMjggapJcXXM7WccGEBUO,Bad Bunny,Enséñame a Bailar,Mexico,0.81,0.789,8,-5.08,1,0.0846,0.191,1.08e-05,0.467,0.77,105.009,2.93,4
+1uKjQoh8JZj9ryuYRhpd7E,Luis Miguel,Ahora Te Puedes Marchar,Mexico,0.78,0.877,6,-3.683,0,0.0427,0.148,2.36e-06,0.0627,0.909,133.263,3.2,4
+0vNtFN67TIMgDokyyuUUwA,Edgardo Nuñez,El Ruddy,Mexico,0.736,0.593,7,-9.364,1,0.184,0.117,2.5e-06,0.189,0.785,114.196,3.06,1
+6CRRlfXDdhsL6vih3J5xco,Alfredo Olivas,En Definitiva,Mexico,0.682,0.669,9,-4.509,1,0.0399,0.304,0.0,0.0953,0.617,140.023,3.6,3
+3GaGWoU1KfVqgl7vnRHP55,C. Tangana,Demasiadas Mujeres,Mexico,0.658,0.453,9,-7.378,0,0.39,0.131,0.0002,0.0848,0.358,126.043,2.57,4
+6C1RD7YQVvt3YQj0CmuTeu,"Bad Bunny, Ozuna, Farruko, Arcangel, Ñengo Flow, DJ Luian, Mambo Kingz",Diles,Mexico,0.813,0.56,2,-5.904,0,0.0618,0.108,0.0,0.268,0.287,118.033,4.77,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Mexico,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+7ifMxHITc3NIipJO4R5NGb,"Los Gemelos De Sinaloa, Fuerza Regida",No Le Aflojo,Mexico,0.698,0.687,5,-4.115,0,0.0501,0.195,0.0,0.0829,0.773,116.765,3.38,4
+1s59X35jDULAyOGmBuTAnd,"Lenin Ramírez, Grupo Firme",Yo Ya No Vuelvo Contigo - En Vivo,Mexico,0.643,0.35,4,-5.924,0,0.0783,0.784,0.0,0.102,0.541,118.199,4.01,1
+4OVpyR6yhYyVoRj9D7CERz,"Banda MS de Sergio Lizárraga, Carin Leon",Ojos Cerrados,Mexico,0.513,0.345,7,-7.579,1,0.0691,0.336,0.0,0.0584,0.68,79.981,3.01,4
+0lyZyn18awzOJuVM7qzCmd,"Lenin Ramírez, Fuerza Regida, Banda Renovacion",Se Acabo - En Vivo,Mexico,0.593,0.364,2,-7.242,1,0.175,0.515,0.0,0.348,0.652,83.133,3.83,4
+7MmrcXVA7A5zZ2CbDuGHNa,Rels B,A Mí,Mexico,0.846,0.548,1,-6.397,1,0.256,0.241,0.0713,0.0419,0.516,94.925,3.49,4
+41wtwzCZkXwpnakmwJ239F,Bad Bunny,Si Veo a Tu Mamá,Mexico,0.9,0.603,2,-5.313,1,0.0646,0.402,4.81e-06,0.134,0.824,129.928,2.85,4
+2q7DY7bBua9e9Aygmz8XmB,Junior H,Como Jordan,Mexico,0.714,0.873,6,-2.39,0,0.0311,0.028,0.0,0.191,0.628,112.503,3.75,3
+1lRYofIUSURrWsUVafsmzH,"Joan Y Su Elite, Manuel Rodriguez",Me Gusta Mi Vida,Mexico,0.757,0.807,7,-3.031,0,0.0741,0.294,0.0,0.106,0.915,90.009,3.8,4
+6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Mexico,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.00387,0.0638,0.585,109.97,5.37,4
+3T5F6ulZvDzBQwq3wS31xZ,Grupo Arriesgado,Enloquecido,Mexico,0.784,0.732,5,-6.006,1,0.0536,0.242,0.0,0.203,0.681,98.052,3.55,4
+0UvZcEfpzVyx47QsRbjyBz,Bad Bunny,El Apagón,Mexico,0.629,0.698,8,-4.485,1,0.308,0.0509,0.00166,0.0909,0.599,117.765,3.36,4
+4OwhwvKESFtuu06dTgct7i,"Marc Seguí, Rauw Alejandro, Pol Granch",Tiroteo - Remix,Mexico,0.75,0.522,9,-7.018,1,0.0293,0.282,0.0,0.0743,0.601,110.427,5.36,4
+1GBaQ3nnwxO3WVDUzKZ4kX,Chuy Lizarraga y Su Banda Tierra Sinaloense,Partido En Dos,Mexico,0.669,0.519,7,-4.817,1,0.0264,0.512,1.14e-06,0.103,0.559,124.945,3.77,4
+0SRddBTphQwQcfqw4Br1uX,León Larregui,Brillas,Mexico,0.625,0.433,9,-12.963,1,0.0366,0.376,0.00103,0.248,0.274,93.041,3.77,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Mexico,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+1xO7tp4J5Wj0NeKrzIpd1V,"Christian Nodal, Banda MS de Sergio Lizárraga",La Sinvergüenza,Mexico,0.704,0.482,9,-5.352,1,0.0349,0.211,0.0,0.3,0.604,102.01,3.31,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Mexico,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+5GF0X7GdNmnouKcdhhRmtm,"Paulo Londra, Duki",Party en el Barrio (feat. Duki),Mexico,0.527,0.665,10,-7.108,1,0.164,0.0168,1.29e-06,0.324,0.546,135.026,3.94,4
+1nULBrlzWatdcjA2ZctIMv,Zoé,Labios Rotos - En Vivo,Mexico,0.579,0.758,11,-7.08,1,0.0281,0.0731,0.00292,0.708,0.288,109.054,4.05,4
+0y9HZZkKo85aWYGkvjeWFA,Grupo Arriesgado,El Fugitivo - En vivo,Mexico,0.632,0.811,1,-5.826,1,0.149,0.37,1.95e-06,0.235,0.961,166.994,2.97,3
+2n7ohqg1s68ToAHh4u9mcW,Bad Bunny,Vete,Mexico,0.886,0.672,1,-4.394,1,0.188,0.0363,8.78e-06,0.101,0.526,91.976,3.2,4
+2TzkIzgzIHhewMxyh1u4hh,Kevin Kaarl,Vámonos a Marte,Mexico,0.675,0.16,0,-11.667,1,0.0586,0.985,0.00688,0.164,0.247,69.754,2.98,4
+4bF2y8rR7GUjrd5LNEvej3,Ingratax,París,Mexico,0.57,0.455,1,-5.748,0,0.0996,0.441,0.000746,0.0654,0.399,167.933,2.52,4
+3GSMdtJphymHEsR8K9jT5Q,León Larregui,Locos,Mexico,0.724,0.646,10,-6.475,1,0.0352,0.072,0.000157,0.0923,0.957,112.019,2.96,4
+6nAlJuLlRlpAcq30xIqKJs,Plan B,¿Por Que Te Demoras?,Mexico,0.891,0.78,2,-6.416,0,0.0701,0.0398,0.0,0.0548,0.931,95.998,3.18,4
+7G3h22znCIwaN07Q2s1ukR,Grupo Recluta,Se Fue La Pantera,Mexico,0.707,0.764,8,-4.557,1,0.155,0.095,3.88e-06,0.289,0.781,133.558,3.13,3
+0bI7K9Becu2dtXK1Q3cZNB,"Tiësto, KAROL G",Don't Be Shy,Mexico,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,2.34,4
+4H3t8C59tXjKf1R2iKtc5M,Marca MP,Ya Acabo,Mexico,0.673,0.326,0,-7.481,1,0.0348,0.696,3.73e-06,0.103,0.672,133.309,3.16,4
+6wTqVQ6RRkqAyT5XDGcRq4,El Fantasma,Fuera De Servicio,Mexico,0.778,0.445,8,-5.178,1,0.0416,0.675,2.05e-06,0.283,0.969,116.973,2.58,4
+1bnSKjuPEd8FPACxqA5Mos,Efecto Elegante,Préstame Tu Corazón,Mexico,0.606,0.29,2,-9.84,0,0.0378,0.65,0.0,0.0809,0.643,144.583,3.03,3
+6Pur3hWy6Nzc27ilmsp5HA,Los Enanitos Verdes,Lamento Boliviano,Mexico,0.714,0.735,4,-7.125,0,0.0306,0.176,0.000622,0.115,0.68,123.57,3.7,4
+55mzJ0LftLnef8sxAjrMkU,"Santa Fe Klan, Neto Peña, Yoss Bones",Debo Entender,Mexico,0.678,0.457,0,-6.854,1,0.177,0.741,0.0,0.113,0.563,72.156,3.97,4
+1yoMvmasuxZfqHEipJhRbp,Maluma,Hawái,Mexico,0.783,0.727,6,-3.454,0,0.389,0.185,2.46e-05,0.0626,0.558,180.067,3.32,4
+7w47Qtyrw5y4w5Qa0wNjco,"Natanael Cano, Steve Aoki",Nataaoki,Mexico,0.768,0.835,6,-4.961,0,0.11,0.07,3.94e-06,0.0593,0.797,119.982,2.5,4
+7A07Yu1dRND3RKDzbhKrDs,Intocable,Fuerte No Soy,Mexico,0.659,0.433,11,-11.015,0,0.0362,0.117,0.000427,0.0829,0.455,125.556,4.46,4
+2QrU43HoJRNBrbo2XLI9DS,Alfredo Olivas,No,Mexico,0.666,0.7,9,-6.592,1,0.0554,0.0683,0.0,0.144,0.749,160.014,3.12,4
+31REg67eoHJSvMLUcEmGNj,La Arrolladora Banda El Limón De Rene Camacho,Al Final De Nuestra Historia,Mexico,0.735,0.502,10,-8.154,1,0.0344,0.48,0.0,0.199,0.947,114.95,3.26,4
+2vmfvSoZBFAt9hhRoEByLi,"Aventura, Bad Bunny",Volví,Mexico,0.725,0.86,1,-3.726,1,0.182,0.422,0.000284,0.0674,0.791,175.896,3.84,4
+69Ej1xrGjOcHvIMtMKxK0G,Don Omar,Dile,Mexico,0.817,0.714,4,-7.501,0,0.141,0.184,0.000132,0.042,0.714,94.001,3.41,4
+1hHnCReCPe1FUkGLTeuCaC,Fuerza Regida,Me Acostumbre A Lo Bueno,Mexico,0.715,0.739,6,-3.779,0,0.041,0.578,0.0,0.0887,0.963,101.611,2.35,3
+3nD8VUJphfkoxSjy4lmeP1,JR Torres,Un Suspiró,Mexico,0.821,0.822,2,-5.565,1,0.0424,0.0884,2.02e-06,0.026,0.955,137.929,3.07,3
+4NUt1fcnO9aQAELBgXq3Kr,Alejandro Fernández,Me Dediqué a Perderte,Mexico,0.642,0.442,8,-9.115,1,0.074,0.491,1.58e-06,0.102,0.465,148.01,3.86,4
+3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Mexico,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,3.05,4
+1iRvhKiXRElIH2Uf4gd95P,Jesse & Joy,Dueles,Mexico,0.531,0.834,2,-3.944,1,0.052,0.277,0.0,0.131,0.526,142.026,4.13,4
+5gS11pL9yQcnKrzbmliOwh,Natanael Cano,Brillo,Mexico,0.69,0.762,5,-6.738,0,0.0329,0.756,0.0,0.319,0.972,141.034,2.58,3
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Mexico,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+6HOOykUGBMv3LFsR9gObw5,Eden Muñoz,Creo en Ti,Mexico,0.677,0.384,0,-8.773,1,0.028,0.7,0.0,0.0945,0.776,153.116,2.95,4
+63BZhuQ6OZQmxy2RERMHko,Eden Muñoz,Oficialmente en Soltería,Mexico,0.784,0.551,9,-8.697,1,0.0448,0.508,0.0,0.0596,0.926,106.987,2.04,1
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Mexico,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+5VfkfKTTo5BRKqHwfENF0V,Calibre 50,Míranos Ahora,Mexico,0.68,0.439,0,-5.909,1,0.0327,0.651,6.89e-06,0.122,0.772,135.832,3.32,3
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Mexico,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+2LJRoFOtMGLnSxJqlJuhge,Gerardo Ortiz,Tranquilito,Mexico,0.858,0.634,0,-4.058,1,0.0286,0.518,0.0,0.236,0.909,110.03,2.74,3
+4ZplewvZRLFcfBa5uyBbhd,Cardenales De Nuevo León,Belleza De Cantina,Mexico,0.755,0.596,9,-7.849,0,0.0402,0.282,0.0,0.0508,0.806,96.487,3.07,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Mexico,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+56YZft0whsresPdufFqwwS,Grupo Marca Registrada,El Comerciante,Mexico,0.83,0.743,10,-4.643,1,0.0386,0.351,0.0,0.11,0.837,105.0,4.09,3
+6b68vfUlXy2i2dO79z3h5W,"Luis Angel ""El Flaco""",Y Si Se Quiere Ir,Mexico,0.777,0.467,3,-4.605,1,0.0559,0.552,0.0,0.0403,0.969,145.065,3.12,3
+1Wrzhfa5bNlqvsnCztz190,Hombres G,Devuélveme a mi chica,Mexico,0.603,0.843,9,-7.597,0,0.0557,0.0031,0.0337,0.445,0.503,172.676,3.25,4
+4UyVCLbNG8yhrqbzeSmdho,"Black Eyed Peas, Shakira, David Guetta",DON'T YOU WORRY,Mexico,0.816,0.874,11,-4.822,1,0.0308,0.201,0.0,0.209,0.5,131.967,3.27,4
+7l4cSfrED7RrtT0t5CSOzv,Siddhartha,00:00,Mexico,0.494,0.729,10,-5.098,0,0.0482,0.0597,0.0124,0.121,0.556,159.125,3.59,3
+6F9yAYUaNbUhdlQyt5uZ3b,Luis Miguel,La Incondicional,Mexico,0.374,0.727,10,-4.352,1,0.0309,0.237,0.0,0.134,0.283,155.127,4.28,4
+6vPAmoERUMRoTZaCCSWQ12,Luis Miguel,Hasta Que Me Olvides,Mexico,0.641,0.593,3,-7.884,1,0.0264,0.46,0.0,0.169,0.437,119.828,4.68,4
+5J7teKIJGtqVypgYI6sqXj,"Bad Bunny, Mora",Una Vez,Mexico,0.55,0.598,11,-5.402,0,0.0831,0.132,2.58e-06,0.0955,0.543,83.836,3.87,4

@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Venezuela,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4
+2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",Venezuela,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4
+2CeKVsFFXG4QzA415QygGb,Feid,Feliz Cumpleaños Ferxxo,Venezuela,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,2.6,4
+6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Venezuela,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2.98,4
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Venezuela,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4
+5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,Venezuela,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,3.55,4
+5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Venezuela,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0,0.0717,0.464,91.911,3.37,4
+1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,Venezuela,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,3.49,4
+79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,Venezuela,0.834,0.828,11,-2.657,0,0.0452,0.21,5.91e-06,0.103,0.58,102.019,3.25,4
+0T2pB7P1VdXPhLdQZ488uH,Feid,Normal,Venezuela,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,2.86,4
+3PpWCS95gDUDRPko3u1MZ9,Feid,Prohibidox,Venezuela,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,2.77,4
+31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,Venezuela,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,0.428,122.016,2.89,4
+6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,Venezuela,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4.1,4
+7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,Venezuela,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,3.5,4
+3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Venezuela,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4.3,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,Venezuela,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+1sbNEFiURUYfy024cJX8JG,Feid,Ferxxo 100,Venezuela,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,2.8,4
+41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Venezuela,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,3.96,4
+2vsoD8S1OyrWSVIA43hjaU,Feid,Si Te La Encuentras Por Ahí,Venezuela,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,3.19,4
+0S4w5ZBEbxYxiygvz9wWdK,Feid,Belixe,Venezuela,0.876,0.673,8,-7.15,1,0.139,0.0524,0.00571,0.0813,0.462,113.995,2.59,4
+1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Venezuela,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,3.31,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Venezuela,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+6i1g5ZRmJZAkDwBaUZ3f2i,Luar La L,Caile,Venezuela,0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,0.461,121.737,2.36,3
+3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Venezuela,0.627,0.429,1,-8.255,1,0.234,0.238,0.0,0.122,0.565,126.426,1.88,5
+5dtNrI6WMGCTBbK8499242,Mora,CALENTÓN,Venezuela,0.455,0.592,11,-7.069,0,0.227,0.45,1.03e-06,0.116,0.512,134.025,3.38,4
+7gwT3HGL84vF7bgtwL1N88,Lasso,Ojos Marrones,Venezuela,0.809,0.649,8,-4.433,0,0.0416,0.0407,0.0,0.145,0.72,120.014,3.31,4
+6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Venezuela,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.00387,0.0638,0.585,109.97,5.37,4
+2hLXUbsOU9cDb9RFva9FYr,"Mora, Jhay Cortez",MEMORIAS,Venezuela,0.771,0.707,2,-6.404,0,0.055,0.389,0.0,0.0745,0.317,127.963,3.81,4
+4tYFy8ALRjIZvnvSLw5lxN,"Bad Bunny, Rauw Alejandro",Party,Venezuela,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,0.471,97.013,3.79,4
+2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Venezuela,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,2.87,4
+7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Venezuela,0.759,0.561,0,-5.643,0,0.131,0.803,0.121,0.101,0.491,104.915,3.01,4
+0kTMK4gNFfLXaTb62w1UaJ,"Pablo Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",BABY OTAKU,Venezuela,0.835,0.747,9,-4.65,1,0.083,0.0492,0.0,0.055,0.432,102.003,2.94,4
+4SSbtLDkepeOHAckM1FCBP,"El Alfa, Noriel, Trueno",LOS APARATOS,Venezuela,0.868,0.878,1,-3.294,1,0.038,0.0509,0.00052,0.0857,0.899,112.987,3.88,4
+6TCnhziFkBPhOTqvh8zVDU,Danny Ocean,Volare,Venezuela,0.753,0.733,0,-3.715,1,0.056,0.253,0.0,0.398,0.156,92.064,2.46,4
+7FlQk2gJ6TBrHHiidvdR2O,"Becky G, KAROL G",MAMIII,Venezuela,0.836,0.703,4,-3.554,0,0.0657,0.0845,0.0,0.138,0.902,94.048,3.77,4
+6TsVhM8qIkWN5cJVDIVbbz,"Wisin & Yandel, ROSALÍA",Besos Moja2,Venezuela,0.736,0.727,5,-4.642,0,0.0571,0.0584,1.91e-06,0.0976,0.644,94.048,3.82,4
+6DoL1yYIwEW7VZMRaJhoJI,"Chris Jedi, Anuel AA, Chencho Corleone, Ñengo Flow",La Llevo Al Cielo (Ft. Ñengo Flow),Venezuela,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4.25,4
+6mmPpaltUZK7xjNlBPQQ0p,"Rauw Alejandro, Chencho Corleone",Desesperados,Venezuela,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,0.511,90.02,3.75,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Venezuela,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+1UdzJEpgJxtuXAlCOvD4S0,Danny Ocean,Fuera del mercado,Venezuela,0.453,0.673,8,-5.649,1,0.144,0.32,0.0,0.131,0.266,92.06,2.66,4
+5fhcuVxuBWfgNXGuyAtLmr,"Piso 21, Manuel Turizo",Los Cachos,Venezuela,0.774,0.73,0,-3.865,1,0.134,0.108,0.0,0.194,0.421,91.966,3.54,4
+0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Venezuela,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,4.04,4
+4hceSKjrkDTO0nMKFcb3sj,"Bizarrap, Villano Antillano","Villano Antillano: Bzrp Music Sessions, Vol. 51",Venezuela,0.82,0.752,1,-7.635,0,0.0648,0.0584,0.00417,0.628,0.423,127.999,3.12,4
+5CzixCxDkRXX9mScCmah8O,Bad Bunny,Un Ratito,Venezuela,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,2.95,4
+2TDyyEBasw10wu5Uh94bR1,"Rauw Alejandro, Baby Rasta",PUNTO 40,Venezuela,0.873,0.826,0,-0.722,1,0.0876,0.00127,0.0361,0.311,0.201,106.972,3.18,4
+1dm6z1fWB0cErMszU25dy2,Bad Bunny,Después de la Playa,Venezuela,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,0.607,78.293,3.84,4
+4gzsuuZypVbxs0Af1LSZyB,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Venezuela,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888,3.46,4
+48AJSd42lXpicsGqcgopof,"Daddy Yankee, Bad Bunny",X ÚLTIMA VEZ,Venezuela,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,3.21,4
+4srcMdbm2qzVG98tJajHxp,"Alejo, Feid, ROBI",Pantysito,Venezuela,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4.01,4
+6VrQTLzzuyGIYjUDe4kAZk,Bad Bunny,Un Coco,Venezuela,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,0.744,151.991,3.27,4
+2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,Venezuela,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,3.45,4
+18pWcEUcUJpBFs7eNBsBht,Feid,Castigo,Venezuela,0.728,0.68,8,-4.129,0,0.165,0.0865,1.06e-06,0.1,0.704,179.839,2.95,4
+44XjoNvtwevktFKjvVe1vH,"Bad Bunny, Buscabulla",Andrea,Venezuela,0.797,0.616,1,-10.229,0,0.375,0.762,0.000293,0.0979,0.451,103.071,5.66,4
+1Y62KpDaP5MEL43ZcI6IaG,"Quevedo, Ovy On The Drums",Sin Señal,Venezuela,0.822,0.851,11,-3.314,0,0.0422,0.333,0.00792,0.105,0.749,117.992,3.08,4
+0G2zPzWqVjR68iNPmx2TBe,"Mora, Bad Bunny, Sech",Volando - Remix,Venezuela,0.659,0.688,6,-4.649,1,0.0673,0.207,0.0,0.113,0.632,153.979,4.56,4
+30Xh83fw03PZ2Wfm36H4EZ,Feid,Lady Mi Amor,Venezuela,0.782,0.618,2,-5.288,1,0.055,0.0632,7.44e-05,0.15,0.752,93.016,2.45,4
+4XqXNU8MwPHwbgZmNXmAdc,Maluma,Junio,Venezuela,0.85,0.756,11,-3.439,0,0.0407,0.0999,0.0,0.0873,0.896,120.024,2.81,4
+4khWEpnaijN0G1x019Uzdr,Morat,No Se Va,Venezuela,0.734,0.685,0,-5.37,1,0.0453,0.117,0.0,0.109,0.754,92.042,3.61,4
+6JUMswocQ7Hp46kj9kyljT,"Feid, Yandel",XQ Te Pones Así,Venezuela,0.812,0.697,10,-3.441,1,0.0694,0.134,0.0,0.147,0.477,92.03,3.64,4
+4d4ZXH4dr5bYfgErHiZCX2,Bad Bunny,Dos Mil 16,Venezuela,0.817,0.67,1,-6.534,1,0.0506,0.123,1.92e-06,0.128,0.495,130.058,3.48,3
+30W8VKHrAZmHzObnwAoc1u,"Mora, Sech",TUS LÁGRIMAS,Venezuela,0.683,0.714,1,-4.898,1,0.252,0.181,1e-06,0.111,0.448,173.963,2.91,4
+4tQofG51E0juZBBVr6pral,Mora,Tuyo,Venezuela,0.744,0.827,8,-3.757,1,0.305,0.473,6.49e-05,0.105,0.311,104.851,4.5,4
+6lV9cTvioGWqRXSgfjAUGL,"Maluma, Feid",Mojando Asientos (feat. Feid),Venezuela,0.773,0.767,7,-4.019,1,0.0819,0.0352,0.0,0.299,0.49,94.99,4.2,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Venezuela,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+4R8BJggjosTswLxtkw8V7P,"Jhayco, J Balvin, Bad Bunny",No Me Conoce - Remix,Venezuela,0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,5.15,4
+2GQclWZHwE4fMdqShvOPWU,"Lasso, Sebastian Yatra",Ojos Marrones - Con Sebastián Yatra,Venezuela,0.787,0.662,8,-4.285,0,0.0372,0.0648,0.0,0.133,0.79,119.983,3.31,4
+2gLDm4AjVnHlsik9sK87vj,Feid,Nieve,Venezuela,0.849,0.667,6,-6.324,1,0.0466,0.00346,0.00104,0.108,0.747,120.033,2.34,4
+2nK8tfg8lRVrzy8IOr5O3Z,"Micro TDH, Mau y Ricky",La Chama,Venezuela,0.807,0.607,1,-4.753,0,0.127,0.413,1.14e-05,0.107,0.599,87.966,3.2,4
+3ss6y0Id5Iwk2L5MIZp4xF,"Feid, Sky Rompiendo",Quemando Calorías,Venezuela,0.678,0.698,7,-4.57,1,0.0587,0.00214,4.94e-06,0.0945,0.812,192.005,3.04,4
+6y8z28epOv5FlaxDv1Lo5B,Ryan Castro,Jordan,Venezuela,0.796,0.68,10,-5.555,0,0.37,0.0575,0.000683,0.103,0.71,179.923,2.94,4
+3rdAz1fbUfZxYgaCviYhRo,Rauw Alejandro,Todo De Ti,Venezuela,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,0.336,127.962,3.33,4
+0wihfILRNOwE2156Shezc8,Bad Bunny,Agosto,Venezuela,0.849,0.584,1,-8.195,0,0.115,0.0929,6.18e-06,0.492,0.724,115.018,2.32,4
+18HOjcvTVV7W8YzBuOsAPS,Bad Bunny,Un Verano Sin Ti,Venezuela,0.503,0.496,5,-9.123,0,0.0556,0.693,0.0,0.123,0.412,187.844,2.47,4
+0vHfVsEe6Ps0d8cZ9PGzSw,"De La Ghetto, Rauw Alejandro",Loco Por Perrearte - Remix,Venezuela,0.848,0.673,11,-4.034,0,0.058,0.0147,0.00652,0.102,0.39,93.987,3.32,4
+4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Venezuela,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,3.42,4
+0R7DSnSibvuE4PEHqUayqf,Plan B,Es un Secreto,Venezuela,0.836,0.777,6,-5.376,0,0.0439,0.0951,1.68e-06,0.0561,0.504,94.977,3.18,4
+1O2pcBJGej0pmH2Y9XZMs6,Cris Mj,Una Noche en Medellín,Venezuela,0.87,0.548,10,-5.253,0,0.077,0.0924,4.6e-05,0.0534,0.832,96.018,2.56,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Venezuela,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+2uflssWlCaJ6CbTMOsUpNI,Bad Bunny,Aguacero,Venezuela,0.861,0.645,6,-6.96,0,0.0743,0.423,0.000592,0.349,0.668,121.391,3.52,5
+1Sym1HsTqsa2pYKhYL1j15,"Eladio Carrion, Rels B",Me Gustas Natural,Venezuela,0.721,0.426,0,-7.473,0,0.11,0.859,0.000216,0.111,0.451,127.083,2.83,4
+2NMjggapJcXXM7WccGEBUO,Bad Bunny,Enséñame a Bailar,Venezuela,0.81,0.789,8,-5.08,1,0.0846,0.191,1.08e-05,0.467,0.77,105.009,2.93,4
+6ylDpki1VpIsc525KC1ojF,Sebastian Yatra,Tacones Rojos,Venezuela,0.746,0.844,11,-3.499,0,0.0359,0.062,0.0,0.149,0.934,123.014,3.16,4
+7d7aPD2oxuzjhOZnu4Dj23,"Natti Natasha, Daddy Yankee, Wisin & Yandel",Mayor Que Usted,Venezuela,0.625,0.839,6,-4.824,0,0.0927,0.00762,2.35e-05,0.464,0.771,184.08,3.89,4
+3gOVQmGQcg8djqU044liT1,Anuel AA,La 2blea,Venezuela,0.434,0.764,10,-5.443,0,0.208,0.34,0.0,0.283,0.443,176.077,5.24,4
+3FkeNbs9Zeiqkr3WkbOiGp,Anitta,Envolver,Venezuela,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,3.23,4
+6ifUES3keWjwXgae8pXI3o,Danny Ocean,Me Rehúso,Venezuela,0.744,0.804,1,-6.327,1,0.0677,0.0231,0.0,0.0494,0.426,104.823,3.43,4
+5LitdykQszEnuzIrtGhwPs,"Jay Wheeler, Mora",Suelta,Venezuela,0.859,0.553,9,-5.726,0,0.0456,0.628,0.00011,0.109,0.338,122.048,4.07,4
+28GCbKgjlVD9eDmasGbe0T,Bad Bunny,Me Fui de Vacaciones,Venezuela,0.714,0.645,10,-5.493,1,0.0514,0.229,0.00083,0.0942,0.434,85.046,3.02,4
+5kVZxyMY1gfdCLiChsfjn1,Bad Bunny,Yo No Soy Celoso,Venezuela,0.872,0.588,0,-6.276,1,0.0492,0.275,0.0,0.17,0.93,142.004,3.85,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Venezuela,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+1JpzJfxjHGFUyTHXLZidok,"Ryan Castro, Feid",Monastery,Venezuela,0.811,0.5,5,-6.717,0,0.0976,0.104,0.0,0.372,0.789,178.017,3.16,4
+5YJ4BVvTFmVCxUyhKejHfR,Tego Calderón,Pa' Que Retozen,Venezuela,0.815,0.856,1,-3.825,0,0.122,0.4,8.34e-05,0.244,0.872,91.995,2.53,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Venezuela,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+71iAechwVKGu26pahzFL0k,Morat,Cuando Nadie Ve,Venezuela,0.806,0.778,1,-4.577,0,0.0616,0.133,0.0,0.218,0.84,95.993,3.66,4
+0E0DRHf5PfMeor0ZCwB3oT,"Bad Bunny, The Marías",Otro Atardecer,Venezuela,0.777,0.595,2,-6.79,1,0.0375,0.59,0.00139,0.0669,0.546,108.02,4.07,4
+6C1RD7YQVvt3YQj0CmuTeu,"Bad Bunny, Ozuna, Farruko, Arcangel, Ñengo Flow, DJ Luian, Mambo Kingz",Diles,Venezuela,0.813,0.56,2,-5.904,0,0.0618,0.108,0.0,0.268,0.287,118.033,4.77,4
+2dWGQ975YrNma4SdfmJRDg,Feid,Aguante,Venezuela,0.756,0.645,7,-4.909,1,0.0736,0.106,8.51e-06,0.173,0.412,169.966,2.74,4
+0UvZcEfpzVyx47QsRbjyBz,Bad Bunny,El Apagón,Venezuela,0.629,0.698,8,-4.485,1,0.308,0.0509,0.00166,0.0909,0.599,117.765,3.36,4
+71wFwRo8xGc4lrcyKwsvba,"Bad Bunny, Tainy",Callaita,Venezuela,0.608,0.626,2,-4.773,1,0.301,0.597,2.16e-06,0.25,0.246,176.086,4.18,4
+1VauUM5CBX7nkLcgafQL2B,"Bizarrap, Eladio Carrion","Eladio Carrion: Bzrp Music Sessions, Vol. 40",Venezuela,0.783,0.524,5,-6.455,0,0.0554,0.241,0.0,0.271,0.839,117.496,2.75,4
+1lqJic7VMR7PBlwpPrZuPK,Feid,X20X,Venezuela,0.461,0.358,10,-6.051,1,0.0868,0.702,0.0,0.135,0.353,81.219,1.72,4
+6NSMQFKgjpQb0KkjMDYIK0,"Arcangel, Bad Bunny, Mambo Kingz, DJ Luian",Tu No Vive Asi (feat. Mambo Kingz & DJ Luian),Venezuela,0.815,0.514,6,-9.446,0,0.361,0.54,0.0,0.611,0.623,120.054,4.4,4
+4scwMEdlKi8qWJzzyDB8Z3,"Morat, Juanes",506,Venezuela,0.544,0.864,0,-5.65,1,0.048,0.00747,0.0,0.338,0.69,142.994,3.01,4
+6lX6l7OuA3qrnIRfdsr0dw,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,Venezuela,0.787,0.7,4,-4.598,0,0.0768,0.568,0.00051,0.663,0.791,90.02,3.89,4
+7hynhxDoDpgMIV12JuVtNa,"J Balvin, Bad Bunny, Marciano Cantero",UN PESO,Venezuela,0.627,0.675,5,-7.125,0,0.213,0.125,0.0,0.0784,0.961,79.31,4.62,4
+2ROQe6QkIXODJRx0y8UjzV,"Tokischa, Anuel AA, Ñengo Flow",Delincuente,Venezuela,0.798,0.71,2,-3.39,1,0.0973,0.0576,0.025,0.4,0.662,97.875,3.77,4
+4jhHaLksdP8DJZzxYAjOSz,"Eladio Carrion, Bad Bunny",Kemba Walker,Venezuela,0.832,0.59,8,-7.168,0,0.272,0.446,1.43e-06,0.123,0.596,146.907,2.55,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Venezuela,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+4r9jkMEnArtWGH2rL2FZl0,Bad Bunny,A Tu Merced,Venezuela,0.86,0.791,0,-4.784,1,0.0568,0.169,0.000106,0.106,0.887,92.023,2.93,4
+69vlMrzHwATKzupwNcUPyK,"Bad Bunny, Daddy Yankee",La Santa,Venezuela,0.744,0.868,1,-4.524,1,0.047,0.0326,0.0,0.0822,0.586,93.037,3.44,4
+1SCYfmGM5ueb6YiiQbLXVn,Feid,SI TÚ SUPIERAS - Bonus Track,Venezuela,0.652,0.666,4,-5.383,0,0.171,0.379,0.0,0.11,0.554,174.732,3.27,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Venezuela,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+6e9Ew4AECYwY5Xgs2ZKMgp,Anuel AA,Mercedes Tintia,Venezuela,0.815,0.67,11,-4.076,1,0.109,0.0902,0.000854,0.0973,0.768,172.014,3.26,4
+69Ej1xrGjOcHvIMtMKxK0G,Don Omar,Dile,Venezuela,0.817,0.714,4,-7.501,0,0.141,0.184,0.000132,0.042,0.714,94.001,3.41,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Venezuela,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+5q2JbCNi4FcnglgPfxcV65,"Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin",Sola (Remix),Venezuela,0.639,0.869,11,-4.024,1,0.147,0.27,0.0,0.0802,0.767,169.801,5.13,4
+5J7teKIJGtqVypgYI6sqXj,"Bad Bunny, Mora",Una Vez,Venezuela,0.55,0.598,11,-5.402,0,0.0831,0.132,2.58e-06,0.0955,0.543,83.836,3.87,4
+0HINQFSerZ6iMfSsaTO3G5,DEKKO,12x3,Venezuela,0.869,0.727,2,-4.956,1,0.121,0.00118,6.97e-05,0.183,0.613,93.989,2.65,4
+1mlGScrDQqHqmhdIqE8MmA,"Morat, Juanes",Besos En Guerra,Venezuela,0.69,0.973,2,-3.588,1,0.0492,0.126,0.0,0.101,0.772,143.957,3.86,4
+5xhFO6kaUjGcSezSp5hIhG,"Zion & Lennox, Danny Ocean",Brisa,Venezuela,0.817,0.932,11,-4.232,0,0.0467,0.0938,0.0284,0.0792,0.396,126.008,4.32,4
+5gflgO9EPbIBf16n5TKnQS,Zion & Lennox,Yo Voy (feat. Daddy Yankee),Venezuela,0.808,0.697,10,-5.899,1,0.241,0.041,0.0,0.0546,0.554,95.06,3.87,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Venezuela,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+5Zf8ytWP3Q6LWoTPl4SGHO,"Feid, Totoy El Frio",De Tanto Chimbiar,Venezuela,0.821,0.602,9,-6.628,1,0.168,0.108,0.0,0.246,0.628,90.035,3.1,4
+7k3qWn8D43a5ISa3x8lJux,Anuel AA,¿Qué Nos Pasó?,Venezuela,0.703,0.694,3,-4.808,0,0.0607,0.436,5.8e-06,0.12,0.298,95.0,4.1,4
+3HgvO4B5LLmdPOT2d8cSZd,"LAGOS, Danny Ocean",Mónaco,Venezuela,0.699,0.654,11,-6.264,1,0.0383,0.054,7.08e-06,0.095,0.319,100.037,3.21,4
+6riuMNiPqRmE4LPJZGzIuv,"El Alfa, Chael Produciendo",Gogo Dance,Venezuela,0.596,0.868,8,-4.95,1,0.161,0.12,0.518,0.0514,0.705,118.02,2.89,4
+5jzEwSyyymBlf1fa1o39T2,"Mora, Jhay Cortez",512,Venezuela,0.818,0.673,4,-7.542,0,0.148,0.348,0.0,0.172,0.695,87.961,3.23,4
+4yXBfJAPsDZjpjMEp9NyjT,"Wisin & Yandel, Rauw Alejandro",Vapor,Venezuela,0.803,0.779,11,-4.449,0,0.0694,0.066,2.23e-05,0.111,0.317,94.009,3.48,4
+0hzC5kZ6qKZJ9ybyW75VV8,"Chris Lebron, Sech, Jay Wheeler",Desde Mis Ojos - Remix,Venezuela,0.673,0.56,1,-5.191,1,0.182,0.677,0.0,0.293,0.656,93.978,3.73,4
+0bI5WRiDfU5BY38ufOJtGu,"Maluma, Chencho Corleone",Nos Comemos Vivos,Venezuela,0.822,0.719,10,-3.633,0,0.0576,0.165,2.48e-05,0.174,0.659,82.01,3.76,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Venezuela,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Venezuela,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+5GF0X7GdNmnouKcdhhRmtm,"Paulo Londra, Duki",Party en el Barrio (feat. Duki),Venezuela,0.527,0.665,10,-7.108,1,0.164,0.0168,1.29e-06,0.324,0.546,135.026,3.94,4
+4HzqWEdAbzcVFDv0pvxV4w,Maluma,Sobrio,Venezuela,0.762,0.77,5,-2.758,1,0.223,0.138,0.0,0.15,0.631,177.998,3.35,4
+3M23T72K5eqHI2GzdFMMHE,Anuel AA,Brother,Venezuela,0.592,0.625,10,-6.203,0,0.2,0.618,9.71e-05,0.287,0.555,166.018,3.49,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Venezuela,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Venezuela,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+35wvL50xvKpCHEJPxLOLPI,Bad Bunny,Si Estuviésemos Juntos,Venezuela,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-05,0.152,0.158,171.854,2.82,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Venezuela,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+6XHBJ1LSOcVINYXAAd6KIH,Mora,2010,Venezuela,0.755,0.698,10,-5.554,1,0.106,0.14,0.0,0.12,0.678,176.022,2.86,4
+0bI7K9Becu2dtXK1Q3cZNB,"Tiësto, KAROL G",Don't Be Shy,Venezuela,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,2.34,4
+655JkvIwu2rDCaD1hPf04g,"Sebastian Yatra, Myke Towers",Pareja Del Año,Venezuela,0.715,0.611,4,-5.094,0,0.0519,0.176,0.0,0.0949,0.776,79.971,3.26,4
+7jfmlr5W2AQWUGLVhT8ofl,"Romeo Santos, ROSALÍA",El Pañuelo,Venezuela,0.839,0.71,8,-3.823,1,0.0409,0.0534,0.0,0.283,0.661,129.997,3.91,4
+2tFwfmceQa1Y6nRPhYbEtC,"Jhayco, Bad Bunny",CÓMO SE SIENTE - Remix,Venezuela,0.807,0.606,3,-8.871,0,0.088,0.0946,0.0,0.119,0.304,92.988,3.79,4
+1F205Nl2feOSYSztLNOJAL,"Eladio Carrion, Brytiago",3 Am,Venezuela,0.852,0.613,9,-5.261,1,0.108,0.413,0.000201,0.123,0.576,89.951,3.47,4
+5CVMsPYtSJ3l7UxYiI2lt7,Mora,ESCALOFRÍOS,Venezuela,0.536,0.599,5,-6.046,0,0.146,0.592,0.0,0.124,0.558,93.625,2.31,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Venezuela,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+6nAlJuLlRlpAcq30xIqKJs,Plan B,¿Por Que Te Demoras?,Venezuela,0.891,0.78,2,-6.416,0,0.0701,0.0398,0.0,0.0548,0.931,95.998,3.18,4
+0MEZYGMSPxNwUO4nAdQRBW,Eladio Carrion,Hola Como Vas,Venezuela,0.729,0.596,6,-7.523,1,0.24,0.689,0.000181,0.065,0.781,185.984,3.31,4
+2vmfvSoZBFAt9hhRoEByLi,"Aventura, Bad Bunny",Volví,Venezuela,0.725,0.86,1,-3.726,1,0.182,0.422,0.000284,0.0674,0.791,175.896,3.84,4
+4NUt1fcnO9aQAELBgXq3Kr,Alejandro Fernández,Me Dediqué a Perderte,Venezuela,0.642,0.442,8,-9.115,1,0.074,0.491,1.58e-06,0.102,0.465,148.01,3.86,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Venezuela,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+2bbwjxA68m9PHZFWgF1fze,Duki,GIVENCHY,Venezuela,0.607,0.619,8,-6.726,1,0.396,0.142,0.0,0.231,0.377,102.974,3.04,3
+6jjYDGxVJsWS0a5wlVF5vS,BTS,Butter,Venezuela,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,2.75,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Venezuela,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+3JCaq3KDSROg3TXhdiDa9n,"Jhayco, Anuel AA",Ley Seca,Venezuela,0.759,0.842,8,-3.758,1,0.096,0.101,0.0,0.134,0.584,105.059,4.39,4
+2MRbBjUXWrouk36b55vipO,"Big Soto, Danny Ocean",Chimbo,Venezuela,0.809,0.719,5,-5.117,1,0.0414,0.303,0.0062,0.101,0.341,135.974,3.03,4
+4OwhwvKESFtuu06dTgct7i,"Marc Seguí, Rauw Alejandro, Pol Granch",Tiroteo - Remix,Venezuela,0.75,0.522,9,-7.018,1,0.0293,0.282,0.0,0.0743,0.601,110.427,5.36,4
+5aucVLKiumD89mxVCB4zvS,"Crush, j-hope",Rush Hour (Feat. j-hope of BTS),Venezuela,0.738,0.714,0,-5.235,1,0.249,0.157,0.0,0.31,0.74,95.035,2.96,4
+2C6eINAA8cO6e5a8PjnWsK,Feid,AMOR DE MI VIDA,Venezuela,0.735,0.674,6,-5.629,0,0.124,0.18,0.0,0.108,0.561,171.883,3.16,4
+5TMLavqGRKNxgzMBrVpC9R,"zzoilo, Aitana",Mon Amour - Remix,Venezuela,0.748,0.761,2,-6.621,1,0.102,0.122,6.56e-06,0.0984,0.362,116.041,3.0,4
+4v7riPZWyAclrOfUSwD0zp,Camilo,Aeropuerto,Venezuela,0.69,0.58,0,-4.395,1,0.199,0.0328,0.0,0.328,0.708,197.635,2.96,4
+4joPCNKibsoabhpuHPofqG,"Kany García, Christian Nodal",La Siguiente,Venezuela,0.715,0.612,4,-4.32,1,0.0344,0.471,0.0,0.0838,0.602,93.869,3.37,3
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Venezuela,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+3ehHqgYRzmeUi345MfHS2N,"Morat, Duki",París,Venezuela,0.582,0.804,11,-4.155,1,0.0389,0.0493,0.0,0.0624,0.732,138.014,3.04,4
+2FSGUA0gFgGeQdprjtGM2M,"KAROL G, Mariah Angeliq",EL MAKINON,Venezuela,0.635,0.706,5,-3.224,0,0.125,0.256,0.0,0.108,0.443,88.863,3.49,4
+059bcIhyc2SBwm6sw2AZzd,"Piso 21, Micro TDH",Te Vi,Venezuela,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-05,0.0863,0.706,102.02,3.86,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Venezuela,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Venezuela,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,0.47,105.006,3.77,4
+7DhYjNLksXZhbRQeheAums,Bacilos,Caraluna,Venezuela,0.76,0.773,9,-5.314,1,0.0675,0.176,0.0,0.1,0.895,102.789,4.44,4
+4vCAzANUWDE24URV6wQ4ra,Bad Bunny,Otra Noche en Miami,Venezuela,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-05,0.0958,0.297,88.661,3.89,4
+25ZAibhr3bdlMCLmubZDVt,"J Balvin, Bad Bunny",QUE PRETENDES,Venezuela,0.639,0.791,10,-4.443,0,0.253,0.0275,0.0,0.362,0.939,92.603,3.71,4
+188Iohmux4LrDaj6e6eeEx,Feid,La Buena Fai,Venezuela,0.712,0.539,2,-5.194,1,0.174,0.116,0.0,0.219,0.406,167.764,2.41,4
+6AizmGCrFRQHru1Qf8WKoJ,"Myke Towers, Jhay Cortez",Ande Con Quien Ande,Venezuela,0.825,0.736,7,-5.55,1,0.0913,0.0822,0.0,0.158,0.508,92.028,3.48,4
+3lDXncCCsimJ17cHYodtRl,LAGOS,Permanente,Venezuela,0.425,0.425,7,-8.694,1,0.0365,0.896,6.24e-06,0.0993,0.168,178.055,3.92,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Venezuela,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),Venezuela,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,2.88,4
+66iygyOSvvoQQsKJ1vEXfT,Franco De Vita,Tú de Qué Vas,Venezuela,0.607,0.629,11,-5.931,1,0.0316,0.405,0.0,0.203,0.567,80.11,3.97,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Venezuela,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Venezuela,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+2XIc1pqjXV3Cr2BQUGNBck,"Bad Bunny, ROSALÍA",LA NOCHE DE ANOCHE,Venezuela,0.856,0.618,7,-4.892,1,0.286,0.0303,0.0,0.0866,0.391,81.993,3.39,4
+3UI9I3e1g1y5T3SMfdgfGO,"Carlos Baute, Marta Sánchez",Colgando en tus manos (con Marta Sánchez),Venezuela,0.836,0.637,6,-4.803,1,0.0367,0.535,0.0,0.129,0.875,120.025,3.84,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Venezuela,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+3GaGWoU1KfVqgl7vnRHP55,C. Tangana,Demasiadas Mujeres,Venezuela,0.658,0.453,9,-7.378,0,0.39,0.131,0.0002,0.0848,0.358,126.043,2.57,4
+704LUEih663hiE3CnyUrFW,KAROL G,SEJODIOTO,Venezuela,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,3.02,4
+0tzixmHNQfE6S6SirSToxW,"Ricky Martin, Alejandro Sanz, Thalia, Juan Luis Guerra 4.40, Gloria Estefan, Celia Cruz, Olga Tañón, Ricardo Montaner, Ana Gabriel, Jorge Hernández, Los Tigres Del Norte, Alicia Villarreal, Alejandro Fernández, Carlos Vives, Jaci Velasquez, Marco Antonio Solís, José José, Lucía Méndez, Jennifer Lopez, Emmanuele, Chayanne, Gilberto Santa Rosa, Paulina Rubio, Alberto ""Beto"" Zapata, La Ley, Ana Bárbara, Carlos Ponce, Jon Secada, Shakira, Gian Marco, Luis Fonsi, Yuri, Miguel Bosé, Wilkins, Giselle, Melina Leon, Limi-T 21, Christina Aguilera, José Feliciano, José Luis Rodríguez",El Ultimo Adiós - Varios Artistas Version,Venezuela,0.276,0.572,1,-7.818,1,0.0377,0.641,0.0,0.2,0.285,77.986,3.96,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Venezuela,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+0OTNHGKcqQbk51bOYe462Y,"Polimá Westcoast, Pailita",ULTRA SOLO,Venezuela,0.802,0.846,1,-4.495,1,0.207,0.233,1.92e-05,0.114,0.26,109.982,3.79,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Venezuela,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+2in1gSZtv2lRbcZUmN9aAl,Fonseca,Te Mando Flores,Venezuela,0.714,0.85,0,-7.864,1,0.0541,0.228,0.0,0.108,0.855,102.009,3.81,4
+41wtwzCZkXwpnakmwJ239F,Bad Bunny,Si Veo a Tu Mamá,Venezuela,0.9,0.603,2,-5.313,1,0.0646,0.402,4.81e-06,0.134,0.824,129.928,2.85,4
+29csiYMOfBmLmGwxmISrMy,"Ricardo Arjona, Gaby Moreno",Fuiste Tú (feat. Gaby Moreno),Venezuela,0.591,0.672,5,-3.515,1,0.0375,0.622,0.0,0.112,0.267,139.939,4.42,4
+6D2TCm4nf5nxAcdGJ7w3QP,"J Balvin, Maria Becerra",Qué Más Pues?,Venezuela,0.903,0.817,8,-3.972,1,0.095,0.0272,0.000311,0.242,0.732,102.014,3.62,4
+3Ne5uYDFzHEFYAPbaBMIck,Maria Becerra,AUTOMÁTICO,Venezuela,0.68,0.808,10,-3.854,0,0.224,0.0911,2.23e-06,0.205,0.868,176.131,2.92,4
+0gCPvo1GkbtPhMqg5Gbx1K,"Daddy Yankee, Bad Bunny",Vuelve,Venezuela,0.734,0.531,1,-5.662,1,0.0321,0.196,0.0,0.119,0.199,130.024,4.66,4
+3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Venezuela,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,3.05,4
+5RubKOuDoPn5Kj5TLVxSxY,Bad Bunny,TE MUDASTE,Venezuela,0.811,0.637,10,-4.835,0,0.0591,0.234,0.000572,0.118,0.471,92.025,2.17,4
+0z0IEbMRvIEjj9Iif4doxD,"paopao, Mora",algo así (remix),Venezuela,0.446,0.521,9,-7.211,1,0.152,0.451,0.0,0.106,0.417,85.84,3.72,4
+1FlL8ycld6uVDDyhV7P5FA,Rauw Alejandro,Cúrame,Venezuela,0.765,0.625,9,-3.599,0,0.0548,0.584,0.00111,0.112,0.262,102.101,2.75,4
+1qfoq1qvZT7VwDVeekCJ97,Christian Nodal,De Los Besos Que Te Di,Venezuela,0.504,0.503,7,-3.313,1,0.0422,0.388,0.0,0.0608,0.709,195.593,2.79,4

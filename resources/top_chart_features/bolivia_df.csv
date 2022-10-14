@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Bolivia,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4
+2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",Bolivia,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4
+6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Bolivia,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2.98,4
+5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,Bolivia,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,3.55,4
+3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Bolivia,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4.3,4
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Bolivia,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4
+31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,Bolivia,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,0.428,122.016,2.89,4
+2CeKVsFFXG4QzA415QygGb,Feid,Feliz Cumpleaños Ferxxo,Bolivia,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,2.6,4
+6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,Bolivia,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4.1,4
+7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,Bolivia,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,3.5,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,Bolivia,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,Bolivia,0.834,0.828,11,-2.657,0,0.0452,0.21,5.91e-06,0.103,0.58,102.019,3.25,4
+6i1g5ZRmJZAkDwBaUZ3f2i,Luar La L,Caile,Bolivia,0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,0.461,121.737,2.36,3
+7gwT3HGL84vF7bgtwL1N88,Lasso,Ojos Marrones,Bolivia,0.809,0.649,8,-4.433,0,0.0416,0.0407,0.0,0.145,0.72,120.014,3.31,4
+5fhcuVxuBWfgNXGuyAtLmr,"Piso 21, Manuel Turizo",Los Cachos,Bolivia,0.774,0.73,0,-3.865,1,0.134,0.108,0.0,0.194,0.421,91.966,3.54,4
+1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,Bolivia,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,3.49,4
+0kTMK4gNFfLXaTb62w1UaJ,"Pablo Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",BABY OTAKU,Bolivia,0.835,0.747,9,-4.65,1,0.083,0.0492,0.0,0.055,0.432,102.003,2.94,4
+2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Bolivia,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,2.87,4
+41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Bolivia,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,3.96,4
+3PpWCS95gDUDRPko3u1MZ9,Feid,Prohibidox,Bolivia,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,2.77,4
+0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Bolivia,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,4.04,4
+5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Bolivia,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0,0.0717,0.464,91.911,3.37,4
+7FlQk2gJ6TBrHHiidvdR2O,"Becky G, KAROL G",MAMIII,Bolivia,0.836,0.703,4,-3.554,0,0.0657,0.0845,0.0,0.138,0.902,94.048,3.77,4
+4tYFy8ALRjIZvnvSLw5lxN,"Bad Bunny, Rauw Alejandro",Party,Bolivia,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,0.471,97.013,3.79,4
+1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Bolivia,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,3.31,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Bolivia,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+7hynhxDoDpgMIV12JuVtNa,"J Balvin, Bad Bunny, Marciano Cantero",UN PESO,Bolivia,0.627,0.675,5,-7.125,0,0.213,0.125,0.0,0.0784,0.961,79.31,4.62,4
+3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Bolivia,0.627,0.429,1,-8.255,1,0.234,0.238,0.0,0.122,0.565,126.426,1.88,5
+0T2pB7P1VdXPhLdQZ488uH,Feid,Normal,Bolivia,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,2.86,4
+6mmPpaltUZK7xjNlBPQQ0p,"Rauw Alejandro, Chencho Corleone",Desesperados,Bolivia,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,0.511,90.02,3.75,4
+1O2pcBJGej0pmH2Y9XZMs6,Cris Mj,Una Noche en Medellín,Bolivia,0.87,0.548,10,-5.253,0,0.077,0.0924,4.6e-05,0.0534,0.832,96.018,2.56,4
+5JhUm1v5AbI5Yu6jLKCPRO,Grupo Frontera,No Se Va - En Vivo,Bolivia,0.594,0.527,0,-9.335,1,0.0335,0.121,0.0,0.234,0.692,172.712,3.23,4
+7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Bolivia,0.759,0.561,0,-5.643,0,0.131,0.803,0.121,0.101,0.491,104.915,3.01,4
+4gzsuuZypVbxs0Af1LSZyB,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Bolivia,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888,3.46,4
+2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,Bolivia,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,3.45,4
+48AJSd42lXpicsGqcgopof,"Daddy Yankee, Bad Bunny",X ÚLTIMA VEZ,Bolivia,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,3.21,4
+6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Bolivia,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.00387,0.0638,0.585,109.97,5.37,4
+6VrQTLzzuyGIYjUDe4kAZk,Bad Bunny,Un Coco,Bolivia,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,0.744,151.991,3.27,4
+4khWEpnaijN0G1x019Uzdr,Morat,No Se Va,Bolivia,0.734,0.685,0,-5.37,1,0.0453,0.117,0.0,0.109,0.754,92.042,3.61,4
+1UdzJEpgJxtuXAlCOvD4S0,Danny Ocean,Fuera del mercado,Bolivia,0.453,0.673,8,-5.649,1,0.144,0.32,0.0,0.131,0.266,92.06,2.66,4
+6DoL1yYIwEW7VZMRaJhoJI,"Chris Jedi, Anuel AA, Chencho Corleone, Ñengo Flow",La Llevo Al Cielo (Ft. Ñengo Flow),Bolivia,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4.25,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Bolivia,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+1sbNEFiURUYfy024cJX8JG,Feid,Ferxxo 100,Bolivia,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,2.8,4
+0R7DSnSibvuE4PEHqUayqf,Plan B,Es un Secreto,Bolivia,0.836,0.777,6,-5.376,0,0.0439,0.0951,1.68e-06,0.0561,0.504,94.977,3.18,4
+6y8z28epOv5FlaxDv1Lo5B,Ryan Castro,Jordan,Bolivia,0.796,0.68,10,-5.555,0,0.37,0.0575,0.000683,0.103,0.71,179.923,2.94,4
+45dlaEXrXW47TVbrQ4gK7E,"Rei, Callejero Fino",Tu Turrito,Bolivia,0.838,0.545,9,-6.1,0,0.0604,0.0966,0.0,0.0927,0.428,90.023,2.75,4
+4XqXNU8MwPHwbgZmNXmAdc,Maluma,Junio,Bolivia,0.85,0.756,11,-3.439,0,0.0407,0.0999,0.0,0.0873,0.896,120.024,2.81,4
+4d4ZXH4dr5bYfgErHiZCX2,Bad Bunny,Dos Mil 16,Bolivia,0.817,0.67,1,-6.534,1,0.0506,0.123,1.92e-06,0.128,0.495,130.058,3.48,3
+0HINQFSerZ6iMfSsaTO3G5,DEKKO,12x3,Bolivia,0.869,0.727,2,-4.956,1,0.121,0.00118,6.97e-05,0.183,0.613,93.989,2.65,4
+0cOa970mzTWAxKtltpkpLc,"TINI, Maria Becerra",Miénteme,Bolivia,0.85,0.541,2,-4.522,1,0.0674,0.161,5.01e-06,0.286,0.916,92.003,2.75,4
+5CzixCxDkRXX9mScCmah8O,Bad Bunny,Un Ratito,Bolivia,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,2.95,4
+6VAS7m73rDopQe7BdrFMpD,"Bizarrap, Tiago PZK","Tiago PZK: Bzrp Music Sessions, Vol. 48",Bolivia,0.657,0.821,8,-3.06,0,0.32,0.459,0.0,0.103,0.752,96.561,2.67,4
+1dm6z1fWB0cErMszU25dy2,Bad Bunny,Después de la Playa,Bolivia,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,0.607,78.293,3.84,4
+3rdAz1fbUfZxYgaCviYhRo,Rauw Alejandro,Todo De Ti,Bolivia,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,0.336,127.962,3.33,4
+6ylDpki1VpIsc525KC1ojF,Sebastian Yatra,Tacones Rojos,Bolivia,0.746,0.844,11,-3.499,0,0.0359,0.062,0.0,0.149,0.934,123.014,3.16,4
+4TGwERXRlyQtBdggYTHo6j,"Tiago PZK, LIT killah, Maria Becerra, Nicki Nicole",Entre Nosotros (Remix) [con Nicki Nicole],Bolivia,0.7,0.438,5,-5.784,0,0.0433,0.401,0.0,0.373,0.605,170.106,4.33,3
+7kYbxvrGXv8cmKjkqgqhrw,TINI,La Triple T,Bolivia,0.801,0.633,11,-2.785,0,0.0777,0.414,0.0,0.27,0.676,92.025,2.79,4
+0UXlu64mDLvfzR8IXMz06J,Christian Nodal,Ya No Somos Ni Seremos,Bolivia,0.588,0.452,7,-4.75,1,0.0268,0.437,0.0,0.344,0.734,139.953,3.1,4
+5GF0X7GdNmnouKcdhhRmtm,"Paulo Londra, Duki",Party en el Barrio (feat. Duki),Bolivia,0.527,0.665,10,-7.108,1,0.164,0.0168,1.29e-06,0.324,0.546,135.026,3.94,4
+2bbwjxA68m9PHZFWgF1fze,Duki,GIVENCHY,Bolivia,0.607,0.619,8,-6.726,1,0.396,0.142,0.0,0.231,0.377,102.974,3.04,3
+4hceSKjrkDTO0nMKFcb3sj,"Bizarrap, Villano Antillano","Villano Antillano: Bzrp Music Sessions, Vol. 51",Bolivia,0.82,0.752,1,-7.635,0,0.0648,0.0584,0.00417,0.628,0.423,127.999,3.12,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Bolivia,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+0E0DRHf5PfMeor0ZCwB3oT,"Bad Bunny, The Marías",Otro Atardecer,Bolivia,0.777,0.595,2,-6.79,1,0.0375,0.59,0.00139,0.0669,0.546,108.02,4.07,4
+4HzqWEdAbzcVFDv0pvxV4w,Maluma,Sobrio,Bolivia,0.762,0.77,5,-2.758,1,0.223,0.138,0.0,0.15,0.631,177.998,3.35,4
+44XjoNvtwevktFKjvVe1vH,"Bad Bunny, Buscabulla",Andrea,Bolivia,0.797,0.616,1,-10.229,0,0.375,0.762,0.000293,0.0979,0.451,103.071,5.66,4
+3Ne5uYDFzHEFYAPbaBMIck,Maria Becerra,AUTOMÁTICO,Bolivia,0.68,0.808,10,-3.854,0,0.224,0.0911,2.23e-06,0.205,0.868,176.131,2.92,4
+75UMtPC77vqKRwfSuYuNPO,Kevin Kaarl,San Lucas,Bolivia,0.577,0.363,7,-12.378,1,0.0263,0.86,0.000282,0.0868,0.265,91.511,4.12,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Bolivia,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+4R8BJggjosTswLxtkw8V7P,"Jhayco, J Balvin, Bad Bunny",No Me Conoce - Remix,Bolivia,0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,5.15,4
+6ifUES3keWjwXgae8pXI3o,Danny Ocean,Me Rehúso,Bolivia,0.744,0.804,1,-6.327,1,0.0677,0.0231,0.0,0.0494,0.426,104.823,3.43,4
+5i82o3878xCPNCUK8VIeqX,"Los Ángeles Azules, Nicki Nicole",Otra Noche,Bolivia,0.605,0.711,8,-4.09,1,0.0379,0.365,0.0,0.0501,0.645,91.999,3.32,4
+69Ej1xrGjOcHvIMtMKxK0G,Don Omar,Dile,Bolivia,0.817,0.714,4,-7.501,0,0.141,0.184,0.000132,0.042,0.714,94.001,3.41,4
+2MnLkFqY9Rpg9s3Zv6ZJdK,"Gera MX, Christian Nodal",Botella Tras Botella,Bolivia,0.727,0.546,0,-4.572,1,0.0437,0.656,0.0,0.122,0.69,106.891,3.29,4
+1gYtMKmICjH8KQG3MheNJt,"TINI, Tiago PZK",El Último Beso,Bolivia,0.647,0.662,10,-2.955,1,0.125,0.305,0.0,0.359,0.693,113.28,3.29,5
+2GQclWZHwE4fMdqShvOPWU,"Lasso, Sebastian Yatra",Ojos Marrones - Con Sebastián Yatra,Bolivia,0.787,0.662,8,-4.285,0,0.0372,0.0648,0.0,0.133,0.79,119.983,3.31,4
+2vsoD8S1OyrWSVIA43hjaU,Feid,Si Te La Encuentras Por Ahí,Bolivia,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,3.19,4
+69vlMrzHwATKzupwNcUPyK,"Bad Bunny, Daddy Yankee",La Santa,Bolivia,0.744,0.868,1,-4.524,1,0.047,0.0326,0.0,0.0822,0.586,93.037,3.44,4
+655JkvIwu2rDCaD1hPf04g,"Sebastian Yatra, Myke Towers",Pareja Del Año,Bolivia,0.715,0.611,4,-5.094,0,0.0519,0.176,0.0,0.0949,0.776,79.971,3.26,4
+28GCbKgjlVD9eDmasGbe0T,Bad Bunny,Me Fui de Vacaciones,Bolivia,0.714,0.645,10,-5.493,1,0.0514,0.229,0.00083,0.0942,0.434,85.046,3.02,4
+71iAechwVKGu26pahzFL0k,Morat,Cuando Nadie Ve,Bolivia,0.806,0.778,1,-4.577,0,0.0616,0.133,0.0,0.218,0.84,95.993,3.66,4
+0G2zPzWqVjR68iNPmx2TBe,"Mora, Bad Bunny, Sech",Volando - Remix,Bolivia,0.659,0.688,6,-4.649,1,0.0673,0.207,0.0,0.113,0.632,153.979,4.56,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Bolivia,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+3FkeNbs9Zeiqkr3WkbOiGp,Anitta,Envolver,Bolivia,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,3.23,4
+4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Bolivia,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,3.42,4
+71wFwRo8xGc4lrcyKwsvba,"Bad Bunny, Tainy",Callaita,Bolivia,0.608,0.626,2,-4.773,1,0.301,0.597,2.16e-06,0.25,0.246,176.086,4.18,4
+0OTNHGKcqQbk51bOYe462Y,"Polimá Westcoast, Pailita",ULTRA SOLO,Bolivia,0.802,0.846,1,-4.495,1,0.207,0.233,1.92e-05,0.114,0.26,109.982,3.79,4
+4r9jkMEnArtWGH2rL2FZl0,Bad Bunny,A Tu Merced,Bolivia,0.86,0.791,0,-4.784,1,0.0568,0.169,0.000106,0.106,0.887,92.023,2.93,4
+2hLXUbsOU9cDb9RFva9FYr,"Mora, Jhay Cortez",MEMORIAS,Bolivia,0.771,0.707,2,-6.404,0,0.055,0.389,0.0,0.0745,0.317,127.963,3.81,4
+4bF2y8rR7GUjrd5LNEvej3,Ingratax,París,Bolivia,0.57,0.455,1,-5.748,0,0.0996,0.441,0.000746,0.0654,0.399,167.933,2.52,4
+5kVZxyMY1gfdCLiChsfjn1,Bad Bunny,Yo No Soy Celoso,Bolivia,0.872,0.588,0,-6.276,1,0.0492,0.275,0.0,0.17,0.93,142.004,3.85,4
+6TsVhM8qIkWN5cJVDIVbbz,"Wisin & Yandel, ROSALÍA",Besos Moja2,Bolivia,0.736,0.727,5,-4.642,0,0.0571,0.0584,1.91e-06,0.0976,0.644,94.048,3.82,4
+74WROFXsox6wkeUrEK2DS6,Eden Muñoz,Chale,Bolivia,0.551,0.436,8,-8.029,1,0.0428,0.395,0.0,0.0719,0.862,188.651,2.85,3
+1Y62KpDaP5MEL43ZcI6IaG,"Quevedo, Ovy On The Drums",Sin Señal,Bolivia,0.822,0.851,11,-3.314,0,0.0422,0.333,0.00792,0.105,0.749,117.992,3.08,4
+2uflssWlCaJ6CbTMOsUpNI,Bad Bunny,Aguacero,Bolivia,0.861,0.645,6,-6.96,0,0.0743,0.423,0.000592,0.349,0.668,121.391,3.52,5
+6nAlJuLlRlpAcq30xIqKJs,Plan B,¿Por Que Te Demoras?,Bolivia,0.891,0.78,2,-6.416,0,0.0701,0.0398,0.0,0.0548,0.931,95.998,3.18,4
+5YJ4BVvTFmVCxUyhKejHfR,Tego Calderón,Pa' Que Retozen,Bolivia,0.815,0.856,1,-3.825,0,0.122,0.4,8.34e-05,0.244,0.872,91.995,2.53,4
+5LazbgCsa2IskJbPMnI8Qd,"Tiago PZK, LIT killah",Entre Nosotros,Bolivia,0.729,0.513,5,-6.345,0,0.0455,0.494,1.1e-06,0.137,0.789,170.064,3.21,3
+6lX6l7OuA3qrnIRfdsr0dw,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,Bolivia,0.787,0.7,4,-4.598,0,0.0768,0.568,0.00051,0.663,0.791,90.02,3.89,4
+6C1RD7YQVvt3YQj0CmuTeu,"Bad Bunny, Ozuna, Farruko, Arcangel, Ñengo Flow, DJ Luian, Mambo Kingz",Diles,Bolivia,0.813,0.56,2,-5.904,0,0.0618,0.108,0.0,0.268,0.287,118.033,4.77,4
+7d7aPD2oxuzjhOZnu4Dj23,"Natti Natasha, Daddy Yankee, Wisin & Yandel",Mayor Que Usted,Bolivia,0.625,0.839,6,-4.824,0,0.0927,0.00762,2.35e-05,0.464,0.771,184.08,3.89,4
+18HOjcvTVV7W8YzBuOsAPS,Bad Bunny,Un Verano Sin Ti,Bolivia,0.503,0.496,5,-9.123,0,0.0556,0.693,0.0,0.123,0.412,187.844,2.47,4
+4scwMEdlKi8qWJzzyDB8Z3,"Morat, Juanes",506,Bolivia,0.544,0.864,0,-5.65,1,0.048,0.00747,0.0,0.338,0.69,142.994,3.01,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Bolivia,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+2gpQi3hbcUAcEG8m2dlgfB,Paulo Londra,Plan A,Bolivia,0.583,0.834,0,-4.875,1,0.0444,0.0495,0.0,0.0658,0.557,173.935,2.97,4
+0lJE8f0lx8mUSfMyxeYpiC,"TINI, L-Gante",Bar,Bolivia,0.523,0.691,1,-3.802,1,0.0833,0.133,0.0,0.327,0.677,94.148,2.67,4
+5gflgO9EPbIBf16n5TKnQS,Zion & Lennox,Yo Voy (feat. Daddy Yankee),Bolivia,0.808,0.697,10,-5.899,1,0.241,0.041,0.0,0.0546,0.554,95.06,3.87,4
+4OwhwvKESFtuu06dTgct7i,"Marc Seguí, Rauw Alejandro, Pol Granch",Tiroteo - Remix,Bolivia,0.75,0.522,9,-7.018,1,0.0293,0.282,0.0,0.0743,0.601,110.427,5.36,4
+3XjN0mvFkQp1FMVM9Ro5hm,Daddy Yankee,RUMBATÓN,Bolivia,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4.15,4
+03a359wbiUsjN9h6yzXvmS,"Duki, KHEA",She Don't Give a Fo,Bolivia,0.854,0.556,1,-4.49,1,0.14,0.345,0.0,0.165,0.342,119.938,3.49,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Bolivia,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+0bI5WRiDfU5BY38ufOJtGu,"Maluma, Chencho Corleone",Nos Comemos Vivos,Bolivia,0.822,0.719,10,-3.633,0,0.0576,0.165,2.48e-05,0.174,0.659,82.01,3.76,4
+1uGdRSOpObu3lp0jvrVREl,Maria Becerra,OJALÁ,Bolivia,0.798,0.629,1,-4.393,0,0.0729,0.133,5.06e-06,0.103,0.362,92.018,2.67,4
+0wihfILRNOwE2156Shezc8,Bad Bunny,Agosto,Bolivia,0.849,0.584,1,-8.195,0,0.115,0.0929,6.18e-06,0.492,0.724,115.018,2.32,4
+2NMjggapJcXXM7WccGEBUO,Bad Bunny,Enséñame a Bailar,Bolivia,0.81,0.789,8,-5.08,1,0.0846,0.191,1.08e-05,0.467,0.77,105.009,2.93,4
+1yoMvmasuxZfqHEipJhRbp,Maluma,Hawái,Bolivia,0.783,0.727,6,-3.454,0,0.389,0.185,2.46e-05,0.0626,0.558,180.067,3.32,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Bolivia,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+35wvL50xvKpCHEJPxLOLPI,Bad Bunny,Si Estuviésemos Juntos,Bolivia,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-05,0.152,0.158,171.854,2.82,4
+0akyEssGRVHstqCSWXusJL,Ed Maverick,Fuentes de Ortiz,Bolivia,0.83,0.159,1,-14.461,1,0.0383,0.946,2.02e-05,0.362,0.189,104.95,3.46,4
+0vHfVsEe6Ps0d8cZ9PGzSw,"De La Ghetto, Rauw Alejandro",Loco Por Perrearte - Remix,Bolivia,0.848,0.673,11,-4.034,0,0.058,0.0147,0.00652,0.102,0.39,93.987,3.32,4
+1mlGScrDQqHqmhdIqE8MmA,"Morat, Juanes",Besos En Guerra,Bolivia,0.69,0.973,2,-3.588,1,0.0492,0.126,0.0,0.101,0.772,143.957,3.86,4
+5TMLavqGRKNxgzMBrVpC9R,"zzoilo, Aitana",Mon Amour - Remix,Bolivia,0.748,0.761,2,-6.621,1,0.102,0.122,6.56e-06,0.0984,0.362,116.041,3.0,4
+3ehHqgYRzmeUi345MfHS2N,"Morat, Duki",París,Bolivia,0.582,0.804,11,-4.155,1,0.0389,0.0493,0.0,0.0624,0.732,138.014,3.04,4
+5KVEKSfSbGC114FcgOdAHl,Pablito HC,Quiero Saber de Ti / Me Va a Extrañar / Me Volvi a Acordar de Ti,Bolivia,0.443,0.756,7,-4.542,1,0.034,0.0293,0.0,0.4,0.768,153.293,5.36,4
+3lR4O0vtkhCAvVEUEWUL0S,"Piso 21, Christian Nodal",Pa' Olvidarme De Ella,Bolivia,0.728,0.542,0,-5.195,1,0.0514,0.259,0.0,0.136,0.637,90.016,3.79,3
+5aucVLKiumD89mxVCB4zvS,"Crush, j-hope",Rush Hour (Feat. j-hope of BTS),Bolivia,0.738,0.714,0,-5.235,1,0.249,0.157,0.0,0.31,0.74,95.035,2.96,4
+26QKsGW4hMuwiEE1ftUMHe,Daddy Yankee,"Lo Que Pasó, Pasó",Bolivia,0.819,0.741,8,-6.538,0,0.0412,0.104,0.0,0.283,0.84,97.014,3.52,4
+7dT9D6117e5DbhnKxDLNW9,Kevin Kaarl,Colapso,Bolivia,0.544,0.216,7,-17.237,1,0.0402,0.922,0.311,0.112,0.145,75.004,3.92,4
+4srcMdbm2qzVG98tJajHxp,"Alejo, Feid, ROBI",Pantysito,Bolivia,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4.01,4
+7MmrcXVA7A5zZ2CbDuGHNa,Rels B,A Mí,Bolivia,0.846,0.548,1,-6.397,1,0.256,0.241,0.0713,0.0419,0.516,94.925,3.49,4
+4f49sFQko7jHLEFd3tCf5p,Don Omar,Ojitos Chiquitos,Bolivia,0.801,0.839,1,-3.267,0,0.24,0.0206,7.65e-05,0.0946,0.792,170.011,3.82,4
+228BxWXUYQPJrJYHDLOHkj,Daddy Yankee,Gasolina,Bolivia,0.852,0.797,0,-6.543,1,0.0614,0.322,2.69e-06,0.0845,0.741,96.008,3.21,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Bolivia,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+6D2TCm4nf5nxAcdGJ7w3QP,"J Balvin, Maria Becerra",Qué Más Pues?,Bolivia,0.903,0.817,8,-3.972,1,0.095,0.0272,0.000311,0.242,0.732,102.014,3.62,4
+2vmfvSoZBFAt9hhRoEByLi,"Aventura, Bad Bunny",Volví,Bolivia,0.725,0.86,1,-3.726,1,0.182,0.422,0.000284,0.0674,0.791,175.896,3.84,4
+2pR6bipXfJySBhje19SW02,"Stars Music Chile, Cris Mj, Standly",Marisola,Bolivia,0.806,0.85,1,-4.84,1,0.0967,0.155,0.0,0.201,0.728,95.014,3.07,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Bolivia,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Bolivia,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+6Pur3hWy6Nzc27ilmsp5HA,Los Enanitos Verdes,Lamento Boliviano,Bolivia,0.714,0.735,4,-7.125,0,0.0306,0.176,0.000622,0.115,0.68,123.57,3.7,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Bolivia,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+1iRvhKiXRElIH2Uf4gd95P,Jesse & Joy,Dueles,Bolivia,0.531,0.834,2,-3.944,1,0.052,0.277,0.0,0.131,0.526,142.026,4.13,4
+3AbNNvo2OmyeDMvRBgf9vk,"TINI, Becky G, Anitta",La Loto,Bolivia,0.855,0.83,1,-2.815,1,0.106,0.0783,1.31e-06,0.08,0.775,90.009,3.18,4
+7iXJg4IUyrWont5YSQrbKP,"Reik, Maria Becerra",Los Tragos,Bolivia,0.557,0.7,7,-5.024,1,0.0638,0.115,1.11e-06,0.161,0.681,93.9,2.85,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Bolivia,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+25ZAibhr3bdlMCLmubZDVt,"J Balvin, Bad Bunny",QUE PRETENDES,Bolivia,0.639,0.791,10,-4.443,0,0.253,0.0275,0.0,0.362,0.939,92.603,3.71,4
+2TzkIzgzIHhewMxyh1u4hh,Kevin Kaarl,Vámonos a Marte,Bolivia,0.675,0.16,0,-11.667,1,0.0586,0.985,0.00688,0.164,0.247,69.754,2.98,4
+1TkPVHDZrOpigwcqsCSkkL,Corona,Que estas haciendo,Bolivia,0.911,0.53,1,-10.371,1,0.0811,0.0514,0.0,0.1,0.674,107.999,3.59,4
+41wtwzCZkXwpnakmwJ239F,Bad Bunny,Si Veo a Tu Mamá,Bolivia,0.9,0.603,2,-5.313,1,0.0646,0.402,4.81e-06,0.134,0.824,129.928,2.85,4
+6NSMQFKgjpQb0KkjMDYIK0,"Arcangel, Bad Bunny, Mambo Kingz, DJ Luian",Tu No Vive Asi (feat. Mambo Kingz & DJ Luian),Bolivia,0.815,0.514,6,-9.446,0,0.361,0.54,0.0,0.611,0.623,120.054,4.4,4
+19CmuECYssqkPWANF4nLWM,La Mosca Tse-Tse,Para No Verte Más,Bolivia,0.658,0.815,0,-6.834,1,0.105,0.0168,0.0,0.341,0.837,99.276,3.19,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Bolivia,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+3lGMtkONrZdJ8kTCg6KIFf,Natalia Lafourcade,Hasta la Raíz,Bolivia,0.585,0.643,3,-8.392,1,0.0395,0.201,0.000306,0.144,0.592,152.98,3.7,3
+1j6xOGusnyXq3l6IryKF3G,"Piso 21, Manuel Turizo",Déjala Que Vuelva (feat. Manuel Turizo),Bolivia,0.681,0.788,1,-4.323,1,0.0785,0.0482,0.0,0.0753,0.839,170.019,3.67,4
+3GaGWoU1KfVqgl7vnRHP55,C. Tangana,Demasiadas Mujeres,Bolivia,0.658,0.453,9,-7.378,0,0.39,0.131,0.0002,0.0848,0.358,126.043,2.57,4
+2jnZUvhw2LTvDI6YidRVcO,Daddy Yankee,Llamado de Emergencia,Bolivia,0.703,0.909,4,-4.456,0,0.0358,0.216,1.57e-06,0.162,0.777,97.982,4.0,4
+6lV9cTvioGWqRXSgfjAUGL,"Maluma, Feid",Mojando Asientos (feat. Feid),Bolivia,0.773,0.767,7,-4.019,1,0.0819,0.0352,0.0,0.299,0.49,94.99,4.2,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Bolivia,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+3scW7pt0vlhkCCgCNv5YR9,Adalberto Santiago,La Noche Mas Linda,Bolivia,0.886,0.748,5,-9.584,1,0.0399,0.775,0.0635,0.0656,0.969,152.07,5.72,4
+4HYDUMY0xSpeBr0AMY9cUz,"Jay Wheeler, DJ Nelson, Myke Towers",La Curiosidad,Bolivia,0.845,0.677,11,-4.798,0,0.136,0.269,0.000917,0.108,0.68,90.013,3.65,4
+4skuEIloXWuxxgekKupkEH,Mon Laferte,Tu Falta De Querer,Bolivia,0.394,0.475,10,-7.935,1,0.028,0.0251,0.00749,0.112,0.441,129.995,4.64,3
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Bolivia,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Bolivia,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+3p6eieHX6oEOzJStPtEsLu,Calibre 50,Si Te Pudiera Mentir,Bolivia,0.764,0.585,2,-7.796,1,0.0305,0.348,0.00294,0.369,0.89,90.013,4.26,4
+0gCPvo1GkbtPhMqg5Gbx1K,"Daddy Yankee, Bad Bunny",Vuelve,Bolivia,0.734,0.531,1,-5.662,1,0.0321,0.196,0.0,0.119,0.199,130.024,4.66,4
+3MBNAfBXIq9fI2Sez8EcNX,"Duki, De La Ghetto, Quevedo",Si Quieren Frontear,Bolivia,0.789,0.837,10,-3.247,1,0.23,0.125,0.0,0.209,0.476,81.536,3.34,4
+7dMTCS9BLzBqYTlAuHP8TM,Danna Paola,XT4S1S,Bolivia,0.797,0.677,9,-4.163,0,0.0857,0.101,0.0,0.441,0.919,130.034,3.66,4
+0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),Bolivia,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,2.88,4
+2n7ohqg1s68ToAHh4u9mcW,Bad Bunny,Vete,Bolivia,0.886,0.672,1,-4.394,1,0.188,0.0363,8.78e-06,0.101,0.526,91.976,3.2,4
+7DhYjNLksXZhbRQeheAums,Bacilos,Caraluna,Bolivia,0.76,0.773,9,-5.314,1,0.0675,0.176,0.0,0.1,0.895,102.789,4.44,4
+48NXpYRuvv9izul4oXhqS9,Don Omar,Salió El Sol,Bolivia,0.887,0.701,4,-5.892,0,0.0873,0.106,0.00948,0.0466,0.965,110.002,5.25,4
+0bI7K9Becu2dtXK1Q3cZNB,"Tiësto, KAROL G",Don't Be Shy,Bolivia,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,2.34,4
+5clFSlfkCRlhnH1cAQjSBi,De La Ghetto,Sensacion Del Bloque,Bolivia,0.709,0.726,7,-7.129,1,0.0411,0.0977,0.0,0.301,0.404,92.006,3.04,4
+3E8xyYdIPpiH2wNEozE68I,Standly,Pégate,Bolivia,0.83,0.818,7,-5.028,1,0.0552,0.306,0.0,0.0906,0.828,98.008,3.1,4
+6G4U9avyBNEfP0fAIduev3,"Aventura, Don Omar",Ella Y Yo - Featuring Don Omar,Bolivia,0.732,0.708,9,-7.905,0,0.262,0.534,0.0,0.237,0.717,175.924,4.46,4
+2f0Ft2XdvNSMSY5TUlZgEz,Pablo Alborán,Saturno,Bolivia,0.278,0.572,7,-8.295,1,0.0407,0.392,0.0,0.063,0.311,95.351,4.23,3
+5jW3rF4URMdK7tO2xjS5EI,Paulo Londra,Tal Vez,Bolivia,0.855,0.649,8,-2.443,1,0.151,0.25,0.0,0.0801,0.741,161.986,4.4,4
+7exaYYNN99DHkbZuHOZWO3,Matías Valdez,Latidos,Bolivia,0.684,0.784,11,-3.395,0,0.0484,0.379,0.0,0.0412,0.847,80.138,2.15,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Bolivia,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+10SRMwb9EuVS1K9rYsBfHQ,BTS,Yet To Come,Bolivia,0.559,0.885,1,-4.515,1,0.189,0.0432,0.0,0.333,0.683,172.029,3.23,4
+4t9a07PAghtQMRAIP9FQ7Z,"Lunay, Daddy Yankee, Bad Bunny",Soltera - Remix,Bolivia,0.795,0.783,5,-4.271,1,0.0432,0.361,0.0,0.437,0.799,92.01,4.43,4
+3KJ3opyV29269SXkPrc19l,Bad Bunny,120,Bolivia,0.636,0.656,2,-5.542,0,0.0676,0.451,7.97e-06,0.287,0.439,171.918,2.53,4
+77dMSg2VHi2wwXjXNrmcrZ,"Paulo Londra, Lenny Tavárez",Nena Maldición (feat. Lenny Tavárez),Bolivia,0.566,0.531,6,-6.635,1,0.0716,0.192,0.0,0.179,0.367,118.96,3.79,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Bolivia,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Bolivia,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Bolivia,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Bolivia,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+2XIc1pqjXV3Cr2BQUGNBck,"Bad Bunny, ROSALÍA",LA NOCHE DE ANOCHE,Bolivia,0.856,0.618,7,-4.892,1,0.286,0.0303,0.0,0.0866,0.391,81.993,3.39,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Bolivia,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+17I27VXKtqXJHL6ReaG0eS,"Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow",Hola - Remix,Bolivia,0.655,0.673,0,-5.98,0,0.308,0.473,0.0,0.0753,0.342,181.891,4.16,4
+3za3hxbolwmy9AeUpWzuRE,"TINI, Morat",Consejo de Amor,Bolivia,0.475,0.717,0,-6.712,1,0.102,0.194,0.0,0.101,0.646,83.873,3.33,4
+2TDyyEBasw10wu5Uh94bR1,"Rauw Alejandro, Baby Rasta",PUNTO 40,Bolivia,0.873,0.826,0,-0.722,1,0.0876,0.00127,0.0361,0.311,0.201,106.972,3.18,4
+2FNqnsX74ZlwduUAcnmzee,"Daddy Yankee, Zion & Lennox",Tu Príncipe,Bolivia,0.77,0.804,4,-5.479,1,0.0623,0.16,1e-05,0.193,0.568,94.017,3.43,4
+2IzV2SPZQLadtA46ni3ICq,"Zion & Lennox, Maria Becerra",Berlin,Bolivia,0.796,0.766,1,-4.237,1,0.0422,0.18,1.53e-06,0.164,0.846,121.008,4.1,4
+6aommJFM8i3iT4inKuDSXh,Jósean Log,Chachachá,Bolivia,0.68,0.321,5,-10.944,1,0.0376,0.791,4.67e-06,0.125,0.416,110.827,3.6,4
+1WH3iquIQXnSPwUzlROT8R,Manuel Turizo,Quiéreme Mientras Se Pueda,Bolivia,0.793,0.782,4,-3.945,1,0.0582,0.447,0.0,0.124,0.81,143.86,3.2,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Bolivia,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Bolivia,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+2qEoAz0i6yEz5dPggABcLH,"Fuego, Manuel Turizo, Duki",Una Vaina Loca,Bolivia,0.811,0.588,1,-3.161,1,0.0464,0.128,0.0004,0.0929,0.553,107.022,3.77,4
+4SSbtLDkepeOHAckM1FCBP,"El Alfa, Noriel, Trueno",LOS APARATOS,Bolivia,0.868,0.878,1,-3.294,1,0.038,0.0509,0.00052,0.0857,0.899,112.987,3.88,4
+1qfoq1qvZT7VwDVeekCJ97,Christian Nodal,De Los Besos Que Te Di,Bolivia,0.504,0.503,7,-3.313,1,0.0422,0.388,0.0,0.0608,0.709,195.593,2.79,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Bolivia,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4

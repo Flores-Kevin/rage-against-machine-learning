@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+65NAMIdsZkxYIM5ui8SJSw,"K.O, Young Stunna, Blxckie",SETE (feat. Young Stunna & Blxckie),South Africa,0.797,0.627,4,-7.096,0,0.0698,0.183,0.0,0.156,0.606,96.019,4.16,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),South Africa,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+5YbPxJwPfrj7uswNwoF1pJ,Burna Boy,Last Last,South Africa,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,2.87,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,South Africa,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+1hsFJ92y0FU2cFOOLkEFVr,"Deep London, Boohle",Hamba Wena,South Africa,0.861,0.598,7,-11.155,1,0.0665,0.00483,0.0607,0.0306,0.417,113.006,6.25,4
+3PdO57q0KLWkfWXsXQJlV6,"Mas Musiq, Aymos, Young Stunna",Sengizwile (feat. Aymos & Young Stunna),South Africa,0.813,0.632,3,-9.723,0,0.0482,0.0283,0.000759,0.137,0.777,112.044,7.0,4
+6PqdJb18ssWDcROvnsEqy6,"AKA, Nasty C",Lemons (Lemonade),South Africa,0.767,0.525,0,-10.225,1,0.232,0.0386,2.1e-05,0.0951,0.478,98.101,4.33,4
+5uWDenxq03AYLOq83WzLNo,"Kabza De Small, Young Stunna, Nobuhle, Ze2","Xola (feat. Nobuhle, Ze2 & Young Stunna)",South Africa,0.782,0.748,6,-7.331,0,0.0366,0.0584,0.000296,0.133,0.384,113.027,7.51,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),South Africa,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,South Africa,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),South Africa,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,3.16,4
+1LsGuqHDEnix95E4ESd8gt,"MacG, Sir Trill, Bailey, EmjayKeyz",Nkantin,South Africa,0.83,0.803,0,-10.076,0,0.0631,0.103,0.000373,0.0879,0.437,112.005,5.83,4
+0HaRLPnr887lcQM2YQzkff,"Burna Boy, Ed Sheeran",For My Hand (feat. Ed Sheeran),South Africa,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,2.65,4
+2WigMwGJysIh9fRnSJvpjn,Oxlade,KU LO SA - A COLORS SHOW,South Africa,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9,2.46,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,South Africa,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+2nwXM9eHzj8eQBsuK9osbL,Luxury SA,Crazy Vibez,South Africa,0.817,0.596,5,-11.92,0,0.131,0.0588,0.91,0.067,0.328,116.011,5.98,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,South Africa,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+67SKXlAbYNG5nAtadBfPm0,"Wanitwa Mos, Master KG, Lowsheen, Nkosazana Daughter",Sofa Silahlane,South Africa,0.837,0.38,9,-10.776,1,0.0716,0.0105,0.531,0.0418,0.295,113.018,6.94,4
+1ULFJZX54HXXjSTMx63dk0,"Kabza De Small, Msaki",Khusela (feat. Msaki),South Africa,0.755,0.811,11,-8.731,0,0.0413,0.129,0.141,0.0826,0.219,113.009,8.35,4
+75VD2d6BPTuESBrzRqD6xl,"Senior Oat, Kemy Chienda",All In You,South Africa,0.609,0.301,10,-13.958,0,0.11,0.00944,0.00341,0.186,0.321,211.997,8.54,4
+4qwBmPUVUbyXjwlttBAp8J,"Temple Boys Cpt, Young King The Vocalist",Saggies,South Africa,0.952,0.823,10,-4.086,0,0.0526,0.0214,3.24e-05,0.0886,0.492,127.003,2.33,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,South Africa,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+2sOj9vyd6yiss9W1IK6chU,"DJ Khaled, Rick Ross, Lil Wayne, JAY-Z, John Legend, Fridayy","GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",South Africa,0.42,0.725,8,-4.262,1,0.223,0.092,0.0,0.18,0.186,77.941,8.36,1
+46ZvwmGP7q63FWnrvurH45,"Felo Le Tee, TOSS",Manca,South Africa,0.848,0.561,1,-10.913,1,0.0539,0.025,0.000659,0.0344,0.489,112.007,6.32,4
+7FNsLSsnXwRFD4nA4V2Low,"Wanitwa Mos, Sir Trill, Nkosazana Daughter, Master KG",Kuwe,South Africa,0.877,0.371,10,-11.675,1,0.0934,0.00708,0.00522,0.0573,0.288,113.045,5.19,4
+6Zt8YY9f4rr7gMJcCPkxbr,"Pabi Cooper, Mellow & Sleazy",Waga Bietjie,South Africa,0.838,0.438,1,-11.885,1,0.104,0.00382,0.0194,0.0602,0.404,112.003,5.43,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),South Africa,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,South Africa,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,South Africa,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),South Africa,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+62SaDdv956IYAt5nS1nWx7,"Njelic, Thabza Tee",Down The Drain,South Africa,0.909,0.62,10,-10.403,0,0.154,0.0299,0.00742,0.263,0.611,112.008,6.14,4
+2wmzbXk4vMrxMW0J1q0a08,Classic Man SmF,Amour d'une mère,South Africa,0.751,0.948,3,-1.072,1,0.0989,0.632,6.66e-05,0.0846,0.821,95.99,3.98,4
+5hVjoL3sHepZROri63wBxP,Burna Boy,It's Plenty,South Africa,0.776,0.565,7,-10.609,1,0.105,0.36,8.81e-05,0.308,0.53,107.035,3.62,4
+1EZMFiD30CythJ73EBZfUq,"Jay Music, Mellow & Sleazy, DJ SOL K",The Fxckin Injury,South Africa,0.887,0.324,10,-15.891,1,0.0903,0.00724,0.898,0.198,0.149,113.017,6.84,4
+6zLUuRvJfJDDEqCMWILcs1,"Pushkin, Springle, Mankay, ChocoDynasty",Welele,South Africa,0.867,0.567,9,-9.225,0,0.0572,0.126,4.02e-05,0.091,0.335,112.008,6.64,4
+0dHswGoIHgWfHSraVv9mnq,"Konke, Musa Keys, Nkulee501, Skroef28, Chley",Kancane,South Africa,0.801,0.671,1,-11.076,1,0.0457,0.129,0.000112,0.061,0.84,113.024,6.37,4
+2lyEzNK1EI3yr5kUhlQitm,"Mellow & Sleazy, Chley, Boontle RSA, 2woshort, TNK MusiQ","Wenza Kanjani (feat. 2woshort, TNK MusiQ & BoontleRSA)",South Africa,0.859,0.433,1,-10.449,1,0.0629,0.0303,0.00167,0.0703,0.41,111.997,8.0,4
+1zHdh2Muk7jyPYXc8h1zPs,"Big Zulu, Mduduzi Ncube, Siya Ntuli, Lwah Ndlunkulu, Xowla",Voicemail,South Africa,0.777,0.435,6,-9.298,1,0.0479,0.264,1.13e-05,0.111,0.496,90.013,4.65,4
+1B5I5yqLpVI5EosZS6bJFs,"Chris Brown, Wizkid",Call Me Every Day (feat. Wizkid),South Africa,0.73,0.634,4,-7.191,0,0.181,0.107,1.44e-05,0.0976,0.798,171.874,2.45,4
+5Lk04mjuDowI8YL7uZvMlD,"Gaba Cannal, George Lesley, Russell Zuma",Healer Ntliziyo Yam,South Africa,0.864,0.41,1,-15.348,1,0.0909,0.0049,0.0518,0.052,0.435,111.003,8.67,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,South Africa,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+5dVd3tBZQhOctXiq2jwrhD,Samthing Soweto,Amagents,South Africa,0.684,0.489,1,-10.784,0,0.176,0.0297,0.00207,0.086,0.261,93.023,3.73,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,South Africa,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,South Africa,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+7rmpguwTH3XwEPZMSeL4RH,"Lowsheen, Master KG, Nkosazana Daughter",Thula,South Africa,0.825,0.594,0,-7.489,1,0.0591,0.00471,0.389,0.184,0.51,113.053,6.37,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),South Africa,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,South Africa,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,South Africa,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),South Africa,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+5z6oqX6l6kTSPB9gSRnLzE,"Uncle Waffles, Tony Duardo, Sino Msolo, BoiBizza",Tanzania,South Africa,0.804,0.654,3,-10.125,0,0.0537,0.0552,0.00487,0.109,0.617,112.988,6.27,4
+2UNdr8gnOQrVkSmLDeC59w,"Musa Keys, Loui",Selema (Po Po),South Africa,0.872,0.577,5,-9.463,0,0.062,0.0245,0.00226,0.0492,0.256,112.997,5.68,4
+1LB6HHcswEA8yee4z10rbJ,"Sam Deep, Playgal, De Mthuda, Babalwa M, Sipho Magudulela",Kusezo Khanya,South Africa,0.901,0.635,7,-14.173,0,0.268,0.0309,0.00301,0.399,0.664,113.026,6.38,4
+03GRsjCSytQo3LuspJayKT,"9umba, TOSS, Mdoovar, Sir Trill, Sino Msolo, Lady Du, Young Stunna, Slade",uMlando,South Africa,0.812,0.646,10,-8.402,0,0.112,0.21,5.12e-05,0.0472,0.562,112.986,7.38,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,South Africa,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+30sDS4E23SZCd95dhXlGlU,"Sam Deep, MaWhoo",Thokoza,South Africa,0.834,0.445,7,-18.303,0,0.0851,0.0625,0.0549,0.112,0.582,113.003,6.37,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,South Africa,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+7Ddk8FhoYKdsVoX9AOCPMm,"DJ Khaled, Drake, Lil Baby",STAYING ALIVE (feat. Drake & Lil Baby),South Africa,0.677,0.495,4,-7.174,0,0.0821,0.0668,0.0,0.319,0.152,129.974,2.97,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,South Africa,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+0Ek5bneviajgSzZGonWfds,"Daliwonga, Mellow & Sleazy, M.J",Abo Mvelo (feat. Mellow & Sleazy & M.J),South Africa,0.876,0.507,10,-11.035,0,0.0482,0.0172,0.00117,0.0746,0.583,112.003,8.0,4
+4eZZofkV1OQ9GDqAgHqNpA,"Kizz Daniel, Tekno",Buga (Lo Lo Lo),South Africa,0.92,0.716,8,-7.104,1,0.105,0.296,0.00222,0.104,0.961,115.991,3.05,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,South Africa,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+4wVOKKEHUJxHCFFNUWDn0B,"Drake, Giveon",Chicago Freestyle (feat. Giveon),South Africa,0.735,0.449,10,-7.507,1,0.347,0.629,0.0,0.113,0.0397,122.947,3.67,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),South Africa,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,South Africa,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),South Africa,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+2icgqIMkjpToStO1FRAoyj,"Robot Boii, Mellow & Sleazy, Soul Revolver, Shaun MusiQ, F Teearse",Salary Salary,South Africa,0.796,0.727,1,-9.474,1,0.0427,0.00157,0.256,0.138,0.491,112.003,6.77,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,South Africa,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+2qxgejJTaZIHNSHDD22Uhl,"Kabza De Small, DJ Maphorisa, Ami Faku",Abalele,South Africa,0.788,0.449,5,-16.197,0,0.0835,0.181,0.027,0.133,0.59,113.001,6.94,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,South Africa,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,South Africa,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2.55,4
+4rmVZajAF7PkrCagGPHbqa,Drake,Sticky,South Africa,0.853,0.495,6,-14.63,1,0.14,0.0917,0.000217,0.0844,0.0774,137.027,4.05,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,South Africa,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,BREAK MY SOUL,South Africa,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,4.64,4
+2DTnuVhrGnLcmgutAW4vb1,"Lwah Ndlunkulu, Siya Ntuli",Ithuba,South Africa,0.491,0.547,0,-8.162,1,0.129,0.678,0.0,0.102,0.16,112.197,4.38,5
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,South Africa,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,South Africa,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+3BnDvpeuGOj21Ir2aVEtQo,Rema,Calm Down,South Africa,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,0.842,107.003,3.66,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,South Africa,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),South Africa,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+6u2IvQN4TBBPLXkGYwWTlw,Nomfundo Moh,Soft Life,South Africa,0.454,0.304,1,-14.244,0,0.12,0.515,0.0,0.556,0.253,76.879,4.14,1
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,South Africa,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),South Africa,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+3p15jik1b9bQk8PnyaDClI,"Kabza De Small, Mhaw Keys, Njelic, Simmy","Eningi (feat. Njelic, Simmy & Mhaw Keys)",South Africa,0.826,0.885,2,-9.575,0,0.0574,0.137,0.0116,0.0797,0.558,113.005,6.8,4
+1grMFirLZsqR452CEwBKSV,"Nomfundo Moh, Sha Sha, Ami Faku",Phakade Lami,South Africa,0.618,0.389,11,-11.236,0,0.0481,0.146,1.19e-05,0.072,0.516,166.021,4.36,4
+7BH6nyhnWTSfMUwwrCYbJF,"Q-Mark, TpZee, Afriikan Papi",Paris,South Africa,0.82,0.563,6,-9.079,0,0.0379,0.0763,2.93e-06,0.0336,0.491,111.99,6.93,4
+1Hohk6AufHZOrrhMXZppax,Beyoncé,ALIEN SUPERSTAR,South Africa,0.545,0.641,10,-6.398,0,0.0998,0.00453,6.59e-05,0.171,0.464,121.892,3.59,4
+2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,South Africa,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,0.454,116.959,3.9,3
+2mzM4Y0Rnx2BDZqRnhQ5Q6,Tems,Free Mind,South Africa,0.562,0.463,6,-7.478,1,0.0787,0.442,0.000145,0.157,0.416,125.15,4.13,5
+6F70m9aMK4PSJKBfp1H8DZ,"Kabza De Small, DJ Maphorisa, Ami Faku",Asibe Happy,South Africa,0.805,0.626,4,-12.542,0,0.0473,0.0712,0.0793,0.256,0.188,113.0,7.65,4
+78QR3Wp35dqAhFEc2qAGjE,"Lil Baby, Gunna",Drip Too Hard (Lil Baby & Gunna),South Africa,0.897,0.662,1,-6.903,0,0.292,0.0852,0.0,0.534,0.389,112.511,2.43,4
+584B5N5x0phtVVpBtSNcPt,"Wanitwa Mos, Master KG, Nkosazana Daughter, Basetsana, Obeey Amor",Dali Nguwe,South Africa,0.848,0.568,2,-9.061,1,0.0397,0.0152,0.0019,0.0502,0.314,111.979,5.43,4
+46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,South Africa,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,3.74,4
+6n3HGiq4v35D6eFOSwqYuo,Drake,Teenage Fever,South Africa,0.766,0.283,8,-10.33,0,0.0846,0.111,0.0172,0.115,0.144,97.04,3.66,4
+4iuNZTcvT9diFySSzVsnVS,Fantasia,When I See U,South Africa,0.569,0.596,8,-6.486,1,0.172,0.452,7.92e-05,0.205,0.754,93.135,3.62,4
+1rrqJ9QkOBYJlsZgqqwxgB,Ayra Starr,Rush,South Africa,0.792,0.503,1,-8.044,1,0.0626,0.0369,0.00057,0.0959,0.381,99.97,3.08,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,South Africa,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+0JXXNGljqupsJaZsgSbMZV,Miguel,Sure Thing,South Africa,0.684,0.607,11,-8.127,0,0.1,0.0267,0.000307,0.191,0.498,81.001,3.26,4
+3XgGQ1wjo5khvq2UImjyNF,Brent Faiyaz,ALL MINE,South Africa,0.617,0.378,9,-8.54,1,0.0315,0.428,9.16e-05,0.11,0.22,141.967,3.6,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,South Africa,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,South Africa,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,South Africa,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,South Africa,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,South Africa,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,South Africa,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+1MJagJs7aC4UJYZK3j5iIO,Eloff,Witblits,South Africa,0.644,0.594,1,-8.857,1,0.231,0.0163,0.0,0.087,0.273,132.657,3.12,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,South Africa,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+7tJRECMBZbgGUh83C48NB0,"Blaq Diamond, Big Zulu, Siya Ntuli",Qoma,South Africa,0.485,0.575,8,-8.893,1,0.0618,0.0817,0.0,0.109,0.545,78.608,4.51,4
+3z4CGd63tpUn9a6oQSG0CI,"Dave, Burna Boy",Location (feat. Burna Boy),South Africa,0.812,0.496,9,-5.969,0,0.297,0.271,0.0,0.0955,0.55,109.979,4.02,4
+0RwvdQ3H9kSo1lk9IFTBqf,"Riaan Benadé, Jay",Rowwe Bliksem,South Africa,0.714,0.632,7,-4.711,1,0.0682,0.0444,0.0,0.352,0.662,123.915,3.06,4
+2dTQe0W5KXs6TNVV7yi2oS,"Young Stunna, Kabza De Small, DJ Maphorisa",Adiwele (feat. Kabza De Small & DJ Maphorisa),South Africa,0.848,0.621,5,-12.027,0,0.0424,0.00776,0.000438,0.0468,0.742,112.002,7.86,4
+0wHFktze2PHC5jDt3B17DC,Jack Harlow,First Class,South Africa,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2.9,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,South Africa,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+181RlW4FYWSzaV9xt8xUPQ,Riaan Benadé,Vat 'n Bietjie,South Africa,0.696,0.636,7,-5.229,1,0.185,0.1,0.0,0.0722,0.894,185.873,3.2,4
+14SaZBTjxlorHJQxXh01Hu,"Summer Walker, Drake",Girls Need Love (with Drake) - Remix,South Africa,0.656,0.432,6,-9.481,0,0.217,0.443,0.0,0.132,0.0897,97.022,3.71,4
+6TSO4hwz9WGrEUY7ABGVim,Giveon,Lost Me,South Africa,0.428,0.443,2,-8.955,0,0.101,0.525,1.76e-05,0.219,0.2,87.934,3.02,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,South Africa,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+2ZrY5oRNMOLbmOKNGS9Ypo,"Makhadzi, Mr Brown",MaGear,South Africa,0.858,0.613,7,-9.399,1,0.0447,0.00073,0.000127,0.0771,0.706,126.003,4.84,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",South Africa,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,South Africa,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+3pXF1nA74528Edde4of9CC,Bryson Tiller,Don't,South Africa,0.765,0.356,11,-5.556,0,0.195,0.223,0.0,0.0963,0.189,96.991,3.3,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,South Africa,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+3FAJ6O0NOHQV8Mc5Ri6ENp,Giveon,Heartbreak Anniversary,South Africa,0.449,0.465,0,-8.964,1,0.0791,0.524,1.02e-06,0.303,0.543,89.087,3.31,3
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),South Africa,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+1BXfrEUZFDhrVahuVT3PMK,"Q Twins, Xowla, Mduduzi Ncube, Big Zulu",Alusafani,South Africa,0.562,0.385,4,-10.045,1,0.0463,0.656,3.64e-05,0.0957,0.364,79.888,3.74,4
+0oO1AbL92F6329z13C2qQH,Yeat,Talk,South Africa,0.698,0.763,4,-4.716,0,0.205,0.0873,0.0,0.647,0.252,139.939,2.91,4
+3mO0E6D3BsdBLjDCImi65H,"Major Lazer, Major League Djz, Tiwa Savage, DJ Maphorisa, Diplo",Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa),South Africa,0.856,0.759,1,-7.41,0,0.036,0.00862,0.0972,0.0709,0.153,113.004,3.22,4
+0wau3pD9eDZQRBzg0J3LkE,"Nasty C, Emtee",Born To Win,South Africa,0.831,0.624,10,-7.187,0,0.236,0.105,0.0,0.136,0.442,118.904,2.97,4
+3baPniPXS0iEII8rDUJdYP,"Lojay, Sarz, Chris Brown",Monalisa,South Africa,0.828,0.726,10,-6.389,0,0.0419,0.106,0.00101,0.103,0.67,113.017,3.55,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),South Africa,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+6mM8gri8d2abYYomjOV4ut,Roddy Ricch,Stop Breathing,South Africa,0.586,0.689,0,-6.04,1,0.425,0.0434,0.0,0.184,0.456,158.457,1.85,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,South Africa,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+5Lhm1IywVjAnrcryvIDXWq,"Sha Sha, Mellow & Sleazy, Mas Musiq, Soa Mattrix","Fast Car (feat. Mellow & Sleazy, Mas Musiq & Soa mattrix)",South Africa,0.782,0.456,5,-11.246,0,0.0648,0.027,0.0513,0.0505,0.365,112.009,5.39,4
+3bDZnbdUWy02rqFzb5Sooi,Irene-Louise Van Wyk,Tekkies Brand,South Africa,0.712,0.803,7,-5.502,1,0.0962,0.00259,4.46e-06,0.558,0.47,130.003,3.48,4
+2ZRo7axmMPeSVUvDbGkJah,XXXTENTACION,Hope,South Africa,0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,1.85,4
+6G1Mz5yMgn0ydOlIvTrZ65,TALK,Run Away to Mars,South Africa,0.554,0.38,9,-10.666,1,0.0314,0.526,0.0,0.213,0.284,118.925,3.56,4
+4OmfWzukSVD140NiAIEjem,Steve Lacy,Static,South Africa,0.335,0.305,1,-12.661,1,0.0741,0.434,0.631,0.101,0.215,79.001,2.61,5
+65OVbaJR5O1RmwOQx0875b,"Drake, Lil Baby",Wants and Needs (feat. Lil Baby),South Africa,0.578,0.449,1,-6.349,1,0.286,0.0618,2.17e-06,0.119,0.1,136.006,3.22,4
+40iJIUlhi6renaREYGeIDS,"Drake, Travis Scott",Fair Trade (with Travis Scott),South Africa,0.666,0.465,1,-8.545,1,0.26,0.0503,0.0,0.215,0.292,167.937,4.85,4
+7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,South Africa,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,4.04,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,South Africa,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+1PDP7mLiAMwhfmgIwzhOm2,"Drake, Yebba",Yebba’s Heartbreak,South Africa,0.476,0.161,8,-11.665,0,0.0407,0.967,0.0381,0.109,0.0908,119.614,2.23,4
+1zi7xx7UVEFkmKfv06H8x0,"Drake, Wizkid, Kyla",One Dance,South Africa,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.0018,0.329,0.37,103.967,2.9,4
+2HbKqm4o0w5wEeEFXm2sD4,"Kendrick Lamar, Jay Rock",Money Trees,South Africa,0.716,0.531,7,-7.355,1,0.122,0.0703,0.0,0.224,0.344,71.994,6.45,4
+5PRFgdwLTh9ghOFowF8Jhb,"Frenzyoffixial, Bizizi, KayGee DaKing",Gusheshe,South Africa,0.852,0.674,2,-7.584,1,0.09,0.0629,1.38e-05,0.0864,0.225,112.987,4.25,4
+5hlL3k925HsMbEHlfLcseW,"Sha Sha, Musa keys, DJ Maphorisa",Trying (feat. Musa Keys & DJ Maphorisa),South Africa,0.744,0.498,9,-11.275,0,0.0454,0.00355,0.158,0.1,0.552,112.991,7.22,4
+6XHVuErjQ4XNm6nDPVCxVX,"Chris Brown, Drake",No Guidance (feat. Drake),South Africa,0.696,0.454,1,-6.756,0,0.153,0.123,0.0,0.155,0.136,92.928,4.34,4
+4Gasn91fsCefnN8zM5GjA8,"Pheelz, BNXN fka Buju",Finesse,South Africa,0.859,0.551,1,-7.916,0,0.149,0.559,0.0,0.194,0.777,102.049,2.59,4
+4EI8VuxUuIHKfafU72emqz,Mariah Carey,We Belong Together,South Africa,0.84,0.476,0,-7.918,1,0.0629,0.0264,0.0,0.0865,0.767,139.987,3.36,4
+43PuMrRfbyyuz4QpZ3oAwN,Bryson Tiller,Exchange,South Africa,0.525,0.433,6,-10.598,1,0.185,0.107,0.0,0.135,0.276,160.108,3.24,4
+6oEVnWKgPqIEPc53OYDNqG,"H.E.R., Bryson Tiller",Could've Been (feat. Bryson Tiller),South Africa,0.45,0.352,1,-11.733,0,0.267,0.649,3.8e-06,0.249,0.408,102.679,4.21,4
+6f3Slt0GbA2bPZlz0aIFXN,Tiësto,The Business,South Africa,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,2.73,4
+1TlTzdsEpgfsmbuNfYmWfG,Giveon,For Tonight,South Africa,0.606,0.513,9,-8.756,1,0.0524,0.102,0.0,0.156,0.177,79.9,3.2,4
+285pBltuF7vW8TeWk8hdRR,Juice WRLD,Lucid Dreams,South Africa,0.511,0.566,6,-7.23,0,0.2,0.349,0.0,0.34,0.218,83.903,4.0,4
+4tqcoej1zPvwePZCzuAjJd,J. Cole,Wet Dreamz,South Africa,0.495,0.722,6,-8.108,0,0.357,0.0697,0.0,0.113,0.539,175.627,3.99,4
+2BcMwX1MPV6ZHP4tUT9uq6,"Drake, 21 Savage, Project Pat",Knife Talk (with 21 Savage ft. Project Pat),South Africa,0.849,0.424,5,-9.579,0,0.324,0.0635,0.0,0.0834,0.153,145.887,4.05,4
+2Fyjjpg03fn7n5cj0Qm380,Summer Walker,Karma,South Africa,0.593,0.294,1,-10.072,0,0.0499,0.345,2.03e-05,0.287,0.152,113.847,3.15,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,South Africa,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+2xyx0o4xNOLLjBSbOOdcbA,"Summer Walker, Bryson Tiller",Playing Games (with Bryson Tiller) - Extended Version,South Africa,0.726,0.408,11,-6.606,0,0.0614,0.603,0.0,0.225,0.459,115.918,2.39,4
+3fvyqhNTjtobvYV8VYr5w0,Riaan Benadé,Spontaan,South Africa,0.808,0.59,4,-6.685,1,0.0347,0.487,0.0,0.0703,0.735,123.983,2.97,4
+7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,South Africa,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,2.52,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,South Africa,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,South Africa,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,3.52,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),South Africa,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+2qWwuCVeMjF9mUT0S5Iqvl,"Fireboy DML, Asake",Bandana,South Africa,0.818,0.605,1,-7.121,1,0.038,0.293,0.0116,0.0696,0.366,104.931,2.97,4
+1XNAH3h63O1hWFcgyHGbjf,John Legend,Nervous,South Africa,0.545,0.587,2,-4.842,1,0.0634,0.414,0.0,0.224,0.359,123.107,3.13,4
+4x2hNvTfvtCvC5hq405jrQ,"Big Zulu, Xowla",Ivolovolo,South Africa,0.697,0.467,4,-9.345,1,0.0601,0.0685,3.17e-05,0.354,0.647,76.988,5.12,4
+0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,South Africa,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,4.39,3
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,South Africa,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+7GaFYUqP2WdR4KTPk7cXoP,Mario,Let Me Love You,South Africa,0.686,0.588,7,-8.343,0,0.0554,0.178,0.0,0.0954,0.617,94.519,4.15,4
+3sNVsP50132BTNlImLx70i,Kanye West,Bound 2,South Africa,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913,3.82,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,South Africa,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+4pAl7FkDMNBsjykPXo91B3,Rihanna,Needed Me,South Africa,0.671,0.314,5,-8.091,0,0.244,0.11,0.0,0.0825,0.296,110.898,3.19,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,South Africa,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+0RiRZpuVRbi7oqRdSMwhQY,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,South Africa,0.755,0.522,2,-4.368,1,0.0575,0.533,0.0,0.0685,0.925,89.96,2.63,4
+32vE1nuG8T9c8bhmZdRY6d,"Post Malone, Roddy Ricch",Cooped Up (with Roddy Ricch),South Africa,0.669,0.773,0,-5.619,1,0.153,0.038,0.0,0.113,0.377,93.923,3.1,4
+0fX4oNGBWO3dSGUZcVdVV2,Kendrick Lamar,N95,South Africa,0.79,0.67,1,-5.527,1,0.105,0.377,2.32e-06,0.119,0.408,139.956,3.27,4
+2J6OF7CkpdQGSfm1wdclqn,Brent Faiyaz,Clouded,South Africa,0.583,0.344,2,-8.765,1,0.0559,0.774,0.0,0.143,0.581,65.203,1.84,3
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,South Africa,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+05lM7Ep8UESoe3LV5yrew5,Lloyiso,Dream About You,South Africa,0.427,0.453,8,-10.513,1,0.058,0.14,0.0,0.123,0.749,78.896,3.33,4
+3FskQrDXcY24ur2fCvz35O,Burna Boy,Ye,South Africa,0.503,0.592,5,-5.923,0,0.444,0.0181,0.00014,0.169,0.344,201.85,3.86,4
+4bHsxqR3GMrXTxEPLuK5ue,Journey,Don't Stop Believin',South Africa,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,4.18,4
+3EMp20j5E42MxfFbsEsIvD,"Jack Harlow, Drake",Churchill Downs (feat. Drake),South Africa,0.71,0.522,11,-9.102,1,0.36,0.615,0.0,0.11,0.37,96.448,5.16,4
+1oFAF1hdPOickyHgbuRjyX,"The Weeknd, Ariana Grande",Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,South Africa,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,3.18,4
+4XvcHTUfIlWfyJTRG0aqlo,Sleepy Hallow,2055,South Africa,0.829,0.512,6,-5.865,0,0.187,0.492,0.0,0.12,0.638,80.511,2.07,4
+0ApflIvLLPwEZuS36WYlh6,"Camidoh, Mayorkun, Darkoo, King Promise","Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",South Africa,0.582,0.695,8,-5.506,1,0.0975,0.308,5.9e-06,0.112,0.543,101.005,4.19,4
+1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,South Africa,0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,3.35,4
+4zFtUFGQ7NG6iEM2K5Oca4,Eloff,Johnnie Blou,South Africa,0.894,0.655,7,-7.857,1,0.086,0.0455,0.0,0.613,0.816,116.008,3.12,4
+1QPreu0BNOrUfEb8HTd2qG,Kendrick Lamar,Rich Spirit,South Africa,0.852,0.421,10,-9.153,0,0.208,0.428,2.28e-06,0.106,0.457,95.977,3.37,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,South Africa,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+6PGoSes0D9eUDeeAafB2As,"Kendrick Lamar, Zacari",LOVE. FEAT. ZACARI.,South Africa,0.8,0.585,10,-7.343,1,0.0924,0.264,0.0,0.153,0.779,126.058,3.56,4
+7iBiBYaVBw69mmPwPBgM0t,"Mr JazziQ, Nokwazi, DJ Biza, Tsiki XII","Baleka (feat. Nokwazi, DJ Biza & Tsiki XII)",South Africa,0.812,0.626,1,-9.62,1,0.0683,0.0371,0.824,0.0341,0.321,113.004,6.28,4
+3azJifCSqg9fRij2yKIbWz,Tory Lanez,The Color Violet,South Africa,0.645,0.534,6,-10.8,0,0.0479,0.157,0.0,0.0863,0.463,105.02,3.77,4
+5BbdKBZO0TH0GhfxUfyhL9,Lil Baby,Freestyle,South Africa,0.877,0.517,2,-5.426,0,0.0706,0.217,0.0,0.143,0.255,119.996,2.7,4
+2b5yxtBC6752lc8jsCESN5,"Dj Karri, BL Zero, Lebzito, Mfana Kah Gogo",Azul (feat. Mfana Kah Gogo),South Africa,0.84,0.324,1,-15.317,1,0.356,0.132,0.0,0.222,0.283,111.995,8.05,4
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,South Africa,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+0nrRP2bk19rLc0orkWPQk2,Avicii,Wake Me Up,South Africa,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,4.12,4
+0vbmYCIWENdYyJ36Q4CdSz,"Smino, J. Cole",90 Proof (with J. Cole),South Africa,0.773,0.623,7,-6.53,1,0.0983,0.24,3.56e-05,0.148,0.528,147.826,3.47,4
+1T85qf7aGYCd7wA793pfRR,"Kabza De Small, Nkosazana Daughter",Ebusuku (feat. Nkosazana Daughter),South Africa,0.808,0.41,5,-16.397,0,0.0715,0.0032,0.114,0.073,0.491,113.01,8.29,4
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,South Africa,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,South Africa,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,3.59,4

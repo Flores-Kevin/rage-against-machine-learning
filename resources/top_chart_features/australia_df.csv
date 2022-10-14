@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Australia,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Australia,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Australia,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Australia,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Australia,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Australia,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Australia,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Australia,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Australia,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Australia,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Australia,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Australia,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+13Irp51zj01BZu2XtDrnAg,Lizzo,2 Be Loved (Am I Ready),Australia,0.721,0.769,7,-4.111,1,0.105,0.0922,0.0,0.0817,0.915,155.932,3.12,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Australia,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Australia,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Australia,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Australia,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+40SBS57su9xLiE1WqkXOVr,LF SYSTEM,Afraid To Feel,Australia,0.578,0.912,1,-3.929,1,0.114,0.0166,0.00362,0.273,0.68,127.87,2.96,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Australia,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Australia,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Australia,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Australia,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Australia,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Australia,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+0wHFktze2PHC5jDt3B17DC,Jack Harlow,First Class,Australia,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2.9,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Australia,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+48UKTR66uUOT9LaUvooTNx,Luke Combs,The Kind of Love We Make,Australia,0.608,0.745,1,-4.13,1,0.0277,0.0226,6.47e-06,0.0942,0.464,102.025,3.74,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Australia,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Australia,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Australia,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+0N9C80kcgL0xXGduKnYKWi,"Mac Miller, The Temper Trap",Love Lost,Australia,0.735,0.812,2,-4.417,1,0.151,0.528,0.0,0.186,0.584,109.835,2.71,4
+3WMj8moIAXJhHsyLaqIIHI,Zach Bryan,Something in the Orange,Australia,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3.8,3
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Australia,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,Australia,0.669,0.742,1,-3.518,0,0.0441,0.296,0.0,0.355,0.716,101.982,3.39,4
+003vvx7Niy0yvhvHt4a68B,The Killers,Mr. Brightside,Australia,0.352,0.911,1,-5.23,1,0.0747,0.00121,0.0,0.0995,0.236,148.033,3.72,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Australia,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Australia,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,Australia,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2.55,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Australia,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Australia,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Australia,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Australia,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Australia,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Australia,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,Australia,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,BREAK MY SOUL,Australia,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,4.64,4
+59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),Australia,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,3.16,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Australia,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Australia,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+3sNVsP50132BTNlImLx70i,Kanye West,Bound 2,Australia,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913,3.82,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Australia,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+5hnGrTBaEsdukpDF6aZg8a,Dean Lewis,How Do I Say Goodbye,Australia,0.4,0.641,8,-6.303,1,0.0674,0.214,0.0,0.0656,0.393,81.552,2.73,4
+4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Australia,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,4.98,3
+1r8ZCjfrQxoy2wVaBUbpwg,The Kid LAROI,Thousand Miles,Australia,0.376,0.657,7,-4.658,1,0.0768,0.0858,0.0,0.0884,0.203,80.565,2.75,4
+4cacyP5c3PMlfnyjpg13xW,Yung Gravy,Betty (Get Money),Australia,0.723,0.772,1,-6.784,1,0.0792,0.00524,1.15e-05,0.367,0.58,102.004,2.44,4
+7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,Australia,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,3.4,4
+4OmfWzukSVD140NiAIEjem,Steve Lacy,Static,Australia,0.335,0.305,1,-12.661,1,0.0741,0.434,0.631,0.101,0.215,79.001,2.61,5
+3GZD6HmiNUhxXYf8Gch723,Frank Ocean,Lost,Australia,0.913,0.603,8,-4.892,1,0.226,0.0272,0.000503,0.167,0.497,123.061,3.9,4
+0ofHAoxe9vBkTCp2UQIavz,Fleetwood Mac,Dreams - 2004 Remaster,Australia,0.828,0.492,0,-9.744,1,0.0276,0.0644,0.00428,0.128,0.789,120.151,4.3,4
+37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Australia,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,2.89,4
+6qmvAJSUfVGMubvI2awW7p,Tate McRae,uh oh,Australia,0.625,0.604,10,-7.415,0,0.339,0.257,2.06e-05,0.129,0.372,174.089,2.83,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Australia,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,good 4 u,Australia,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,2.97,4
+5A5bLKdL5I3k3FTEQlAUw7,"SUPER-Hi, NEEKA",Following the Sun,Australia,0.734,0.828,6,-4.433,0,0.033,0.398,0.0225,0.136,0.717,127.023,3.42,4
+4KGNI037I8ZA6n3h6LYuey,"R3HAB, Amy Shark",Sway My Way (with Amy Shark),Australia,0.764,0.757,9,-5.13,1,0.0307,0.408,5.28e-05,0.111,0.252,114.022,2.28,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Australia,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Australia,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+0JzG1wJuB4v9UPkSE7LMXi,Montell Fish,Hotel,Australia,0.228,0.427,0,-8.739,0,0.0363,0.752,0.0167,0.592,0.192,180.345,3.29,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Australia,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Australia,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+3sa06xVNmLLYIxdNNmVQN8,"Jax Jones, MNEK",Where Did You Go? (feat. MNEK),Australia,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,0.502,127.034,2.96,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Australia,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,Australia,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Australia,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+7l9IqDtVWJurTvkQHq1BGh,Tate McRae,she's all i wanna be,Australia,0.602,0.626,2,-5.323,0,0.0396,0.0129,9.02e-06,0.144,0.619,160.118,3.45,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Australia,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+6Qyc6fS4DsZjB2mRW9DsQs,The Goo Goo Dolls,Iris,Australia,0.315,0.715,11,-8.072,0,0.0362,0.00125,7.97e-06,0.0942,0.497,155.925,4.83,3
+5nujrmhLynf4yMoMtj8AQF,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),Australia,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,3.38,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Australia,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+1mMLMZYXkMueg65jRRWG1l,Luke Combs,When It Rains It Pours,Australia,0.551,0.801,6,-5.069,1,0.0303,0.013,6.03e-06,0.265,0.625,128.027,4.01,4
+22skzmqfdWrjJylampe0kt,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",Can't Hold Us (feat. Ray Dalton),Australia,0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,0.88,146.097,4.31,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Australia,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Australia,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Australia,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Australia,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+3E7dfMvvCLUddWissuqMwr,Miley Cyrus,Party In The U.S.A.,Australia,0.652,0.698,10,-4.667,0,0.042,0.00112,0.000115,0.0886,0.47,96.021,3.37,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Australia,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+3Oww84xrmgjyr5J1ilOmAf,"Luude, Colin Hay",Down Under (feat. Colin Hay),Australia,0.308,0.86,11,-4.111,0,0.168,0.0116,0.000828,0.277,0.0387,171.835,2.65,4
+4bHsxqR3GMrXTxEPLuK5ue,Journey,Don't Stop Believin',Australia,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,4.18,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Australia,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+0ntQJM78wzOLVeCUAW7Y45,Kings of Leon,Sex on Fire,Australia,0.542,0.905,9,-5.653,1,0.054,0.00172,0.0104,0.136,0.374,153.398,3.39,4
+2rxQMGVafnNaRaXlRMWPde,Luke Combs,Beautiful Crazy,Australia,0.551,0.402,11,-7.431,1,0.0262,0.676,0.0,0.0928,0.382,103.313,3.22,4
+46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Australia,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,3.74,4
+0RiRZpuVRbi7oqRdSMwhQY,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,Australia,0.755,0.522,2,-4.368,1,0.0575,0.533,0.0,0.0685,0.925,89.96,2.63,4
+1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,Don’t Blame Me,Australia,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917,3.94,4
+21DuXS5wpeO1z0dp445bop,Vance Joy,Clarity,Australia,0.552,0.873,0,-6.065,1,0.0464,0.00137,0.000273,0.0966,0.62,125.059,3.79,4
+4RvWPyQ5RL0ao9LPZeSouE,Tears For Fears,Everybody Wants To Rule The World,Australia,0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067,4.19,4
+3GYlZ7tbxLOxe6ewMNVTkw,Billie Eilish,TV,Australia,0.412,0.236,4,-15.159,0,0.0379,0.83,0.00653,0.147,0.119,140.214,4.69,4
+0GONea6G2XdnHWjNZd6zt3,Bryan Adams,Summer Of '69,Australia,0.508,0.834,2,-6.205,1,0.0386,0.0183,0.0,0.0732,0.774,139.131,3.6,4
+4pi1G1x8tl9VfdD9bL3maT,Latto,Big Energy,Australia,0.937,0.793,11,-4.431,0,0.115,0.0453,0.0,0.341,0.794,106.022,2.88,4
+0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,THATS WHAT I WANT,Australia,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,2.4,4
+5qrSlOut2rNAWv3ubArkNy,Dean Lewis,Be Alright,Australia,0.551,0.537,11,-7.595,1,0.034,0.705,0.0,0.0802,0.493,126.421,3.27,4
+3ZCTVFBt2Brf31RLEnCkWJ,Billie Eilish,everything i wanted,Australia,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,4.09,4
+3azJifCSqg9fRij2yKIbWz,Tory Lanez,The Color Violet,Australia,0.645,0.534,6,-10.8,0,0.0479,0.157,0.0,0.0863,0.463,105.02,3.77,4
+1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Australia,0.686,0.735,2,-4.616,1,0.264,0.00921,0.00066,0.342,0.0596,171.355,5.37,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Australia,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Australia,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,Australia,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+4Li2WHPkuyCdtmokzW2007,"JAY-Z, Kanye West",Ni**as In Paris,Australia,0.789,0.858,1,-5.542,1,0.311,0.127,0.0,0.349,0.775,140.022,3.66,4
+4EWCNWgDS8707fNSZ1oaA5,Kanye West,Heartless,Australia,0.79,0.647,10,-5.983,0,0.136,0.0515,0.0,0.248,0.654,87.999,3.52,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Australia,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Australia,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4.03,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Australia,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,Australia,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Australia,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4.04,4
+0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Australia,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,0.691,116.731,5.01,4
+3DarAbFujv6eYNliUTyqtz,"Doja Cat, SZA",Kiss Me More (feat. SZA),Australia,0.764,0.705,8,-3.463,1,0.0284,0.259,8.92e-05,0.12,0.781,110.97,3.48,4
+7iL6o9tox1zgHpKUfh9vuC,50 Cent,In Da Club,Australia,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,3.22,4
+2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Australia,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4.29,4
+2VxeLyX666F8uXCJ0dZF8B,"Lady Gaga, Bradley Cooper",Shallow,Australia,0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,3.6,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Australia,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Australia,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,3.52,4
+0cqRj7pUJDkTCEsJkx8snD,Taylor Swift,Shake It Off,Australia,0.647,0.8,7,-5.384,1,0.165,0.0647,0.0,0.334,0.942,160.078,3.65,4
+43zdsphuZLzwA9k4DJhU0I,Billie Eilish,when the party's over,Australia,0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,3.27,4
+0frIZMaQwtdV4Ee8nhB1te,Cold Chisel,Khe Sanh - 2011 Remastered,Australia,0.474,0.918,7,-4.21,1,0.177,0.129,0.0,0.238,0.655,164.049,4.23,4
+21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,Australia,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,3.59,4
+2HbKqm4o0w5wEeEFXm2sD4,"Kendrick Lamar, Jay Rock",Money Trees,Australia,0.716,0.531,7,-7.355,1,0.122,0.0703,0.0,0.224,0.344,71.994,6.45,4
+0nrRP2bk19rLc0orkWPQk2,Avicii,Wake Me Up,Australia,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,4.12,4
+2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Australia,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,0.454,116.959,3.9,3
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Australia,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,Australia,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,4.04,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Australia,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+07GvNcU1WdyZJq3XxP0kZa,Fleetwood Mac,Go Your Own Way - 2004 Remaster,Australia,0.583,0.947,5,-5.12,1,0.0378,0.0185,0.00109,0.0679,0.803,135.448,3.73,4
+4kbj5MwxO1bq9wjT5g9HaA,WALK THE MOON,Shut Up and Dance,Australia,0.578,0.866,1,-3.804,1,0.0619,0.00701,0.0,0.257,0.619,128.038,3.32,4
+2374M0fQpWi3dLnB54qaLX,TOTO,Africa,Australia,0.671,0.373,9,-18.064,1,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,4.93,4
+7KwZNVEaqikRSBSpyhXK2j,The Notorious B.I.G.,Hypnotize - 2014 Remaster,Australia,0.901,0.697,9,-3.439,1,0.28,0.145,0.0,0.287,0.67,93.941,3.83,4
+5UWwZ5lm5PKu6eKsHAGxOk,Foo Fighters,Everlong,Australia,0.413,0.881,11,-5.541,0,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066,4.18,4
+5YbPxJwPfrj7uswNwoF1pJ,Burna Boy,Last Last,Australia,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,2.87,4
+4tqcoej1zPvwePZCzuAjJd,J. Cole,Wet Dreamz,Australia,0.495,0.722,6,-8.108,0,0.357,0.0697,0.0,0.113,0.539,175.627,3.99,4
+0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Australia,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,3.41,4
+2gam98EZKrF9XuOkU13ApN,"Nelly Furtado, Timbaland",Promiscuous,Australia,0.808,0.97,10,-6.098,0,0.0506,0.0569,6.13e-05,0.154,0.868,114.328,4.04,4
+0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Australia,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,4.39,3
+4oxGI8yyghLuMV7ybRG3kg,Central Cee,Obsessed With You,Australia,0.746,0.825,3,-4.457,1,0.0435,0.192,0.0,0.365,0.904,143.062,1.81,4
+3yrSvpt2l1xhsV9Em88Pul,Van Morrison,Brown Eyed Girl,Australia,0.491,0.583,7,-10.964,1,0.0376,0.185,0.0,0.406,0.908,150.566,3.06,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Australia,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+37ZJ0p5Jm13JPevGcx4SkF,Bon Jovi,Livin' On A Prayer,Australia,0.532,0.887,0,-3.757,1,0.0335,0.0778,0.000214,0.294,0.795,122.511,4.15,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Australia,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+1u8c2t2Cy7UBoG4ArRcF5g,Taylor Swift,Blank Space,Australia,0.76,0.703,5,-5.412,1,0.054,0.103,0.0,0.0913,0.57,95.997,3.86,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Australia,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+4XvcHTUfIlWfyJTRG0aqlo,Sleepy Hallow,2055,Australia,0.829,0.512,6,-5.865,0,0.187,0.492,0.0,0.12,0.638,80.511,2.07,4
+6IBcOGPsniK3Pso1wHIhew,Luke Combs,Forever After All,Australia,0.487,0.65,0,-5.195,1,0.0253,0.191,0.0,0.0933,0.456,151.964,3.88,4
+7o2CTH4ctstm8TNelqjb51,Guns N' Roses,Sweet Child O' Mine,Australia,0.454,0.91,6,-7.766,1,0.0448,0.0866,0.0996,0.116,0.629,125.116,5.91,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Australia,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+2N8m6CYs74qQO4mjVcXO30,Tones And I,Dance Monkey,Australia,0.824,0.587,6,-6.401,0,0.0937,0.69,0.000105,0.149,0.514,98.029,3.49,4
+7aEtlGHoiPAfRB084NiDmx,Luke Combs,Beer Never Broke My Heart,Australia,0.538,0.863,1,-4.483,1,0.0481,0.0139,0.0,0.0874,0.637,77.001,3.11,4
+3dYD57lRAUcMHufyqn9GcI,Hozier,Take Me to Church,Australia,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,4.03,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Australia,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+2SiXAy7TuUkycRVbbWDEpo,AC/DC,You Shook Me All Night Long,Australia,0.532,0.767,7,-5.509,1,0.0574,0.00287,0.000513,0.39,0.755,127.361,3.5,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Australia,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+0wXuerDYiBnERgIpbb3JBR,Childish Gambino,Redbone,Australia,0.743,0.344,1,-11.174,1,0.118,0.169,0.00879,0.103,0.577,160.15,5.45,4
+4xkOaSrkexMciUUogZKVTS,"Eminem, Nate Dogg",Till I Collapse,Australia,0.548,0.847,1,-3.237,1,0.186,0.0622,0.0,0.0816,0.1,171.447,4.96,4
+6Amt2E3nanH9lhZnas9oOs,Choirboys,Run To Paradise,Australia,0.698,0.71,9,-8.569,1,0.0452,0.161,0.0828,0.0489,0.691,138.797,4.19,4
+4u7EnebtmKWzUH433cf5Qv,Queen,Bohemian Rhapsody - Remastered 2011,Australia,0.414,0.404,0,-9.928,0,0.0499,0.271,0.0,0.3,0.224,71.105,5.91,4
+5rb9QrpfcKFHM1EUbSIurX,"Usher, Lil Jon, Ludacris",Yeah! (feat. Lil Jon & Ludacris),Australia,0.894,0.791,2,-4.699,1,0.112,0.0183,0.0,0.0388,0.583,105.018,4.17,4
+2iUXsYOEPhVqEBwsqP70rE,5 Seconds of Summer,Youngblood,Australia,0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274,3.39,4
+7aZiDdufBX2Ek8OUuxK0IQ,Hilltop Hoods,The Nosebleed Section,Australia,0.846,0.828,1,-5.447,1,0.165,0.51,1.28e-06,0.0906,0.908,97.453,3.66,4
+6FE2iI43OZnszFLuLtvvmg,MKTO,Classic,Australia,0.72,0.791,1,-4.689,1,0.124,0.0384,0.0,0.157,0.756,102.071,2.92,4
+3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Australia,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,3.05,4
+1KGi9sZVMeszgZOWivFpxs,TLC,No Scrubs,Australia,0.743,0.675,8,-4.267,0,0.0953,0.0251,0.000717,0.0685,0.59,92.909,3.57,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Australia,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+1zi7xx7UVEFkmKfv06H8x0,"Drake, Wizkid, Kyla",One Dance,Australia,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.0018,0.329,0.37,103.967,2.9,4
+4HlFJV71xXKIGcU3kRyttv,Train,"Hey, Soul Sister",Australia,0.673,0.886,1,-4.44,0,0.0431,0.185,0.0,0.0826,0.795,97.012,3.61,4
+2gMXnyrvIjhVBUZwvLZDMP,Lewis Capaldi,Before You Go,Australia,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,3.59,4
+3UmaczJpikHgJFyBTAJVoz,"Eminem, Dido",Stan,Australia,0.78,0.768,6,-4.325,0,0.238,0.0371,2.34e-06,0.518,0.507,80.063,6.74,4
+1oFAF1hdPOickyHgbuRjyX,"The Weeknd, Ariana Grande",Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,Australia,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,3.18,4
+2pxxVkNhrRST8fpgA12ru8,Powderfinger,My Happiness,Australia,0.445,0.823,0,-5.415,1,0.0302,0.00163,0.0,0.43,0.487,85.935,4.61,4
+7FGq80cy8juXBCD2nrqdWU,"benny blanco, Halsey, Khalid",Eastside (with Halsey & Khalid),Australia,0.632,0.686,6,-7.665,0,0.243,0.549,0.0,0.2,0.329,89.949,2.85,4
+2LawezPeJhN4AWuSB0GtAU,Creedence Clearwater Revival,Have You Ever Seen The Rain,Australia,0.741,0.697,0,-7.028,1,0.0277,0.0664,2.28e-05,0.133,0.774,116.109,2.67,4
+6feiJqgHqeSvkGUzf11AYs,"Becky Hill, David Guetta",Remember (and David Guetta),Australia,0.626,0.864,8,-3.12,1,0.0378,0.0682,0.0,0.087,0.555,123.833,2.69,4
+5TRPicyLGbAF2LGBFbHGvO,"Kanye West, Dwele",Flashing Lights,Australia,0.639,0.628,6,-7.578,0,0.0399,0.0381,0.0,0.386,0.43,90.482,3.96,4
+7DFNE7NO0raLIUbgzY2rzm,Passenger,Let Her Go,Australia,0.509,0.538,7,-7.335,1,0.0572,0.385,0.0,0.104,0.244,75.089,4.21,4
+286TLtk120rnrmVeQClDTc,Empire of the Sun,Walking On A Dream,Australia,0.87,0.699,5,-5.541,0,0.0459,0.245,6.76e-06,0.0588,0.726,126.967,3.31,4
+7BqBn9nzAq8spo5e7cZ0dJ,Bruno Mars,Just the Way You Are,Australia,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,3.68,4
+3Fzlg5r1IjhLk2qRw667od,Toploader,Dancing in the Moonlight,Australia,0.632,0.856,10,-3.463,1,0.0348,0.0624,0.0,0.347,0.867,119.397,3.88,4
+5qqabIl2vWzo9ApSC317sa,Oasis,Wonderwall - Remastered,Australia,0.378,0.896,2,-4.066,1,0.0407,0.000452,0.0,0.194,0.469,174.302,4.31,4
+2PpruBYCo4H7WOBJ7Q2EwM,Outkast,Hey Ya!,Australia,0.727,0.974,4,-2.261,0,0.0664,0.103,0.000532,0.174,0.965,79.526,3.92,4
+3Vby4nGmtbDo7HDJamOWkT,Stealers Wheel,Stuck In The Middle With You,Australia,0.82,0.575,7,-9.144,1,0.0408,0.0936,0.000135,0.109,0.964,123.765,3.48,4
+0I3q5fE6wg7LIfHGngUTnV,Outkast,Ms. Jackson,Australia,0.843,0.806,4,-5.946,0,0.269,0.143,0.0,0.0771,0.613,94.948,4.51,4
+6K4t31amVTZDgR3sKmwUJJ,Tame Impala,The Less I Know The Better,Australia,0.64,0.74,4,-4.083,1,0.0284,0.0115,0.00678,0.167,0.785,116.879,3.61,4
+1GjbTNFImFrjFsNdleDe78,INXS,Never Tear Us Apart,Australia,0.664,0.613,0,-7.56,1,0.0273,0.00309,0.000128,0.175,0.193,96.6,3.08,3
+51pshtuYkgUQnt5huMPbKL,Mac Miller,The Spins,Australia,0.794,0.766,9,-3.894,0,0.0377,0.0135,0.0,0.0785,0.55,127.007,3.26,4
+04sN26COy28wTXYj3dMoiZ,Billie Eilish,Bored,Australia,0.614,0.318,7,-12.695,1,0.0478,0.896,0.00239,0.0795,0.112,119.959,3.02,4
+2Fxmhks0bxGSBdJ92vM42m,Billie Eilish,bad guy,Australia,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,3.23,4
+68EkhVWIeULhHxcbi1QhzK,AJR,World's Smallest Violin,Australia,0.68,0.697,5,-7.01,1,0.0484,0.121,0.0,0.661,0.684,116.033,3.01,4
+4kLLWz7srcuLKA7Et40PQR,Black Eyed Peas,I Gotta Feeling,Australia,0.743,0.766,0,-6.375,1,0.0265,0.0873,0.0,0.509,0.61,127.96,4.82,4
+0d28khcov6AiegSCpG5TuT,Gorillaz,Feel Good Inc.,Australia,0.818,0.705,6,-6.679,1,0.177,0.00836,0.00233,0.613,0.772,138.559,3.71,4
+0y60itmpH0aPKsFiGxmtnh,WILLOW,Wait a Minute!,Australia,0.764,0.705,3,-5.279,0,0.0278,0.0371,1.94e-05,0.0943,0.672,101.003,3.28,4
+49x8Zp5wDjoquBE1THLLCV,The Temper Trap,Sweet Disposition,Australia,0.545,0.81,2,-6.899,1,0.0443,0.0701,0.197,0.122,0.305,129.138,3.86,4
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Australia,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+1Slwb6dOYkBlWal1PGtnNg,Ed Sheeran,Thinking out Loud,Australia,0.781,0.445,2,-6.061,1,0.0295,0.474,0.0,0.184,0.591,78.998,4.69,4

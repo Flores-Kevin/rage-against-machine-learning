@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Sweden,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+3xPsqMJQNM14OrawTBiK4G,"Victor Leksell, Einár",Din låt,Sweden,0.833,0.507,7,-6.95,1,0.0413,0.191,0.0,0.0854,0.483,111.031,2.75,4
+1fIeKG6eI8FZzVL9mhlz8t,Bolaget,Kan Inte Gå,Sweden,0.722,0.415,11,-9.105,0,0.132,0.231,0.0,0.238,0.661,144.774,2.45,4
+05tLudzJAr4iHnDiWWdA59,Thrife,SEVILLA,Sweden,0.814,0.631,9,-9.822,0,0.0971,0.068,0.000122,0.0792,0.264,133.971,2.93,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Sweden,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+2ZfaBbRMcEgSF8JnJIaEBP,Hooja,Banan Melon Kiwi & Citron,Sweden,0.876,0.698,5,-9.543,1,0.0537,0.155,1.91e-05,0.181,0.85,130.033,2.8,4
+1puxV64QJkmRUhhXt4T9rD,Hooja,MER & MER,Sweden,0.848,0.675,9,-8.509,0,0.104,0.105,1.85e-06,0.0833,0.505,139.988,2.39,4
+7aRCAByC8ktZVKhVhDS4la,Alawee,Aktiverad,Sweden,0.938,0.781,9,-5.665,1,0.203,0.159,0.0,0.0943,0.753,131.059,2.57,4
+74xfr2lyWfi2qZjWtqovBg,"Rasmus Gozzi, FRÖKEN SNUSK",RID MIG SOM EN DALAHÄST,Sweden,0.556,0.674,2,-5.518,1,0.363,0.207,0.0,0.296,0.447,208.066,2.02,4
+1fzi4hh7nlMpKbT2EZl3a0,A36,Tappat - Spotify Singles,Sweden,0.496,0.553,6,-7.508,0,0.0958,0.213,0.00047,0.182,0.307,107.312,2.51,4
+6WLFyN5UYRWIadKHq3LLRV,"ADAAM, Philippe, takenoelz",SÖDERMALM,Sweden,0.82,0.727,7,-5.57,0,0.267,0.185,0.0,0.325,0.741,96.085,2.56,4
+5DRJr5a0J0aEIejegQvd7F,"Dizzy, Manny Flaco",ZUTTLUKTEN,Sweden,0.834,0.713,3,-5.23,0,0.25,0.203,0.0,0.075,0.862,134.003,1.91,4
+2D3O7NUUdTrMu30ZtGa2s6,LOAM,F*CKED UP!,Sweden,0.796,0.532,10,-7.15,1,0.137,0.402,0.0,0.334,0.817,136.038,2.8,4
+03XktnlHaenNj1tJP8zQFs,Ant Wan,Loyal,Sweden,0.743,0.591,10,-5.858,0,0.0385,0.22,0.0,0.0924,0.423,102.863,3.15,4
+3HQ2hJIvStlHS8SRWFGdId,"Denz, Youzie",Chit Chat,Sweden,0.759,0.706,11,-8.476,0,0.185,0.0717,0.0,0.216,0.948,167.139,2.87,4
+1VJRxqJhpEIpnHon7ssp1p,Babblarna,Babblarnas vaggvisa,Sweden,0.299,0.234,11,-13.009,1,0.0321,0.828,0.000101,0.0959,0.333,186.369,5.57,4
+1RwQZNgaXl01krZHuSUlE8,"Elov & Beny, Sofie Svensson & Dom Där",BUBBEL PÅ BALKONGEN,Sweden,0.714,0.732,0,-5.357,0,0.174,0.662,0.0,0.105,0.72,179.951,2.77,4
+5fvrpWPEDhM6IDyKb56ySV,Hooja,LIVET PÅ EN PINNE,Sweden,0.854,0.626,0,-9.012,1,0.0533,0.424,0.0,0.223,0.659,101.009,2.73,4
+5PzratDTUf07VyMKrGGxz3,El Papi,Hjerteløs,Sweden,0.597,0.772,5,-8.032,0,0.0777,0.0562,0.00397,0.395,0.532,164.036,2.3,4
+5hnGrTBaEsdukpDF6aZg8a,Dean Lewis,How Do I Say Goodbye,Sweden,0.4,0.641,8,-6.303,1,0.0674,0.214,0.0,0.0656,0.393,81.552,2.73,4
+2acI4LUjCjPuFk0Y05yVNZ,"Owen, Asme",DIRTY,Sweden,0.769,0.555,0,-6.63,0,0.149,0.201,0.00267,0.125,0.472,121.986,2.3,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Sweden,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+3Tp6XRivI85TAfpgja9ILh,Miss Li,X,Sweden,0.854,0.679,1,-4.135,0,0.0339,0.00455,0.0,0.0864,0.946,125.975,2.7,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Sweden,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+6ts0bxk9N8qiVA7UhhFOJY,"Laleh, Darin",Vi Är På Riktigt,Sweden,0.741,0.74,0,-5.514,1,0.0291,0.15,1.14e-05,0.17,0.878,124.987,3.13,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Sweden,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Sweden,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+6lW1r61qewMDG7oJGVP1EZ,"23, VC Barre",Catfish,Sweden,0.725,0.751,2,-8.683,1,0.347,0.0883,0.0,0.273,0.753,142.018,2.5,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Sweden,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+5maA851Fle6XexgJgJzFjF,"Humlan Djojj, Josefine Götestam",Djurens vaggvisa,Sweden,0.743,0.0349,0,-17.89,1,0.0504,0.972,2.24e-06,0.108,0.451,99.969,2.33,4
+0QfxhyX9dky9Zgfr2xhNzR,Hooja,Donkey Kong,Sweden,0.911,0.6,0,-9.232,1,0.0945,0.0395,0.0557,0.178,0.436,120.026,2.47,4
+2NnO7FJonRjGvAjm3LwKvl,"LOAM, ADAAM",FAKKA UR,Sweden,0.94,0.439,7,-11.171,1,0.516,0.302,0.0,0.125,0.722,123.041,2.21,4
+6mDcLPGVCmdhMN4gBzNb7s,"1.Cuz, Greekazo, Yei Gonzalez",FÖRSENT,Sweden,0.937,0.707,10,-5.153,0,0.146,0.18,0.000376,0.186,0.766,100.031,3.04,4
+2TLVUAQzq9FnzSxFYGOF7Y,Henric Edström,Hot Girls (dricker hotshots),Sweden,0.755,0.731,7,-5.891,1,0.256,0.548,0.0,0.235,0.876,110.369,1.61,4
+1bgKMxPQU7JIZEhNsM1vFs,"Alesso, Zara Larsson",Words (feat. Zara Larsson),Sweden,0.739,0.586,10,-5.079,0,0.0472,0.0245,0.000252,0.308,0.444,124.026,2.38,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Sweden,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Sweden,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+6G1Mz5yMgn0ydOlIvTrZ65,TALK,Run Away to Mars,Sweden,0.554,0.38,9,-10.666,1,0.0314,0.526,0.0,0.213,0.284,118.925,3.56,4
+0qswyajymNk1uMRplcKx3P,Hooja,GÅR DET BRA?,Sweden,0.702,0.632,10,-7.704,0,0.35,0.713,0.000292,0.21,0.561,159.768,2.43,4
+1khruC7lTyH8MPLx1VYxYE,"Sebastian Stakset, 23",BLÖDER FRÅN SJÄLEN,Sweden,0.559,0.723,8,-6.56,0,0.292,0.195,0.0,0.249,0.39,123.979,2.84,5
+3KSegg0APyp082vo9peW7e,Hov1,FREE SMOKE,Sweden,0.727,0.572,1,-5.821,1,0.307,0.775,0.0,0.102,0.885,151.197,2.66,4
+2JDsYmNrm68Om1TK0D4VeA,"23, C.Gambino",En Chans,Sweden,0.708,0.59,7,-12.75,0,0.185,0.489,0.0268,0.572,0.42,103.824,2.08,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Sweden,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Sweden,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+2GcKDi81Fn68QAnwWV0E6j,Jireel,Tar hand om dig,Sweden,0.528,0.842,5,-5.518,0,0.295,0.0253,5.66e-06,0.0727,0.664,154.036,3.11,5
+2WigMwGJysIh9fRnSJvpjn,Oxlade,KU LO SA - A COLORS SHOW,Sweden,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9,2.46,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Sweden,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+1ei3hzQmrgealgRKFxIcWn,Benson Boone,In The Stars,Sweden,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,0.3,78.007,3.61,3
+3caeN4bneZW7GQAqwslu2U,Einár,Lilla Nisse,Sweden,0.712,0.588,0,-10.303,1,0.321,0.271,0.0,0.083,0.472,97.063,3.2,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Sweden,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+4gORd3Ws62ueWU2tQ2Fe16,"De Vet Du, Bolaget",SUPA,Sweden,0.712,0.655,6,-8.939,0,0.0573,0.0327,6.19e-06,0.0832,0.52,161.926,2.97,4
+21qmv5S238wxa9ZDiwbllJ,"VC Barre, 01an",Devilish,Sweden,0.697,0.731,11,-7.206,0,0.395,0.0977,0.0,0.564,0.765,98.223,2.48,4
+6wT8TBV3CkKbNvuDjxeGaa,Myra Granberg,Grammofon,Sweden,0.63,0.669,5,-5.651,1,0.157,0.0309,0.0,0.314,0.702,139.904,3.16,4
+47aGU91Mqqjt1ZJ9NgQXqY,Beathoven,PRIMADONNA,Sweden,0.767,0.787,11,-6.946,1,0.0575,0.0367,8.82e-05,0.048,0.675,154.996,2.27,4
+5BtXbZ4dArIaZka8pNzSp0,Lee Bloccboy,4 grabbar,Sweden,0.842,0.558,6,-7.017,0,0.25,0.0291,0.00243,0.0824,0.454,83.021,2.41,4
+64s0ZmTEwVhztlrEP6Xt9J,Sarettii,MATADOR,Sweden,0.878,0.527,8,-10.173,0,0.137,0.378,0.00183,0.297,0.735,132.003,3.28,4
+5YbPxJwPfrj7uswNwoF1pJ,Burna Boy,Last Last,Sweden,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,2.87,4
+7ofOfhBu0FCuVemv4zL8Ry,Ant Wan,Komplicerat,Sweden,0.503,0.871,2,-6.336,0,0.0885,0.0451,0.0135,0.111,0.383,98.848,2.32,4
+5TFJLlEljmmlxS3s58oQN8,Newkid,Stå med mig i regnet - Spotify Studio It's Hits Recording,Sweden,0.532,0.495,5,-8.271,0,0.0349,0.0147,2.22e-06,0.0712,0.0774,122.701,3.91,4
+7iKUMPi3CcDLLNF4pU1vND,Olivia Lobato,Syrener,Sweden,0.643,0.476,7,-8.673,0,0.0337,0.106,0.0202,0.104,0.358,122.948,3.05,4
+21H0pUV2uPIPcFnFhgTBjo,"Kygo, Gryffin, Calum Scott",Woke Up in Love,Sweden,0.643,0.585,2,-5.994,1,0.0369,0.225,0.0,0.0927,0.188,106.015,3.61,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Sweden,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+0HaRLPnr887lcQM2YQzkff,"Burna Boy, Ed Sheeran",For My Hand (feat. Ed Sheeran),Sweden,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,2.65,4
+3L2N1sejA5EKPKB1JOHCsX,Hooja,POLERS,Sweden,0.824,0.598,6,-9.068,0,0.141,0.403,1.86e-05,0.295,0.776,127.986,3.22,4
+2Gd0oV24QsH0zb9nKFx7s5,"Hov1, Einár",Gamora,Sweden,0.648,0.733,10,-5.359,0,0.155,0.103,0.0,0.0652,0.836,174.849,2.75,4
+4q2nejfnJpmHqr2GAi09ph,"Hanna Ferm, Junie",Välkommen Åter,Sweden,0.775,0.675,0,-5.43,1,0.0734,0.133,0.0,0.151,0.907,139.968,2.93,4
+5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,Sweden,0.669,0.742,1,-3.518,0,0.0441,0.296,0.0,0.355,0.716,101.982,3.39,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Sweden,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Sweden,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+3fd8cxZvehZNFD8KUri30T,Bolaget,Dum,Sweden,0.603,0.441,1,-11.315,0,0.0565,0.508,0.0,0.143,0.747,144.972,2.81,4
+3MOiHZI4V8KaDdSaOSOVMQ,Einár,Koppla av,Sweden,0.727,0.757,11,-7.941,0,0.21,0.499,0.000224,0.0884,0.471,98.037,3.96,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Sweden,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Sweden,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+1ugQtcwmKOXvKAYzhjncmv,Dean Lewis,Half A Man,Sweden,0.507,0.204,0,-11.575,1,0.0504,0.855,0.0,0.143,0.343,77.765,2.99,4
+5yoafZ4sNIlX4BuQwlKQCX,"Olivia Lobato, Björn Holmgren",Haglar – Spotify Studio It’s Hits Recording,Sweden,0.709,0.77,5,-5.422,1,0.0357,0.0909,0.0,0.725,0.539,129.013,3.16,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Sweden,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+1lRhiGwhU0rOvdQegTNmND,Simon Superti,Hemlisar,Sweden,0.662,0.806,9,-5.307,0,0.127,0.521,0.0,0.365,0.858,126.106,3.58,4
+6g5K1kubnMcCkcQlvIRxVy,Molly Sandén,Vi:et i vinsten (Sveriges Officiella EM-låt 2022),Sweden,0.704,0.691,7,-5.866,1,0.0362,0.0133,0.0,0.117,0.749,123.98,3.18,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Sweden,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Sweden,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+2gwirjNHYJPlBwOJ5Aftwv,Albin Lee Meldau,Josefin,Sweden,0.515,0.454,4,-10.119,0,0.0306,0.836,0.0643,0.161,0.458,81.009,3.69,1
+4SS4YfDAEQG0fZAe1xfgn3,Victor Leksell,Svag,Sweden,0.595,0.528,5,-8.922,0,0.0621,0.748,0.0,0.112,0.419,153.74,3.19,4
+46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Sweden,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,3.74,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Sweden,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+5nkkVqGi9YgFOwdbn4BYFM,"Alan Walker, Trevor Daniel",Extremes,Sweden,0.618,0.678,8,-6.307,0,0.0646,0.00361,0.0,0.0693,0.394,122.212,2.49,4
+74TEgDsFaq0zMttq1dVuYK,Einár,Första Klass,Sweden,0.799,0.663,8,-4.956,0,0.171,0.389,0.0,0.105,0.425,95.053,2.53,4
+5cKilVQ9iZamOzodVcYQZ2,23,Trapper Of The Year (Intro) - Bonus Track,Sweden,0.725,0.453,6,-11.291,0,0.316,0.00582,0.0135,0.0827,0.461,121.913,1.84,4
+07l5IJqrY6ERJw7HNdnM0G,Victor Leksell,Hela världen är min,Sweden,0.547,0.808,0,-5.354,1,0.0622,0.0114,1.06e-06,0.145,0.489,159.974,3.11,4
+5JDSo3RJECc8LMcslLcUo5,Ant Wan,En,Sweden,0.602,0.527,10,-6.528,1,0.292,0.174,0.0,0.0976,0.188,91.476,2.93,4
+3vWJ3fZKghO8kHntrAa8oB,"Hannes, waterbaby",Stockholmsvy,Sweden,0.741,0.389,1,-10.971,1,0.0615,0.462,0.532,0.103,0.742,90.01,2.69,4
+0C3shWEOObGT5IxApC7Mkg,Henry Moodie,you were there for me,Sweden,0.571,0.845,6,-4.4,1,0.0595,0.0549,5.5e-05,0.081,0.409,163.884,3.26,4
+3WiVbKsEJhierVISxoc07e,"Norlie & KKV, Benjamin Ingrosso",Som ett minne blott,Sweden,0.75,0.736,4,-5.968,0,0.0425,0.0458,0.0,0.26,0.535,105.017,3.19,4
+6t0YIui8b5Jt8oUVOrmujk,Yasin,Young & Heartless,Sweden,0.829,0.55,8,-9.071,1,0.3,0.39,3.47e-05,0.116,0.867,101.871,2.43,4
+5MDEk3mfOcZs4BRgalCqyC,23,Xatar,Sweden,0.629,0.512,8,-10.143,1,0.188,0.295,6.64e-06,0.11,0.51,103.912,2.07,4
+6xjKLvdIXKA3mXDZUsMmPC,Lov1,Bästis Festis,Sweden,0.848,0.639,5,-8.964,1,0.143,0.144,0.0,0.231,0.661,100.022,2.44,4
+7up4SX2l8FAnisrUXoGupd,"Lukas Graham, Khalid",Wish You Were Here (feat. Khalid),Sweden,0.646,0.64,8,-5.554,1,0.0304,0.00119,0.0,0.138,0.127,105.957,2.93,4
+28TGtp6irVUZhTv5ytdex1,Thomas Stenström,Sista sommaren,Sweden,0.572,0.743,10,-4.813,1,0.027,0.0713,0.0,0.134,0.772,96.979,3.17,4
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,Sweden,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Sweden,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+4wGFTaengFG4o6nYZAK1Xg,A36,Samma gamla vanliga,Sweden,0.935,0.474,2,-9.525,1,0.222,0.393,0.00157,0.07,0.577,111.046,2.17,4
+2Jub86Y9MLipu7R2pmdvcW,"Rami, Mackan",Vikt,Sweden,0.886,0.719,0,-7.854,1,0.164,0.655,0.00385,0.0934,0.866,128.058,3.07,4
+0wqHIqVLDIRjJqvm8nmiG4,Gaboro,Suavemente,Sweden,0.718,0.567,6,-8.306,0,0.158,0.316,0.0119,0.107,0.642,86.735,2.25,5
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Sweden,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+7rwijx2xejRaPkEXUftI11,Sarettii,SOM DOM,Sweden,0.858,0.575,9,-8.996,1,0.138,0.405,0.0,0.0639,0.777,113.057,2.36,4
+3sNVsP50132BTNlImLx70i,Kanye West,Bound 2,Sweden,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913,3.82,4
+6qmvAJSUfVGMubvI2awW7p,Tate McRae,uh oh,Sweden,0.625,0.604,10,-7.415,0,0.339,0.257,2.06e-05,0.129,0.372,174.089,2.83,4
+4SLYrBfzgbLmiEdoKajyHL,Thomas Stenström,Ser du månen där du är ikväll? (Tillsammans igen),Sweden,0.469,0.382,4,-7.372,1,0.0259,0.658,0.0,0.135,0.45,95.072,4.0,4
+5SjWXrGT82DWuXxkMcC3DB,Jireel,MANO,Sweden,0.753,0.7,4,-5.297,0,0.0513,0.0347,0.0,0.282,0.54,127.895,2.81,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Sweden,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+1c2hJSwcCfoPEw1su83Sw0,Lady Gaga,Hold My Hand,Sweden,0.53,0.612,7,-4.286,1,0.0331,0.0403,0.0,0.393,0.264,148.009,3.75,3
+6pPCkAzVYapjObH73BWu9t,Sabaton,Father,Sweden,0.47,0.904,0,-7.018,0,0.0535,0.0528,0.00151,0.226,0.373,77.021,4.63,4
+63IaMjanvXp9c3f0Y7OImT,"Einár, ADAAM",DANSA,Sweden,0.739,0.776,1,-6.318,1,0.181,0.187,2.37e-06,0.0718,0.774,96.048,2.79,4
+5etlUg6yiQ8565mdyrWUiP,Victor Leksell,Eld & lågor,Sweden,0.58,0.528,11,-8.221,1,0.0323,0.277,0.0,0.0765,0.281,126.945,2.99,4
+697bFWgzBRm6bmnYWd8GyD,Cornelia Jakobs,Hold Me Closer,Sweden,0.489,0.616,6,-7.599,1,0.0382,0.107,0.0,0.145,0.168,96.819,3.32,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Sweden,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+5KZ9BpVURYDoUNp04DBte6,LOAM,MEDVETSLÖS,Sweden,0.918,0.39,11,-13.863,1,0.281,0.78,0.0,0.358,0.837,130.025,3.38,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Sweden,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+7BRG1uU2WiaFXDLnniCfjd,Hooja,DÄR GÄDDAN SIMMAR,Sweden,0.704,0.836,5,-5.946,1,0.108,0.0598,0.0,0.094,0.778,160.047,2.6,4
+6XKNzLpsPXIz1k6aevnhAD,"Humlan Djojj, Josefine Götestam",Stjärnorna,Sweden,0.414,0.0686,9,-18.442,1,0.0311,0.984,0.00411,0.0744,0.126,73.884,2.77,1
+2JPEh0GTJA9SULAojbMjp4,Bolaget,Fingrarna i halsen,Sweden,0.679,0.517,0,-8.904,1,0.0874,0.16,0.0,0.2,0.529,145.151,3.01,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Sweden,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+7kV2ZRMkpozWRusXJ8Lr2q,Hov1,Alla våra minnen,Sweden,0.576,0.764,1,-3.901,1,0.156,0.606,0.0,0.135,0.617,90.376,3.17,4
+61BgaI5Lv9jAwDXThFCkEa,Einár,Psykos,Sweden,0.848,0.62,7,-7.3,1,0.206,0.454,6.41e-06,0.0832,0.737,120.99,2.41,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Sweden,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+1aEU7mcRDTYBB4ASpqbjYE,Hov1,Hon dansar vidare i livet,Sweden,0.655,0.651,8,-7.063,1,0.122,0.0267,0.0,0.133,0.782,90.054,4.15,4
+3QK2bbLCTGoFXFt64e5TBY,Tove Lo,2 Die 4,Sweden,0.816,0.8,10,-5.705,0,0.0733,0.0283,6.03e-05,0.129,0.534,118.014,3.1,4
+62MosvjGMQY3HeGPFEsmM1,Tove Lo,No One Dies From Love,Sweden,0.652,0.801,0,-6.632,1,0.0576,0.0717,1.22e-06,0.264,0.346,121.099,3.1,4
+5DkUy1ShgRHv44mXxwe6zM,Melissa Horn,Lämna honom,Sweden,0.595,0.335,1,-11.715,1,0.0432,0.771,1.14e-05,0.0847,0.218,109.882,3.03,4
+5IZGN81VVgBv1lPrjXzOD6,"Miriam Bryant, Victor Leksell",tystnar i luren,Sweden,0.463,0.616,7,-7.166,1,0.149,0.55,0.0,0.446,0.695,183.76,3.23,4
+2HuMRW4PILLHwRb21oUhdO,Yasin,Trakten min,Sweden,0.683,0.703,5,-5.278,1,0.419,0.0908,0.0,0.511,0.344,90.029,2.36,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Sweden,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Sweden,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4
+1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Sweden,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4.04,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Sweden,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+5D2ZobLrLLFcPoOWw5YE0e,Myra Granberg,Lose my mind,Sweden,0.716,0.691,5,-5.848,1,0.043,0.0254,0.0,0.102,0.343,128.03,2.9,4
+2jBBvkRJAHzSA97aEiIDg1,"Bolaget, De Vet Du",Brände hela lönen,Sweden,0.595,0.534,0,-11.023,1,0.0375,0.0422,0.0,0.197,0.628,131.921,2.76,4
+4RRNw7trorJaxdJLWDZTZL,BELL,MISSFÖRSTÅTT,Sweden,0.824,0.704,7,-6.335,1,0.107,0.0854,0.000251,0.0876,0.818,110.036,1.69,4
+5MEuFY2DxrozPEgGpR8Fji,Veronica Maggio,Välkommen in,Sweden,0.625,0.676,0,-7.059,1,0.036,0.115,0.00277,0.248,0.629,120.019,3.54,4
+5d3uBfGQIczWe9sTXyoj3y,Gaboro,BROWSKI,Sweden,0.806,0.577,7,-9.927,0,0.0511,0.536,0.00491,0.0911,0.777,132.04,2.31,4
+5bx4stZRInFwFz40fHDa7h,Yasin,Hiphop N RnB,Sweden,0.852,0.705,7,-6.213,1,0.118,0.501,2.36e-05,0.109,0.809,105.97,2.75,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Sweden,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Sweden,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+52Rfxgs43UCT1Y0zeLXtcS,Asme,Trap,Sweden,0.951,0.614,1,-8.264,1,0.209,0.0287,0.000107,0.0742,0.803,133.036,2.96,4
+04wlQQIfl6MfHuWxvEsSYO,Henric Edström,Bonaqua,Sweden,0.797,0.736,10,-7.253,1,0.152,0.724,0.00385,0.131,0.923,110.007,1.79,4
+0JzG1wJuB4v9UPkSE7LMXi,Montell Fish,Hotel,Sweden,0.228,0.427,0,-8.739,0,0.0363,0.752,0.0167,0.592,0.192,180.345,3.29,4
+7iSuirVvJsBXZ95UEd9vQ0,Molly Sandén,Vi ska aldrig gå hem,Sweden,0.704,0.672,1,-7.633,1,0.0451,0.0167,0.0104,0.1,0.655,125.011,3.26,4
+3UmaczJpikHgJFyBTAJVoz,"Eminem, Dido",Stan,Sweden,0.78,0.768,6,-4.325,0,0.238,0.0371,2.34e-06,0.518,0.507,80.063,6.74,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Sweden,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Sweden,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Sweden,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+6oEfLCekbv7T0ERha5IQO9,"Humlan Djojj, Josefine Götestam",Somna,Sweden,0.323,0.0736,0,-15.555,1,0.0371,0.981,2.09e-05,0.168,0.266,146.999,2.67,5
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Sweden,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+4eoPHTMQD2YcW4Vv2UQJ0a,Gaboro,BOGOTA,Sweden,0.893,0.496,2,-8.707,1,0.204,0.0316,0.0,0.168,0.327,109.996,2.13,4
+5YIMEJOJYmHaeZ0x4qAZjI,Hov1,Barn av vår tid,Sweden,0.534,0.629,5,-6.238,1,0.394,0.664,0.0,0.0891,0.854,180.111,3.92,4
+02TdJAx7jP57xQZTG4NGV8,"Greekazo, Mackan",NERVOUS,Sweden,0.536,0.537,9,-9.788,0,0.316,0.609,0.0,0.105,0.483,93.125,2.18,1
+2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Sweden,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4.79,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Sweden,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Sweden,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+5v5cNnwvtntSGSDR3BSVwq,Medina,In i dimman,Sweden,0.629,0.909,6,-4.019,0,0.0459,0.0122,0.0,0.0723,0.733,123.035,2.89,4
+5zbi722hFSDPFNaPNy8xCq,"Rasmus Gozzi, FRÖKEN SNUSK",DYR BENSIN,Sweden,0.546,0.921,2,-3.545,1,0.0636,0.038,7.42e-06,0.388,0.89,172.89,1.78,4
+03UV6Xr4KkBwN4ej2C1irI,Veronica Maggio,Heaven med dig,Sweden,0.554,0.656,2,-5.797,1,0.0433,0.558,0.000147,0.137,0.558,128.024,3.06,4
+3dYD57lRAUcMHufyqn9GcI,Hozier,Take Me to Church,Sweden,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,4.03,4
+5qrSlOut2rNAWv3ubArkNy,Dean Lewis,Be Alright,Sweden,0.551,0.537,11,-7.595,1,0.034,0.705,0.0,0.0802,0.493,126.421,3.27,4
+0nrRP2bk19rLc0orkWPQk2,Avicii,Wake Me Up,Sweden,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,4.12,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Sweden,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+2sRfjAyCm1hwNGNx8qHWO9,LOAM,FRÅN BÖRJAN,Sweden,0.717,0.348,10,-11.821,1,0.572,0.648,0.0,0.0673,0.718,96.396,2.42,4
+0rO3Uc7vxqJc62UYJKfjtG,"Maximus, Mozby",För alla gånger,Sweden,0.617,0.66,6,-8.347,0,0.0331,0.0666,0.0,0.085,0.774,145.003,2.74,4
+3oF1ZBHm7qDn3bOxIrDEjy,"ADAAM, VC Barre",TOPP,Sweden,0.967,0.793,3,-6.235,0,0.183,0.157,4.18e-06,0.0989,0.811,122.023,2.54,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Sweden,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+0IgvbLS4DCkEe7DaaB0azl,LOAM,FUCK MITT EKS,Sweden,0.842,0.556,8,-7.796,1,0.206,0.318,0.0,0.119,0.709,164.137,2.49,3
+2USlegnFJLrVLpoVfPimKB,"Gabry Ponte, LUM!X, Prezioso",Thunder,Sweden,0.67,0.896,1,-4.673,1,0.058,0.0342,3.21e-05,0.344,0.403,101.216,2.67,3
+3EsUkO1XncklrPvQaabHaz,"estraden, Newkid",Tusen gånger om (feat. Newkid),Sweden,0.694,0.671,6,-6.687,0,0.04,0.0774,0.0,0.091,0.428,99.943,3.28,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Sweden,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+3Clcn0JjqakucsAAAMV646,"Ed Sheeran, 1.Cuz",2step (feat. 1.Cuz),Sweden,0.674,0.663,7,-5.084,1,0.084,0.157,0.0,0.13,0.617,94.818,2.55,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Sweden,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+3qr1w5zyrbz4Mc2zZagXSX,Ant Wan,Habiba,Sweden,0.45,0.662,6,-5.03,0,0.142,0.304,0.0,0.0778,0.489,94.994,2.24,4
+07r0YVWQVk4tjuCZWTNQqA,Einár,Unge Med Extra Energi,Sweden,0.688,0.388,7,-15.093,0,0.442,0.772,0.0,0.178,0.595,96.194,3.18,4
+6CIfNoYuI8bIkfQl72z3q4,23,Savastano,Sweden,0.505,0.364,1,-10.029,0,0.268,0.389,2.38e-06,0.129,0.314,104.945,2.06,4
+7zKTQhQPCGnh2PgP93Pxsu,Miss Li,Instruktionsboken,Sweden,0.822,0.419,0,-4.875,1,0.0456,0.181,0.0,0.0625,0.829,120.032,3.04,4
+5WCksBebNJWqdsDQnHHf71,Donzo x Mitchi,Club Banger,Sweden,0.979,0.472,9,-9.115,1,0.28,0.232,2.48e-06,0.0704,0.709,123.035,3.11,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Sweden,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+0ahJOON9NFd7aFEnk0Z0aQ,Ant Wan,Hennessy,Sweden,0.488,0.515,8,-5.145,1,0.0477,0.467,2.36e-06,0.135,0.476,83.318,3.19,4
+0PoBA7LXHHc2maknAn7wEW,Bolaget,Någon annan (efter fem),Sweden,0.776,0.58,10,-8.213,0,0.036,0.752,1.07e-05,0.28,0.964,117.481,2.36,4
+3GgQPRgXCjuZneRjYAbdNZ,Gaboro,Boza,Sweden,0.612,0.531,6,-9.391,0,0.165,0.716,0.000215,0.109,0.464,200.105,2.44,4
+4lQfnSLKKSKlep9ASNoTbo,Vintergatan,Babblarnas vaggvisa,Sweden,0.651,0.0776,11,-20.056,1,0.0355,0.919,0.00248,0.102,0.522,88.008,5.08,4
+3hRV0jL3vUpRrcy398teAU,Lord Huron,The Night We Met,Sweden,0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,0.102,87.01,3.47,3
+3WMj8moIAXJhHsyLaqIIHI,Zach Bryan,Something in the Orange,Sweden,0.369,0.192,4,-12.151,0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3.8,3
+42hMLGWV8lNXgfXOeLnxLC,Albatraoz,Raggarbil,Sweden,0.791,0.832,5,-6.52,1,0.0921,0.219,0.0,0.398,0.82,102.028,2.25,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Sweden,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+3IhR0OCASlmyMHAx8HAKdr,Ringnes-Ronny,Raggen måste gå,Sweden,0.779,0.546,0,-6.914,1,0.0695,0.273,5.57e-05,0.241,0.822,145.042,2.19,4
+2VxeLyX666F8uXCJ0dZF8B,"Lady Gaga, Bradley Cooper",Shallow,Sweden,0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,3.6,4
+6GgK6y4XRp2D4hNO5oj7Bt,"LOAM, Ringnes-Ronny",MEDVETSLÖS - Ringnes-Ronny Remix,Sweden,0.882,0.618,11,-9.295,1,0.0942,0.461,0.0,0.331,0.714,130.036,3.11,4
+3SjXx3rbNGk8nCho8YEoz5,Håkan Hellström,Det kommer aldrig va över för mig,Sweden,0.552,0.872,0,-6.48,1,0.0459,0.0113,3.2e-05,0.507,0.469,127.027,4.45,4
+2rSepHuehHlcKCN0P4Zafb,Reyn,Om du lämnar,Sweden,0.795,0.609,2,-7.349,1,0.0359,0.174,0.0,0.108,0.474,122.013,2.36,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Sweden,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+6k4e5H3MbDzhEX3qJSWwpd,Klara Hammarström,Run To The Hills,Sweden,0.548,0.856,1,-4.551,0,0.0457,0.00591,0.000503,0.0383,0.0668,134.002,2.93,4
+32z2QHVJTOPzzczl4MjmHo,Newkid,Du måste finnas,Sweden,0.42,0.492,3,-7.492,1,0.0509,0.28,0.0,0.0911,0.111,71.465,3.31,4
+3CgP1CxtvZgIYomCNuP5jG,Sickan,GET THE POINT,Sweden,0.961,0.62,10,-8.978,0,0.241,0.514,0.000281,0.113,0.685,124.017,2.97,4
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Sweden,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+41up0oLKR7aV5FWJcB0Z3F,"Yasin, Pa Salieu",MAGAZINE,Sweden,0.716,0.579,1,-9.362,1,0.234,0.0985,6.75e-06,0.177,0.416,91.871,2.62,4

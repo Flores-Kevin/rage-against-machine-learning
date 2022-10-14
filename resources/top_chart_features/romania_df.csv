@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Romania,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+4i9Ul89UPf5YPppdOspCH6,Tzanca Uraganu,Havana,Romania,0.895,0.578,2,-4.895,1,0.081,0.349,0.000556,0.125,0.515,135.965,2.76,4
+4JjurgsSCdNejiuOZ98PyQ,"Ian, Aerozen, FLORIS, Oscar",Gestu,Romania,0.864,0.568,11,-8.684,1,0.0844,0.0212,0.0,0.13,0.15,121.991,5.02,4
+47YtkJKWNuemFKKFT3QklE,Oscar,Antetokounmpo,Romania,0.649,0.675,0,-6.175,0,0.074,0.218,0.0,0.239,0.33,130.051,4.95,4
+17AmTJ2vJJGi5cLU3TnccV,RAVA,Regina Nopții,Romania,0.635,0.813,8,-5.5,0,0.0509,0.0158,0.0,0.127,0.387,169.904,3.23,4
+1oanM8lNb88L5ZuKkVp9va,"Killa Fonic, RAVA",Brasileira - From “TEAMBUILDING” The Movie,Romania,0.895,0.607,7,-6.934,1,0.125,0.361,0.000145,0.22,0.725,100.034,3.36,4
+1b8wUmTTj17WAEHlu9UFsl,"Iuly Neamtu, Manele Mentolate",Test Drive,Romania,0.702,0.822,6,-5.253,0,0.293,0.161,0.000584,0.208,0.776,188.21,2.52,4
+5jjPoxrz3NRainOx1DtAPv,Ian,Urgențe,Romania,0.812,0.766,2,-6.631,1,0.0797,0.00218,9e-06,0.137,0.433,155.977,3.34,4
+1YvYEbR7ITXJ0Msk4ORZxY,Ian,Lumea asta,Romania,0.866,0.561,5,-7.92,0,0.119,0.0141,5.79e-05,0.1,0.646,134.932,2.78,4
+7q7KhsazHZG8EM8Qt08YmO,RAVA,BULIBA$HA,Romania,0.698,0.713,7,-5.743,1,0.144,0.67,0.00621,0.365,0.499,138.252,1.62,4
+60sy8u1IoawaNCSKG0g7t9,"RAVA, Iustin",IN LIPSA TA,Romania,0.662,0.615,11,-6.322,0,0.0338,0.183,0.0,0.169,0.429,149.974,3.2,4
+4XLLdFJdwmvdtkwQuXAFut,Ian,La san,Romania,0.821,0.682,5,-9.65,0,0.0644,0.0474,0.000134,0.11,0.632,94.014,3.46,4
+1C0G4YZEz2eOQlL2HfbyFO,"Bogdan DLP, Gheboasă, LilCagula, Beach, Please!",Dacă n-ai bani,Romania,0.777,0.805,10,-5.376,0,0.139,0.114,1e-06,0.114,0.578,179.953,3.29,4
+5mzzRWsQNt3dwS1n4V0W9W,Ian,Gangu pe la bloc - From “TEAMBUILDING” The Movie,Romania,0.699,0.633,5,-7.578,0,0.0633,0.0948,2.5e-05,0.0978,0.73,164.05,2.23,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Romania,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+6VcmY5O2WE00BaF9fomffm,"RAVA, NOSFE, YNY Sebi",CUM SE MIȘCĂ,Romania,0.589,0.604,11,-5.827,1,0.363,0.593,0.0,0.0919,0.212,78.954,2.71,3
+5h1Zucrq9PfrPdMBryoTW5,M.G.L.,CONTACT FATAL 2,Romania,0.804,0.702,8,-6.583,1,0.0821,0.237,0.0,0.252,0.546,130.075,2.43,4
+62pL0bFEaRUwN5hU2JGFrZ,"Beach, Please!, Gheboasă, LilCagula",Dacă n-ai bani,Romania,0.798,0.822,10,-5.5,0,0.216,0.109,5.56e-06,0.0882,0.657,179.985,2.58,4
+19sbsJ3EPMs1nQdmMXCFFi,RAVA,$P$ - Studio Session #02,Romania,0.739,0.735,8,-6.276,1,0.119,0.431,0.0026,0.131,0.53,139.933,2.51,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Romania,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+5OWc2Do2QpzlrfPASWjbTX,"Azteca, Amuly, Rava",A Â,Romania,0.839,0.716,1,-7.909,1,0.0848,0.151,0.0,0.1,0.288,128.106,4.28,4
+4isHNSvb4ZzGGUbSLPCLMD,Oscar,Toxic,Romania,0.579,0.725,11,-7.718,0,0.291,0.327,0.0,0.58,0.633,172.044,2.06,4
+4KoesiedslACxSRFunogFJ,"Killa Fonic, Delia",Cum Am Știut,Romania,0.676,0.636,5,-7.053,0,0.0329,0.199,7.37e-06,0.3,0.58,139.912,3.56,4
+3rNXwhTLSzp2bclr1BRC29,"Alina Eremia, Oscar",Umeri de piatră (cu Oscar),Romania,0.605,0.456,1,-9.98,0,0.251,0.137,0.0,0.12,0.323,163.897,3.34,4
+7Enmh2pt5fiYgoNlbzK70K,Ian,60 De Zile II,Romania,0.653,0.431,6,-11.289,0,0.0524,0.533,0.0,0.114,0.496,88.925,3.81,4
+6KJ9V4Veqlc46xQK5GmyRY,"RAVA, Alduts Sherdley",Dungă,Romania,0.648,0.543,9,-8.899,0,0.122,0.954,0.0227,0.175,0.594,99.667,2.92,4
+3uCnYdw2AG9HfWgwNdqmPv,"Roxen, RAVA","Niciodata inapoi (from ""TEAMBUILDING The Movie"")",Romania,0.568,0.729,10,-5.957,1,0.0451,0.0679,0.0,0.0939,0.0979,131.858,3.5,4
+2RKuEYbimyHurRAlqE8Tgf,"Beach, Please!, Gheboasă",DĂ-I ȚIGANCA,Romania,0.881,0.729,4,-7.446,0,0.141,0.0408,0.0,0.0874,0.429,95.003,2.61,4
+5wQYjcX7kA26lF4pIcNVnP,Ian,Veste,Romania,0.717,0.677,1,-10.727,1,0.0641,0.000559,0.091,0.267,0.197,159.903,3.52,4
+6r2UqgPxaMxZEXwrOnZ7bm,"YNY Sebi, Bogdan DLP",Tarabanele,Romania,0.727,0.827,2,-3.464,1,0.047,0.0139,0.000114,0.135,0.528,91.015,2.33,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Romania,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+0nkeV4kaa4xvifptkypzDY,"Mario Fresh, Renvto",Necesar,Romania,0.84,0.578,1,-8.921,0,0.109,0.551,1.12e-05,0.106,0.598,93.107,3.14,4
+09Ylu166NCvXW8ZY4lA39W,Ian,Timeout,Romania,0.88,0.797,1,-6.104,1,0.0344,0.266,0.0444,0.0714,0.332,112.898,1.27,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Romania,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+23S8qffmiX68DFEoaFXQz6,YNY Sebi,Defectul Meu,Romania,0.715,0.688,9,-8.249,1,0.352,0.436,0.0,0.121,0.475,155.016,2.68,4
+3DBLUk2LjwjBak3dN3qvRz,"Theo Rose, Ian",Sangele Frate Nu Te Face,Romania,0.749,0.862,2,-3.17,0,0.121,0.504,0.0,0.235,0.421,102.003,2.98,4
+2dAmNhVPH2jaM6pnGCc1Kt,"Ian, Oscar",Oare,Romania,0.83,0.605,6,-7.483,0,0.0703,0.0185,0.0,0.0952,0.157,121.969,2.95,4
+6EIBhgEms3hJczZMzB7iTX,RAVA,Giulesti Crangasi,Romania,0.696,0.831,4,-4.711,1,0.2,0.16,0.0305,0.193,0.824,166.069,2.82,4
+5GAHQvyhSdzEZf46qV2WIt,Oscar,Recunoaște Măcar,Romania,0.834,0.712,10,-8.314,0,0.173,0.185,0.0,0.207,0.651,122.058,3.48,4
+2Uo05C56sVFgtHWDmVIrp7,"LilCagula, NL Moxxie",Biliard 2,Romania,0.737,0.441,11,-13.149,1,0.438,0.183,0.0,0.342,0.855,164.76,2.59,4
+62oHVZYgTX6DqaHQPWVIuU,"Beach, Please!, Berechet",112,Romania,0.876,0.601,5,-8.153,0,0.1,0.0539,2.18e-05,0.355,0.472,125.893,2.1,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Romania,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Romania,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+2q6T5nQmycnhnBDh7BmOec,"IDK, Berechet",Promite-mi,Romania,0.715,0.54,6,-8.748,0,0.139,0.453,0.0,0.361,0.205,100.006,3.6,4
+51v9SiSHL3DVrEC8QRxQN8,Tzanca Uraganu,Hai ca m-ai sedus,Romania,0.838,0.876,2,-6.181,1,0.0448,0.0256,0.01,0.342,0.938,138.014,2.7,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Romania,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+6sOyrZvYjDeZ781vZomWXT,"Ian, Amuly",60 De Zile,Romania,0.779,0.448,3,-7.985,0,0.0458,0.0507,0.0,0.159,0.464,98.035,2.94,4
+5vVcl5Uni8HJPDTEQSTeN2,"Pikone, Raul Ws, Akboi",VROOM,Romania,0.808,0.638,1,-6.883,0,0.0769,0.00296,1.3e-06,0.294,0.547,89.004,2.35,4
+4BLAVEh9PKN0dKbAvntYP6,"Mgk666, Nutu","Bani, Putere, Respect",Romania,0.91,0.708,1,-6.607,1,0.25,0.126,0.0,0.1,0.626,99.984,2.0,4
+7l1amnUcwOBdJQtLEmMKNi,"Tzanca Uraganu, Manele Mentolate",Banii,Romania,0.882,0.767,6,-4.598,1,0.199,0.101,0.0,0.083,0.902,160.034,2.28,4
+3bVBGChrqnNOHADKIDVdxC,"Iuly Neamtu, Manele Mentolate",Țigancă de București,Romania,0.926,0.548,1,-6.999,1,0.283,0.237,3.09e-06,0.119,0.749,144.019,3.0,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Romania,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+7FnJTkhJlH9DnRoa73SvNq,"Ian, Aerozen",Piramida,Romania,0.798,0.605,8,-8.017,1,0.0517,0.00871,0.0,0.107,0.352,119.999,3.0,4
+2RmoYkORyEAtEi66LY9eG6,Oscar,Is U Mad,Romania,0.791,0.669,1,-7.94,1,0.17,0.00327,0.0,0.11,0.0808,150.009,2.79,4
+25RnRcfNPMBiBTscTWzMsO,"RAVA, Ravisval",LINIUTZE,Romania,0.688,0.737,5,-3.352,1,0.0494,0.072,0.0,0.11,0.41,150.072,3.2,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Romania,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+7cqBCPSg3gGx5WLcThHq0c,"Azteca, Ian",Nefiu,Romania,0.738,0.299,2,-13.289,1,0.253,0.458,0.0027,0.102,0.339,166.031,3.08,4
+33F9lzZpNsz2lg3lOrLsh2,"Beach, Please!, Ian",Folclor,Romania,0.8,0.552,5,-9.463,0,0.138,0.39,0.0205,0.182,0.161,99.945,2.78,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Romania,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+2QDm64H7SGJj9RNR4e68zx,Tzanca Uraganu,Fa spagatu,Romania,0.792,0.699,1,-4.386,1,0.111,0.0232,9.74e-06,0.242,0.203,162.058,4.25,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Romania,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+21lvS2OJlPSNjJNBx3nwJV,"Oscar, Ian",Ok Okey,Romania,0.88,0.898,10,-5.448,0,0.328,0.107,0.0,0.139,0.643,154.03,2.96,4
+0HQrHYghOsf7UVcBdSFRa2,"Tussin, Azteca, Amuly",Sensibil La Lumina,Romania,0.781,0.576,7,-6.835,1,0.0552,0.0703,0.0,0.463,0.335,110.005,3.35,4
+4uW2VwxS4K9D22JLJd38ym,Killa Fonic,Niciun Glonț Nu Doare Cât Dragostea,Romania,0.669,0.681,2,-7.283,1,0.0348,0.407,0.000187,0.17,0.332,150.014,2.48,4
+5EobwU4UjwhNb43Ja7tAiB,Mgk666,El Dios Del Trap,Romania,0.662,0.783,7,-6.086,1,0.389,0.0318,0.0,0.0919,0.544,194.262,2.58,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Romania,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+6ATqZFNmkf3njuq6zH9XaF,"Cristi Mega, Marinica Namol",Vorbeste lumea,Romania,0.768,0.696,10,-10.44,0,0.0562,0.0326,0.064,0.0931,0.956,154.007,3.03,4
+4FG6TOqiQprPinFIAY3Zr5,Tzanca Uraganu,Te-am vazut fara inel,Romania,0.723,0.827,10,-5.409,0,0.0528,0.0116,1.2e-06,0.135,0.907,160.076,2.95,4
+5hlKmxQyK8TXVsuUBY0ZLo,Alex Botea,Papusa Barbie,Romania,0.825,0.725,1,-5.406,1,0.0692,0.225,0.000957,0.0792,0.972,148.087,3.51,4
+3fUQ92lbWyhEQZMZYK1Qss,Ian,Slayer 2,Romania,0.788,0.578,2,-7.564,1,0.0387,3.17e-05,0.0,0.192,0.245,119.979,3.6,4
+2HtMuOtkOxibDrnRRGzpNS,"Tussin, RAVA, Amuly, Dafiend, XENO",Ora 6,Romania,0.775,0.637,2,-5.62,1,0.329,0.112,0.0,0.11,0.163,79.98,3.1,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Romania,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Romania,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+2deGrtVvQ3nXLqWrZPLHyn,"Jador, Camelia Dumitrache",Pasiunea pentru tine,Romania,0.736,0.478,6,-7.586,0,0.069,0.854,0.0,0.0875,0.41,111.058,3.3,4
+2zpalTjcoLJRodRLpptzP7,"Aerozen, Ian",Alerg într-una,Romania,0.746,0.582,5,-5.562,0,0.0675,0.0325,0.0,0.128,0.0745,135.077,3.47,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Romania,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Romania,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+0qC8tL3ICDQ0q1v5xu6fs6,"RANDI, Azteca",Carina,Romania,0.818,0.448,6,-9.61,1,0.521,0.041,0.00333,0.103,0.478,179.973,3.11,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Romania,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Romania,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+3rb0tMq42WfggucPm0HHkA,"MEDUZA, James Carter, Elley Duhé, FAST BOY",Bad Memories (feat. Elley Duhé & FAST BOY),Romania,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,2.48,3
+0yZK9HToR4GCZIRpliiQku,"Bvcovia, Marko Glass, IDK",Cadou,Romania,0.828,0.616,10,-9.902,0,0.0899,0.84,2.01e-05,0.122,0.63,127.025,2.53,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Romania,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Romania,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+1HWGnsNTDgkmefYwMcMSqi,"Nane, Delia",ÎN RAI,Romania,0.629,0.684,5,-6.023,1,0.0319,0.064,0.0,0.115,0.457,101.982,2.94,4
+2daDEsJ0IztRdLzUSLss6f,Tzanca Uraganu,Buzele Cu Rosu Inchis,Romania,0.807,0.672,5,-8.904,0,0.0636,0.00829,0.00127,0.0946,0.792,103.0,3.37,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Romania,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Romania,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+5sIwSZndmAG67GjgquvaHz,"Petre Stefan, KARLA",Hai să uităm de tot,Romania,0.716,0.653,11,-6.469,0,0.176,0.255,0.0,0.253,0.161,143.914,2.96,4
+5IqPGGvekdnZis9XhcyXeh,"M.G.L., ZIOAN",CONTACT FATAL,Romania,0.627,0.511,2,-6.839,1,0.459,0.23,9.8e-06,0.0908,0.353,171.944,2.66,4
+47tCxLN1HZQZ31pOwwp9bf,Mgk666,Verificat,Romania,0.735,0.688,0,-6.949,1,0.314,0.0706,0.0,0.128,0.571,95.791,2.04,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Romania,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+1jvQCRhmmZX5hUCj3jBZxL,Ian,Waka waka,Romania,0.833,0.641,2,-7.867,1,0.0881,0.0162,0.0,0.321,0.476,152.914,2.77,4
+6XYMIIUwcX78OVdqnjKSAk,Ian,Evantai,Romania,0.813,0.535,1,-6.994,1,0.0668,0.256,0.0,0.1,0.0393,119.926,2.14,4
+6jQhGtWbiQGFbaDOCnSCu0,"Narcisa, Lele",Ce N-as Da,Romania,0.847,0.546,7,-7.294,0,0.061,0.0313,5.28e-05,0.0404,0.509,119.959,2.2,4
+0sZ2NzGyCvQEwHS7yKaW3u,"Bogdan DLP, YNY Sebi",COLA,Romania,0.976,0.772,11,-4.745,0,0.229,0.0414,0.0,0.154,0.928,112.984,2.29,4
+2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Romania,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,0.37,93.986,3.44,4
+667WZUNLKbsaNtxtkqP9yo,Luis Gabriel,Toate Diamantele,Romania,0.859,0.789,3,-3.208,0,0.0525,0.54,0.00172,0.115,0.967,156.964,3.1,4
+6Q5PGWKWR2u4WjO1CX8I5r,RAVA,$aMAN,Romania,0.68,0.68,8,-6.012,1,0.036,0.314,0.0149,0.132,0.296,140.039,1.03,5
+0d0cWBpOR0GXdz7iDShLQQ,"Smiley, Juno",Scumpa foc,Romania,0.642,0.853,1,-4.678,0,0.0593,0.158,0.0,0.0831,0.919,172.041,3.0,4
+1i0Wf9NG9KmyFcl1eKtPvm,M.G.L.,POP SMOKE,Romania,0.778,0.619,9,-6.651,1,0.289,0.116,0.0,0.403,0.252,130.138,2.77,4
+2tlv0vI8Ge1s9il2KfiJMi,IDK,NR 1,Romania,0.835,0.823,4,-5.895,1,0.23,0.304,0.0,0.0967,0.363,91.987,2.35,4
+5hHq6NZy0DBfOHC5CFuxUa,Ian,Teancuri,Romania,0.739,0.641,6,-7.558,1,0.0532,0.0129,0.0,0.0907,0.238,128.009,2.34,4
+03ZF2JgMqMc6nNkYIZCJtc,"Beach, Please!, Gheboasă",CAGULAT,Romania,0.852,0.568,9,-9.387,0,0.189,0.0289,4.76e-05,0.104,0.357,84.989,1.88,4
+5JoQmAMQPbf47qGsw3nQFL,"Tussin, DaDon, Kiv-U",Ce Intrari Avem,Romania,0.717,0.874,1,-6.255,1,0.524,0.311,0.0,0.176,0.414,176.022,3.64,4
+0t3xTX8FAJlnkwguvXTnca,Ian,Scuze Mama,Romania,0.584,0.474,7,-10.077,0,0.0519,0.568,0.000613,0.115,0.25,75.012,2.99,4
+5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Romania,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,4.34,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Romania,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+0zCgWGmDF0aih5qexATyBn,Mr.Kitty,After Dark,Romania,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,0.0392,140.019,4.29,4
+0WQzsuv2NE9FJCwSAze4v6,"Oscar, Ian",Oriunde Ma Duc,Romania,0.787,0.62,1,-9.266,1,0.123,0.293,0.0,0.0832,0.391,80.968,3.56,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Romania,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+1bmTUiDwnXqzlOfdxUZTek,Mgk666,Femeia Mea,Romania,0.86,0.568,10,-6.364,0,0.243,0.0678,2.8e-06,0.605,0.36,96.022,2.5,4
+3OB4p09aI3QvXreC8WSIfx,"Alina Eremia, Connect-R",Supertare,Romania,0.669,0.51,4,-7.239,0,0.136,0.457,0.0,0.416,0.187,149.877,3.07,4
+3F3oVrPtFHxNC61kTD33P1,"Ian, Amtilb, Simiz",Mili,Romania,0.613,0.471,10,-10.348,0,0.107,0.832,2.73e-05,0.104,0.138,162.13,2.89,4
+3CoEgSGqBtBTMuRp7aGzbf,Marko Glass,TIpa Noua,Romania,0.784,0.379,0,-9.609,0,0.0716,0.562,0.0,0.135,0.562,110.075,3.35,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Romania,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+2ix7hMK7NMeHAFVsm5dlfK,"Bogdan De La Ploiesti, Zanni",Obsesia,Romania,0.674,0.76,3,-3.726,0,0.11,0.0865,0.0,0.335,0.907,159.831,2.23,4
+6yyI6ktZQUfRSoXX4wZyCo,"LilCagula, NL Moxxie","Frate, ce faci?",Romania,0.883,0.596,2,-4.265,1,0.337,0.369,0.0,0.075,0.942,155.06,2.79,4
+46DsHSqrMxCtIe7bQFrid3,Cristi Mega,Janes Romanes,Romania,0.933,0.575,11,-8.121,0,0.0696,0.133,0.0,0.0705,0.928,136.044,3.37,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Romania,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+7IVJ8i0TczqOXlhg6YjkQB,Oscar,Prophet,Romania,0.651,0.702,10,-8.755,0,0.0782,0.0132,9.7e-05,0.255,0.207,169.967,4.72,4
+1p9CPvNeESJXe02jmcX305,"Sapte, Oscar",3Z3N,Romania,0.84,0.831,9,-7.341,1,0.254,0.0271,0.0,0.185,0.721,126.909,3.61,4
+5RyD3GeqG1YfpQk194mB8C,Oscar,DMT,Romania,0.861,0.803,1,-7.089,0,0.166,0.172,0.0,0.124,0.719,138.059,2.64,4
+2ImUhKIUGCekDQ8FbFIR7e,Denis Nuca,"Wella, Wella",Romania,0.944,0.832,4,-3.564,0,0.0447,0.194,0.0,0.304,0.967,130.059,3.85,4
+4X1KfuOJRRDOZi1JgfxbN9,"Bvcovia, Marko Glass, Alberto Grasu",Praf,Romania,0.773,0.68,2,-7.081,1,0.14,0.299,0.0,0.0824,0.488,108.012,3.26,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Romania,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+16izGV2Tw6tDtbJHCQmKWG,"Iuly Neamtu, Costel Biju, Manele Mentolate",Noapte bună,Romania,0.828,0.746,9,-4.706,0,0.134,0.451,5.26e-05,0.303,0.661,101.019,2.83,4
+3yZRQkgxHkFQ6fSjMFNtwy,"RAVA, Azteca, Dj Sfera",Champs-Élysées,Romania,0.668,0.711,2,-4.577,1,0.196,0.512,1.04e-06,0.137,0.149,174.208,2.97,4
+4Snp2BNipwxS79snXd4LTw,RAVA,MA$ON,Romania,0.596,0.742,9,-6.997,1,0.0987,0.436,7.54e-05,0.26,0.562,134.951,1.54,4
+5NHDaqCwCB8Y8szybhWrS6,Mgk666,Da Don,Romania,0.814,0.602,7,-7.799,1,0.469,0.407,0.0,0.137,0.309,92.015,2.61,4
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Romania,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+0xJrW2G7u0r5SsPgEDf9rJ,"Oscar, Amuly",Aripi,Romania,0.775,0.529,8,-10.403,0,0.138,0.323,0.0,0.108,0.365,98.025,3.0,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Romania,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+26i4jKBlWSrlzpiB9V9gDB,"Iuly Neamtu, Manele Mentolate",Fata cu paharul,Romania,0.705,0.616,6,-4.603,0,0.21,0.0665,0.0,0.12,0.413,171.956,2.37,4
+1pz0PbBAD4TMqeiiyHvd9f,"Tzanca Uraganu, Manele Mentolate",Susținem Ucraina,Romania,0.829,0.715,1,-5.395,0,0.0575,0.153,0.000151,0.0699,0.49,144.877,2.85,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Romania,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+7cIfvmnvV0hiB1Jka4xsYU,"Ian, Azteca",Bag Un Blunt,Romania,0.845,0.643,8,-8.844,1,0.24,0.156,2.57e-05,0.129,0.583,150.019,2.99,4
+3avrl1KuaDGW285e7PTHNH,Azteca,Enzo (Outro),Romania,0.836,0.38,10,-11.365,1,0.471,0.369,0.0,0.0824,0.207,126.098,2.79,4
+4SHz259q8YCPVGqqFkySGq,Aerozen,Atent la detalii,Romania,0.778,0.788,11,-6.855,1,0.0451,0.00413,1.33e-05,0.261,0.477,139.924,2.34,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Romania,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+3w0zgo6MI4BQUQBlKn258R,Bvcovia,Doua Lumi,Romania,0.704,0.488,6,-13.482,0,0.37,0.896,2.62e-06,0.122,0.212,92.016,2.9,4
+2J6DWKflRPtVl4FtUpWSOS,"Florin Salam, YNY Sebi, Mgk666, Leo de la Kuweit, Petre Stefan",Iubit de Dumnezeu,Romania,0.747,0.795,10,-3.962,0,0.0459,0.0365,0.0,0.228,0.418,100.007,3.6,4
+1bQVPUUy0VMcqpIRtByrpN,"Bvcovia, Petre Stefan",Bonsai,Romania,0.556,0.644,5,-8.448,0,0.117,0.406,0.0,0.107,0.469,112.037,3.82,5
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Romania,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Romania,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+3h0SNJ9BbALBnDvqUJ6YSE,Nicole Cherry,Florile Tale,Romania,0.722,0.82,8,-4.181,0,0.241,0.389,0.0,0.531,0.62,95.005,3.24,4
+4lC2rmlMug4B4FeaeZ2Ya1,"Juno, MIRA",Toata noaptea,Romania,0.579,0.752,1,-7.757,0,0.284,0.333,0.0,0.115,0.695,190.125,2.78,4
+5AE0pXOUeBM4HfTb3Bqk3p,"LilCagula, NL Moxxie",Biliard,Romania,0.808,0.412,5,-11.902,0,0.388,0.0743,4.94e-06,0.102,0.615,160.051,3.06,4
+1dMR1ltIgyYRq5vmFXvu07,"Iuly Neamtu, Manele Mentolate",Kawasaki,Romania,0.838,0.8,0,-4.676,0,0.107,0.0358,7.38e-05,0.098,0.457,95.974,2.9,4
+4L1kxyFHMFQKZWskp2XIDe,"Beach, Please!, Gheboasă, Killa Fonic",Ce-am făcut Șefu? (cu Gheboasa & Killa Fonic) - From “TEAMBUILDING” The Movie,Romania,0.887,0.633,10,-7.546,0,0.218,0.449,5.28e-06,0.0869,0.685,130.073,2.65,4
+01kfSdF9zfcDLri5sSWEoL,Dxrk ダーク,RAVE,Romania,0.716,0.748,8,-6.06,1,0.0356,0.235,0.849,0.114,0.338,119.918,2.82,4
+3eXWapRjBtvw284PFbOU2C,M.G.L.,KRAKEN,Romania,0.821,0.563,9,-7.085,1,0.176,0.156,0.0,0.0497,0.202,139.983,2.8,4
+5Sk39LuvdwuvL84jD01Dum,"MUPP, Sadfriendd",vendetta!,Romania,0.706,0.91,1,-3.527,1,0.146,0.175,2e-06,0.11,0.667,126.007,1.78,4
+3sUYXrTxaiX1iZehE4OP6b,IDK,Intro,Romania,0.524,0.758,4,-7.912,1,0.351,0.326,0.0,0.324,0.479,160.222,2.55,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Romania,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+23k2lKT8J8vq3jxIiAXzHf,Oscar,Big Moves,Romania,0.724,0.732,2,-5.997,1,0.166,0.0311,0.0,0.283,0.142,139.535,2.97,4
+3doVrLRkbLOBQUosLxiw9S,Marko Glass,Audemars,Romania,0.728,0.758,2,-8.202,0,0.13,0.761,0.143,0.316,0.373,135.035,3.59,4
+3M0lSi5WW79CXQamgSBIjx,Chase Atlantic,Swim,Romania,0.666,0.542,8,-6.429,1,0.0392,0.27,0.0,0.0765,0.0771,120.134,3.81,4
+1GvAEveXYX53btltb0QCxm,"Ian, Azteca",Sigur Dar Incet,Romania,0.773,0.487,8,-8.423,1,0.0407,0.266,3.31e-05,0.214,0.359,130.048,3.05,4
+5hY8BlmdGo1z72mwHBPvOf,Tzanca Uraganu,S-Au Unit Legendele,Romania,0.84,0.786,1,-6.411,0,0.151,0.16,0.0,0.338,0.966,75.023,3.41,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Romania,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+4woTEX1wYOTGDqNXuavlRC,"Eminem, Dina Rae",Superman,Romania,0.802,0.755,4,-3.138,0,0.0564,0.0215,0.0,0.295,0.58,130.027,5.84,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Romania,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+2jQiSYrwJehQAcuaaQrXnS,Chase Atlantic,Friends,Romania,0.422,0.609,11,-6.361,0,0.0335,0.0114,4.76e-06,0.108,0.0911,107.34,3.83,3
+5W6T5Z2l3uvF4aeKpJ3wbS,"YNY Sebi, Niku X Aron",CEF 2,Romania,0.854,0.235,1,-11.149,1,0.527,0.122,0.0,0.11,0.162,160.174,2.45,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Romania,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+4li3bu2BbCyLJVrXIJnkgg,"Azteca, Ian",Pala Mande,Romania,0.75,0.439,9,-11.287,1,0.154,0.203,1.89e-05,0.101,0.541,170.039,2.99,4
+2vXKRlJBXyOcvZYTdNeckS,"Gesaffelstein, The Weeknd",Lost in the Fire (feat. The Weeknd),Romania,0.658,0.671,2,-12.21,1,0.0363,0.0933,0.000927,0.115,0.166,100.966,3.37,4
+0D9QzwiLEaHQy8gEy2d4g6,Oscar,Totul Sau Nimic,Romania,0.606,0.545,2,-7.428,0,0.0863,0.174,0.0,0.23,0.0835,146.031,4.72,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Romania,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,Romania,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,4.04,4
+4yviWbdSyx5bRXWlygTF2h,Ian,Slayer,Romania,0.786,0.565,7,-7.64,1,0.06,0.379,0.0,0.12,0.0445,120.021,2.94,4
+6h2cPfB92PlTCPkajb9Jrg,Tzanca Uraganu,Fac Deranj,Romania,0.762,0.917,3,-5.351,0,0.0478,0.0202,0.00184,0.304,0.964,149.933,3.55,4
+7jDlzn91zWtBINLx1jKmQP,"Mgk666, Berechet, Nutu",Tropical,Romania,0.838,0.443,1,-9.6,1,0.348,0.00631,0.0,0.0755,0.523,80.85,2.35,4
+3hEBdbvIUIDgu6uvt4ZMSP,Mgk666,Mi Vida,Romania,0.774,0.825,1,-4.927,1,0.257,0.214,0.0,0.621,0.764,94.991,2.36,4
+3OcsljnjSiIznpneOMlN6f,Oscar,Viața De Apoi,Romania,0.749,0.718,0,-6.885,0,0.441,0.229,0.0,0.168,0.377,82.069,3.12,4
+5TL2ui5tdet8DSvZTaHZbe,"Iuly Neamtu, Manele Mentolate",Cum O Dai Tu,Romania,0.839,0.646,2,-7.769,1,0.107,0.0408,1.33e-05,0.114,0.616,179.973,2.36,4
+2WzAAerBvZvvFXgUpSwHZ9,"PLAYAMANE, Nateki",MIDNIGHT,Romania,0.633,0.433,1,-8.833,1,0.229,0.0053,0.28,0.145,0.373,122.088,2.03,4
+5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,Romania,0.715,0.47,5,-12.638,0,0.0772,0.353,0.0923,0.104,0.426,89.965,1.86,4
+19sabig1utocg27L2pE1dj,"YNY Sebi, Petre Stefan",LUX,Romania,0.843,0.67,0,-7.988,1,0.0804,0.00968,0.0212,0.192,0.117,100.001,2.72,4
+37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Romania,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,2.89,4
+3GnaBdypJyLiVMMfAe6J7L,Lele,O Noapte in Medellin,Romania,0.826,0.557,10,-7.996,0,0.0439,0.322,1.73e-06,0.0922,0.826,138.01,3.1,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Romania,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+6Ifo0FUKrPXe81vly6sXFq,Alex Botea,Mana stanga sus,Romania,0.787,0.944,9,-4.071,0,0.0519,0.277,0.000375,0.0451,0.889,146.005,2.99,4
+2bakxWAXvOoyKSAOMA9eI4,"Oscar, Ian, Nane, Super Ed",Ce Suntem?,Romania,0.904,0.613,2,-7.443,1,0.156,0.0683,5.33e-06,0.191,0.0803,129.979,4.05,4
+3fRmwopVwhXQ1iAGLmkQZZ,Leo de la Kuweit,Sunteti ultimele locuri,Romania,0.578,0.81,1,-6.105,1,0.119,0.0243,0.0,0.211,0.698,101.645,3.57,4
+2kcTEXbaZd9i066DApclMC,"rares, Arkanian",Nașpa,Romania,0.697,0.6,7,-6.757,1,0.0564,0.239,0.0,0.165,0.392,81.974,2.2,4
+5gUFPS1c5ZocQtFxftuqCo,"RAVA, Azteca",URLA,Romania,0.724,0.727,9,-4.457,1,0.0887,0.234,0.0,0.173,0.229,150.998,3.6,4
+62Jb8Mf6gLYAcM4rmdoNAB,Oscar,Waterboy Freestyle,Romania,0.597,0.871,5,-6.574,1,0.38,0.185,0.0,0.524,0.822,188.229,3.12,4
+6FAFErwebDMbysyXRPg6AA,Ian,Biznis,Romania,0.813,0.469,11,-8.767,1,0.0501,0.0707,0.0,0.0877,0.395,135.044,2.23,4
+2ksyzVfU0WJoBpu8otr4pz,INTERWORLD,METAMORPHOSIS,Romania,0.593,0.641,7,-12.727,0,0.0992,0.426,0.901,0.122,0.147,175.014,2.38,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Romania,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+3dMaa8LnQC8CVUkUjAHXxv,Mgk666,Hubba Bubba,Romania,0.858,0.635,1,-8.944,1,0.325,0.0404,0.000132,0.288,0.526,95.052,1.94,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Romania,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+1TwnWP6wrWAMHjgrNSfwHx,Puya,Fresh,Romania,0.853,0.854,6,-3.984,0,0.0507,0.305,0.0,0.0942,0.911,124.057,3.56,4
+7LOJJmbFWioeffKyamfuw1,"Dragonu AKA 47, Cedry2k",Intro - Mai Mult Ca Sigur,Romania,0.843,0.719,1,-6.239,1,0.367,0.122,6.3e-06,0.305,0.665,88.019,1.68,4
+0rD5BeejnMt3Ld6n83YDvu,Ian,Palmat,Romania,0.804,0.64,1,-8.649,1,0.237,0.169,9.11e-05,0.446,0.198,126.934,4.92,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Romania,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+2YnlCx3zvM6ipTjL1GcaM6,Ian,Vvs,Romania,0.82,0.725,3,-6.295,0,0.0471,0.00192,0.0,0.028,0.569,129.869,2.04,4
+5QYEfN1yrpk5XjUHLSvnIq,IDK,HARAM,Romania,0.758,0.728,5,-9.007,1,0.15,0.384,1.22e-06,0.364,0.844,141.992,2.79,4

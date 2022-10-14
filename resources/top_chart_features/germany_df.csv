@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+7sJNeWTXkZCEC7OnFMpGWL,"Luciano, Aitch, BIA",Bamba (feat. Aitch & BIA),Germany,0.797,0.791,10,-6.281,1,0.33,0.119,0.0,0.113,0.828,138.026,3.39,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Germany,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+1Fb8gCHRkmNAaN8vytd5vg,"Luciano, Central Cee",West Connect (feat. Central Cee),Germany,0.92,0.571,10,-7.133,0,0.494,0.0681,0.0,0.0969,0.465,139.99,3.54,4
+70Xfh3baxA4xusCiV5B5jg,"Jamule, FOURTY",KISSENSCHLACHT,Germany,0.91,0.447,1,-5.58,1,0.0688,0.101,0.000377,0.138,0.315,125.021,2.85,4
+6yeZM8gyykjaf8w0GqRfK4,Nina Chuba,Wildberry Lillet,Germany,0.89,0.521,6,-7.048,0,0.169,0.078,0.0,0.0958,0.646,139.981,2.2,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Germany,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+6Pk9SrYcNROzVANFESonWh,Pashanim,Doppel G,Germany,0.716,0.661,5,-8.171,0,0.0655,0.467,0.000402,0.135,0.887,154.827,2.05,4
+0g2leZuI3jD5pRsrRIDvYe,"Miksu / Macloud, makko",Nachts wach,Germany,0.719,0.683,6,-7.083,0,0.255,0.58,0.0,0.304,0.634,136.151,2.98,4
+5xX2LYdXyx0Boa61rZOjq5,Luciano,Beautiful Girl,Germany,0.846,0.42,11,-8.659,0,0.104,0.296,0.00134,0.09,0.621,139.883,2.97,4
+4tRhRLBxIZ34Iw0eCuiC03,southstar,Miss You,Germany,0.663,0.559,6,-12.876,0,0.0391,0.136,0.0894,0.108,0.296,145.007,3.44,4
+6ZjuBJah2xFEl4z3X20di3,"Miksu / Macloud, makko",Nachts wach (Lila Wolken Bootleg),Germany,0.667,0.849,10,-4.4,0,0.124,0.165,4.8e-05,0.107,0.752,155.002,2.63,4
+1IhwTymQA1QFgQJu4ZjYtW,Pashanim,2019 (justbars rmx),Germany,0.731,0.466,1,-9.402,1,0.362,0.389,0.0,0.337,0.3,129.63,1.73,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Germany,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+7dq9QIXx5eIz6w2MNzTan4,"Yung Hurn, SW43 L33 D1DO",ALLEINE - SW43 L33 D1DO REMIX,Germany,0.735,0.519,1,-8.315,1,0.0687,0.476,0.0012,0.18,0.579,149.931,2.4,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Germany,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+2q7jpVfCtcuRwcur9nQeuC,Liaze,PARADISE (MIT DIR),Germany,0.666,0.534,2,-8.495,0,0.0828,0.269,0.000873,0.068,0.392,139.998,3.22,4
+5IOF2LmEZaGDPOepCRFXTC,Samra,Undercover,Germany,0.448,0.831,1,-5.277,1,0.365,0.185,0.00011,0.361,0.709,171.159,2.94,5
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Germany,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+5ucyKDPjLpYLGadsRO1wSB,"DJ Robin, Schürze",Layla,Germany,0.448,0.921,5,-3.468,0,0.0687,0.00124,0.0,0.383,0.375,140.067,3.1,4
+6Hh6pxNSScePI9zjKBIUg2,OsTEKKe,Another Love,Germany,0.63,0.458,6,-14.172,1,0.0718,0.15,0.0255,0.108,0.208,170.042,2.43,4
+03ClGz3IWepPxLcVlGSC5Q,badmómzjay,Keine Tränen,Germany,0.744,0.591,1,-6.968,0,0.414,0.121,0.0,0.449,0.372,137.142,2.18,5
+038awuS65sn5GQxlpJGkqj,Rosc,Sternzeichen Arrogant,Germany,0.725,0.664,7,-7.709,1,0.348,0.0347,4.58e-06,0.131,0.632,95.308,2.29,4
+49y9ulK2kgYvVw3yBSdDao,"01099, Paul, $OHO BANI",Cider,Germany,0.878,0.669,11,-6.978,0,0.204,0.063,2.78e-06,0.0597,0.837,113.982,2.97,4
+7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Germany,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,2.52,4
+0ywXueKGCisfLkyOphGwaZ,twenty4tim,Gönn Dir,Germany,0.904,0.788,11,-5.795,0,0.16,0.0428,5.82e-05,0.069,0.658,114.973,2.13,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Germany,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Germany,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+7BaLRoaLSmnOgmMnQzonGq,"Luciano, KALIM",Blue Cheese (feat. KALIM),Germany,0.84,0.51,6,-6.602,0,0.279,0.281,0.000382,0.175,0.485,101.032,2.17,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Germany,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Germany,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+2EriVX6pX9RcmMsgU8Hsir,"Bonez MC, RAF Camora, Gzuz",Taxi,Germany,0.853,0.727,10,-7.712,0,0.191,0.548,0.000219,0.188,0.417,108.035,2.88,4
+2XXpLFPZGxgtohTd79DjZO,Luciano,Drill LUV,Germany,0.607,0.429,1,-9.397,0,0.193,0.104,0.00195,0.0767,0.312,76.987,2.93,4
+0j1whACQqbHlGzSZaUh6uR,"RIN, Schmyt, Miksu / Macloud",Sternenstaub,Germany,0.75,0.569,8,-9.895,0,0.325,0.453,0.0,0.252,0.297,128.922,2.36,4
+1W1N3usYjgI3XGQA0iX9Vq,"Miksu / Macloud, t-low",Sehnsucht,Germany,0.804,0.645,6,-7.069,0,0.0773,0.642,0.0,0.173,0.912,142.09,2.55,4
+1DTVCRW8QPPteXXhBlohM2,"Kontra K, Sido, Leony",Follow,Germany,0.719,0.628,8,-6.269,0,0.211,0.0733,2.41e-06,0.119,0.472,139.957,2.42,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Germany,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+35DkXhxqTMiQB582tfjowU,"Ion Miles, SIRA, BHZ",Powerade,Germany,0.89,0.72,6,-5.202,0,0.0729,0.193,0.437,0.641,0.935,150.09,2.37,4
+41KH81gnVWhIESbCRYluOQ,"102 Boyz, The Cratez, Chapo102, Kkuba102, Stacks102, Addikt102",Tokyo Drift,Germany,0.854,0.914,6,-3.847,1,0.128,0.0218,2.99e-05,0.0777,0.582,133.079,2.77,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Germany,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+5E2JcyolDstvqZ0PNpT3pS,Luciano,SUVs,Germany,0.813,0.261,1,-8.788,1,0.378,0.34,0.0,0.0932,0.62,139.993,2.7,4
+7vkq044gRCCrEhThIHvbI7,Pashanim,Tourlife.mp3,Germany,0.805,0.502,1,-11.337,1,0.147,0.0401,0.101,0.0969,0.324,120.007,2.23,4
+7hFw40Ta4n5wwD1Xzdscb5,Luciano,Frozen Tears,Germany,0.799,0.542,10,-10.341,0,0.109,0.137,0.000656,0.103,0.23,110.925,3.47,3
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Germany,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Germany,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+56MDdzieU2dTT3YLpCdpcA,Pashanim,BMW,Germany,0.737,0.532,2,-8.087,1,0.162,0.165,8.03e-06,0.185,0.418,75.491,2.02,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Germany,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Germany,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+7y2CanQNBGTd7EVJy80hLC,Kontra K,Nur für Dich,Germany,0.67,0.498,6,-8.236,0,0.332,0.722,0.0,0.116,0.355,81.914,3.21,4
+1ywM9BP8vzh0Pu1zbnGAfY,"Nina Chuba, Juju",Wildberry Lillet (Remix feat. Juju),Germany,0.899,0.51,1,-6.84,1,0.111,0.0816,0.0,0.0972,0.632,140.006,2.31,4
+6weT0OACEb3e4KLQJInf4I,"Die Zipfelbuben, DJ Cashi",Olivia,Germany,0.666,0.942,1,-2.928,1,0.0689,0.0307,0.0,0.246,0.832,141.913,3.0,4
+6GomT970rCOkKAyyrwJeZi,"Öwnboss, Sevek",Move Your Body,Germany,0.848,0.821,2,-5.408,0,0.0527,0.0169,0.000403,0.0962,0.249,125.051,2.62,4
+6evJ8sysntgtBBBs6WSxqQ,"MADE, San Andreas, Dorian",Krankenwagen,Germany,0.787,0.7,7,-9.025,1,0.417,0.347,0.0,0.128,0.528,138.902,2.1,4
+01pemiis9ttYA9ZxMaZVg7,Pashanim,Ferragamo,Germany,0.718,0.707,9,-7.01,0,0.0465,0.0262,0.00623,0.394,0.694,139.034,1.63,4
+21MlfDYRjL0DuBbiCS9wlB,"Bonez MC, RAF Camora",Eine Idee,Germany,0.759,0.688,11,-6.502,1,0.215,0.164,0.000242,0.108,0.556,192.189,2.5,4
+6hw1Sy9wZ8UCxYGdpKrU6M,Apache 207,Roller,Germany,0.941,0.758,10,-6.47,0,0.17,0.0256,0.00258,0.193,0.683,128.017,2.62,4
+3kcKlOkQQEPVwxwljbGJ5p,"Topic, A7S",Kernkraft 400 (A Better Day),Germany,0.623,0.727,11,-5.57,0,0.0562,0.184,2.02e-05,0.309,0.4,125.975,2.76,4
+3iZuI8q4aTMACYxEoq0TaV,Sido,Versager,Germany,0.645,0.605,8,-8.67,1,0.214,0.0614,1.42e-06,0.451,0.43,83.903,3.05,4
+1LYb6PIZO8jcGztOWI6ymM,Kraftklub,Blaues Licht,Germany,0.499,0.728,9,-5.487,0,0.0403,0.00201,6.82e-06,0.246,0.416,160.074,2.99,4
+4wXJldkJcvxENCYs5ghbNj,Pashanim,Milano,Germany,0.673,0.438,0,-12.103,0,0.0537,0.811,0.0432,0.2,0.145,95.025,1.69,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Germany,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+1IwYW1AOGriTuAS52gUm2i,Pashanim,Marseille,Germany,0.888,0.707,7,-8.632,0,0.0938,0.0141,0.231,0.0981,0.242,137.984,2.59,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Germany,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+75cxFn3oHrwMRDUXsLTvUl,"Luciano, Headie One",Life Lessons (feat. Headie One),Germany,0.917,0.573,4,-8.207,1,0.365,0.173,1.12e-05,0.121,0.72,139.993,2.56,4
+464F2a58LTaitVUFKvEm1J,"Glockenbach, ÁSDÍS",Dirty Dancing,Germany,0.72,0.83,11,-5.065,0,0.0954,0.0957,0.0,0.122,0.342,124.042,2.68,4
+4FXX4P3dxc1JMBx5wVRJ5N,"Tream, treamiboii, HBz",LEBENSLANG - HBz Remix,Germany,0.774,0.752,1,-5.534,1,0.137,0.0481,0.0,0.0719,0.546,139.965,2.85,4
+23EzkJ0gwrAW3mAH1H0vuv,"Luciano, RAF Camora",Tattoos (feat. RAF Camora),Germany,0.702,0.639,1,-6.812,0,0.0847,0.0988,6.61e-06,0.202,0.397,144.098,2.33,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Germany,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+3tclrcMq55RBexbs0hg77O,"Luciano, Sophie Hunger",Everywhere (feat. Sophie Hunger),Germany,0.79,0.585,1,-8.539,1,0.0919,0.0594,0.154,0.174,0.465,113.063,2.16,4
+6sS77FZh2eJfYBsFUW6hjI,Julian Sommer,Dicht im Flieger,Germany,0.607,0.958,8,-1.131,1,0.0866,0.0412,0.0,0.259,0.404,136.036,3.76,4
+5hnGrTBaEsdukpDF6aZg8a,Dean Lewis,How Do I Say Goodbye,Germany,0.4,0.641,8,-6.303,1,0.0674,0.214,0.0,0.0656,0.393,81.552,2.73,4
+6q11kvJWt4SYHiNembjnaU,"Rowli, Hank, Asterio",Nur ein Wort,Germany,0.579,0.886,4,-9.168,1,0.0406,0.0828,0.145,0.234,0.525,91.992,2.29,4
+2iQMBtjizpJ6d5bSXb9USL,Pashanim,sme (sei ma ehrlich),Germany,0.687,0.453,0,-10.058,1,0.1,0.0102,0.0,0.363,0.174,144.946,1.78,4
+6xukxpR18uEv9CpNQ0d0ll,Luciano,Magic,Germany,0.856,0.327,11,-11.9,0,0.27,0.182,0.000349,0.114,0.373,97.062,2.65,4
+3a0F2N6rXJSibQTp77xH4f,Domiziana,Ohne Benzin,Germany,0.746,0.7,8,-6.42,0,0.109,0.0427,0.00146,0.552,0.687,133.044,2.59,4
+0npHflJzLWZ6svbq5Abnfo,"Luciano, Paula Hartmann",Passion (feat. Paula Hartmann),Germany,0.789,0.465,11,-10.974,0,0.527,0.395,4.24e-06,0.153,0.308,107.918,2.67,4
+0dRS4EqKNaWgLBXju3eSbJ,"Brasco, Lucio101",WWW,Germany,0.905,0.471,0,-11.792,1,0.471,0.166,0.00675,0.127,0.6,126.026,2.01,4
+2kx5sQgmjYug0GiDh1a4sU,"Cheriimoya, Sierra Kidd","Living Life, In The Night",Germany,0.624,0.499,0,-9.962,0,0.0495,0.82,0.0,0.12,0.298,143.249,2.04,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Germany,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+7nhRvNTtuNPWvJuEnmNJYb,"Luciano, Gzuz",Voyage Skit (feat. Gzuz),Germany,0.825,0.536,1,-8.572,1,0.172,0.506,1.11e-05,0.0975,0.212,124.014,1.23,4
+3rb0tMq42WfggucPm0HHkA,"MEDUZA, James Carter, Elley Duhé, FAST BOY",Bad Memories (feat. Elley Duhé & FAST BOY),Germany,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,2.48,3
+3iYjUEMXpxiXUzKsLFuSNi,"Bonez MC, RAF Camora",Diamant,Germany,0.816,0.588,1,-7.149,0,0.273,0.431,0.000215,0.0709,0.219,102.982,2.29,4
+43SgbfsWPm8aqBAQngA1vv,Pashanim,21,Germany,0.816,0.46,6,-11.077,0,0.141,0.0761,0.00563,0.174,0.525,89.97,2.33,4
+3JXdzlvJJrKlmfBfoCLsOo,"t-low, Miksu / Macloud",We Made It,Germany,0.781,0.711,5,-5.398,0,0.0581,0.598,7.72e-06,0.251,0.767,116.004,3.53,4
+41ZYUGtRGAi3SEx23AZXfB,"Bonez MC, RAF Camora",Sommer,Germany,0.818,0.643,6,-7.841,0,0.0717,0.706,0.14,0.0957,0.385,106.011,3.23,4
+2e9GFQn2nNXTbnTl02U7YJ,southstar,We Are The People - Southstar Remix,Germany,0.744,0.786,7,-7.851,1,0.0425,0.00547,0.0964,0.0792,0.106,149.993,3.97,4
+6A3SB2C4U6JtCavQOXLYNN,Benzz,Je M'appelle,Germany,0.807,0.75,11,-4.396,1,0.237,0.17,0.0,0.164,0.961,141.176,2.33,4
+2J0r4Ekv7TYMgXakOtTjt7,"LEA, 01099, Zachi, Gustav",Eigentlich,Germany,0.809,0.532,2,-7.964,1,0.0655,0.459,0.0,0.1,0.319,100.005,2.65,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Germany,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Germany,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Germany,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Germany,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Germany,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+6i58R8JVtETb8PMkVOhM65,"K.I.Z, Tarek K.I.Z, Mehnersmoos",Oktoberfest,Germany,0.832,0.659,1,-6.644,1,0.346,0.175,0.0,0.288,0.43,130.013,3.51,4
+5gRXyFtArVXYk8OOSWIXBO,"Endzone, TM",61 Grad (Deep House RMX),Germany,0.895,0.553,7,-9.606,0,0.061,0.393,5.23e-05,0.116,0.354,127.968,1.88,4
+2ptG9ihX35aWmz7EnsYXBe,"Bonez MC, RAF Camora",Letztes Mal,Germany,0.78,0.705,5,-6.807,1,0.161,0.216,0.0261,0.0954,0.447,144.032,2.76,4
+10R2O2G7E42x3l8GKRf4an,Luciano,Majestic,Germany,0.579,0.648,1,-6.211,1,0.321,0.012,4.31e-05,0.191,0.214,138.692,3.43,4
+2Oi1IJ6JEUX1aya9VUAA1Z,"RAF Camora, Bonez MC",Blaues Licht,Germany,0.819,0.828,8,-4.906,0,0.108,0.39,0.00611,0.258,0.693,144.953,2.4,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Germany,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Germany,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4.79,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Germany,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+4k6yZRw7M04gZE2uW12Cw6,Makar,Mood,Germany,0.673,0.408,5,-15.094,0,0.0554,0.48,0.305,0.13,0.407,125.003,2.53,4
+76SBSmc38qQQSpkgBenb8U,"Samra, TOPIC42",Kiss Me,Germany,0.654,0.667,2,-6.27,1,0.264,0.195,0.0,0.424,0.738,145.867,2.77,4
+2sFsvaMRe8PKo5AFdBE9qC,Montez,Auf & Ab,Germany,0.719,0.426,1,-8.064,1,0.0792,0.391,0.00011,0.115,0.318,99.059,2.76,4
+71ywdfz0txggn6i6hiFST3,"AJÉ, Olexesh, O.G.",6AM,Germany,0.797,0.742,9,-6.551,0,0.0909,0.375,0.000798,0.114,0.264,100.046,2.4,4
+2CewvqbfMOcnvYE3yayAJV,KAMRAD,I Believe,Germany,0.711,0.681,10,-7.459,1,0.0263,0.124,0.0,0.262,0.775,118.021,2.45,4
+1RUp6d887zj0N9CrTwYb1j,Tom Twers,Falle Für Dich,Germany,0.706,0.722,1,-7.446,1,0.038,0.0473,0.0,0.65,0.584,130.015,2.51,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Germany,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+0JTz8ZeBJtnjRIWiJnHFdO,"AYLIVA, Mudi",Was Besseres,Germany,0.75,0.514,4,-7.749,0,0.0478,0.0528,0.0,0.106,0.307,89.94,2.73,4
+2H7jZg2HliuQhZjfBblLrZ,Pashanim,Sommergewitter,Germany,0.787,0.531,11,-10.569,0,0.101,0.132,0.00094,0.112,0.721,91.996,2.31,4
+22skzmqfdWrjJylampe0kt,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",Can't Hold Us (feat. Ray Dalton),Germany,0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,0.88,146.097,4.31,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Germany,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+6nghFixNnWi6Rp3Rm6AfP7,"Luciano, Yung Hurn",London (feat. Yung Hurn),Germany,0.799,0.5,1,-10.657,1,0.537,0.253,0.000726,0.0886,0.331,85.98,2.79,4
+4C5aQRcvdKfoWKCigcxgDS,"Ramo, Gzuz",DICKA WAS,Germany,0.615,0.665,0,-6.495,1,0.372,0.159,0.0,0.398,0.635,92.349,1.95,4
+7vmxzqidBt7y4FxRtsJBVV,AnnenMayKantereit,3 Tage am Meer,Germany,0.834,0.664,4,-4.733,1,0.0546,0.244,0.0031,0.0907,0.577,108.983,3.29,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Germany,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+3tjoq1CMR4YtSUegC5sbU8,RIN,Commitment Issues,Germany,0.731,0.629,8,-8.672,0,0.249,0.152,8.26e-05,0.164,0.718,82.488,1.85,4
+2WigMwGJysIh9fRnSJvpjn,Oxlade,KU LO SA - A COLORS SHOW,Germany,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9,2.46,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Germany,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+0y8lwLPXBsenbF5WAZhlbL,Pashanim,Kleiner Prinz,Germany,0.879,0.611,0,-7.057,0,0.272,0.114,8.47e-06,0.224,0.589,95.01,2.46,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Germany,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Germany,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+6WebNoyy2Z4EvmCCPr7vPM,"Julien Bam, ELIF, Jay-C",Bunny Bars (Osterhase),Germany,0.869,0.646,1,-6.531,1,0.0541,0.00516,0.0,0.224,0.754,120.019,2.86,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Germany,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+7KWwQ8SokgUDO7es6Q4ZGW,"ARY, Liaze",Ticket nach Ketama (feat. Liaze),Germany,0.551,0.8,6,-2.137,0,0.271,0.462,0.0,0.296,0.407,99.979,3.08,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Germany,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+3T4DdPVqWeaC4U7vrIxlKz,"Mia Julia, Lorenz Büffel, Malle Anja",Der Zug hat keine Bremse - Mallorcastyle Edition,Germany,0.795,0.974,0,-2.418,1,0.0778,0.029,0.0,0.611,0.935,137.957,3.46,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Germany,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Germany,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Germany,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+2PGA1AsJal6cyMNmKyE56q,Apache 207,200 km/h,Germany,0.899,0.67,11,-6.455,0,0.163,0.269,1.38e-05,0.105,0.413,148.065,2.72,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Germany,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+6a3kNt1UlUOapDKmEr3JzZ,"Bausa, Apache 207",Madonna,Germany,0.806,0.565,11,-8.96,0,0.113,0.47,0.0,0.0824,0.311,116.963,3.26,4
+0h14I7cPYi1RZG6GmVpMso,CIVO,Weg von mir,Germany,0.566,0.481,9,-10.706,1,0.205,0.783,0.0,0.575,0.671,143.857,2.28,3
+3BnDvpeuGOj21Ir2aVEtQo,Rema,Calm Down,Germany,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,0.842,107.003,3.66,4
+1CceISBSTQIqybOeTwc7dH,O.G.,Jede Träne,Germany,0.767,0.765,10,-3.691,0,0.242,0.155,0.000181,0.102,0.74,95.052,2.53,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Germany,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+1rEdhvoQOUXQTPRAKkYxb9,Luciano,Intro,Germany,0.826,0.773,4,-7.914,0,0.236,0.119,2.29e-06,0.256,0.701,137.953,1.76,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,Germany,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+2KqVUrATmCbFWODOGJji2n,"Luciano, Gazo",Moonlight (feat. Gazo),Germany,0.915,0.625,10,-6.997,1,0.421,0.345,1.51e-05,0.102,0.524,139.941,2.29,4
+6sDfeHgrQvvBFdg88Qq8TM,Emilio,AUSMACHT,Germany,0.703,0.786,1,-6.818,0,0.309,0.258,2.36e-05,0.184,0.522,125.258,2.48,4
+5443vprqDLYYwDUyBLkU9H,"Kraftklub, Tokio Hotel",Fahr mit mir (4x4) (feat. Tokio Hotel),Germany,0.62,0.607,1,-5.56,0,0.0612,0.107,0.0,0.077,0.702,168.944,4.09,4
+1LIvdWNdKmHvU0FJvw2diN,"Luude, Mattafix",Big City Life,Germany,0.615,0.902,3,-4.316,1,0.0859,0.0176,3.91e-05,0.103,0.298,87.03,2.45,4
+5C3J3C5nzBclrE8xuW5UQ7,Leony,Remedy,Germany,0.554,0.739,0,-3.473,1,0.144,0.0566,0.0,0.121,0.4,172.149,2.46,4
+3QDTkuRdB56wfnZbLgsUbI,Montez,Starlight Express,Germany,0.677,0.66,10,-6.228,1,0.102,0.15,0.0,0.108,0.306,169.931,2.75,4
+5dj7Il9BkdU1gMfIveNrVH,"Dhurata Dora, Luciano",Adrenalina,Germany,0.782,0.655,0,-5.243,0,0.0507,0.0832,2.67e-05,0.156,0.677,107.025,2.96,4
+5YdnOm5990Kfq1Jodws98B,"Felix Jaehn, Ray Dalton",Call It Love,Germany,0.616,0.841,5,-4.779,0,0.076,0.0559,0.00217,0.417,0.714,110.029,2.58,4
+3Z7CaxQkqbIs1rewKi6v4W,"Tiësto, Charli XCX",Hot In It,Germany,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,2.16,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Germany,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+2LtD83L2gaZxvAqTaNw7EO,Haftbefehl,RADW,Germany,0.872,0.725,7,-6.534,1,0.465,0.309,1.27e-06,0.357,0.5,128.058,3.29,4
+0sb8ClU3CLoNblxkpmOKzA,Ava Max,Maybe You’re The Problem,Germany,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,3.17,4
+0skgJbXMM4sPRwSKXvO2id,"YouNotUs, Louis III",Samba,Germany,0.772,0.882,9,-3.897,0,0.214,0.0471,0.0,0.0742,0.523,126.181,2.46,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Germany,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+4pJRESJio6ws27SYGXEAd0,Luciano,Push It,Germany,0.902,0.56,10,-6.759,0,0.0954,0.0248,0.025,0.139,0.802,149.996,2.84,4
+1jrQCsm4kN8ImpsASJnyhC,Luciano,Bottega Glasses,Germany,0.876,0.432,6,-9.219,0,0.278,0.0126,0.00198,0.178,0.253,127.982,3.03,4
+2DgdHcjWmO3qd50RzuBLgZ,Panic! At The Disco,House of Memories,Germany,0.506,0.817,11,-5.051,0,0.0335,0.00272,0.0,0.0486,0.506,109.952,3.48,4
+4KoSb4nqOjLMptbDaTbOJv,"CRO, Claudia Valentina",HIGH (feat. Claudia Valentina),Germany,0.822,0.577,6,-6.581,1,0.0582,0.347,0.00762,0.116,0.79,107.894,2.8,4
+3sa06xVNmLLYIxdNNmVQN8,"Jax Jones, MNEK",Where Did You Go? (feat. MNEK),Germany,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,0.502,127.034,2.96,4
+0zCgWGmDF0aih5qexATyBn,Mr.Kitty,After Dark,Germany,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,0.0392,140.019,4.29,4
+6fuO9uk9wbjCHvQJqk2Qpx,"Pashanim, skrilla",paris freestyle - skrilla remix,Germany,0.745,0.506,9,-6.919,1,0.128,0.0135,0.0937,0.167,0.325,145.041,1.77,4
+5ewhpp17f3pUSx9xCwC6b1,Apache 207,Sport,Germany,0.794,0.78,11,-3.373,0,0.0748,0.0073,9.99e-05,0.0516,0.628,165.009,2.92,4
+3wOfTyr0VCDkWkTJlt8wPR,PA Sports,HEAVEN,Germany,0.816,0.479,6,-8.958,0,0.21,0.521,0.00297,0.144,0.547,138.05,2.63,4
+3eJH2nAjvNXdmPfBkALiPZ,Jason Derulo,Acapulco,Germany,0.774,0.792,10,-4.021,1,0.0523,0.051,0.0,0.155,0.507,122.062,2.33,4
+2FQRZLR31e3423Nmrgv0Pv,"KUMMER, Fred Rabe",DER LETZTE SONG (ALLES WIRD GUT) (feat. Fred Rabe),Germany,0.643,0.836,7,-6.724,1,0.21,0.117,0.0,0.0791,0.628,147.927,2.86,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Germany,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+4IBK0s9QPphO37DPcYhsAO,Kraftklub,Ein Song reicht,Germany,0.546,0.718,9,-5.759,0,0.0509,0.00808,2.25e-05,0.211,0.588,167.981,3.41,4
+6oGnFxltTet4MD3yuT5WvX,SAIM x CAN,Tattoos,Germany,0.709,0.756,8,-5.025,1,0.0307,0.0823,0.00235,0.103,0.496,142.032,2.09,4
+2u8AXJyk8pICzj2wyPBL0b,"Sido, Apache 207",2002,Germany,0.657,0.691,8,-7.907,0,0.236,0.213,0.0,0.099,0.493,160.106,3.95,4
+0FKw2vfEDxDuRisr4kU8Ok,"RAF Camora, Luciano",2CB,Germany,0.82,0.725,10,-6.449,0,0.208,0.456,0.457,0.114,0.364,125.049,2.87,4
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,Germany,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+01kfSdF9zfcDLri5sSWEoL,Dxrk ダーク,RAVE,Germany,0.716,0.748,8,-6.06,1,0.0356,0.235,0.849,0.114,0.338,119.918,2.82,4
+05Mp2UJulSttxQ4E6hQPH3,"Bonez MC, RAF Camora, Maxwell",Ohne mein Team,Germany,0.766,0.8,1,-6.062,0,0.0938,0.16,1.6e-05,0.0744,0.635,129.999,3.14,4
+4UyVCLbNG8yhrqbzeSmdho,"Black Eyed Peas, Shakira, David Guetta",DON'T YOU WORRY,Germany,0.816,0.874,11,-4.822,1,0.0308,0.201,0.0,0.209,0.5,131.967,3.27,4
+3RM5RpRDDdST1njqOMG141,Culcha Candela,Monsta,Germany,0.843,0.8,1,-4.061,1,0.0336,0.179,0.0,0.118,0.961,133.026,3.27,4
+2pLeoBNJiGlbZkyf84z5hJ,"01099, Gustav, Zachi, AVO",Durstlöscher,Germany,0.883,0.467,1,-11.06,0,0.206,0.561,2.76e-05,0.102,0.27,134.037,2.69,4
+02AnxXaXzxredcMjjb26U0,"Bierkapitän, Andy Luxx, Dj Aaron",Lea,Germany,0.66,0.977,6,-2.232,0,0.0579,0.0278,0.0,0.337,0.771,140.013,2.66,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Germany,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+20on25jryn53hWghthWWW3,"ACRAZE, Cherish",Do It To It,Germany,0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,0.637,124.927,2.63,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Germany,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+0C3shWEOObGT5IxApC7Mkg,Henry Moodie,you were there for me,Germany,0.571,0.845,6,-4.4,1,0.0595,0.0549,5.5e-05,0.081,0.409,163.884,3.26,4
+60a0Rd6pjrkxjPbaKzXjfq,Linkin Park,In the End,Germany,0.556,0.864,3,-5.87,0,0.0584,0.00958,0.0,0.209,0.4,105.143,3.61,4
+0QjjaCaXE45mvhCnV3C0TA,Apache 207,Fame,Germany,0.813,0.659,1,-7.993,0,0.0967,0.185,0.0,0.0981,0.507,129.965,2.9,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Germany,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Germany,0.686,0.735,2,-4.616,1,0.264,0.00921,0.00066,0.342,0.0596,171.355,5.37,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Germany,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Germany,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+73VyQVMNGbCM7RAAsWSrnM,Kraftklub,Teil dieser Band,Germany,0.521,0.83,9,-5.293,0,0.304,0.0295,0.0,0.107,0.661,166.147,3.6,4
+1kKvfCmzXzRcfszwQrXFPM,AYLIVA,Bei Nacht,Germany,0.629,0.458,5,-7.159,1,0.0374,0.14,0.0,0.263,0.0758,77.525,2.9,4
+2ERn9fVsix3AyuVv7UN6RC,"SDP, Clueso",Die schönsten Tage,Germany,0.719,0.603,8,-5.737,1,0.0325,0.608,0.0,0.116,0.697,120.048,3.28,4
+0JzG1wJuB4v9UPkSE7LMXi,Montell Fish,Hotel,Germany,0.228,0.427,0,-8.739,0,0.0363,0.752,0.0167,0.592,0.192,180.345,3.29,4
+285pBltuF7vW8TeWk8hdRR,Juice WRLD,Lucid Dreams,Germany,0.511,0.566,6,-7.23,0,0.2,0.349,0.0,0.34,0.218,83.903,4.0,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Germany,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+2WRTnY0slmFgWcrmEr8dPj,Apache 207,Bläulich,Germany,0.79,0.704,10,-7.935,0,0.417,0.069,0.000658,0.113,0.212,154.007,3.27,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Germany,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+5ZduaRci3iNUiDfJbBfAaf,Matt Sassari,Give It To Me - Full Vocal Mix,Germany,0.874,0.869,1,-5.996,0,0.0315,0.00116,0.00238,0.164,0.726,126.027,1.71,4
+2YbbuEi3lGH1NhbUTXBj3j,Luciano,Sweet Dreams,Germany,0.8,0.396,9,-8.32,0,0.169,0.128,1.05e-05,0.093,0.289,95.982,3.25,4
+78xy2KmJ9LzgLltj3eO0aq,HoodBlaq,Barrio,Germany,0.678,0.628,10,-6.971,0,0.0722,0.261,0.0,0.118,0.182,127.005,3.36,4
+4xkOaSrkexMciUUogZKVTS,"Eminem, Nate Dogg",Till I Collapse,Germany,0.548,0.847,1,-3.237,1,0.186,0.0622,0.0,0.0816,0.1,171.447,4.96,4
+1WCEAGGRD066z2Q89ObXTq,"David Guetta, Becky Hill, Ella Henderson",Crazy What Love Can Do,Germany,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,2.83,4
+7iL6o9tox1zgHpKUfh9vuC,50 Cent,In Da Club,Germany,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,3.22,4
+3aJOGAcuJGnryvCMVEqmWO,"Savvy, MAJAN",Parkbank,Germany,0.846,0.477,5,-6.691,1,0.102,0.37,0.0,0.11,0.32,120.036,2.88,4

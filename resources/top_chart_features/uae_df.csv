@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Uae,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Uae,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Uae,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Uae,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Uae,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Uae,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Uae,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Uae,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Uae,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Uae,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Uae,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Uae,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Uae,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Uae,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Uae,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Uae,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+2WigMwGJysIh9fRnSJvpjn,Oxlade,KU LO SA - A COLORS SHOW,Uae,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9,2.46,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Uae,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+4UMIv5jd9gK98a39BQRD9X,"Pritam, Arijit Singh, Amitabh Bhattacharya",Kesariya,Uae,0.577,0.574,0,-6.525,1,0.0278,0.572,0.0,0.1,0.436,94.009,4.47,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Uae,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Uae,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Uae,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Uae,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Uae,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Uae,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Uae,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Uae,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,Uae,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,Uae,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2.55,4
+3azJifCSqg9fRij2yKIbWz,Tory Lanez,The Color Violet,Uae,0.645,0.534,6,-10.8,0,0.0479,0.157,0.0,0.0863,0.463,105.02,3.77,4
+2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Uae,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,0.454,116.959,3.9,3
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Uae,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Uae,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+7lvDsmTRXFE3dK4OjvRiWB,"Shae Gill, Ali Sethi",Pasoori,Uae,0.714,0.596,11,-6.206,0,0.043,0.0657,0.0,0.0625,0.669,91.991,3.74,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Uae,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+0HYAsQwJIO6FLqpyTeD3l6,Fujii Kaze,Shinunoga E-Wa,Uae,0.6,0.76,6,-6.123,0,0.0451,0.167,4.07e-05,0.189,0.519,158.075,3.09,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Uae,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Uae,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Uae,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Uae,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Uae,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Uae,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Uae,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+3BnDvpeuGOj21Ir2aVEtQo,Rema,Calm Down,Uae,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,0.842,107.003,3.66,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Uae,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Uae,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Uae,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Uae,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Uae,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+5YbPxJwPfrj7uswNwoF1pJ,Burna Boy,Last Last,Uae,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,2.87,4
+2m6Ko3CY1qXNNja8AlugNc,Troye Sivan,Angel Baby,Uae,0.559,0.559,11,-6.425,1,0.0358,0.0145,0.0,0.138,0.338,72.498,3.68,4
+1aL9518P5G72N92b48tuKw,AP Dhillon,Summer High,Uae,0.86,0.541,1,-6.51,0,0.0325,0.165,0.163,0.0663,0.952,114.984,2.96,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Uae,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Uae,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Uae,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+5O2P9iiztwhomNh8xkR9lJ,One Direction,Night Changes,Uae,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,3.78,4
+0L8LOav65XwLjCLS11gNPD,BLACKPINK,Typa Girl,Uae,0.915,0.621,7,-6.519,1,0.1,0.0745,0.0,0.628,0.527,131.984,2.99,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Uae,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),Uae,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,3.16,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Uae,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+5nujrmhLynf4yMoMtj8AQF,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),Uae,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,3.38,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Uae,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Uae,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Uae,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Uae,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Uae,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Uae,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Uae,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+2Xr1dTzJee307rmrkt8c0g,CKay,love nwantiti (ah ah ah),Uae,0.727,0.739,8,-3.805,1,0.0411,0.365,0.00137,0.161,0.533,93.005,2.43,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Uae,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Uae,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,2.89,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Uae,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+1uJ2czshFLqimctgvsxfv2,"A.R. Rahman, A. R. Reihana, Bamba Bakya","Ponni Nadhi (From ""Ponniyin Selvan Part -1"") - Tamil",Uae,0.687,0.637,10,-9.55,0,0.13,0.12,0.0,0.291,0.56,152.0,4.84,4
+1oFAF1hdPOickyHgbuRjyX,"The Weeknd, Ariana Grande",Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,Uae,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,3.18,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Uae,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,Uae,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Uae,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+4qu63nuBpdn0qHUHuObEj1,"Marshmello, Jonas Brothers",Leave Before You Love Me (with Jonas Brothers),Uae,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,2.58,4
+46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Uae,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,3.74,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Uae,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+0wHFktze2PHC5jDt3B17DC,Jack Harlow,First Class,Uae,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2.9,4
+08Isz2ETWSBhvIl8UpKYsp,Shubh,No Love,Uae,0.768,0.487,4,-8.936,0,0.0431,0.24,0.0,0.175,0.722,137.034,2.84,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Uae,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Uae,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Uae,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,0.47,105.006,3.77,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Uae,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Uae,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Uae,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+1gH1h30wkQdd9zhY3j7a8T,Rex Orange County,THE SHADE,Uae,0.898,0.509,5,-7.973,1,0.062,0.391,0.0,0.0876,0.727,119.869,3.03,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Uae,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+0HaRLPnr887lcQM2YQzkff,"Burna Boy, Ed Sheeran",For My Hand (feat. Ed Sheeran),Uae,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,2.65,4
+2J2Z1SkXYghSajLibnQHOa,Sia,Unstoppable,Uae,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,0.26,173.799,3.63,4
+0zlGnseLGzRIBA0TJcb3Bo,"Yohani, Jubin Nautiyal, Tanishk Bagchi, Rashmi Virag, Surya Ragunaathan","Manike (From ""Thank God"")",Uae,0.551,0.578,1,-7.005,0,0.0732,0.522,0.0,0.073,0.509,106.772,3.29,4
+1zi7xx7UVEFkmKfv06H8x0,"Drake, Wizkid, Kyla",One Dance,Uae,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.0018,0.329,0.37,103.967,2.9,4
+3AVXwaOGCEL8cmBecfcsFJ,Charlie Puth,Light Switch,Uae,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,3.09,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Uae,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+1u8c2t2Cy7UBoG4ArRcF5g,Taylor Swift,Blank Space,Uae,0.76,0.703,5,-5.412,1,0.054,0.103,0.0,0.0913,0.57,95.997,3.86,4
+5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,BREAK MY SOUL,Uae,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,4.64,4
+5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,Uae,0.669,0.742,1,-3.518,0,0.0441,0.296,0.0,0.355,0.716,101.982,3.39,4
+2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Uae,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,0.37,93.986,3.44,4
+2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",Uae,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4
+0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Uae,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,4.39,3
+0mL82sxCRjrs3br407IdJh,The Weeknd,Is There Someone Else?,Uae,0.702,0.586,9,-7.83,0,0.0313,0.0388,7.27e-05,0.156,0.608,134.951,3.32,4
+78nvT4euebtCsEigaNt4aa,KSI,Summer Is Over,Uae,0.349,0.745,0,-5.234,1,0.0454,0.422,1.18e-05,0.34,0.146,95.98,3.14,4
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Uae,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4
+5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Uae,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4.03,4
+7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,Uae,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,4.04,4
+4iJyoBOLtHqaGxP12qzhQI,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),Uae,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,3.3,4
+0a4MMyCrzT0En247IhqZbD,NewJeans,Hype Boy,Uae,0.593,0.935,4,-3.43,0,0.225,0.268,0.0,0.286,0.783,99.976,2.98,4
+3sNVsP50132BTNlImLx70i,Kanye West,Bound 2,Uae,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913,3.82,4
+0VO8gYVDSwM1Qdd2GsMoYK,"Swedish House Mafia, The Weeknd",Moth To A Flame (with The Weeknd),Uae,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,3.9,4
+0ll8uFnc0nANY35E0Lfxvg,Keane,Somewhere Only We Know,Uae,0.453,0.655,9,-4.22,1,0.0259,0.0794,7.61e-06,0.0849,0.368,172.012,3.94,4
+47sq83n5WN22ZzYnGn8aTy,"Adie, Janine Berdin",Mahika,Uae,0.635,0.451,7,-7.406,1,0.0391,0.742,0.0,0.139,0.601,81.976,3.37,4
+5CZ40GBx1sQ9agT82CLQCT,Olivia Rodrigo,traitor,Uae,0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,3.82,4
+2vXKRlJBXyOcvZYTdNeckS,"Gesaffelstein, The Weeknd",Lost in the Fire (feat. The Weeknd),Uae,0.658,0.671,2,-12.21,1,0.0363,0.0933,0.000927,0.115,0.166,100.966,3.37,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Uae,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Uae,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+7iL6o9tox1zgHpKUfh9vuC,50 Cent,In Da Club,Uae,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,3.22,4
+0zCgWGmDF0aih5qexATyBn,Mr.Kitty,After Dark,Uae,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,0.0392,140.019,4.29,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Uae,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+2e7iqtA42EPXTtiiAlblC1,Moira Dela Torre,Babalik Sa'yo - from 2 Good 2 Be True,Uae,0.515,0.65,1,-7.798,0,0.093,0.168,0.0,0.33,0.695,157.866,3.83,4
+1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,Don’t Blame Me,Uae,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917,3.94,4
+0RiRZpuVRbi7oqRdSMwhQY,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,Uae,0.755,0.522,2,-4.368,1,0.0575,0.533,0.0,0.0685,0.925,89.96,2.63,4
+21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,Uae,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,3.59,4
+29m79w9xPMH4YCD6r8JSmV,"AP Dhillon, Gurinder Gill, Intense",Excuses,Uae,0.837,0.717,5,-7.749,0,0.0822,0.0842,0.0,0.149,0.494,94.984,2.94,4
+68EkhVWIeULhHxcbi1QhzK,AJR,World's Smallest Violin,Uae,0.68,0.697,5,-7.01,1,0.0484,0.121,0.0,0.661,0.684,116.033,3.01,4
+4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Uae,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,4.98,3
+2gYj9lubBorOPIVWsTXugG,IVE,After LIKE,Uae,0.68,0.922,0,-1.215,1,0.121,0.103,0.0,0.0877,0.799,125.014,2.95,4
+0MHiYjjcHNYM9KURa6NveF,"Dabzee, SA","Manavaalan Thug - From ""Thallumaala""",Uae,0.809,0.583,1,-8.771,1,0.0605,0.356,0.0,0.0622,0.478,96.049,3.33,4
+4cktbXiXOapiLBMprHFErI,Maroon 5,Memories,Uae,0.775,0.327,11,-7.241,1,0.0557,0.841,0.0,0.0821,0.595,91.05,3.16,4
+3ZCTVFBt2Brf31RLEnCkWJ,Billie Eilish,everything i wanted,Uae,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,4.09,4
+4EWCNWgDS8707fNSZ1oaA5,Kanye West,Heartless,Uae,0.79,0.647,10,-5.983,0,0.136,0.0515,0.0,0.248,0.654,87.999,3.52,4
+5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Uae,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,3.52,4
+5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,Uae,0.715,0.47,5,-12.638,0,0.0772,0.353,0.0923,0.104,0.426,89.965,1.86,4
+0QzuaeCEEOV40Pn7IvKEny,dhruv,double take,Uae,0.656,0.436,8,-11.141,1,0.0744,0.845,0.0,0.221,0.196,109.239,2.86,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,Uae,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+3MJhPqL2IgGs7gHEB2M35q,BLACKPINK,Hard to Love,Uae,0.654,0.768,5,-5.007,1,0.0431,0.00616,0.0,0.202,0.505,104.97,2.71,4
+5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Uae,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,4.34,4
+4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,good 4 u,Uae,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,2.97,4
+0GavMn9kjiQk1yI6118jEY,Dhanush,Megham Karukatha,Uae,0.429,0.614,4,-6.573,0,0.0709,0.513,0.000316,0.0922,0.743,149.966,4.84,3
+3W9jnJBPYeihwNSXsr65f9,"Lil Mabu, DUSTY LOCANE",NO SNITCHING (with Dusty Locane),Uae,0.731,0.653,1,-8.767,1,0.348,0.0627,0.0,0.348,0.424,155.943,2.67,4
+4cacyP5c3PMlfnyjpg13xW,Yung Gravy,Betty (Get Money),Uae,0.723,0.772,1,-6.784,1,0.0792,0.00524,1.15e-05,0.367,0.58,102.004,2.44,4
+0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),Uae,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,2.88,4
+4xqrdfXkTW4T0RauPLv3WA,Conan Gray,Heather,Uae,0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,3.3,3
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Uae,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Uae,0.575,0.648,10,-4.891,1,0.0358,0.583,0.0,0.115,0.466,75.977,2.67,4
+2BgEsaKNfHUdlh97KmvFyo,Anne-Marie,2002,Uae,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,3.12,4
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Uae,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4
+3i7qScF9Oyp31O9bAutJez,"A.R. Rahman, Madhushree",Mallipoo,Uae,0.715,0.654,2,-7.266,1,0.336,0.196,0.000117,0.0667,0.762,175.589,4.09,3
+3FAJ6O0NOHQV8Mc5Ri6ENp,Giveon,Heartbreak Anniversary,Uae,0.449,0.465,0,-8.964,1,0.0791,0.524,1.02e-06,0.303,0.543,89.087,3.31,3
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Uae,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+2qxmye6gAegTMjLKEBoR3d,Alec Benjamin,Let Me Down Slowly,Uae,0.652,0.557,1,-5.714,0,0.0318,0.74,0.0,0.124,0.483,150.073,2.82,4
+2ZRo7axmMPeSVUvDbGkJah,XXXTENTACION,Hope,Uae,0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,1.85,4
+3hUxzQpSfdDqwM3ZTFQY0K,Taylor Swift,august,Uae,0.532,0.623,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,0.403,89.937,4.37,4
+0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Uae,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,3.41,4
+0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,THATS WHAT I WANT,Uae,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,2.4,4
+5QDLhrAOJJdNAmCTJ8xMyW,BTS,Dynamite,Uae,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,3.32,4
+1Nr46gjiP50uPsz30gYhAd,"Santhosh Narayanan, Anirudh Ravichander","Thenmozhi (From ""Thiruchitrambalam"")",Uae,0.764,0.532,9,-5.979,0,0.0491,0.598,0.0,0.26,0.859,123.95,2.89,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Uae,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+3M0lSi5WW79CXQamgSBIjx,Chase Atlantic,Swim,Uae,0.666,0.542,8,-6.429,1,0.0392,0.27,0.0,0.0765,0.0771,120.134,3.81,4
+1XGmzt0PVuFgQYYnV2It7A,"Maroon 5, Wiz Khalifa",Payphone,Uae,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,3.85,4
+2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Uae,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4.29,4
+1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,Uae,0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,3.35,4
+35mvY5S1H3J2QZyna3TFe0,Ariana Grande,positions,Uae,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,2.87,4
+4OmfWzukSVD140NiAIEjem,Steve Lacy,Static,Uae,0.335,0.305,1,-12.661,1,0.0741,0.434,0.631,0.101,0.215,79.001,2.61,5
+2pIUpMhHL6L9Z5lnKxJJr9,NewJeans,Attention,Uae,0.811,0.648,10,-3.684,0,0.0368,0.236,0.0,0.0761,0.695,104.988,3.0,4
+6v3KW9xbzN5yKLt9YKDYA2,"Shawn Mendes, Camila Cabello",Señorita,Uae,0.759,0.548,9,-6.049,0,0.029,0.0392,0.0,0.0828,0.749,116.967,3.18,4
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Uae,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+4tyEfRWLgYkWQaowoHXoba,Moira Dela Torre,Kumpas - Theme of “2 Good 2 Be True”,Uae,0.545,0.269,5,-11.001,1,0.03,0.883,2.31e-05,0.0944,0.349,124.022,4.47,3
+7LX4aXtvImhdgUHQBlo8Kp,Cigarettes After Sex,K.,Uae,0.454,0.404,3,-10.26,1,0.027,0.146,0.819,0.141,0.313,94.113,5.33,4
+62ke5zFUJN6RvtXZgVH0F8,Paloma Faith,Only Love Can Hurt Like This,Uae,0.566,0.885,8,-4.528,1,0.0818,0.0958,9.97e-05,0.334,0.304,90.99,3.88,4
+2kx5sQgmjYug0GiDh1a4sU,"Cheriimoya, Sierra Kidd","Living Life, In The Night",Uae,0.624,0.499,0,-9.962,0,0.0495,0.82,0.0,0.12,0.298,143.249,2.04,4
+02VBYrHfVwfEWXk5DXyf0T,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,Uae,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03,4
+3DarAbFujv6eYNliUTyqtz,"Doja Cat, SZA",Kiss Me More (feat. SZA),Uae,0.764,0.705,8,-3.463,1,0.0284,0.259,8.92e-05,0.12,0.781,110.97,3.48,4
+3UhmuWcFaLS3AO3kI9ynQ2,"AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",Insane,Uae,0.796,0.572,8,-7.03,0,0.0545,0.416,2.55e-05,0.0975,0.304,98.967,3.43,4
+6FZDfxM3a3UCqtzo5pxSLZ,Halsey,Without Me,Uae,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,3.36,4
+0yCWDaAgOtg6TKlNCg9rwA,King,Tu Aake Dekhle,Uae,0.77,0.84,11,-4.022,1,0.107,0.515,0.00452,0.145,0.192,96.012,4.5,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Uae,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+13Irp51zj01BZu2XtDrnAg,Lizzo,2 Be Loved (Am I Ready),Uae,0.721,0.769,7,-4.111,1,0.105,0.0922,0.0,0.0817,0.915,155.932,3.12,4
+6HU7h9RYOaPRFeh0R3UeAr,Olivia Rodrigo,deja vu,Uae,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,3.59,4
+0kqTXMHiQiB7IECD0WwcPq,TWICE,Talk that Talk,Uae,0.774,0.905,3,-2.432,0,0.122,0.143,0.0,0.332,0.768,119.964,2.96,4
+0oiv4E896TUTTeQU0cmIui,Drake,Massive,Uae,0.499,0.671,4,-6.774,0,0.0561,0.114,0.0169,0.148,0.0557,124.994,5.62,3
+0WZqHCoOBXqgCCIsUZLC2a,Arthur Nery,Pagsamo,Uae,0.644,0.315,6,-9.382,1,0.0339,0.706,0.00162,0.0962,0.356,60.001,4.95,4
+7AdGloF1UHKe1vAZPbqIXH,BLACKPINK,The Happiest Girl,Uae,0.382,0.37,0,-8.475,1,0.0785,0.605,0.0,0.102,0.556,181.459,3.7,3
+6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Uae,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,4.12,4
+3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Uae,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,3.05,4
+1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Uae,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4.04,4
+0bYVPJvXr8ACmw313cVvhB,BLACKPINK,Tally,Uae,0.688,0.637,2,-4.85,1,0.031,0.00777,0.0,0.13,0.427,129.902,3.07,4
+1SOClUWhOi8vHZYMz3GluK,Jaymes Young,Infinity,Uae,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,0.494,121.963,3.96,4
+1dGr1c8CrMLDpV6mPbImSI,Taylor Swift,Lover,Uae,0.359,0.543,7,-7.582,1,0.0919,0.492,1.58e-05,0.118,0.453,68.534,3.69,4
+40iJIUlhi6renaREYGeIDS,"Drake, Travis Scott",Fair Trade (with Travis Scott),Uae,0.666,0.465,1,-8.545,1,0.26,0.0503,0.0,0.215,0.292,167.937,4.85,4
+7JJmb5XwzOO8jgpou264Ml,Shawn Mendes,There's Nothing Holdin' Me Back,Uae,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,3.32,4
+4HBZA5flZLE435QTztThqH,"Ariana Grande, Justin Bieber",Stuck with U (with Justin Bieber),Uae,0.597,0.45,8,-6.658,1,0.0418,0.223,0.0,0.382,0.537,178.765,3.81,3
+2gMXnyrvIjhVBUZwvLZDMP,Lewis Capaldi,Before You Go,Uae,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,3.59,4
+16iRlyUMJVPqz62DlomMre,NOBITA,Ikaw Lang,Uae,0.513,0.38,11,-11.091,1,0.0336,0.12,0.0,0.0924,0.323,120.952,4.39,4
+69UqtTHfUKAJweQwEStRzC,Cigarettes After Sex,Sunsetz,Uae,0.412,0.477,9,-9.381,0,0.029,0.0542,0.798,0.0975,0.141,75.302,3.58,4
+4v7DCN09hgXkKazefkznDQ,Akon,Lonely,Uae,0.634,0.526,5,-7.881,0,0.0333,0.339,0.0,0.257,0.623,90.087,3.93,4
+6jjYDGxVJsWS0a5wlVF5vS,BTS,Butter,Uae,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,2.75,4
+2SLwbpExuoBDZBpjfefCtV,The Weeknd,Out of Time,Uae,0.65,0.76,0,-4.422,0,0.0446,0.255,0.0,0.339,0.838,93.057,3.57,4
+2P91MQbaiQOfbiz9VqhqKQ,Lauv,I Like Me Better,Uae,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,3.29,4

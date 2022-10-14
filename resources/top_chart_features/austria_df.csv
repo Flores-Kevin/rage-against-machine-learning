@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+7sJNeWTXkZCEC7OnFMpGWL,"Luciano, Aitch, BIA",Bamba (feat. Aitch & BIA),Austria,0.797,0.791,10,-6.281,1,0.33,0.119,0.0,0.113,0.828,138.026,3.39,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Austria,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Austria,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+1Fb8gCHRkmNAaN8vytd5vg,"Luciano, Central Cee",West Connect (feat. Central Cee),Austria,0.92,0.571,10,-7.133,0,0.494,0.0681,0.0,0.0969,0.465,139.99,3.54,4
+6yeZM8gyykjaf8w0GqRfK4,Nina Chuba,Wildberry Lillet,Austria,0.89,0.521,6,-7.048,0,0.169,0.078,0.0,0.0958,0.646,139.981,2.2,4
+0g2leZuI3jD5pRsrRIDvYe,"Miksu / Macloud, makko",Nachts wach,Austria,0.719,0.683,6,-7.083,0,0.255,0.58,0.0,0.304,0.634,136.151,2.98,4
+70Xfh3baxA4xusCiV5B5jg,"Jamule, FOURTY",KISSENSCHLACHT,Austria,0.91,0.447,1,-5.58,1,0.0688,0.101,0.000377,0.138,0.315,125.021,2.85,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Austria,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+7dq9QIXx5eIz6w2MNzTan4,"Yung Hurn, SW43 L33 D1DO",ALLEINE - SW43 L33 D1DO REMIX,Austria,0.735,0.519,1,-8.315,1,0.0687,0.476,0.0012,0.18,0.579,149.931,2.4,4
+5xX2LYdXyx0Boa61rZOjq5,Luciano,Beautiful Girl,Austria,0.846,0.42,11,-8.659,0,0.104,0.296,0.00134,0.09,0.621,139.883,2.97,4
+6ZjuBJah2xFEl4z3X20di3,"Miksu / Macloud, makko",Nachts wach (Lila Wolken Bootleg),Austria,0.667,0.849,10,-4.4,0,0.124,0.165,4.8e-05,0.107,0.752,155.002,2.63,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Austria,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Austria,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Austria,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Austria,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+2q7jpVfCtcuRwcur9nQeuC,Liaze,PARADISE (MIT DIR),Austria,0.666,0.534,2,-8.495,0,0.0828,0.269,0.000873,0.068,0.392,139.998,3.22,4
+6Pk9SrYcNROzVANFESonWh,Pashanim,Doppel G,Austria,0.716,0.661,5,-8.171,0,0.0655,0.467,0.000402,0.135,0.887,154.827,2.05,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Austria,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+2EriVX6pX9RcmMsgU8Hsir,"Bonez MC, RAF Camora, Gzuz",Taxi,Austria,0.853,0.727,10,-7.712,0,0.191,0.548,0.000219,0.188,0.417,108.035,2.88,4
+1W1N3usYjgI3XGQA0iX9Vq,"Miksu / Macloud, t-low",Sehnsucht,Austria,0.804,0.645,6,-7.069,0,0.0773,0.642,0.0,0.173,0.912,142.09,2.55,4
+4tRhRLBxIZ34Iw0eCuiC03,southstar,Miss You,Austria,0.663,0.559,6,-12.876,0,0.0391,0.136,0.0894,0.108,0.296,145.007,3.44,4
+5ucyKDPjLpYLGadsRO1wSB,"DJ Robin, Schürze",Layla,Austria,0.448,0.921,5,-3.468,0,0.0687,0.00124,0.0,0.383,0.375,140.067,3.1,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Austria,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Austria,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+35DkXhxqTMiQB582tfjowU,"Ion Miles, SIRA, BHZ",Powerade,Austria,0.89,0.72,6,-5.202,0,0.0729,0.193,0.437,0.641,0.935,150.09,2.37,4
+7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Austria,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,2.52,4
+21MlfDYRjL0DuBbiCS9wlB,"Bonez MC, RAF Camora",Eine Idee,Austria,0.759,0.688,11,-6.502,1,0.215,0.164,0.000242,0.108,0.556,192.189,2.5,4
+3iYjUEMXpxiXUzKsLFuSNi,"Bonez MC, RAF Camora",Diamant,Austria,0.816,0.588,1,-7.149,0,0.273,0.431,0.000215,0.0709,0.219,102.982,2.29,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Austria,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+23EzkJ0gwrAW3mAH1H0vuv,"Luciano, RAF Camora",Tattoos (feat. RAF Camora),Austria,0.702,0.639,1,-6.812,0,0.0847,0.0988,6.61e-06,0.202,0.397,144.098,2.33,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Austria,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+5IOF2LmEZaGDPOepCRFXTC,Samra,Undercover,Austria,0.448,0.831,1,-5.277,1,0.365,0.185,0.00011,0.361,0.709,171.159,2.94,5
+5E2JcyolDstvqZ0PNpT3pS,Luciano,SUVs,Austria,0.813,0.261,1,-8.788,1,0.378,0.34,0.0,0.0932,0.62,139.993,2.7,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Austria,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+1IhwTymQA1QFgQJu4ZjYtW,Pashanim,2019 (justbars rmx),Austria,0.731,0.466,1,-9.402,1,0.362,0.389,0.0,0.337,0.3,129.63,1.73,4
+0ywXueKGCisfLkyOphGwaZ,twenty4tim,Gönn Dir,Austria,0.904,0.788,11,-5.795,0,0.16,0.0428,5.82e-05,0.069,0.658,114.973,2.13,4
+5hnGrTBaEsdukpDF6aZg8a,Dean Lewis,How Do I Say Goodbye,Austria,0.4,0.641,8,-6.303,1,0.0674,0.214,0.0,0.0656,0.393,81.552,2.73,4
+1LIvdWNdKmHvU0FJvw2diN,"Luude, Mattafix",Big City Life,Austria,0.615,0.902,3,-4.316,1,0.0859,0.0176,3.91e-05,0.103,0.298,87.03,2.45,4
+41ZYUGtRGAi3SEx23AZXfB,"Bonez MC, RAF Camora",Sommer,Austria,0.818,0.643,6,-7.841,0,0.0717,0.706,0.14,0.0957,0.385,106.011,3.23,4
+4UyVCLbNG8yhrqbzeSmdho,"Black Eyed Peas, Shakira, David Guetta",DON'T YOU WORRY,Austria,0.816,0.874,11,-4.822,1,0.0308,0.201,0.0,0.209,0.5,131.967,3.27,4
+2ptG9ihX35aWmz7EnsYXBe,"Bonez MC, RAF Camora",Letztes Mal,Austria,0.78,0.705,5,-6.807,1,0.161,0.216,0.0261,0.0954,0.447,144.032,2.76,4
+2Oi1IJ6JEUX1aya9VUAA1Z,"RAF Camora, Bonez MC",Blaues Licht,Austria,0.819,0.828,8,-4.906,0,0.108,0.39,0.00611,0.258,0.693,144.953,2.4,4
+2XXpLFPZGxgtohTd79DjZO,Luciano,Drill LUV,Austria,0.607,0.429,1,-9.397,0,0.193,0.104,0.00195,0.0767,0.312,76.987,2.93,4
+6hw1Sy9wZ8UCxYGdpKrU6M,Apache 207,Roller,Austria,0.941,0.758,10,-6.47,0,0.17,0.0256,0.00258,0.193,0.683,128.017,2.62,4
+7BaLRoaLSmnOgmMnQzonGq,"Luciano, KALIM",Blue Cheese (feat. KALIM),Austria,0.84,0.51,6,-6.602,0,0.279,0.281,0.000382,0.175,0.485,101.032,2.17,4
+49y9ulK2kgYvVw3yBSdDao,"01099, Paul, $OHO BANI",Cider,Austria,0.878,0.669,11,-6.978,0,0.204,0.063,2.78e-06,0.0597,0.837,113.982,2.97,4
+6Hh6pxNSScePI9zjKBIUg2,OsTEKKe,Another Love,Austria,0.63,0.458,6,-14.172,1,0.0718,0.15,0.0255,0.108,0.208,170.042,2.43,4
+038awuS65sn5GQxlpJGkqj,Rosc,Sternzeichen Arrogant,Austria,0.725,0.664,7,-7.709,1,0.348,0.0347,4.58e-06,0.131,0.632,95.308,2.29,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Austria,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+2CewvqbfMOcnvYE3yayAJV,KAMRAD,I Believe,Austria,0.711,0.681,10,-7.459,1,0.0263,0.124,0.0,0.262,0.775,118.021,2.45,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Austria,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+7hFw40Ta4n5wwD1Xzdscb5,Luciano,Frozen Tears,Austria,0.799,0.542,10,-10.341,0,0.109,0.137,0.000656,0.103,0.23,110.925,3.47,3
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Austria,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Austria,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Austria,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Austria,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+03ClGz3IWepPxLcVlGSC5Q,badmómzjay,Keine Tränen,Austria,0.744,0.591,1,-6.968,0,0.414,0.121,0.0,0.449,0.372,137.142,2.18,5
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Austria,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Austria,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+1DTVCRW8QPPteXXhBlohM2,"Kontra K, Sido, Leony",Follow,Austria,0.719,0.628,8,-6.269,0,0.211,0.0733,2.41e-06,0.119,0.472,139.957,2.42,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Austria,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+0j1whACQqbHlGzSZaUh6uR,"RIN, Schmyt, Miksu / Macloud",Sternenstaub,Austria,0.75,0.569,8,-9.895,0,0.325,0.453,0.0,0.252,0.297,128.922,2.36,4
+75cxFn3oHrwMRDUXsLTvUl,"Luciano, Headie One",Life Lessons (feat. Headie One),Austria,0.917,0.573,4,-8.207,1,0.365,0.173,1.12e-05,0.121,0.72,139.993,2.56,4
+3JXdzlvJJrKlmfBfoCLsOo,"t-low, Miksu / Macloud",We Made It,Austria,0.781,0.711,5,-5.398,0,0.0581,0.598,7.72e-06,0.251,0.767,116.004,3.53,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Austria,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Austria,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+6GomT970rCOkKAyyrwJeZi,"Öwnboss, Sevek",Move Your Body,Austria,0.848,0.821,2,-5.408,0,0.0527,0.0169,0.000403,0.0962,0.249,125.051,2.62,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Austria,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+6weT0OACEb3e4KLQJInf4I,"Die Zipfelbuben, DJ Cashi",Olivia,Austria,0.666,0.942,1,-2.928,1,0.0689,0.0307,0.0,0.246,0.832,141.913,3.0,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Austria,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Austria,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+2kx5sQgmjYug0GiDh1a4sU,"Cheriimoya, Sierra Kidd","Living Life, In The Night",Austria,0.624,0.499,0,-9.962,0,0.0495,0.82,0.0,0.12,0.298,143.249,2.04,4
+4FXX4P3dxc1JMBx5wVRJ5N,"Tream, treamiboii, HBz",LEBENSLANG - HBz Remix,Austria,0.774,0.752,1,-5.534,1,0.137,0.0481,0.0,0.0719,0.546,139.965,2.85,4
+2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Austria,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4.79,4
+22skzmqfdWrjJylampe0kt,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",Can't Hold Us (feat. Ray Dalton),Austria,0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,0.88,146.097,4.31,4
+0FKw2vfEDxDuRisr4kU8Ok,"RAF Camora, Luciano",2CB,Austria,0.82,0.725,10,-6.449,0,0.208,0.456,0.457,0.114,0.364,125.049,2.87,4
+464F2a58LTaitVUFKvEm1J,"Glockenbach, ÁSDÍS",Dirty Dancing,Austria,0.72,0.83,11,-5.065,0,0.0954,0.0957,0.0,0.122,0.342,124.042,2.68,4
+4wXJldkJcvxENCYs5ghbNj,Pashanim,Milano,Austria,0.673,0.438,0,-12.103,0,0.0537,0.811,0.0432,0.2,0.145,95.025,1.69,4
+5gRXyFtArVXYk8OOSWIXBO,"Endzone, TM",61 Grad (Deep House RMX),Austria,0.895,0.553,7,-9.606,0,0.061,0.393,5.23e-05,0.116,0.354,127.968,1.88,4
+6A3SB2C4U6JtCavQOXLYNN,Benzz,Je M'appelle,Austria,0.807,0.75,11,-4.396,1,0.237,0.17,0.0,0.164,0.961,141.176,2.33,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Austria,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+56MDdzieU2dTT3YLpCdpcA,Pashanim,BMW,Austria,0.737,0.532,2,-8.087,1,0.162,0.165,8.03e-06,0.185,0.418,75.491,2.02,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Austria,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+2H7jZg2HliuQhZjfBblLrZ,Pashanim,Sommergewitter,Austria,0.787,0.531,11,-10.569,0,0.101,0.132,0.00094,0.112,0.721,91.996,2.31,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Austria,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+1ywM9BP8vzh0Pu1zbnGAfY,"Nina Chuba, Juju",Wildberry Lillet (Remix feat. Juju),Austria,0.899,0.51,1,-6.84,1,0.111,0.0816,0.0,0.0972,0.632,140.006,2.31,4
+3tclrcMq55RBexbs0hg77O,"Luciano, Sophie Hunger",Everywhere (feat. Sophie Hunger),Austria,0.79,0.585,1,-8.539,1,0.0919,0.0594,0.154,0.174,0.465,113.063,2.16,4
+3iZuI8q4aTMACYxEoq0TaV,Sido,Versager,Austria,0.645,0.605,8,-8.67,1,0.214,0.0614,1.42e-06,0.451,0.43,83.903,3.05,4
+7vkq044gRCCrEhThIHvbI7,Pashanim,Tourlife.mp3,Austria,0.805,0.502,1,-11.337,1,0.147,0.0401,0.101,0.0969,0.324,120.007,2.23,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Austria,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+6q11kvJWt4SYHiNembjnaU,"Rowli, Hank, Asterio",Nur ein Wort,Austria,0.579,0.886,4,-9.168,1,0.0406,0.0828,0.145,0.234,0.525,91.992,2.29,4
+6nghFixNnWi6Rp3Rm6AfP7,"Luciano, Yung Hurn",London (feat. Yung Hurn),Austria,0.799,0.5,1,-10.657,1,0.537,0.253,0.000726,0.0886,0.331,85.98,2.79,4
+1IwYW1AOGriTuAS52gUm2i,Pashanim,Marseille,Austria,0.888,0.707,7,-8.632,0,0.0938,0.0141,0.231,0.0981,0.242,137.984,2.59,4
+01pemiis9ttYA9ZxMaZVg7,Pashanim,Ferragamo,Austria,0.718,0.707,9,-7.01,0,0.0465,0.0262,0.00623,0.394,0.694,139.034,1.63,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Austria,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+7nhRvNTtuNPWvJuEnmNJYb,"Luciano, Gzuz",Voyage Skit (feat. Gzuz),Austria,0.825,0.536,1,-8.572,1,0.172,0.506,1.11e-05,0.0975,0.212,124.014,1.23,4
+3ZDXLSUZpKx8pspNBOdVr5,"RAF Camora, Ahmad Amin",Vergesse nie die Street,Austria,0.778,0.695,8,-5.984,1,0.0451,0.328,2.56e-06,0.13,0.756,144.074,2.49,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Austria,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+2sFsvaMRe8PKo5AFdBE9qC,Montez,Auf & Ab,Austria,0.719,0.426,1,-8.064,1,0.0792,0.391,0.00011,0.115,0.318,99.059,2.76,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Austria,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,Austria,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,3.4,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Austria,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+0skgJbXMM4sPRwSKXvO2id,"YouNotUs, Louis III",Samba,Austria,0.772,0.882,9,-3.897,0,0.214,0.0471,0.0,0.0742,0.523,126.181,2.46,4
+05Mp2UJulSttxQ4E6hQPH3,"Bonez MC, RAF Camora, Maxwell",Ohne mein Team,Austria,0.766,0.8,1,-6.062,0,0.0938,0.16,1.6e-05,0.0744,0.635,129.999,3.14,4
+3a0F2N6rXJSibQTp77xH4f,Domiziana,Ohne Benzin,Austria,0.746,0.7,8,-6.42,0,0.109,0.0427,0.00146,0.552,0.687,133.044,2.59,4
+6xukxpR18uEv9CpNQ0d0ll,Luciano,Magic,Austria,0.856,0.327,11,-11.9,0,0.27,0.182,0.000349,0.114,0.373,97.062,2.65,4
+6sS77FZh2eJfYBsFUW6hjI,Julian Sommer,Dicht im Flieger,Austria,0.607,0.958,8,-1.131,1,0.0866,0.0412,0.0,0.259,0.404,136.036,3.76,4
+5r43qanLhUCdBj8HN3fa6B,OneRepublic,Sunshine,Austria,0.697,0.875,5,-4.621,1,0.034,0.137,0.0,0.28,0.774,140.069,2.73,4
+2DgdHcjWmO3qd50RzuBLgZ,Panic! At The Disco,House of Memories,Austria,0.506,0.817,11,-5.051,0,0.0335,0.00272,0.0,0.0486,0.506,109.952,3.48,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Austria,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Austria,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Austria,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+3rb0tMq42WfggucPm0HHkA,"MEDUZA, James Carter, Elley Duhé, FAST BOY",Bad Memories (feat. Elley Duhé & FAST BOY),Austria,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,2.48,3
+0npHflJzLWZ6svbq5Abnfo,"Luciano, Paula Hartmann",Passion (feat. Paula Hartmann),Austria,0.789,0.465,11,-10.974,0,0.527,0.395,4.24e-06,0.153,0.308,107.918,2.67,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Austria,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+3eJH2nAjvNXdmPfBkALiPZ,Jason Derulo,Acapulco,Austria,0.774,0.792,10,-4.021,1,0.0523,0.051,0.0,0.155,0.507,122.062,2.33,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Austria,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,Austria,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+3Oww84xrmgjyr5J1ilOmAf,"Luude, Colin Hay",Down Under (feat. Colin Hay),Austria,0.308,0.86,11,-4.111,0,0.168,0.0116,0.000828,0.277,0.0387,171.835,2.65,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Austria,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+2USlegnFJLrVLpoVfPimKB,"Gabry Ponte, LUM!X, Prezioso",Thunder,Austria,0.67,0.896,1,-4.673,1,0.058,0.0342,3.21e-05,0.344,0.403,101.216,2.67,3
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Austria,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Austria,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Austria,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Austria,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+2iQMBtjizpJ6d5bSXb9USL,Pashanim,sme (sei ma ehrlich),Austria,0.687,0.453,0,-10.058,1,0.1,0.0102,0.0,0.363,0.174,144.946,1.78,4
+10R2O2G7E42x3l8GKRf4an,Luciano,Majestic,Austria,0.579,0.648,1,-6.211,1,0.321,0.012,4.31e-05,0.191,0.214,138.692,3.43,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Austria,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+63WuQOXohQIxOxIFA2K7bR,Måneskin,SUPERMODEL,Austria,0.636,0.876,7,-3.413,1,0.0555,0.00164,0.0,0.117,0.799,120.983,2.47,4
+4N5s8lPTsjI9EGP7K4SXzB,George Ezra,Green Green Grass,Austria,0.685,0.738,8,-4.413,1,0.0595,0.0695,0.0,0.128,0.8,112.972,2.79,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,Austria,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+5C3J3C5nzBclrE8xuW5UQ7,Leony,Remedy,Austria,0.554,0.739,0,-3.473,1,0.144,0.0566,0.0,0.121,0.4,172.149,2.46,4
+5dj7Il9BkdU1gMfIveNrVH,"Dhurata Dora, Luciano",Adrenalina,Austria,0.782,0.655,0,-5.243,0,0.0507,0.0832,2.67e-05,0.156,0.677,107.025,2.96,4
+1c2hJSwcCfoPEw1su83Sw0,Lady Gaga,Hold My Hand,Austria,0.53,0.612,7,-4.286,1,0.0331,0.0403,0.0,0.393,0.264,148.009,3.75,3
+6a3kNt1UlUOapDKmEr3JzZ,"Bausa, Apache 207",Madonna,Austria,0.806,0.565,11,-8.96,0,0.113,0.47,0.0,0.0824,0.311,116.963,3.26,4
+04EBsGEXJnq4iQtB0W6cUW,"Bonez MC, RAF Camora",September,Austria,0.631,0.609,8,-7.985,1,0.209,0.443,0.0323,0.219,0.204,180.112,2.57,4
+2hBkoDhuGk2AtSCprEFDFP,"Ray Dalton, Alvaro Soler",Manila,Austria,0.678,0.735,7,-5.996,1,0.0617,0.234,0.0,0.423,0.71,150.091,2.41,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Austria,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+0ll8uFnc0nANY35E0Lfxvg,Keane,Somewhere Only We Know,Austria,0.453,0.655,9,-4.22,1,0.0259,0.0794,7.61e-06,0.0849,0.368,172.012,3.94,4
+0sb8ClU3CLoNblxkpmOKzA,Ava Max,Maybe You’re The Problem,Austria,0.53,0.835,9,-3.69,1,0.11,0.0453,0.0,0.0637,0.471,166.02,3.17,4
+0h14I7cPYi1RZG6GmVpMso,CIVO,Weg von mir,Austria,0.566,0.481,9,-10.706,1,0.205,0.783,0.0,0.575,0.671,143.857,2.28,3
+4k6yZRw7M04gZE2uW12Cw6,Makar,Mood,Austria,0.673,0.408,5,-15.094,0,0.0554,0.48,0.305,0.13,0.407,125.003,2.53,4
+2PGA1AsJal6cyMNmKyE56q,Apache 207,200 km/h,Austria,0.899,0.67,11,-6.455,0,0.163,0.269,1.38e-05,0.105,0.413,148.065,2.72,4
+0U1W2LZVUX7qTm7dDpqxh6,Shawn Mendes,When You're Gone,Austria,0.603,0.691,5,-5.805,1,0.0372,0.0248,0.0,0.583,0.577,147.148,2.87,4
+2WigMwGJysIh9fRnSJvpjn,Oxlade,KU LO SA - A COLORS SHOW,Austria,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9,2.46,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Austria,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+7y2CanQNBGTd7EVJy80hLC,Kontra K,Nur für Dich,Austria,0.67,0.498,6,-8.236,0,0.332,0.722,0.0,0.116,0.355,81.914,3.21,4
+2e9GFQn2nNXTbnTl02U7YJ,southstar,We Are The People - Southstar Remix,Austria,0.744,0.786,7,-7.851,1,0.0425,0.00547,0.0964,0.0792,0.106,149.993,3.97,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Austria,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+2L6hCTpUlR2p7Su3hiSB0s,CRO,Einmal um die Welt,Austria,0.726,0.9,9,-4.134,1,0.0401,0.133,0.0,0.145,0.973,160.128,2.37,4
+43SgbfsWPm8aqBAQngA1vv,Pashanim,21,Austria,0.816,0.46,6,-11.077,0,0.141,0.0761,0.00563,0.174,0.525,89.97,2.33,4
+1CceISBSTQIqybOeTwc7dH,O.G.,Jede Träne,Austria,0.767,0.765,10,-3.691,0,0.242,0.155,0.000181,0.102,0.74,95.052,2.53,4
+3kcKlOkQQEPVwxwljbGJ5p,"Topic, A7S",Kernkraft 400 (A Better Day),Austria,0.623,0.727,11,-5.57,0,0.0562,0.184,2.02e-05,0.309,0.4,125.975,2.76,4
+7s3VxmIizcDgDTRCA4kDzd,CRO,Traum,Austria,0.706,0.772,0,-6.312,1,0.0652,0.0527,0.0,0.0636,0.964,119.976,3.26,4
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Austria,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Austria,0.686,0.735,2,-4.616,1,0.264,0.00921,0.00066,0.342,0.0596,171.355,5.37,4
+1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,Don’t Blame Me,Austria,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917,3.94,4
+3tjoq1CMR4YtSUegC5sbU8,RIN,Commitment Issues,Austria,0.731,0.629,8,-8.672,0,0.249,0.152,8.26e-05,0.164,0.718,82.488,1.85,4
+1LYb6PIZO8jcGztOWI6ymM,Kraftklub,Blaues Licht,Austria,0.499,0.728,9,-5.487,0,0.0403,0.00201,6.82e-06,0.246,0.416,160.074,2.99,4
+4xkOaSrkexMciUUogZKVTS,"Eminem, Nate Dogg",Till I Collapse,Austria,0.548,0.847,1,-3.237,1,0.186,0.0622,0.0,0.0816,0.1,171.447,4.96,4
+5YdnOm5990Kfq1Jodws98B,"Felix Jaehn, Ray Dalton",Call It Love,Austria,0.616,0.841,5,-4.779,0,0.076,0.0559,0.00217,0.417,0.714,110.029,2.58,4
+6WebNoyy2Z4EvmCCPr7vPM,"Julien Bam, ELIF, Jay-C",Bunny Bars (Osterhase),Austria,0.869,0.646,1,-6.531,1,0.0541,0.00516,0.0,0.224,0.754,120.019,2.86,4
+6clk3RFNYNhqhGdYV3Qon1,"Bonez MC, RAF Camora, Bounty Killer",Wer hat Angst,Austria,0.733,0.582,10,-6.902,0,0.262,0.333,0.00383,0.354,0.37,129.495,3.14,5
+4fouWK6XVHhzl78KzQ1UjL,GAYLE,abcdefu,Austria,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,0.415,121.932,2.81,4
+4KoSb4nqOjLMptbDaTbOJv,"CRO, Claudia Valentina",HIGH (feat. Claudia Valentina),Austria,0.822,0.577,6,-6.581,1,0.0582,0.347,0.00762,0.116,0.79,107.894,2.8,4
+0dRS4EqKNaWgLBXju3eSbJ,"Brasco, Lucio101",WWW,Austria,0.905,0.471,0,-11.792,1,0.471,0.166,0.00675,0.127,0.6,126.026,2.01,4
+2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Austria,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4.29,4
+2LtD83L2gaZxvAqTaNw7EO,Haftbefehl,RADW,Austria,0.872,0.725,7,-6.534,1,0.465,0.309,1.27e-06,0.357,0.5,128.058,3.29,4
+0JzG1wJuB4v9UPkSE7LMXi,Montell Fish,Hotel,Austria,0.228,0.427,0,-8.739,0,0.0363,0.752,0.0167,0.592,0.192,180.345,3.29,4
+7vmxzqidBt7y4FxRtsJBVV,AnnenMayKantereit,3 Tage am Meer,Austria,0.834,0.664,4,-4.733,1,0.0546,0.244,0.0031,0.0907,0.577,108.983,3.29,4
+0y8lwLPXBsenbF5WAZhlbL,Pashanim,Kleiner Prinz,Austria,0.879,0.611,0,-7.057,0,0.272,0.114,8.47e-06,0.224,0.589,95.01,2.46,4
+3BnDvpeuGOj21Ir2aVEtQo,Rema,Calm Down,Austria,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,0.842,107.003,3.66,4
+2u8AXJyk8pICzj2wyPBL0b,"Sido, Apache 207",2002,Austria,0.657,0.691,8,-7.907,0,0.236,0.213,0.0,0.099,0.493,160.106,3.95,4
+1jDJFeK9x3OZboIAHsY9k2,Elton John,I'm Still Standing,Austria,0.504,0.904,6,-6.863,1,0.179,0.356,0.121,0.14,0.772,176.808,3.06,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Austria,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+6fuO9uk9wbjCHvQJqk2Qpx,"Pashanim, skrilla",paris freestyle - skrilla remix,Austria,0.745,0.506,9,-6.919,1,0.128,0.0135,0.0937,0.167,0.325,145.041,1.77,4
+3UmaczJpikHgJFyBTAJVoz,"Eminem, Dido",Stan,Austria,0.78,0.768,6,-4.325,0,0.238,0.0371,2.34e-06,0.518,0.507,80.063,6.74,4
+2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Austria,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,0.37,93.986,3.44,4
+6sDfeHgrQvvBFdg88Qq8TM,Emilio,AUSMACHT,Austria,0.703,0.786,1,-6.818,0,0.309,0.258,2.36e-05,0.184,0.522,125.258,2.48,4
+0zCgWGmDF0aih5qexATyBn,Mr.Kitty,After Dark,Austria,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,0.0392,140.019,4.29,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Austria,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+285pBltuF7vW8TeWk8hdRR,Juice WRLD,Lucid Dreams,Austria,0.511,0.566,6,-7.23,0,0.2,0.349,0.0,0.34,0.218,83.903,4.0,4
+2KqVUrATmCbFWODOGJji2n,"Luciano, Gazo",Moonlight (feat. Gazo),Austria,0.915,0.625,10,-6.997,1,0.421,0.345,1.51e-05,0.102,0.524,139.941,2.29,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Austria,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+3RM5RpRDDdST1njqOMG141,Culcha Candela,Monsta,Austria,0.843,0.8,1,-4.061,1,0.0336,0.179,0.0,0.118,0.961,133.026,3.27,4
+3XQ6iz7mTpwB1NBiB6LSIK,"Bonez MC, RAF Camora",Alles umsonst,Austria,0.792,0.741,8,-7.574,0,0.0735,0.264,0.191,0.0814,0.608,136.026,2.67,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Austria,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+5UFbfXuj4TjirzmcvTFBBy,CRO,Bad Chick,Austria,0.775,0.684,6,-3.23,1,0.069,0.223,0.0,0.647,0.599,102.031,3.62,4
+3sa06xVNmLLYIxdNNmVQN8,"Jax Jones, MNEK",Where Did You Go? (feat. MNEK),Austria,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,0.502,127.034,2.96,4
+0QjjaCaXE45mvhCnV3C0TA,Apache 207,Fame,Austria,0.813,0.659,1,-7.993,0,0.0967,0.185,0.0,0.0981,0.507,129.965,2.9,4
+1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Austria,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4.04,4
+41KH81gnVWhIESbCRYluOQ,"102 Boyz, The Cratez, Chapo102, Kkuba102, Stacks102, Addikt102",Tokyo Drift,Austria,0.854,0.914,6,-3.847,1,0.128,0.0218,2.99e-05,0.0777,0.582,133.079,2.77,4
+62ke5zFUJN6RvtXZgVH0F8,Paloma Faith,Only Love Can Hurt Like This,Austria,0.566,0.885,8,-4.528,1,0.0818,0.0958,9.97e-05,0.334,0.304,90.99,3.88,4
+2WRTnY0slmFgWcrmEr8dPj,Apache 207,Bläulich,Austria,0.79,0.704,10,-7.935,0,0.417,0.069,0.000658,0.113,0.212,154.007,3.27,4
+4bHsxqR3GMrXTxEPLuK5ue,Journey,Don't Stop Believin',Austria,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,4.18,4
+7iL6o9tox1zgHpKUfh9vuC,50 Cent,In Da Club,Austria,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,3.22,4
+3hRV0jL3vUpRrcy398teAU,Lord Huron,The Night We Met,Austria,0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,0.102,87.01,3.47,3
+0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,THATS WHAT I WANT,Austria,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,2.4,4
+5STeQZH1Ahz3h0X9Njaij7,t-low,Crashen,Austria,0.649,0.733,11,-8.462,0,0.3,0.0679,0.0,0.122,0.498,150.874,2.97,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Austria,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4

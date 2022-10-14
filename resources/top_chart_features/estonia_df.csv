@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Estonia,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Estonia,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+4tRhRLBxIZ34Iw0eCuiC03,southstar,Miss You,Estonia,0.663,0.559,6,-12.876,0,0.0391,0.136,0.0894,0.108,0.296,145.007,3.44,4
+41XLcwECxYj7tokaF2a7sA,nublu,kastehein,Estonia,0.554,0.8,11,-6.798,0,0.0585,0.0347,0.0986,0.121,0.27,121.932,2.7,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Estonia,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Estonia,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Estonia,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Estonia,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+1LIvdWNdKmHvU0FJvw2diN,"Luude, Mattafix",Big City Life,Estonia,0.615,0.902,3,-4.316,1,0.0859,0.0176,3.91e-05,0.103,0.298,87.03,2.45,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Estonia,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Estonia,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+6yWAlfKGH5AMHlxT4ZtCVg,"Púr Múdd, Grete Paia",Ainult Unustamiseks,Estonia,0.596,0.795,2,-5.483,0,0.048,0.111,0.0,0.147,0.37,125.046,3.02,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Estonia,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Estonia,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+2XNRbWeHolZn9SqAUnxeO4,5MIINUST,vamos,Estonia,0.692,0.893,7,-4.803,1,0.0331,0.0211,0.0,0.0921,0.773,119.929,3.31,4
+73vIOb4Q7YN6HeJTbscRx5,"Oliver Tree, Robin Schulz",Miss You,Estonia,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.00107,0.146,0.199,145.007,3.43,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Estonia,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+7JCfnNY27xkr49svFwY5Pn,"kaw, nublu",MINNA KOOS (feat. Nublu),Estonia,0.765,0.739,6,-5.054,0,0.0627,0.0331,1.01e-06,0.277,0.534,124.056,2.36,4
+3rb0tMq42WfggucPm0HHkA,"MEDUZA, James Carter, Elley Duhé, FAST BOY",Bad Memories (feat. Elley Duhé & FAST BOY),Estonia,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,2.48,3
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Estonia,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Estonia,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+0uo7p6JtXF7U8x0ktN0Vty,Funk Tribu,Phonky Tribu,Estonia,0.731,0.873,11,-7.746,0,0.0518,0.000268,0.851,0.1,0.671,159.984,4.77,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Estonia,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Estonia,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Estonia,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Estonia,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+2uNrriUaePhbbmsXT8HQJU,INSTASAMKA,POPSTAR,Estonia,0.808,0.688,7,-8.964,0,0.0493,0.115,0.0251,0.114,0.377,120.039,2.3,4
+3Oww84xrmgjyr5J1ilOmAf,"Luude, Colin Hay",Down Under (feat. Colin Hay),Estonia,0.308,0.86,11,-4.111,0,0.168,0.0116,0.000828,0.277,0.0387,171.835,2.65,4
+4yU0tY2zj2RgpxPuBKinMR,"Andrei Zevakin, An-Marlen",Valikud (feat. An-Marlen),Estonia,0.739,0.85,3,-5.974,1,0.0567,0.0293,0.000954,0.189,0.928,146.0,2.74,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Estonia,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+0zCgWGmDF0aih5qexATyBn,Mr.Kitty,After Dark,Estonia,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,0.0392,140.019,4.29,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Estonia,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Estonia,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Estonia,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Estonia,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+5Sk39LuvdwuvL84jD01Dum,"MUPP, Sadfriendd",vendetta!,Estonia,0.706,0.91,1,-3.527,1,0.146,0.175,2e-06,0.11,0.667,126.007,1.78,4
+2ksyzVfU0WJoBpu8otr4pz,INTERWORLD,METAMORPHOSIS,Estonia,0.593,0.641,7,-12.727,0,0.0992,0.426,0.901,0.122,0.147,175.014,2.38,4
+4VJpJ0g4b0KqF7KZHiwOpV,5MIINUST,?mis sa tegid,Estonia,0.582,0.815,4,-6.318,0,0.0439,0.00407,1.91e-06,0.0862,0.17,120.071,3.94,4
+5gwPYQkqblAxIQA8VK8ZF6,nublu,v6sa,Estonia,0.868,0.787,11,-4.607,0,0.0431,0.166,0.000604,0.0472,0.675,120.005,2.77,4
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Estonia,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Estonia,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+01kfSdF9zfcDLri5sSWEoL,Dxrk ダーク,RAVE,Estonia,0.716,0.748,8,-6.06,1,0.0356,0.235,0.849,0.114,0.338,119.918,2.82,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Estonia,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+2WzAAerBvZvvFXgUpSwHZ9,"PLAYAMANE, Nateki",MIDNIGHT,Estonia,0.633,0.433,1,-8.833,1,0.229,0.0053,0.28,0.145,0.373,122.088,2.03,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Estonia,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+3gw91o4at6nDzewF9Hxzs7,Bru-C,No Excuses,Estonia,0.678,0.732,4,-5.696,0,0.0465,0.105,1.56e-05,0.306,0.337,87.495,3.71,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Estonia,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+7JDPjTzXu2rIbWjoAmKPLq,Arop,Kommunikatsiooni Probleem,Estonia,0.77,0.849,1,-3.908,1,0.0848,0.017,0.00948,0.28,0.494,170.077,2.02,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Estonia,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+40SBS57su9xLiE1WqkXOVr,LF SYSTEM,Afraid To Feel,Estonia,0.578,0.912,1,-3.929,1,0.114,0.0166,0.00362,0.273,0.68,127.87,2.96,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Estonia,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Estonia,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+0JzG1wJuB4v9UPkSE7LMXi,Montell Fish,Hotel,Estonia,0.228,0.427,0,-8.739,0,0.0363,0.752,0.0167,0.592,0.192,180.345,3.29,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Estonia,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Estonia,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Estonia,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,2.89,4
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Estonia,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Estonia,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Estonia,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,0.37,93.986,3.44,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Estonia,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+4oHEJ5KPf9hW1pDyQYIRIw,"Aarne, BUSHIDO ZHO, ANIKV",Тесно,Estonia,0.931,0.696,7,-6.656,1,0.187,0.336,2.49e-05,0.339,0.357,134.005,2.21,4
+2cbkgGRldr8q7XEryBMFCZ,"Marcara, Siimi",Zim Zimma,Estonia,0.661,0.895,11,-5.61,1,0.0394,0.0267,0.0681,0.435,0.469,145.002,2.71,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Estonia,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,Estonia,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+3T56drS7FjnZgGcOAHlXzx,Kordhell,Murder In My Mind - Sped Up,Estonia,0.598,0.994,2,-0.89,1,0.404,0.00364,0.0617,0.397,0.151,151.135,1.92,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Estonia,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Estonia,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+4QWbJNAWatPr3j065e3N7H,5MIINUST,koptereid,Estonia,0.57,0.781,4,-7.72,0,0.0422,0.000935,8.4e-05,0.148,0.17,115.059,4.17,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Estonia,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+3pBpX15YF0hdlRz2ddfSh2,"Fred again.., Swedish House Mafia, Future",Turn On The Lights again.. (feat. Future),Estonia,0.683,0.887,6,-4.944,0,0.0497,0.0125,0.446,0.318,0.551,132.007,4.47,4
+4OmfWzukSVD140NiAIEjem,Steve Lacy,Static,Estonia,0.335,0.305,1,-12.661,1,0.0741,0.434,0.631,0.101,0.215,79.001,2.61,5
+2xtLPeeUmIzM1hFw2qeH4U,"5MIINUST, nublu",Aluspükse,Estonia,0.725,0.771,9,-5.551,0,0.221,0.388,1.4e-06,0.362,0.544,119.998,3.5,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,Estonia,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Estonia,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+0wGbyS1tExQSwOYu6UceyE,"ONIMXRU, SMITHMANE",SHADOW,Estonia,0.721,0.692,7,-2.927,1,0.0414,0.000166,0.275,0.104,0.531,120.005,2.7,4
+5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Estonia,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,4.34,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Estonia,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Estonia,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+5VEZQNZWsZaKb1Y2jB8SWJ,"nublu, gameboy tetris, Raul Ojamaa",Paraadna,Estonia,0.787,0.73,7,-6.302,1,0.0684,0.0326,8.77e-06,0.17,0.639,96.013,2.86,4
+3sNVsP50132BTNlImLx70i,Kanye West,Bound 2,Estonia,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913,3.82,4
+30bqVoKjX479ab90a8Pafp,Lil Peep,Star Shopping,Estonia,0.585,0.471,4,-9.934,0,0.0616,0.0967,0.0184,0.115,0.323,93.099,2.37,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Estonia,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+79K5UKUZhbjfIsiSWRnSDv,NOËP,N.Y.M.P.H.O.maniac,Estonia,0.795,0.642,1,-6.372,0,0.0425,0.0213,0.000562,0.187,0.581,117.992,2.65,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Estonia,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+0PX9O7QzWYClP6PPuIaomj,"Bru-C, Simula",You & I,Estonia,0.646,0.864,9,-3.727,1,0.0718,0.087,0.0,0.0923,0.082,87.419,4.4,4
+3CLSHJv5aUROAN2vfOyCOh,DVRST,Close Eyes,Estonia,0.784,0.572,0,-9.853,1,0.0573,0.0748,0.843,0.139,0.209,96.181,2.21,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Estonia,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+6NFRX7D4Dnh1dRUPstj3ij,"Канги, Galust",Голова,Estonia,0.715,0.761,6,-7.463,0,0.0286,0.0252,0.000983,0.0846,0.548,112.023,2.93,4
+4qbEaaJ29p32GI8EWQmm6R,mazie,dumb dumb,Estonia,0.783,0.472,2,-8.392,1,0.0427,0.22,0.000458,0.0798,0.589,122.052,2.09,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Estonia,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+4woTEX1wYOTGDqNXuavlRC,"Eminem, Dina Rae",Superman,Estonia,0.802,0.755,4,-3.138,0,0.0564,0.0215,0.0,0.295,0.58,130.027,5.84,4
+0oO1AbL92F6329z13C2qQH,Yeat,Talk,Estonia,0.698,0.763,4,-4.716,0,0.205,0.0873,0.0,0.647,0.252,139.939,2.91,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Estonia,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+7wCmS9TTVUcIhRalDYFgPy,Pixies,Where Is My Mind? - Remastered,Estonia,0.519,0.441,4,-14.178,1,0.0353,0.0204,0.000453,0.076,0.25,81.334,3.92,4
+7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Estonia,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,2.52,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Estonia,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+2DgdHcjWmO3qd50RzuBLgZ,Panic! At The Disco,House of Memories,Estonia,0.506,0.817,11,-5.051,0,0.0335,0.00272,0.0,0.0486,0.506,109.952,3.48,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Estonia,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+4oMyggIzClkOcCTvotFLkP,Ghostface Playa,Why Not,Estonia,0.725,0.984,9,-1.638,1,0.0351,0.000718,0.895,0.372,0.931,119.983,2.75,4
+0irG7UHJP2APS0hul5MCat,5MIINUST,Erootika Pood,Estonia,0.837,0.681,10,-4.823,0,0.102,0.00864,0.0,0.168,0.794,115.032,4.45,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Estonia,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+42tD9J0KCPFSc1d2hFTvAf,Destroy Lonely,NOSTYLIST,Estonia,0.567,0.773,11,-5.166,0,0.0775,0.0396,0.0,0.111,0.496,160.08,3.0,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Estonia,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+63WuQOXohQIxOxIFA2K7bR,Måneskin,SUPERMODEL,Estonia,0.636,0.876,7,-3.413,1,0.0555,0.00164,0.0,0.117,0.799,120.983,2.47,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Estonia,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Estonia,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+3FyrVjLHV3TbmhS6QEJPsJ,Bru-C,Say No More,Estonia,0.393,0.836,11,-5.168,0,0.0927,0.0425,0.000358,0.0918,0.351,172.032,3.88,4
+1aXV8GrmQLvgoFtBPERP7E,Eyedress,Jealous,Estonia,0.474,0.921,9,-10.431,0,0.0457,0.00491,0.85,0.476,0.696,93.01,2.04,4
+5RBOcBpJXaNnHCGViJmYhh,Mareux,The Perfect Girl,Estonia,0.485,0.89,8,-5.992,0,0.0911,0.000872,0.818,0.102,0.258,128.881,3.24,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Estonia,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Estonia,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Estonia,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+5h62mwVy8R2sauA5tiugqp,"pluuto, Heleza",Sa oleks võinud öelda nii,Estonia,0.445,0.414,0,-11.408,1,0.192,0.732,0.0,0.203,0.707,178.461,2.37,4
+34lfu3S4fIcKZRNXzbdbo7,Kordhell,Live Another Day,Estonia,0.822,0.981,9,-1.321,1,0.109,0.000593,0.748,0.0938,0.404,115.005,2.23,4
+5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,Estonia,0.715,0.47,5,-12.638,0,0.0772,0.353,0.0923,0.104,0.426,89.965,1.86,4
+0wHFktze2PHC5jDt3B17DC,Jack Harlow,First Class,Estonia,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2.9,4
+5K9tfeoiztw94dyWzF39jq,Vierre Cloud,moment,Estonia,0.544,0.855,6,-7.461,1,0.093,0.0426,0.157,0.167,0.517,171.349,2.16,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Estonia,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Estonia,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+3s8MM2twymVva7oi9EP5GX,5MIINUST,Peo lõpp,Estonia,0.682,0.755,6,-5.705,0,0.0712,0.11,0.0,0.294,0.779,95.076,3.61,4
+6vECYJHxYmm3Ydt3fF01pE,Milky Chance,Stolen Dance,Estonia,0.885,0.581,11,-8.813,1,0.0378,0.427,0.000204,0.0759,0.728,114.016,5.23,4
+5IXdkgrT4lb9sKIb8tbOQ3,"BoyWithUke, Oliver Tree",Sick of U (with Oliver Tree),Estonia,0.676,0.814,0,-3.213,1,0.0585,0.277,0.0,0.0953,0.601,92.554,2.81,4
+4HcmKnUwCKsloslonqMzCN,"Bru-C, Bou",Streetside,Estonia,0.697,0.752,8,-5.001,1,0.0558,0.0318,0.000392,0.134,0.349,87.515,3.66,4
+0iUrxveyNUBfj0cqjYEijt,MoonDeity,NEON BLADE,Estonia,0.548,0.996,7,-2.169,1,0.112,0.0284,0.92,0.595,0.893,94.999,4.42,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Estonia,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Estonia,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+2fmtrXfvbN8xkHwE0zgTTc,"piri, Tommy Villiers, piri & tommy",on & on,Estonia,0.609,0.765,4,-7.65,0,0.0633,0.149,0.017,0.0815,0.819,173.993,2.25,4
+2HbKqm4o0w5wEeEFXm2sD4,"Kendrick Lamar, Jay Rock",Money Trees,Estonia,0.716,0.531,7,-7.355,1,0.122,0.0703,0.0,0.224,0.344,71.994,6.45,4
+43wgyQXc2M9KmTDUqVzugM,"MiyaGi & Endspiel, Rem Digga",I Got Love,Estonia,0.666,0.862,2,-4.376,0,0.203,0.154,0.0,0.139,0.203,106.028,4.61,4
+0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Estonia,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,0.691,116.731,5.01,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Estonia,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+4UsLaffcP013Gy8SSSTAsq,Kinneret,No Wind Resistance SPED UP!,Estonia,0.728,0.559,4,-11.18,0,0.046,0.246,0.298,0.293,0.489,110.423,2.76,5
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Estonia,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+5TRPicyLGbAF2LGBFbHGvO,"Kanye West, Dwele",Flashing Lights,Estonia,0.639,0.628,6,-7.578,0,0.0399,0.0381,0.0,0.386,0.43,90.482,3.96,4
+3Z7CaxQkqbIs1rewKi6v4W,"Tiësto, Charli XCX",Hot In It,Estonia,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,2.16,4
+3UmaczJpikHgJFyBTAJVoz,"Eminem, Dido",Stan,Estonia,0.78,0.768,6,-4.325,0,0.238,0.0371,2.34e-06,0.518,0.507,80.063,6.74,4
+6nqdgUTiWt4JbABDurkxMI,Hensonn,Sahara,Estonia,0.615,0.521,2,-9.488,1,0.0318,0.146,0.772,0.11,0.045,115.016,2.86,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Estonia,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+1w2vjbD7OmP9TaPRiiA2xW,"nublu, Mikael Gabriel",Vihje,Estonia,0.784,0.76,9,-5.034,1,0.0755,0.179,5.39e-05,0.0814,0.831,97.976,3.5,4
+6BfnNid8w0UyZqzR2mx1HB,"Молодой Платон, Poshlaya Molly, Yanix","DON'T PLAY, BAE",Estonia,0.843,0.774,10,-3.998,0,0.0612,0.00813,0.0,0.0668,0.391,101.982,3.03,4
+7EkWXAI1wn8Ii883ecd9xr,Surf Curse,Freaks,Estonia,0.345,0.941,9,-9.918,1,0.0466,3.84e-05,0.633,0.0511,0.407,179.626,2.45,4
+6MlIIJwO4FxnOlrpOrS4hU,INTERWORLD,METAMORPHOSIS - Sped Up,Estonia,0.679,0.69,11,-10.582,0,0.0732,0.472,0.904,0.181,0.136,112.478,1.85,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Estonia,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Estonia,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+0nCgsAki7e7I243CUblGxU,"Alcemist, Coco",Stan Smith,Estonia,0.698,0.869,2,-0.884,1,0.334,0.0747,0.000468,0.126,0.245,174.868,3.92,4
+2vXKRlJBXyOcvZYTdNeckS,"Gesaffelstein, The Weeknd",Lost in the Fire (feat. The Weeknd),Estonia,0.658,0.671,2,-12.21,1,0.0363,0.0933,0.000927,0.115,0.166,100.966,3.37,4
+1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,Don’t Blame Me,Estonia,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917,3.94,4
+3W9jnJBPYeihwNSXsr65f9,"Lil Mabu, DUSTY LOCANE",NO SNITCHING (with Dusty Locane),Estonia,0.731,0.653,1,-8.767,1,0.348,0.0627,0.0,0.348,0.424,155.943,2.67,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,Estonia,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+3gVhsZtseYtY1fMuyYq06F,Rammstein,Sonne,Estonia,0.51,0.917,4,-4.806,0,0.0854,0.0054,0.000133,0.396,0.313,75.098,4.54,4
+1bgKMxPQU7JIZEhNsM1vFs,"Alesso, Zara Larsson",Words (feat. Zara Larsson),Estonia,0.739,0.586,10,-5.079,0,0.0472,0.0245,0.000252,0.308,0.444,124.026,2.38,4
+2BH3j05ZXWr5PR30sW079d,Isolate.exe,Crystals,Estonia,0.692,0.729,11,-10.435,1,0.0554,0.438,0.656,0.0939,0.13,100.015,2.32,4
+5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,Estonia,0.669,0.742,1,-3.518,0,0.0441,0.296,0.0,0.355,0.716,101.982,3.39,4
+3ZNv0P70XQX5FoQAUw3bLg,"nublu, gameboy tetris",für Oksana,Estonia,0.802,0.677,8,-4.7,1,0.216,0.277,0.000154,0.078,0.87,170.065,3.25,4
+0VO8gYVDSwM1Qdd2GsMoYK,"Swedish House Mafia, The Weeknd",Moth To A Flame (with The Weeknd),Estonia,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,3.9,4
+7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,Estonia,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,3.4,4
+5fhn8aAo9FAl1pVLsMPOPk,"5MIINUST, villemdrillem",Paaristõuked,Estonia,0.688,0.821,4,-6.338,0,0.104,0.0344,0.0,0.0634,0.67,109.955,3.56,4
+2kx5sQgmjYug0GiDh1a4sU,"Cheriimoya, Sierra Kidd","Living Life, In The Night",Estonia,0.624,0.499,0,-9.962,0,0.0495,0.82,0.0,0.12,0.298,143.249,2.04,4
+4EWCNWgDS8707fNSZ1oaA5,Kanye West,Heartless,Estonia,0.79,0.647,10,-5.983,0,0.136,0.0515,0.0,0.248,0.654,87.999,3.52,4
+6CUrRWNO3KlHuvuw8yESSU,"5MIINUST, Sass Henno, Jozels",Trenažöör,Estonia,0.678,0.795,5,-7.98,0,0.203,0.0136,0.0,0.128,0.21,127.974,3.66,4
+0FGObJHsy9Q9KQh9sXuz92,AG,Mu Pariis,Estonia,0.759,0.656,6,-11.149,1,0.0803,0.244,0.0125,0.104,0.713,117.948,2.78,4
+5zgkOLH6HfY5w8thZoS2jP,Kinneret,No Wind Resistance!,Estonia,0.695,0.496,1,-12.199,0,0.0659,0.234,0.00625,0.116,0.49,139.849,3.32,4
+22skzmqfdWrjJylampe0kt,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",Can't Hold Us (feat. Ray Dalton),Estonia,0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,0.88,146.097,4.31,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Estonia,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,Estonia,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,4.04,4
+4Li2WHPkuyCdtmokzW2007,"JAY-Z, Kanye West",Ni**as In Paris,Estonia,0.789,0.858,1,-5.542,1,0.311,0.127,0.0,0.349,0.775,140.022,3.66,4
+7ycWLEP1GsNjVvcjawXz3z,"A$AP Rocky, Skepta",Praise The Lord (Da Shine) (feat. Skepta),Estonia,0.854,0.569,5,-8.151,0,0.106,0.0609,0.0816,0.1,0.294,80.015,3.42,4
+78nvT4euebtCsEigaNt4aa,KSI,Summer Is Over,Estonia,0.349,0.745,0,-5.234,1,0.0454,0.422,1.18e-05,0.34,0.146,95.98,3.14,4
+0AFmjTe9cGSWywqfa5fpuu,"pluuto, nublu, Reket, Siimi",SOS (Siimi Remix),Estonia,0.583,0.831,10,-3.219,1,0.104,0.316,2.85e-05,0.293,0.319,174.013,3.84,4
+2Y0iGXY6m6immVb2ktbseM,MGMT,Little Dark Age,Estonia,0.705,0.712,6,-6.156,1,0.0385,0.0102,0.000855,0.1,0.62,97.512,5.0,4
+2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Estonia,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4.29,4
+5hnGrTBaEsdukpDF6aZg8a,Dean Lewis,How Do I Say Goodbye,Estonia,0.4,0.641,8,-6.303,1,0.0674,0.214,0.0,0.0656,0.393,81.552,2.73,4
+4cacyP5c3PMlfnyjpg13xW,Yung Gravy,Betty (Get Money),Estonia,0.723,0.772,1,-6.784,1,0.0792,0.00524,1.15e-05,0.367,0.58,102.004,2.44,4
+3PXmiB8Htr95ccAdKyIsyR,"KSI, Tom Grennan",Not Over Yet (feat. Tom Grennan),Estonia,0.501,0.775,9,-2.993,1,0.052,0.542,0.0,0.394,0.557,174.009,2.59,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Estonia,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+1q4zdhfKRPjqIhQso87eDj,"Cartoon, nublu, gameboy tetris",Biology,Estonia,0.549,0.909,7,-5.417,1,0.0509,0.0206,0.0,0.153,0.698,85.962,3.24,4
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,Estonia,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Estonia,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+4RvWPyQ5RL0ao9LPZeSouE,Tears For Fears,Everybody Wants To Rule The World,Estonia,0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067,4.19,4
+7LX4aXtvImhdgUHQBlo8Kp,Cigarettes After Sex,K.,Estonia,0.454,0.404,3,-10.26,1,0.027,0.146,0.819,0.141,0.313,94.113,5.33,4
+0EPK3XVvgbe8q0KrS7nEiY,АДЛИН,Dead Inside,Estonia,0.895,0.676,2,-7.575,1,0.0853,0.0665,0.222,0.0878,0.418,126.993,2.08,4
+7IoTZnck9r11NCj5M0QG81,"nublu, Mikael Gabriel",Universum,Estonia,0.776,0.805,10,-5.928,0,0.205,0.25,0.00307,0.176,0.634,115.018,3.19,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Estonia,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+5Z8Dj3LtbyCMiwE86rhg2f,"Fred again.., The Blessed Madonna",Marea (we’ve lost dancing),Estonia,0.761,0.781,5,-6.778,0,0.141,0.0681,0.108,0.0607,0.473,123.023,4.76,4
+3sa06xVNmLLYIxdNNmVQN8,"Jax Jones, MNEK",Where Did You Go? (feat. MNEK),Estonia,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,0.502,127.034,2.96,4
+3dYD57lRAUcMHufyqn9GcI,Hozier,Take Me to Church,Estonia,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,4.03,4
+5FX30idriKlEIRYTxpNf65,KUTE,AVOID ME,Estonia,0.656,0.964,6,-2.087,0,0.0964,0.123,0.813,0.78,0.965,114.007,1.76,4
+6GomT970rCOkKAyyrwJeZi,"Öwnboss, Sevek",Move Your Body,Estonia,0.848,0.821,2,-5.408,0,0.0527,0.0169,0.000403,0.0962,0.249,125.051,2.62,4
+7I4ibsZgwuf46g0xHuTC8s,BONES,HDMI,Estonia,0.713,0.29,7,-16.365,1,0.0647,0.686,0.807,0.318,0.121,124.941,2.32,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Estonia,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+2bPGTMB5sFfFYQ2YvSmup0,Rammstein,Deutschland,Estonia,0.521,0.895,7,-5.242,1,0.0442,5.54e-05,0.349,0.0985,0.237,120.117,5.37,4
+7H0ya83CMmgFcOhw0UB6ow,Beach House,Space Song,Estonia,0.508,0.792,0,-7.311,0,0.0297,0.229,0.124,0.145,0.601,147.067,5.34,4
+763NvK59cOUvaH49dLE5tC,"Beatrice, Risto Vürst",La Vida Loca,Estonia,0.839,0.725,4,-5.836,0,0.0764,0.313,3.39e-06,0.119,0.714,93.999,2.39,4
+29TPjc8wxfz4XMn21O7VsZ,Playboi Carti,Sky,Estonia,0.785,0.903,2,-4.184,1,0.21,0.258,0.0,0.169,0.565,139.98,3.22,4
+5BsBUeUuFunEJyf78p4zGb,Merilin Mälk,Sinisilmne,Estonia,0.753,0.781,10,-4.064,0,0.0675,0.0681,0.000255,0.402,0.733,113.995,2.91,4
+11iIikXxC6NP0Ma8vMD27x,Vundabar,Alien Blues,Estonia,0.467,0.757,3,-5.093,1,0.033,0.0807,0.908,0.0876,0.433,82.282,2.6,4
+3pzr7iKQpV9QjLGcLcd2ic,"uglystephan, Scally Milano",Заберу,Estonia,0.764,0.7,2,-4.462,0,0.117,0.113,0.0,0.133,0.273,145.011,2.04,4
+3ZCTVFBt2Brf31RLEnCkWJ,Billie Eilish,everything i wanted,Estonia,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,4.09,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Estonia,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Estonia,0.575,0.648,10,-4.891,1,0.0358,0.583,0.0,0.115,0.466,75.977,2.67,4

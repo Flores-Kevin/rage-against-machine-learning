@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Latvia,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Latvia,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+2uNrriUaePhbbmsXT8HQJU,INSTASAMKA,POPSTAR,Latvia,0.808,0.688,7,-8.964,0,0.0493,0.115,0.0251,0.114,0.377,120.039,2.3,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Latvia,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Latvia,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Latvia,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+4oHEJ5KPf9hW1pDyQYIRIw,"Aarne, BUSHIDO ZHO, ANIKV",Тесно,Latvia,0.931,0.696,7,-6.656,1,0.187,0.336,2.49e-05,0.339,0.357,134.005,2.21,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Latvia,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Latvia,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Latvia,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Latvia,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Latvia,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Latvia,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Latvia,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Latvia,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Latvia,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+4tRhRLBxIZ34Iw0eCuiC03,southstar,Miss You,Latvia,0.663,0.559,6,-12.876,0,0.0391,0.136,0.0894,0.108,0.296,145.007,3.44,4
+0JzG1wJuB4v9UPkSE7LMXi,Montell Fish,Hotel,Latvia,0.228,0.427,0,-8.739,0,0.0363,0.752,0.0167,0.592,0.192,180.345,3.29,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Latvia,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Latvia,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Latvia,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+3rb0tMq42WfggucPm0HHkA,"MEDUZA, James Carter, Elley Duhé, FAST BOY",Bad Memories (feat. Elley Duhé & FAST BOY),Latvia,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,2.48,3
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Latvia,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,Latvia,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+0fyfPkT2929pU4hsqJqp7y,"Mauku Sencis, Grandmasters Neons",Piepist Seju,Latvia,0.813,0.453,11,-13.444,0,0.113,0.527,0.0,0.0834,0.838,100.008,4.26,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Latvia,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Latvia,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Latvia,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Latvia,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+0zCgWGmDF0aih5qexATyBn,Mr.Kitty,After Dark,Latvia,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,0.0392,140.019,4.29,4
+6IHo6KA0JW6FEHT0hdkx7s,"Bermudu Divstūris, Apvedceļš",Brāl' Ar Dzīvi Nekaulē,Latvia,0.714,0.81,4,-5.481,1,0.0448,0.217,0.0,0.148,0.883,115.035,2.89,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Latvia,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Latvia,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Latvia,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Latvia,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Latvia,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+2ksyzVfU0WJoBpu8otr4pz,INTERWORLD,METAMORPHOSIS,Latvia,0.593,0.641,7,-12.727,0,0.0992,0.426,0.901,0.122,0.147,175.014,2.38,4
+37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Latvia,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,2.89,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Latvia,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Latvia,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,0.37,93.986,3.44,4
+5Sk39LuvdwuvL84jD01Dum,"MUPP, Sadfriendd",vendetta!,Latvia,0.706,0.91,1,-3.527,1,0.146,0.175,2e-06,0.11,0.667,126.007,1.78,4
+01kfSdF9zfcDLri5sSWEoL,Dxrk ダーク,RAVE,Latvia,0.716,0.748,8,-6.06,1,0.0356,0.235,0.849,0.114,0.338,119.918,2.82,4
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Latvia,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Latvia,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Latvia,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+3sNVsP50132BTNlImLx70i,Kanye West,Bound 2,Latvia,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913,3.82,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Latvia,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Latvia,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,4.34,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Latvia,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+4woTEX1wYOTGDqNXuavlRC,"Eminem, Dina Rae",Superman,Latvia,0.802,0.755,4,-3.138,0,0.0564,0.0215,0.0,0.295,0.58,130.027,5.84,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Latvia,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+4OmfWzukSVD140NiAIEjem,Steve Lacy,Static,Latvia,0.335,0.305,1,-12.661,1,0.0741,0.434,0.631,0.101,0.215,79.001,2.61,5
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Latvia,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+30bqVoKjX479ab90a8Pafp,Lil Peep,Star Shopping,Latvia,0.585,0.471,4,-9.934,0,0.0616,0.0967,0.0184,0.115,0.323,93.099,2.37,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Latvia,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Latvia,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Latvia,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+2WzAAerBvZvvFXgUpSwHZ9,"PLAYAMANE, Nateki",MIDNIGHT,Latvia,0.633,0.433,1,-8.833,1,0.229,0.0053,0.28,0.145,0.373,122.088,2.03,4
+6GomT970rCOkKAyyrwJeZi,"Öwnboss, Sevek",Move Your Body,Latvia,0.848,0.821,2,-5.408,0,0.0527,0.0169,0.000403,0.0962,0.249,125.051,2.62,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Latvia,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+3HsWEpUnpzEITFJnbTyLTM,"Singapūras Satīns, A-Europa",Uz Seen,Latvia,0.683,0.738,0,-6.777,1,0.0315,0.00575,0.0,0.665,0.769,117.443,3.4,4
+73vIOb4Q7YN6HeJTbscRx5,"Oliver Tree, Robin Schulz",Miss You,Latvia,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.00107,0.146,0.199,145.007,3.43,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Latvia,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Latvia,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+3pzr7iKQpV9QjLGcLcd2ic,"uglystephan, Scally Milano",Заберу,Latvia,0.764,0.7,2,-4.462,0,0.117,0.113,0.0,0.133,0.273,145.011,2.04,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Latvia,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+7ycWLEP1GsNjVvcjawXz3z,"A$AP Rocky, Skepta",Praise The Lord (Da Shine) (feat. Skepta),Latvia,0.854,0.569,5,-8.151,0,0.106,0.0609,0.0816,0.1,0.294,80.015,3.42,4
+73LHQpKsDoDg4GbNzMKFQN,"Arut, MORGENSHTERN",BUGATTI,Latvia,0.944,0.532,1,-6.605,1,0.0639,0.0383,1.43e-06,0.175,0.124,136.961,3.17,4
+5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,Latvia,0.715,0.47,5,-12.638,0,0.0772,0.353,0.0923,0.104,0.426,89.965,1.86,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Latvia,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+0uo7p6JtXF7U8x0ktN0Vty,Funk Tribu,Phonky Tribu,Latvia,0.731,0.873,11,-7.746,0,0.0518,0.000268,0.851,0.1,0.671,159.984,4.77,4
+6NFRX7D4Dnh1dRUPstj3ij,"Канги, Galust",Голова,Latvia,0.715,0.761,6,-7.463,0,0.0286,0.0252,0.000983,0.0846,0.548,112.023,2.93,4
+2HbKqm4o0w5wEeEFXm2sD4,"Kendrick Lamar, Jay Rock",Money Trees,Latvia,0.716,0.531,7,-7.355,1,0.122,0.0703,0.0,0.224,0.344,71.994,6.45,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Latvia,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Latvia,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Latvia,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Latvia,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Latvia,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Latvia,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,Latvia,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+40SBS57su9xLiE1WqkXOVr,LF SYSTEM,Afraid To Feel,Latvia,0.578,0.912,1,-3.929,1,0.114,0.0166,0.00362,0.273,0.68,127.87,2.96,4
+3CLSHJv5aUROAN2vfOyCOh,DVRST,Close Eyes,Latvia,0.784,0.572,0,-9.853,1,0.0573,0.0748,0.843,0.139,0.209,96.181,2.21,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Latvia,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+0wGbyS1tExQSwOYu6UceyE,"ONIMXRU, SMITHMANE",SHADOW,Latvia,0.721,0.692,7,-2.927,1,0.0414,0.000166,0.275,0.104,0.531,120.005,2.7,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Latvia,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Latvia,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+7EkWXAI1wn8Ii883ecd9xr,Surf Curse,Freaks,Latvia,0.345,0.941,9,-9.918,1,0.0466,3.84e-05,0.633,0.0511,0.407,179.626,2.45,4
+1aXV8GrmQLvgoFtBPERP7E,Eyedress,Jealous,Latvia,0.474,0.921,9,-10.431,0,0.0457,0.00491,0.85,0.476,0.696,93.01,2.04,4
+7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,Latvia,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,3.4,4
+2aPTvyE09vUCRwVvj0I8WK,A$AP Rocky,Sundress,Latvia,0.721,0.707,6,-6.364,1,0.0595,0.181,3.68e-06,0.143,0.743,125.005,2.64,4
+7wCmS9TTVUcIhRalDYFgPy,Pixies,Where Is My Mind? - Remastered,Latvia,0.519,0.441,4,-14.178,1,0.0353,0.0204,0.000453,0.076,0.25,81.334,3.92,4
+7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Latvia,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,2.52,4
+3hxIUxnT27p5WcmjGUXNwx,Hotel Ugly,Shut up My Moms Calling,Latvia,0.485,0.409,9,-10.711,0,0.101,0.325,0.0,0.103,0.376,138.419,2.74,4
+6BfnNid8w0UyZqzR2mx1HB,"Молодой Платон, Poshlaya Molly, Yanix","DON'T PLAY, BAE",Latvia,0.843,0.774,10,-3.998,0,0.0612,0.00813,0.0,0.0668,0.391,101.982,3.03,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Latvia,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Latvia,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+4Li2WHPkuyCdtmokzW2007,"JAY-Z, Kanye West",Ni**as In Paris,Latvia,0.789,0.858,1,-5.542,1,0.311,0.127,0.0,0.349,0.775,140.022,3.66,4
+3Oww84xrmgjyr5J1ilOmAf,"Luude, Colin Hay",Down Under (feat. Colin Hay),Latvia,0.308,0.86,11,-4.111,0,0.168,0.0116,0.000828,0.277,0.0387,171.835,2.65,4
+1a1bBwZMDwZwAlPq2YhePE,"Kreisais Krasts, Ivans Baigais, marcways, Cepums, Pionieris","Stundiņu, Divas",Latvia,0.71,0.624,7,-3.921,1,0.261,0.344,0.0,0.115,0.289,87.984,2.84,4
+2DgdHcjWmO3qd50RzuBLgZ,Panic! At The Disco,House of Memories,Latvia,0.506,0.817,11,-5.051,0,0.0335,0.00272,0.0,0.0486,0.506,109.952,3.48,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Latvia,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+4EWCNWgDS8707fNSZ1oaA5,Kanye West,Heartless,Latvia,0.79,0.647,10,-5.983,0,0.136,0.0515,0.0,0.248,0.654,87.999,3.52,4
+5TRPicyLGbAF2LGBFbHGvO,"Kanye West, Dwele",Flashing Lights,Latvia,0.639,0.628,6,-7.578,0,0.0399,0.0381,0.0,0.386,0.43,90.482,3.96,4
+0oO1AbL92F6329z13C2qQH,Yeat,Talk,Latvia,0.698,0.763,4,-4.716,0,0.205,0.0873,0.0,0.647,0.252,139.939,2.91,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Latvia,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+6vECYJHxYmm3Ydt3fF01pE,Milky Chance,Stolen Dance,Latvia,0.885,0.581,11,-8.813,1,0.0378,0.427,0.000204,0.0759,0.728,114.016,5.23,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Latvia,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Latvia,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+2vXKRlJBXyOcvZYTdNeckS,"Gesaffelstein, The Weeknd",Lost in the Fire (feat. The Weeknd),Latvia,0.658,0.671,2,-12.21,1,0.0363,0.0933,0.000927,0.115,0.166,100.966,3.37,4
+0wHFktze2PHC5jDt3B17DC,Jack Harlow,First Class,Latvia,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2.9,4
+43wgyQXc2M9KmTDUqVzugM,"MiyaGi & Endspiel, Rem Digga",I Got Love,Latvia,0.666,0.862,2,-4.376,0,0.203,0.154,0.0,0.139,0.203,106.028,4.61,4
+7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,Latvia,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,4.04,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Latvia,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Latvia,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+4SA3hKVvIbnDWjwH1Hnp1C,dj nevykele,aerobika,Latvia,0.774,0.444,6,-11.299,0,0.0591,0.532,0.0999,0.109,0.709,142.532,2.5,4
+42tD9J0KCPFSc1d2hFTvAf,Destroy Lonely,NOSTYLIST,Latvia,0.567,0.773,11,-5.166,0,0.0775,0.0396,0.0,0.111,0.496,160.08,3.0,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Latvia,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+5mmWXDatUx0Kjcb7d1YY61,"Mauku Sencis, Grandmasters Neons",3D,Latvia,0.803,0.619,11,-10.119,1,0.132,0.0183,0.0,0.111,0.605,155.008,3.28,4
+3UmaczJpikHgJFyBTAJVoz,"Eminem, Dido",Stan,Latvia,0.78,0.768,6,-4.325,0,0.238,0.0371,2.34e-06,0.518,0.507,80.063,6.74,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Latvia,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Latvia,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,0.691,116.731,5.01,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Latvia,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Latvia,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+0iUrxveyNUBfj0cqjYEijt,MoonDeity,NEON BLADE,Latvia,0.548,0.996,7,-2.169,1,0.112,0.0284,0.92,0.595,0.893,94.999,4.42,4
+2xKA5mKz7swl48YzRsw6d3,"Markul, Тося Чайкина",Стрелы,Latvia,0.806,0.849,0,-5.354,1,0.116,0.199,0.0,0.134,0.532,128.073,2.94,4
+2kx5sQgmjYug0GiDh1a4sU,"Cheriimoya, Sierra Kidd","Living Life, In The Night",Latvia,0.624,0.499,0,-9.962,0,0.0495,0.82,0.0,0.12,0.298,143.249,2.04,4
+3pBpX15YF0hdlRz2ddfSh2,"Fred again.., Swedish House Mafia, Future",Turn On The Lights again.. (feat. Future),Latvia,0.683,0.887,6,-4.944,0,0.0497,0.0125,0.446,0.318,0.551,132.007,4.47,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Latvia,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,Don’t Blame Me,Latvia,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917,3.94,4
+4oMyggIzClkOcCTvotFLkP,Ghostface Playa,Why Not,Latvia,0.725,0.984,9,-1.638,1,0.0351,0.000718,0.895,0.372,0.931,119.983,2.75,4
+22skzmqfdWrjJylampe0kt,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",Can't Hold Us (feat. Ray Dalton),Latvia,0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,0.88,146.097,4.31,4
+4qbEaaJ29p32GI8EWQmm6R,mazie,dumb dumb,Latvia,0.783,0.472,2,-8.392,1,0.0427,0.22,0.000458,0.0798,0.589,122.052,2.09,4
+5RBOcBpJXaNnHCGViJmYhh,Mareux,The Perfect Girl,Latvia,0.485,0.89,8,-5.992,0,0.0911,0.000872,0.818,0.102,0.258,128.881,3.24,4
+6nqdgUTiWt4JbABDurkxMI,Hensonn,Sahara,Latvia,0.615,0.521,2,-9.488,1,0.0318,0.146,0.772,0.11,0.045,115.016,2.86,4
+29TPjc8wxfz4XMn21O7VsZ,Playboi Carti,Sky,Latvia,0.785,0.903,2,-4.184,1,0.21,0.258,0.0,0.169,0.565,139.98,3.22,4
+34lfu3S4fIcKZRNXzbdbo7,Kordhell,Live Another Day,Latvia,0.822,0.981,9,-1.321,1,0.109,0.000593,0.748,0.0938,0.404,115.005,2.23,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Latvia,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Latvia,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+0EPK3XVvgbe8q0KrS7nEiY,АДЛИН,Dead Inside,Latvia,0.895,0.676,2,-7.575,1,0.0853,0.0665,0.222,0.0878,0.418,126.993,2.08,4
+21LIoC4ZxT3F8xq9gidNbX,xxxmanera,Never Broke Again,Latvia,0.643,0.573,1,-6.992,1,0.0466,0.0126,0.0,0.201,0.7,139.94,1.8,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Latvia,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+4AMCdODHG4ZZ1BiErHt0VI,Egor Kreed,We Gotta Get Love,Latvia,0.799,0.642,2,-5.47,1,0.0644,0.138,1.03e-05,0.0998,0.177,104.997,2.24,4
+5K9tfeoiztw94dyWzF39jq,Vierre Cloud,moment,Latvia,0.544,0.855,6,-7.461,1,0.093,0.0426,0.157,0.167,0.517,171.349,2.16,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Latvia,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+4tqcoej1zPvwePZCzuAjJd,J. Cole,Wet Dreamz,Latvia,0.495,0.722,6,-8.108,0,0.357,0.0697,0.0,0.113,0.539,175.627,3.99,4
+4cacyP5c3PMlfnyjpg13xW,Yung Gravy,Betty (Get Money),Latvia,0.723,0.772,1,-6.784,1,0.0792,0.00524,1.15e-05,0.367,0.58,102.004,2.44,4
+58k32my5lKofeZRtIvBDg9,Baby Keem,HONEST,Latvia,0.676,0.536,2,-8.79,1,0.0432,0.403,3.37e-05,0.105,0.373,79.037,2.88,4
+7I4ibsZgwuf46g0xHuTC8s,BONES,HDMI,Latvia,0.713,0.29,7,-16.365,1,0.0647,0.686,0.807,0.318,0.121,124.941,2.32,4
+6EtKlIQmGPB9SX8UjDJG5s,Labrinth,Formula,Latvia,0.574,0.664,11,-6.068,1,0.0409,0.0448,0.0553,0.146,0.226,144.654,1.53,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,Latvia,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Latvia,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+2DHX9faMGUQQTwD1Ot4ch2,INSTASAMKA,MONEYKEN LOVE,Latvia,0.801,0.644,1,-7.37,1,0.118,0.0152,0.0644,0.123,0.261,100.025,2.28,4
+0F4FejjWi3bf5vGOkuQwPS,Darci,On My Own,Latvia,0.767,0.593,4,-5.901,1,0.0413,0.0324,4.5e-06,0.0878,0.579,130.007,2.86,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Latvia,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+3Z7CaxQkqbIs1rewKi6v4W,"Tiësto, Charli XCX",Hot In It,Latvia,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,2.16,4
+5zgkOLH6HfY5w8thZoS2jP,Kinneret,No Wind Resistance!,Latvia,0.695,0.496,1,-12.199,0,0.0659,0.234,0.00625,0.116,0.49,139.849,3.32,4
+4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Latvia,0.575,0.648,10,-4.891,1,0.0358,0.583,0.0,0.115,0.466,75.977,2.67,4
+1bgKMxPQU7JIZEhNsM1vFs,"Alesso, Zara Larsson",Words (feat. Zara Larsson),Latvia,0.739,0.586,10,-5.079,0,0.0472,0.0245,0.000252,0.308,0.444,124.026,2.38,4
+7zwn1eykZtZ5LODrf7c0tS,The Neighbourhood,You Get Me So High,Latvia,0.551,0.881,7,-6.099,0,0.0542,0.186,0.0791,0.152,0.387,88.036,2.55,4
+1oGmFrMqitiA38yJZnvWin,"Singapūras Satīns, Samanta Tina",Plāksteris,Latvia,0.695,0.812,6,-6.033,0,0.0409,0.013,0.0,0.18,0.176,103.969,2.55,4
+3hRV0jL3vUpRrcy398teAU,Lord Huron,The Night We Met,Latvia,0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,0.102,87.01,3.47,3
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Latvia,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+7LX4aXtvImhdgUHQBlo8Kp,Cigarettes After Sex,K.,Latvia,0.454,0.404,3,-10.26,1,0.027,0.146,0.819,0.141,0.313,94.113,5.33,4
+4xkOaSrkexMciUUogZKVTS,"Eminem, Nate Dogg",Till I Collapse,Latvia,0.548,0.847,1,-3.237,1,0.186,0.0622,0.0,0.0816,0.1,171.447,4.96,4
+2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Latvia,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4.29,4
+0VO8gYVDSwM1Qdd2GsMoYK,"Swedish House Mafia, The Weeknd",Moth To A Flame (with The Weeknd),Latvia,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,3.9,4
+3GZD6HmiNUhxXYf8Gch723,Frank Ocean,Lost,Latvia,0.913,0.603,8,-4.892,1,0.226,0.0272,0.000503,0.167,0.497,123.061,3.9,4
+5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,BREAK MY SOUL,Latvia,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,4.64,4
+3oQTUYUbPjUZybgQhS6yfW,"GACHO, Justs Sirmais",Mūžam Jauns,Latvia,0.667,0.883,7,-6.73,1,0.037,0.00367,0.0,0.164,0.582,128.016,3.5,4
+2gcFOhxQOqAx1OABnxvUZ4,"Eldzhey, FEDUK",Розовое вино,Latvia,0.832,0.719,10,-5.427,0,0.0545,0.318,0.000663,0.107,0.329,115.053,4.11,4
+3dYD57lRAUcMHufyqn9GcI,Hozier,Take Me to Church,Latvia,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,4.03,4
+2N3U8uTYhjX2KwGT0pf5x0,"A$AP Rocky, Rod Stewart, Miguel, Mark Ronson","Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",Latvia,0.394,0.661,4,-8.684,1,0.192,0.00996,0.0,0.343,0.335,149.818,4.35,4
+6TMetAezlN9nmxYSNDew7A,rolands če,visurgājējs,Latvia,0.752,0.622,6,-7.244,0,0.0337,0.114,0.0,0.237,0.395,124.026,4.0,4
+7sA2SKTo1QbTSSYn5YvJC4,Imagine Dragons,Sharks,Latvia,0.927,0.642,10,-4.466,0,0.0657,0.00791,3.62e-05,0.279,0.901,123.969,3.18,4
+7iL6o9tox1zgHpKUfh9vuC,50 Cent,In Da Club,Latvia,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,3.22,4
+75C98tVaHUtjYZTIcy9U7U,Xcho,Ты и Я,Latvia,0.863,0.673,9,-3.87,0,0.227,0.431,0.0,0.0901,0.385,135.001,2.47,4
+30QR0ndUdiiMQMA9g1PGCm,$uicideboy$,"...And to Those I Love, Thanks for Sticking Around",Latvia,0.792,0.511,2,-6.876,1,0.0409,0.124,9.04e-05,0.14,0.111,113.983,2.81,4
+2BH3j05ZXWr5PR30sW079d,Isolate.exe,Crystals,Latvia,0.692,0.729,11,-10.435,1,0.0554,0.438,0.656,0.0939,0.13,100.015,2.32,4
+1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Latvia,0.686,0.735,2,-4.616,1,0.264,0.00921,0.00066,0.342,0.0596,171.355,5.37,4
+3T56drS7FjnZgGcOAHlXzx,Kordhell,Murder In My Mind - Sped Up,Latvia,0.598,0.994,2,-0.89,1,0.404,0.00364,0.0617,0.397,0.151,151.135,1.92,4
+5P9PnXYb3TrWlGBEMmo1RK,PCK 97,Sip & Kūp,Latvia,0.549,0.545,9,-6.896,1,0.374,0.0131,0.0,0.17,0.643,99.192,2.56,4
+4RvWPyQ5RL0ao9LPZeSouE,Tears For Fears,Everybody Wants To Rule The World,Latvia,0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067,4.19,4
+3M0lSi5WW79CXQamgSBIjx,Chase Atlantic,Swim,Latvia,0.666,0.542,8,-6.429,1,0.0392,0.27,0.0,0.0765,0.0771,120.134,3.81,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Latvia,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+11iIikXxC6NP0Ma8vMD27x,Vundabar,Alien Blues,Latvia,0.467,0.757,3,-5.093,1,0.033,0.0807,0.908,0.0876,0.433,82.282,2.6,4
+7MIhUdNJtaOnDmC5nBC1fb,"Alok, Ella Eyre, Kenny Dope, Never Dull",Deep Down (feat. Never Dull),Latvia,0.687,0.818,0,-4.221,1,0.0778,0.0112,0.0,0.248,0.886,125.952,2.76,4
+1FqmwkFnvYjX9ss46J426T,$ourJ,Draugs mans,Latvia,0.749,0.453,11,-14.685,0,0.121,0.479,0.0,0.0894,0.6,150.028,2.15,4
+2qOm7ukLyHUXWyR4ZWLwxA,Ice Cube,It Was A Good Day,Latvia,0.798,0.744,7,-5.328,0,0.136,0.33,0.000106,0.292,0.794,82.356,4.33,4
+63WuQOXohQIxOxIFA2K7bR,Måneskin,SUPERMODEL,Latvia,0.636,0.876,7,-3.413,1,0.0555,0.00164,0.0,0.117,0.799,120.983,2.47,4
+4VXIryQMWpIdGgYR4TrjT1,Juice WRLD,All Girls Are The Same,Latvia,0.671,0.529,0,-7.226,1,0.307,0.0769,0.000335,0.0856,0.203,161.989,2.76,4
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,Latvia,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),Latvia,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,3.16,4
+5r43qanLhUCdBj8HN3fa6B,OneRepublic,Sunshine,Latvia,0.697,0.875,5,-4.621,1,0.034,0.137,0.0,0.28,0.774,140.069,2.73,4
+7H0ya83CMmgFcOhw0UB6ow,Beach House,Space Song,Latvia,0.508,0.792,0,-7.311,0,0.0297,0.229,0.124,0.145,0.601,147.067,5.34,4
+13Irp51zj01BZu2XtDrnAg,Lizzo,2 Be Loved (Am I Ready),Latvia,0.721,0.769,7,-4.111,1,0.105,0.0922,0.0,0.0817,0.915,155.932,3.12,4
+20on25jryn53hWghthWWW3,"ACRAZE, Cherish",Do It To It,Latvia,0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,0.637,124.927,2.63,4
+0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,THATS WHAT I WANT,Latvia,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,2.4,4
+2jQiSYrwJehQAcuaaQrXnS,Chase Atlantic,Friends,Latvia,0.422,0.609,11,-6.361,0,0.0335,0.0114,4.76e-06,0.108,0.0911,107.34,3.83,3
+3IznIgmXtrUaoPWpQTy5jB,TV Girl,Not Allowed,Latvia,0.67,0.905,1,-6.855,1,0.129,0.669,0.000227,0.349,0.563,104.965,2.8,4
+3CGSah31ViaYtTUNBXAoWj,Kastrācija,OG KUSH (SMOKE DAT B),Latvia,0.859,0.512,1,-10.758,1,0.159,0.199,1.28e-05,0.151,0.74,140.04,2.21,4

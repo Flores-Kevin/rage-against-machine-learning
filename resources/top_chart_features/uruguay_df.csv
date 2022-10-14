@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Uruguay,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4
+2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",Uruguay,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4
+45dlaEXrXW47TVbrQ4gK7E,"Rei, Callejero Fino",Tu Turrito,Uruguay,0.838,0.545,9,-6.1,0,0.0604,0.0966,0.0,0.0927,0.428,90.023,2.75,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,Uruguay,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+3Ne5uYDFzHEFYAPbaBMIck,Maria Becerra,AUTOMÁTICO,Uruguay,0.68,0.808,10,-3.854,0,0.224,0.0911,2.23e-06,0.205,0.868,176.131,2.92,4
+2GVahxIzxivfRZc8lR39Ms,"Rei, Quevedo",FERNET,Uruguay,0.71,0.738,6,-4.077,0,0.0861,0.156,0.0,0.0661,0.608,98.958,3.21,4
+1gYtMKmICjH8KQG3MheNJt,"TINI, Tiago PZK",El Último Beso,Uruguay,0.647,0.662,10,-2.955,1,0.125,0.305,0.0,0.359,0.693,113.28,3.29,5
+6i1g5ZRmJZAkDwBaUZ3f2i,Luar La L,Caile,Uruguay,0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,0.461,121.737,2.36,3
+7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Uruguay,0.759,0.561,0,-5.643,0,0.131,0.803,0.121,0.101,0.491,104.915,3.01,4
+3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Uruguay,0.627,0.429,1,-8.255,1,0.234,0.238,0.0,0.122,0.565,126.426,1.88,5
+6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Uruguay,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2.98,4
+7kYbxvrGXv8cmKjkqgqhrw,TINI,La Triple T,Uruguay,0.801,0.633,11,-2.785,0,0.0777,0.414,0.0,0.27,0.676,92.025,2.79,4
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Uruguay,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4
+12BLBKATlbWXPhuSNL8eAr,"Alan Gomez, Callejero Fino",CALLEJERO FINO | Mission 10,Uruguay,0.88,0.531,6,-7.738,1,0.147,0.584,2.03e-06,0.114,0.522,92.957,2.82,4
+3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Uruguay,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4.3,4
+2pR6bipXfJySBhje19SW02,"Stars Music Chile, Cris Mj, Standly",Marisola,Uruguay,0.806,0.85,1,-4.84,1,0.0967,0.155,0.0,0.201,0.728,95.014,3.07,4
+1Y62KpDaP5MEL43ZcI6IaG,"Quevedo, Ovy On The Drums",Sin Señal,Uruguay,0.822,0.851,11,-3.314,0,0.0422,0.333,0.00792,0.105,0.749,117.992,3.08,4
+3AbNNvo2OmyeDMvRBgf9vk,"TINI, Becky G, Anitta",La Loto,Uruguay,0.855,0.83,1,-2.815,1,0.106,0.0783,1.31e-06,0.08,0.775,90.009,3.18,4
+0kTMK4gNFfLXaTb62w1UaJ,"Pablo Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",BABY OTAKU,Uruguay,0.835,0.747,9,-4.65,1,0.083,0.0492,0.0,0.055,0.432,102.003,2.94,4
+2IzV2SPZQLadtA46ni3ICq,"Zion & Lennox, Maria Becerra",Berlin,Uruguay,0.796,0.766,1,-4.237,1,0.0422,0.18,1.53e-06,0.164,0.846,121.008,4.1,4
+1uGdRSOpObu3lp0jvrVREl,Maria Becerra,OJALÁ,Uruguay,0.798,0.629,1,-4.393,0,0.0729,0.133,5.06e-06,0.103,0.362,92.018,2.67,4
+2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Uruguay,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,2.87,4
+7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,Uruguay,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,3.5,4
+2bbwjxA68m9PHZFWgF1fze,Duki,GIVENCHY,Uruguay,0.607,0.619,8,-6.726,1,0.396,0.142,0.0,0.231,0.377,102.974,3.04,3
+5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,Uruguay,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,3.55,4
+5x17YrAwajDUCqB8zT9ElY,"Tiago PZK, Myke Towers",Traductor,Uruguay,0.845,0.776,11,-3.098,0,0.0488,0.111,0.0321,0.0684,0.528,105.018,3.71,4
+7exaYYNN99DHkbZuHOZWO3,Matías Valdez,Latidos,Uruguay,0.684,0.784,11,-3.395,0,0.0484,0.379,0.0,0.0412,0.847,80.138,2.15,4
+79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,Uruguay,0.834,0.828,11,-2.657,0,0.0452,0.21,5.91e-06,0.103,0.58,102.019,3.25,4
+5GF0X7GdNmnouKcdhhRmtm,"Paulo Londra, Duki",Party en el Barrio (feat. Duki),Uruguay,0.527,0.665,10,-7.108,1,0.164,0.0168,1.29e-06,0.324,0.546,135.026,3.94,4
+1O2pcBJGej0pmH2Y9XZMs6,Cris Mj,Una Noche en Medellín,Uruguay,0.87,0.548,10,-5.253,0,0.077,0.0924,4.6e-05,0.0534,0.832,96.018,2.56,4
+1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,Uruguay,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,3.49,4
+6mmPpaltUZK7xjNlBPQQ0p,"Rauw Alejandro, Chencho Corleone",Desesperados,Uruguay,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,0.511,90.02,3.75,4
+6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,Uruguay,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4.1,4
+6DoL1yYIwEW7VZMRaJhoJI,"Chris Jedi, Anuel AA, Chencho Corleone, Ñengo Flow",La Llevo Al Cielo (Ft. Ñengo Flow),Uruguay,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4.25,4
+1uK5rDY3BnikyG0sl3tPpc,"Sofía Reyes, Maria Becerra",Marte,Uruguay,0.704,0.604,5,-5.254,1,0.0556,0.067,0.0,0.126,0.642,90.028,3.65,4
+60DHrnRAhNJMy4WeEf23NH,"La Joaqui, Alan Gomez, EL NOBA",Butakera,Uruguay,0.871,0.563,1,-6.422,1,0.0618,0.56,0.0,0.0665,0.457,88.96,2.39,4
+0cOa970mzTWAxKtltpkpLc,"TINI, Maria Becerra",Miénteme,Uruguay,0.85,0.541,2,-4.522,1,0.0674,0.161,5.01e-06,0.286,0.916,92.003,2.75,4
+6VAS7m73rDopQe7BdrFMpD,"Bizarrap, Tiago PZK","Tiago PZK: Bzrp Music Sessions, Vol. 48",Uruguay,0.657,0.821,8,-3.06,0,0.32,0.459,0.0,0.103,0.752,96.561,2.67,4
+4hceSKjrkDTO0nMKFcb3sj,"Bizarrap, Villano Antillano","Villano Antillano: Bzrp Music Sessions, Vol. 51",Uruguay,0.82,0.752,1,-7.635,0,0.0648,0.0584,0.00417,0.628,0.423,127.999,3.12,4
+7FlQk2gJ6TBrHHiidvdR2O,"Becky G, KAROL G",MAMIII,Uruguay,0.836,0.703,4,-3.554,0,0.0657,0.0845,0.0,0.138,0.902,94.048,3.77,4
+31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,Uruguay,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,0.428,122.016,2.89,4
+7wx4KZQ9SRMTldt5ayD1ul,The La Planta,Universo Paralelo,Uruguay,0.591,0.475,4,-8.471,1,0.0682,0.0324,0.0,0.111,0.779,82.854,2.61,4
+2CeKVsFFXG4QzA415QygGb,Feid,Feliz Cumpleaños Ferxxo,Uruguay,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,2.6,4
+6ojZtz3sZr6ynvejLOqgCj,"Tiago PZK, Ozuna",Nos Comemos (feat. Ozuna),Uruguay,0.827,0.819,6,-3.701,1,0.052,0.1,0.0,0.089,0.562,92.017,3.18,4
+0T2pB7P1VdXPhLdQZ488uH,Feid,Normal,Uruguay,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,2.86,4
+6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Uruguay,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.00387,0.0638,0.585,109.97,5.37,4
+5lkgHMBFyhk6P3jinwsYo0,Emilia,La Chain,Uruguay,0.841,0.616,6,-4.451,0,0.0989,0.203,0.0,0.0785,0.792,98.181,2.33,4
+2x8oBuYaObjqHqgGuIUZ0b,WOS,ARRANCARMELO,Uruguay,0.654,0.354,5,-7.358,1,0.0738,0.724,0.0,0.134,0.262,81.956,3.06,4
+5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Uruguay,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0,0.0717,0.464,91.911,3.37,4
+3ushwCdjpWNdSnZgRFU6Oc,Emilia,cuatro veinte,Uruguay,0.761,0.696,7,-3.817,0,0.0505,0.0811,6.25e-05,0.101,0.501,95.066,2.23,4
+0lJE8f0lx8mUSfMyxeYpiC,"TINI, L-Gante",Bar,Uruguay,0.523,0.691,1,-3.802,1,0.0833,0.133,0.0,0.327,0.677,94.148,2.67,4
+5aQtcr0PfEtk4FZCz5rLdV,"Emanero, FMK, Rusherking, Estani",BANDIDO,Uruguay,0.775,0.576,9,-6.343,0,0.0693,0.528,0.0,0.115,0.637,89.99,4.24,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Uruguay,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+3N6rAKpPraBOZqn9RhSrz0,"DJ Alex, La Joaqui",TU AMOR | E7,Uruguay,0.668,0.543,6,-10.298,0,0.0435,0.265,0.0,0.347,0.671,136.459,2.56,3
+4NkJeL16uUJJJFuZPvR1DC,"Lola Indigo, Maria Becerra",DISCOTEKA,Uruguay,0.795,0.854,0,-5.462,1,0.0444,0.162,1.21e-06,0.0923,0.549,105.992,2.91,4
+67Wqby5IjOMMpIYwqmCYOG,"Emilia, Nicki Nicole",intoxicao,Uruguay,0.929,0.642,11,-3.179,0,0.0375,0.205,0.0,0.0599,0.847,94.039,2.81,4
+41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Uruguay,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,3.96,4
+5fhcuVxuBWfgNXGuyAtLmr,"Piso 21, Manuel Turizo",Los Cachos,Uruguay,0.774,0.73,0,-3.865,1,0.134,0.108,0.0,0.194,0.421,91.966,3.54,4
+3MBNAfBXIq9fI2Sez8EcNX,"Duki, De La Ghetto, Quevedo",Si Quieren Frontear,Uruguay,0.789,0.837,10,-3.247,1,0.23,0.125,0.0,0.209,0.476,81.536,3.34,4
+1IT2VUL1Nx6Y3AdCfm0wcO,Rei,Pechito Partido,Uruguay,0.829,0.633,0,-6.295,1,0.0723,0.169,0.0,0.207,0.598,89.961,2.45,4
+3PpWCS95gDUDRPko3u1MZ9,Feid,Prohibidox,Uruguay,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,2.77,4
+4TGwERXRlyQtBdggYTHo6j,"Tiago PZK, LIT killah, Maria Becerra, Nicki Nicole",Entre Nosotros (Remix) [con Nicki Nicole],Uruguay,0.7,0.438,5,-5.784,0,0.0433,0.401,0.0,0.373,0.605,170.106,4.33,3
+2LgxW2t2H6lAf7tJuOnxxj,Duki,Antes de Perderte,Uruguay,0.812,0.925,5,-3.092,0,0.113,0.487,0.0,0.115,0.614,110.031,2.95,4
+6HXvazdtAr9hy0kThzxrE3,"Oscu, Nobeat",Numero 1,Uruguay,0.842,0.729,8,-4.404,1,0.0753,0.0991,6.71e-06,0.0695,0.96,89.978,2.73,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Uruguay,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+5i82o3878xCPNCUK8VIeqX,"Los Ángeles Azules, Nicki Nicole",Otra Noche,Uruguay,0.605,0.711,8,-4.09,1,0.0379,0.365,0.0,0.0501,0.645,91.999,3.32,4
+2vsoD8S1OyrWSVIA43hjaU,Feid,Si Te La Encuentras Por Ahí,Uruguay,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,3.19,4
+03a359wbiUsjN9h6yzXvmS,"Duki, KHEA",She Don't Give a Fo,Uruguay,0.854,0.556,1,-4.49,1,0.14,0.345,0.0,0.165,0.342,119.938,3.49,4
+5TMLavqGRKNxgzMBrVpC9R,"zzoilo, Aitana",Mon Amour - Remix,Uruguay,0.748,0.761,2,-6.621,1,0.102,0.122,6.56e-06,0.0984,0.362,116.041,3.0,4
+7zFVBVoPnx5Lq58Vw1aQfK,"Matías Valdez, Chacho Ramos",Boleto al Amor,Uruguay,0.579,0.822,9,-4.133,1,0.0678,0.333,0.0,0.0997,0.762,156.816,3.43,4
+6WZk0S0t6YP414VJz99mWT,Lali,N5,Uruguay,0.774,0.635,2,-4.289,1,0.0397,0.11,0.268,0.0838,0.622,120.054,2.58,4
+7iXJg4IUyrWont5YSQrbKP,"Reik, Maria Becerra",Los Tragos,Uruguay,0.557,0.7,7,-5.024,1,0.0638,0.115,1.11e-06,0.161,0.681,93.9,2.85,4
+7asgcWpGtv92TiMZUYNWVt,"Matías Valdez, Lucas Sugo",Me Encanta,Uruguay,0.672,0.708,7,-5.454,1,0.0364,0.551,0.0,0.128,0.939,79.991,3.53,4
+6TsVhM8qIkWN5cJVDIVbbz,"Wisin & Yandel, ROSALÍA",Besos Moja2,Uruguay,0.736,0.727,5,-4.642,0,0.0571,0.0584,1.91e-06,0.0976,0.644,94.048,3.82,4
+6ylDpki1VpIsc525KC1ojF,Sebastian Yatra,Tacones Rojos,Uruguay,0.746,0.844,11,-3.499,0,0.0359,0.062,0.0,0.149,0.934,123.014,3.16,4
+5rGorQ0R06XveTJXMd3QRi,"Rusherking, Dread Mar I",Perfecta,Uruguay,0.649,0.487,5,-7.872,1,0.232,0.08,0.0,0.232,0.681,179.946,2.54,4
+1UdzJEpgJxtuXAlCOvD4S0,Danny Ocean,Fuera del mercado,Uruguay,0.453,0.673,8,-5.649,1,0.144,0.32,0.0,0.131,0.266,92.06,2.66,4
+6e9Ew4AECYwY5Xgs2ZKMgp,Anuel AA,Mercedes Tintia,Uruguay,0.815,0.67,11,-4.076,1,0.109,0.0902,0.000854,0.0973,0.768,172.014,3.26,4
+6FzRjE65s7jGPVnLbx5FSr,Matías Valdez,Volver a Vernos,Uruguay,0.461,0.78,9,-4.156,1,0.0416,0.311,0.0,0.344,0.822,81.719,2.87,4
+6y8z28epOv5FlaxDv1Lo5B,Ryan Castro,Jordan,Uruguay,0.796,0.68,10,-5.555,0,0.37,0.0575,0.000683,0.103,0.71,179.923,2.94,4
+3E8xyYdIPpiH2wNEozE68I,Standly,Pégate,Uruguay,0.83,0.818,7,-5.028,1,0.0552,0.306,0.0,0.0906,0.828,98.008,3.1,4
+63GTuNSVLynH3n3PdqObgd,"TINI, Beéle",Fantasi,Uruguay,0.832,0.749,10,-3.704,1,0.316,0.191,0.0,0.109,0.509,126.079,2.63,4
+3yeFTYLMz4nOtyPXWEMKsW,TINI,Carne y Hueso,Uruguay,0.582,0.382,7,-8.014,1,0.0471,0.71,0.0,0.303,0.28,142.093,2.97,4
+1v5QhGtlv2bkpUz2kAXTCq,"FMK, Maria Becerra",Tranquila,Uruguay,0.752,0.532,11,-4.92,0,0.0582,0.0608,2.38e-05,0.0804,0.743,96.005,3.06,4
+3rdAz1fbUfZxYgaCviYhRo,Rauw Alejandro,Todo De Ti,Uruguay,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,0.336,127.962,3.33,4
+1AWefrQG0I0OtvatTB01EZ,Munic HB,Pico y Pala,Uruguay,0.684,0.631,5,-5.638,0,0.0485,0.363,0.0,0.156,0.59,124.041,2.9,4
+1txrFHh4XUU3Kp8HcD2TFW,"Luck Ra, Rusherking",Te Mentiría Remix,Uruguay,0.739,0.751,7,-3.057,1,0.0612,0.0391,0.0,0.128,0.587,91.006,2.87,4
+1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Uruguay,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,3.31,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Uruguay,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+4khWEpnaijN0G1x019Uzdr,Morat,No Se Va,Uruguay,0.734,0.685,0,-5.37,1,0.0453,0.117,0.0,0.109,0.754,92.042,3.61,4
+7gwT3HGL84vF7bgtwL1N88,Lasso,Ojos Marrones,Uruguay,0.809,0.649,8,-4.433,0,0.0416,0.0407,0.0,0.145,0.72,120.014,3.31,4
+7o2CTH4ctstm8TNelqjb51,Guns N' Roses,Sweet Child O' Mine,Uruguay,0.454,0.91,6,-7.766,1,0.0448,0.0866,0.0996,0.116,0.629,125.116,5.91,4
+2QT316zZ7jBNQ74eUsIuI0,"Callejero Fino, Four Plack",Fua Mi Amor,Uruguay,0.906,0.64,5,-7.333,1,0.261,0.0362,0.0,0.335,0.693,99.948,2.76,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Uruguay,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+261Jxss9utRCMg11TWEU8M,"LIT killah, De La Ghetto, L-Gante",KU',Uruguay,0.7,0.596,2,-4.943,1,0.108,0.024,0.0,0.114,0.67,171.938,3.84,4
+4tYFy8ALRjIZvnvSLw5lxN,"Bad Bunny, Rauw Alejandro",Party,Uruguay,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,0.471,97.013,3.79,4
+2besF2Yj2Djnes75vwfVSs,"Matías Valdez, Gonzalo Castillo",Adiós,Uruguay,0.563,0.86,1,-4.438,0,0.0479,0.365,0.0,0.17,0.636,160.06,2.59,4
+2qEoAz0i6yEz5dPggABcLH,"Fuego, Manuel Turizo, Duki",Una Vaina Loca,Uruguay,0.811,0.588,1,-3.161,1,0.0464,0.128,0.0004,0.0929,0.553,107.022,3.77,4
+4hsI4M9KrYB4intDUEIDPG,Matías Valdez,A Dónde Vamos?,Uruguay,0.61,0.783,4,-6.636,1,0.0442,0.0187,0.0,0.182,0.587,85.935,2.4,4
+3ehHqgYRzmeUi345MfHS2N,"Morat, Duki",París,Uruguay,0.582,0.804,11,-4.155,1,0.0389,0.0493,0.0,0.0624,0.732,138.014,3.04,4
+0j15NSe9m6egjzJXXn1QXQ,"MYA, Manuel Turizo",MAL DE AMOR,Uruguay,0.738,0.866,2,-3.539,1,0.145,0.359,0.0,0.119,0.616,136.056,3.69,4
+6B1J688S8XYptynyMfDGCi,Matías Valdez,Lo Quiero Todo,Uruguay,0.652,0.833,2,-3.123,1,0.0409,0.217,0.0,0.337,0.755,79.951,2.74,4
+6FgldyflJEyydJql79PQIK,"Matías Valdez, Valsi",Me Enamoré,Uruguay,0.619,0.795,4,-4.106,1,0.0639,0.518,0.0,0.286,0.938,81.804,2.32,4
+48mGOtVuxLr7sq8jZpWLxi,"Natti Natasha, Maria Becerra",LOKITA,Uruguay,0.769,0.843,9,-3.782,0,0.0898,0.317,9.87e-06,0.0876,0.742,96.045,3.22,4
+4bF2y8rR7GUjrd5LNEvej3,Ingratax,París,Uruguay,0.57,0.455,1,-5.748,0,0.0996,0.441,0.000746,0.0654,0.399,167.933,2.52,4
+5eYVvHN75qLlpD0DC6R8Pl,"Alan Gomez, La Joaqui",LA JOAQUI | Mission 08,Uruguay,0.809,0.394,11,-9.03,0,0.269,0.494,6.79e-05,0.0609,0.495,89.983,2.49,4
+3FkeNbs9Zeiqkr3WkbOiGp,Anitta,Envolver,Uruguay,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,3.23,4
+4XqXNU8MwPHwbgZmNXmAdc,Maluma,Junio,Uruguay,0.85,0.756,11,-3.439,0,0.0407,0.0999,0.0,0.0873,0.896,120.024,2.81,4
+1uaeUpiNMxfsuhVebgk7TX,"Migrantes, FABRO, Rei, Nico Valdi",Superclásico,Uruguay,0.61,0.699,10,-4.476,0,0.111,0.222,0.0,0.0601,0.749,82.148,3.09,4
+6ZiAgTmT7c6OSZ3E6PFwWz,Matías Valdez,Quédate,Uruguay,0.655,0.76,7,-4.923,1,0.0493,0.298,0.0,0.154,0.691,82.501,3.62,4
+0Bv7O6fmZk3GrNQFYJaXPn,"La Pantera, Quevedo, Juseph, Abhir Hathi, Bejo, Cruz Cafuné, EL IMA","Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",Uruguay,0.672,0.745,5,-5.269,0,0.3,0.438,9.29e-06,0.0699,0.739,173.974,6.89,4
+4z5qbMlx4iAexxMQ9FbSa1,"LIT killah, Los Palmeras",Killer Bombón,Uruguay,0.742,0.621,9,-5.133,0,0.0698,0.161,0.0,0.119,0.574,81.994,2.67,4
+2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,Uruguay,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,3.45,4
+4iaNmAvcZ6sPGvgZ6vQQdx,"Quevedo, Linton",Ahora y Siempre,Uruguay,0.659,0.629,4,-7.86,1,0.0825,0.716,0.0,0.422,0.416,118.964,2.49,4
+0vHA8IypBtXXRavjMLsHgS,"Chacho Ramos, Lucas Sugo, Matías Valdez",Háblale y Dile / Quédate / Amiga,Uruguay,0.532,0.776,0,-5.493,1,0.0451,0.347,0.0,0.15,0.78,82.581,10.58,4
+2hLXUbsOU9cDb9RFva9FYr,"Mora, Jhay Cortez",MEMORIAS,Uruguay,0.771,0.707,2,-6.404,0,0.055,0.389,0.0,0.0745,0.317,127.963,3.81,4
+2gpQi3hbcUAcEG8m2dlgfB,Paulo Londra,Plan A,Uruguay,0.583,0.834,0,-4.875,1,0.0444,0.0495,0.0,0.0658,0.557,173.935,2.97,4
+4WkEH0PgystZUaN6QU6Z0B,"TINI, Manuel Turizo",Maldita Foto,Uruguay,0.743,0.674,2,-4.201,1,0.129,0.15,0.0,0.0986,0.932,174.024,3.17,4
+0vHfVsEe6Ps0d8cZ9PGzSw,"De La Ghetto, Rauw Alejandro",Loco Por Perrearte - Remix,Uruguay,0.848,0.673,11,-4.034,0,0.058,0.0147,0.00652,0.102,0.39,93.987,3.32,4
+4C9ySJUmAXiaroo91BeFDH,"YG, Duki, Cuco",I Dance (feat. Duki & Cuco),Uruguay,0.803,0.6,0,-5.078,0,0.0704,0.19,0.0,0.634,0.342,108.053,4.1,4
+49NZwle2I8qI9BPsiRNjre,"Tiago PZK, Trueno",Salimo de Noche,Uruguay,0.669,0.628,2,-4.177,1,0.0526,0.294,1.83e-05,0.124,0.784,83.803,2.96,4
+0OTNHGKcqQbk51bOYe462Y,"Polimá Westcoast, Pailita",ULTRA SOLO,Uruguay,0.802,0.846,1,-4.495,1,0.207,0.233,1.92e-05,0.114,0.26,109.982,3.79,4
+7d7aPD2oxuzjhOZnu4Dj23,"Natti Natasha, Daddy Yankee, Wisin & Yandel",Mayor Que Usted,Uruguay,0.625,0.839,6,-4.824,0,0.0927,0.00762,2.35e-05,0.464,0.771,184.08,3.89,4
+0KvtuCa8aGD8SR39aLLLj5,"Migrantes, El Retutu, FMK, Nico Valdi",Hoy Volvi a Verte - Remix,Uruguay,0.706,0.727,10,-7.994,1,0.0669,0.193,0.0,0.063,0.738,137.851,2.71,3
+7Ezc3yg8xtUgY08TtY12AJ,La Deskarga,Noche de Perdedor,Uruguay,0.824,0.647,2,-5.106,0,0.0726,0.224,2.97e-06,0.0631,0.663,129.048,3.32,4
+4iGnpp1h0i33lpoP42Y8Jt,"Aitana, Emilia, Ptazeta",Quieres,Uruguay,0.796,0.646,11,-3.925,0,0.158,0.0744,0.0,0.127,0.663,180.03,3.56,4
+7jfmlr5W2AQWUGLVhT8ofl,"Romeo Santos, ROSALÍA",El Pañuelo,Uruguay,0.839,0.71,8,-3.823,1,0.0409,0.0534,0.0,0.283,0.661,129.997,3.91,4
+3za3hxbolwmy9AeUpWzuRE,"TINI, Morat",Consejo de Amor,Uruguay,0.475,0.717,0,-6.712,1,0.102,0.194,0.0,0.101,0.646,83.873,3.33,4
+6nYyGlTP5L2R6SEd1xG8Xs,El negro tecla,Rompe,Uruguay,0.858,0.513,2,-7.819,1,0.109,0.0358,0.0,0.116,0.42,85.993,2.37,4
+3AMr0QkBGjrAoTbst5uWCG,"The La Planta, Valeria Gau, Pushi",La Bachata,Uruguay,0.547,0.501,1,-8.266,1,0.0379,0.0456,0.0,0.0589,0.965,139.414,3.24,3
+7M0mBls29IohQIPGqegcyE,"Emilia, Duki",como si no importara,Uruguay,0.843,0.534,1,-6.658,0,0.142,0.467,0.0,0.0984,0.528,94.984,2.88,4
+48AJSd42lXpicsGqcgopof,"Daddy Yankee, Bad Bunny",X ÚLTIMA VEZ,Uruguay,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,3.21,4
+4v7riPZWyAclrOfUSwD0zp,Camilo,Aeropuerto,Uruguay,0.69,0.58,0,-4.395,1,0.199,0.0328,0.0,0.328,0.708,197.635,2.96,4
+0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Uruguay,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,4.04,4
+1sbNEFiURUYfy024cJX8JG,Feid,Ferxxo 100,Uruguay,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,2.8,4
+6D2TCm4nf5nxAcdGJ7w3QP,"J Balvin, Maria Becerra",Qué Más Pues?,Uruguay,0.903,0.817,8,-3.972,1,0.095,0.0272,0.000311,0.242,0.732,102.014,3.62,4
+2TDyyEBasw10wu5Uh94bR1,"Rauw Alejandro, Baby Rasta",PUNTO 40,Uruguay,0.873,0.826,0,-0.722,1,0.0876,0.00127,0.0361,0.311,0.201,106.972,3.18,4
+5eyO0n1HiiSWdGaaSoK731,"MYA, TINI, Duki",2:50 Remix,Uruguay,0.819,0.809,9,-4.426,1,0.0478,0.113,0.0,0.23,0.836,139.969,3.86,4
+4OwhwvKESFtuu06dTgct7i,"Marc Seguí, Rauw Alejandro, Pol Granch",Tiroteo - Remix,Uruguay,0.75,0.522,9,-7.018,1,0.0293,0.282,0.0,0.0743,0.601,110.427,5.36,4
+0B8yu7yLe1UsXv6gewHRv2,"Duki, YSY A, Rei",Pintao,Uruguay,0.735,0.797,2,-5.328,1,0.0638,0.143,0.0,0.0823,0.471,105.765,2.79,3
+0UuUMV5IdshkKHI1yi1aNe,RYH,MDQ,Uruguay,0.745,0.601,0,-6.459,1,0.212,0.207,0.0,0.0616,0.614,134.932,2.67,3
+0HINQFSerZ6iMfSsaTO3G5,DEKKO,12x3,Uruguay,0.869,0.727,2,-4.956,1,0.121,0.00118,6.97e-05,0.183,0.613,93.989,2.65,4
+1fKFxmSByZfjwVSbq0PHye,Ke Personajes,Si No Te Tengo / Ángel / Aquello Que Pasó,Uruguay,0.419,0.711,11,-4.083,0,0.0488,0.0513,0.0,0.243,0.529,82.18,7.14,4
+655JkvIwu2rDCaD1hPf04g,"Sebastian Yatra, Myke Towers",Pareja Del Año,Uruguay,0.715,0.611,4,-5.094,0,0.0519,0.176,0.0,0.0949,0.776,79.971,3.26,4
+4F4bzCA8RWoyKQDfeFGolM,"Bizarrap, Paulo Londra","Paulo Londra: Bzrp Music Sessions, Vol. 23",Uruguay,0.527,0.91,0,-2.659,1,0.122,0.25,0.0,0.0857,0.329,95.943,4.31,4
+2dG8CDU9UBem2ReYcLafDt,Cris Mj,Locura y Maldad,Uruguay,0.791,0.601,0,-6.636,1,0.213,0.289,0.45,0.0919,0.867,174.068,3.33,4
+0R7DSnSibvuE4PEHqUayqf,Plan B,Es un Secreto,Uruguay,0.836,0.777,6,-5.376,0,0.0439,0.0951,1.68e-06,0.0561,0.504,94.977,3.18,4
+1p7m9H4H8s0Y7SgRm7j3ED,Andrés Calamaro,Flaca,Uruguay,0.739,0.745,7,-6.658,1,0.0267,0.21,0.0135,0.127,0.949,109.326,4.63,4
+0bI5WRiDfU5BY38ufOJtGu,"Maluma, Chencho Corleone",Nos Comemos Vivos,Uruguay,0.822,0.719,10,-3.633,0,0.0576,0.165,2.48e-05,0.174,0.659,82.01,3.76,4
+0bVtevEgtDIeRjCJbK3Lmv,Guns N' Roses,Welcome To The Jungle,Uruguay,0.447,0.954,8,-8.069,1,0.0751,0.0235,0.403,0.298,0.331,123.453,4.53,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Uruguay,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Uruguay,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,3.05,4
+0G2zPzWqVjR68iNPmx2TBe,"Mora, Bad Bunny, Sech",Volando - Remix,Uruguay,0.659,0.688,6,-4.649,1,0.0673,0.207,0.0,0.113,0.632,153.979,4.56,4
+422Avi2VjqZKCVzstKmqog,Duki,Hello Cotto,Uruguay,0.843,0.785,10,-2.893,0,0.344,0.0472,0.0,0.0506,0.43,139.956,3.62,4
+3GaGWoU1KfVqgl7vnRHP55,C. Tangana,Demasiadas Mujeres,Uruguay,0.658,0.453,9,-7.378,0,0.39,0.131,0.0002,0.0848,0.358,126.043,2.57,4
+01EzG8Qg7oQqYMTNV5YkOW,"Julianno Sosa, King Savagge",Cochinae,Uruguay,0.855,0.72,6,-7.953,1,0.0516,0.0626,0.0187,0.268,0.948,97.984,3.35,4
+46GsFW8AFIvi8TUDlYRlXR,"Prince Royce, Maria Becerra",Te Espero,Uruguay,0.733,0.689,10,-5.083,0,0.0307,0.345,0.0,0.0429,0.828,126.943,4.11,4
+6lX6l7OuA3qrnIRfdsr0dw,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,Uruguay,0.787,0.7,4,-4.598,0,0.0768,0.568,0.00051,0.663,0.791,90.02,3.89,4
+5CzixCxDkRXX9mScCmah8O,Bad Bunny,Un Ratito,Uruguay,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,2.95,4
+4d4ZXH4dr5bYfgErHiZCX2,Bad Bunny,Dos Mil 16,Uruguay,0.817,0.67,1,-6.534,1,0.0506,0.123,1.92e-06,0.128,0.495,130.058,3.48,3
+3XjN0mvFkQp1FMVM9Ro5hm,Daddy Yankee,RUMBATÓN,Uruguay,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4.15,4
+42Gzfqnfpk7Pp1ydM60eNn,Maria Becerra,Felices x Siempre,Uruguay,0.771,0.467,5,-6.653,0,0.123,0.375,0.00974,0.112,0.256,100.089,3.33,4
+4HzqWEdAbzcVFDv0pvxV4w,Maluma,Sobrio,Uruguay,0.762,0.77,5,-2.758,1,0.223,0.138,0.0,0.15,0.631,177.998,3.35,4
+30W8VKHrAZmHzObnwAoc1u,"Mora, Sech",TUS LÁGRIMAS,Uruguay,0.683,0.714,1,-4.898,1,0.252,0.181,1e-06,0.111,0.448,173.963,2.91,4
+1PmKfNsHxPdMaHP496myD3,Salastkbron,TURROMANTIKO,Uruguay,0.795,0.58,7,-6.443,1,0.132,0.338,0.0,0.163,0.657,90.099,2.18,4
+2qBirMakpTdz9ymxrZEyzg,Luis Alberto Spinetta,Seguir Viviendo Sin Tu Amor,Uruguay,0.679,0.368,11,-15.449,0,0.0251,0.689,1.02e-05,0.28,0.736,104.931,2.68,4
+0bI7K9Becu2dtXK1Q3cZNB,"Tiësto, KAROL G",Don't Be Shy,Uruguay,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,2.34,4
+7JZ5mOTea5T4LH0UdwCsWx,Duki,TOP 5,Uruguay,0.853,0.824,2,-3.384,1,0.214,0.0943,2.68e-05,0.11,0.693,100.05,2.45,4
+5A1vGSsqw0UQCBxHOyPOjG,"FMK, Tiago PZK, Mau y Ricky",Prende la Cámara RMX,Uruguay,0.764,0.711,9,-4.017,1,0.112,0.112,1.75e-06,0.0698,0.798,91.938,3.54,4
+2pgRcDDZacxRdkPHxQy4ea,"Lauty Gram, Omar Varela",Tranka,Uruguay,0.857,0.784,11,-2.424,0,0.14,0.121,0.0,0.0748,0.787,98.019,2.74,4
+3iix03qCBekgH2U7lxKWum,"Matías Valdez, Martín Piña",De Callados,Uruguay,0.62,0.848,2,-4.578,1,0.07,0.333,0.0,0.0958,0.775,79.74,2.84,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Uruguay,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+4kXxEhuatrvwrTQycA7s9B,ROSALÍA,BIZCOCHITO,Uruguay,0.93,0.774,1,-4.203,1,0.0744,0.605,0.0238,0.12,0.781,116.972,1.82,4
+0j3ULEzS14shcTGdiYwsOI,Camilo,Pegao,Uruguay,0.812,0.502,1,-4.763,0,0.0632,0.15,0.0,0.153,0.883,90.057,2.68,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Uruguay,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+2GQclWZHwE4fMdqShvOPWU,"Lasso, Sebastian Yatra",Ojos Marrones - Con Sebastián Yatra,Uruguay,0.787,0.662,8,-4.285,0,0.0372,0.0648,0.0,0.133,0.79,119.983,3.31,4
+0bhWW1Bve1Ng6kEm8WjiQA,"LOUTA, WOS",QUEREME,Uruguay,0.795,0.625,7,-6.966,1,0.0751,0.151,0.0,0.128,0.715,99.991,3.25,4
+6FURZEsJvJGbrbUhYD6I56,"Valsi, Matías Valdez",No Hay Nada,Uruguay,0.683,0.728,11,-5.601,1,0.0433,0.33,0.0,0.374,0.94,82.972,2.17,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Uruguay,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+3YRCqOhFifThpSRFJ1VWFM,Guns N' Roses,November Rain,Uruguay,0.294,0.641,11,-9.316,1,0.0291,0.0163,0.22,0.112,0.226,79.759,8.93,4
+40w8JmvwYUP2HUiXPxjy99,"Ak4:20, Pailita, Cris Mj",Me Arrepentí,Uruguay,0.861,0.786,0,-4.934,1,0.164,0.289,0.0,0.601,0.907,92.031,3.87,4
+4srcMdbm2qzVG98tJajHxp,"Alejo, Feid, ROBI",Pantysito,Uruguay,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4.01,4
+4gzsuuZypVbxs0Af1LSZyB,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Uruguay,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888,3.46,4
+5uHAzGa4d9j35DEbhUwGhi,WOS,MELÓN VINO,Uruguay,0.62,0.741,4,-6.081,1,0.137,0.531,2.92e-05,0.156,0.353,140.04,2.94,4
+0U9OZFbn82oICL2jNbpNHy,"Cazzu, Maria Becerra",Maléfica,Uruguay,0.847,0.843,8,-3.771,0,0.117,0.0932,0.0,0.111,0.724,94.983,3.06,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Uruguay,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+4PDoCa5P0QK7KFhTsEKJB8,"Migrantes, Nico Valdi",Noche de Party,Uruguay,0.719,0.786,11,-4.786,0,0.0503,0.203,0.0,0.367,0.829,130.039,2.55,4
+3nfICwo20uiFdEGzgNUSrG,"Aitana, Nicki Nicole",Formentera,Uruguay,0.781,0.645,1,-4.136,0,0.0399,0.0903,1.58e-06,0.226,0.803,128.007,3.46,4
+6TI490muJ6RgFsYJc626BZ,"YSY A, CLUB HATS",#Ysya2020 Vol. 5 - Silbando,Uruguay,0.936,0.659,5,-7.402,1,0.173,0.327,0.0,0.101,0.537,96.515,1.99,4
+4scwMEdlKi8qWJzzyDB8Z3,"Morat, Juanes",506,Uruguay,0.544,0.864,0,-5.65,1,0.048,0.00747,0.0,0.338,0.69,142.994,3.01,4
+5L3kJqFfHgE0JzLqBoyQlB,"TINI, Alejandro Sanz",Un Beso en Madrid,Uruguay,0.378,0.619,0,-6.794,1,0.0767,0.305,0.0,0.413,0.349,87.387,2.41,4
+1b62AO1IzcVr5SOgoguc9o,"Eladio Carrion, Bizarrap, Duki",Sin Frenos,Uruguay,0.657,0.702,9,-7.667,0,0.0482,0.0723,0.0,0.188,0.75,145.022,3.52,4
+10zSgbysU2KyVTrcRmtu62,Airbag,Por Mil Noches,Uruguay,0.554,0.672,1,-7.489,0,0.0291,0.0169,5.42e-05,0.186,0.285,111.963,4.73,4
+1wcE84DVQUF16xudVFzezL,"Mau y Ricky, Maria Becerra",Mal Acostumbrao - con Maria Becerra,Uruguay,0.86,0.516,6,-5.518,0,0.145,0.0616,0.0,0.0791,0.591,98.005,3.17,4
+1yoMvmasuxZfqHEipJhRbp,Maluma,Hawái,Uruguay,0.783,0.727,6,-3.454,0,0.389,0.185,2.46e-05,0.0626,0.558,180.067,3.32,4
+5NtIprYDaflAuu3Pko0rjR,Trueno,DANCE CRIP,Uruguay,0.857,0.766,0,-3.699,1,0.0978,0.108,0.0,0.0817,0.864,106.024,2.75,4
+71iAechwVKGu26pahzFL0k,Morat,Cuando Nadie Ve,Uruguay,0.806,0.778,1,-4.577,0,0.0616,0.133,0.0,0.218,0.84,95.993,3.66,4
+0N361WhEqVunVl5ZBkfd70,Árbol,El Fantasma,Uruguay,0.62,0.608,7,-4.78,1,0.029,0.201,0.0,0.0625,0.608,139.066,3.96,4
+3YBZIN3rekqsKxbJc9FZko,Guns N' Roses,Paradise City,Uruguay,0.273,0.952,11,-8.762,1,0.0843,0.0169,0.0111,0.142,0.472,100.271,6.76,4
+1VauUM5CBX7nkLcgafQL2B,"Bizarrap, Eladio Carrion","Eladio Carrion: Bzrp Music Sessions, Vol. 40",Uruguay,0.783,0.524,5,-6.455,0,0.0554,0.241,0.0,0.271,0.839,117.496,2.75,4

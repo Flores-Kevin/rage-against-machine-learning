@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,El Salvador,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2.98,4
+5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,El Salvador,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,3.55,4
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,El Salvador,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4
+2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",El Salvador,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4
+3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,El Salvador,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4.3,4
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,El Salvador,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4
+6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,El Salvador,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4.1,4
+31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,El Salvador,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,0.428,122.016,2.89,4
+7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,El Salvador,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,3.5,4
+4tYFy8ALRjIZvnvSLw5lxN,"Bad Bunny, Rauw Alejandro",Party,El Salvador,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,0.471,97.013,3.79,4
+1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,El Salvador,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,3.31,4
+2CeKVsFFXG4QzA415QygGb,Feid,Feliz Cumpleaños Ferxxo,El Salvador,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,2.6,4
+1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,El Salvador,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,3.49,4
+41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,El Salvador,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,3.96,4
+0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,El Salvador,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,4.04,4
+79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,El Salvador,0.834,0.828,11,-2.657,0,0.0452,0.21,5.91e-06,0.103,0.58,102.019,3.25,4
+6VrQTLzzuyGIYjUDe4kAZk,Bad Bunny,Un Coco,El Salvador,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,0.744,151.991,3.27,4
+4gzsuuZypVbxs0Af1LSZyB,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),El Salvador,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888,3.46,4
+5CzixCxDkRXX9mScCmah8O,Bad Bunny,Un Ratito,El Salvador,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,2.95,4
+6mmPpaltUZK7xjNlBPQQ0p,"Rauw Alejandro, Chencho Corleone",Desesperados,El Salvador,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,0.511,90.02,3.75,4
+48AJSd42lXpicsGqcgopof,"Daddy Yankee, Bad Bunny",X ÚLTIMA VEZ,El Salvador,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,3.21,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,El Salvador,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+0T2pB7P1VdXPhLdQZ488uH,Feid,Normal,El Salvador,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,2.86,4
+4d4ZXH4dr5bYfgErHiZCX2,Bad Bunny,Dos Mil 16,El Salvador,0.817,0.67,1,-6.534,1,0.0506,0.123,1.92e-06,0.128,0.495,130.058,3.48,3
+6DoL1yYIwEW7VZMRaJhoJI,"Chris Jedi, Anuel AA, Chencho Corleone, Ñengo Flow",La Llevo Al Cielo (Ft. Ñengo Flow),El Salvador,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4.25,4
+2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,El Salvador,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,3.45,4
+1dm6z1fWB0cErMszU25dy2,Bad Bunny,Después de la Playa,El Salvador,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,0.607,78.293,3.84,4
+7gwT3HGL84vF7bgtwL1N88,Lasso,Ojos Marrones,El Salvador,0.809,0.649,8,-4.433,0,0.0416,0.0407,0.0,0.145,0.72,120.014,3.31,4
+2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,El Salvador,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,2.87,4
+7FlQk2gJ6TBrHHiidvdR2O,"Becky G, KAROL G",MAMIII,El Salvador,0.836,0.703,4,-3.554,0,0.0657,0.0845,0.0,0.138,0.902,94.048,3.77,4
+5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,El Salvador,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0,0.0717,0.464,91.911,3.37,4
+44XjoNvtwevktFKjvVe1vH,"Bad Bunny, Buscabulla",Andrea,El Salvador,0.797,0.616,1,-10.229,0,0.375,0.762,0.000293,0.0979,0.451,103.071,5.66,4
+1UdzJEpgJxtuXAlCOvD4S0,Danny Ocean,Fuera del mercado,El Salvador,0.453,0.673,8,-5.649,1,0.144,0.32,0.0,0.131,0.266,92.06,2.66,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,El Salvador,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),El Salvador,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+1sbNEFiURUYfy024cJX8JG,Feid,Ferxxo 100,El Salvador,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,2.8,4
+4R8BJggjosTswLxtkw8V7P,"Jhayco, J Balvin, Bad Bunny",No Me Conoce - Remix,El Salvador,0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,5.15,4
+3PpWCS95gDUDRPko3u1MZ9,Feid,Prohibidox,El Salvador,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,2.77,4
+5YJ4BVvTFmVCxUyhKejHfR,Tego Calderón,Pa' Que Retozen,El Salvador,0.815,0.856,1,-3.825,0,0.122,0.4,8.34e-05,0.244,0.872,91.995,2.53,4
+0R7DSnSibvuE4PEHqUayqf,Plan B,Es un Secreto,El Salvador,0.836,0.777,6,-5.376,0,0.0439,0.0951,1.68e-06,0.0561,0.504,94.977,3.18,4
+69vlMrzHwATKzupwNcUPyK,"Bad Bunny, Daddy Yankee",La Santa,El Salvador,0.744,0.868,1,-4.524,1,0.047,0.0326,0.0,0.0822,0.586,93.037,3.44,4
+6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,El Salvador,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.00387,0.0638,0.585,109.97,5.37,4
+0E0DRHf5PfMeor0ZCwB3oT,"Bad Bunny, The Marías",Otro Atardecer,El Salvador,0.777,0.595,2,-6.79,1,0.0375,0.59,0.00139,0.0669,0.546,108.02,4.07,4
+0UXlu64mDLvfzR8IXMz06J,Christian Nodal,Ya No Somos Ni Seremos,El Salvador,0.588,0.452,7,-4.75,1,0.0268,0.437,0.0,0.344,0.734,139.953,3.1,4
+71wFwRo8xGc4lrcyKwsvba,"Bad Bunny, Tainy",Callaita,El Salvador,0.608,0.626,2,-4.773,1,0.301,0.597,2.16e-06,0.25,0.246,176.086,4.18,4
+2uflssWlCaJ6CbTMOsUpNI,Bad Bunny,Aguacero,El Salvador,0.861,0.645,6,-6.96,0,0.0743,0.423,0.000592,0.349,0.668,121.391,3.52,5
+7hynhxDoDpgMIV12JuVtNa,"J Balvin, Bad Bunny, Marciano Cantero",UN PESO,El Salvador,0.627,0.675,5,-7.125,0,0.213,0.125,0.0,0.0784,0.961,79.31,4.62,4
+28GCbKgjlVD9eDmasGbe0T,Bad Bunny,Me Fui de Vacaciones,El Salvador,0.714,0.645,10,-5.493,1,0.0514,0.229,0.00083,0.0942,0.434,85.046,3.02,4
+1O2pcBJGej0pmH2Y9XZMs6,Cris Mj,Una Noche en Medellín,El Salvador,0.87,0.548,10,-5.253,0,0.077,0.0924,4.6e-05,0.0534,0.832,96.018,2.56,4
+6C1RD7YQVvt3YQj0CmuTeu,"Bad Bunny, Ozuna, Farruko, Arcangel, Ñengo Flow, DJ Luian, Mambo Kingz",Diles,El Salvador,0.813,0.56,2,-5.904,0,0.0618,0.108,0.0,0.268,0.287,118.033,4.77,4
+5fhcuVxuBWfgNXGuyAtLmr,"Piso 21, Manuel Turizo",Los Cachos,El Salvador,0.774,0.73,0,-3.865,1,0.134,0.108,0.0,0.194,0.421,91.966,3.54,4
+74WROFXsox6wkeUrEK2DS6,Eden Muñoz,Chale,El Salvador,0.551,0.436,8,-8.029,1,0.0428,0.395,0.0,0.0719,0.862,188.651,2.85,3
+5kVZxyMY1gfdCLiChsfjn1,Bad Bunny,Yo No Soy Celoso,El Salvador,0.872,0.588,0,-6.276,1,0.0492,0.275,0.0,0.17,0.93,142.004,3.85,4
+6jjYDGxVJsWS0a5wlVF5vS,BTS,Butter,El Salvador,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,2.75,4
+4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,El Salvador,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,3.42,4
+6i1g5ZRmJZAkDwBaUZ3f2i,Luar La L,Caile,El Salvador,0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,0.461,121.737,2.36,3
+0kTMK4gNFfLXaTb62w1UaJ,"Pablo Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",BABY OTAKU,El Salvador,0.835,0.747,9,-4.65,1,0.083,0.0492,0.0,0.055,0.432,102.003,2.94,4
+18HOjcvTVV7W8YzBuOsAPS,Bad Bunny,Un Verano Sin Ti,El Salvador,0.503,0.496,5,-9.123,0,0.0556,0.693,0.0,0.123,0.412,187.844,2.47,4
+69Ej1xrGjOcHvIMtMKxK0G,Don Omar,Dile,El Salvador,0.817,0.714,4,-7.501,0,0.141,0.184,0.000132,0.042,0.714,94.001,3.41,4
+2vmfvSoZBFAt9hhRoEByLi,"Aventura, Bad Bunny",Volví,El Salvador,0.725,0.86,1,-3.726,1,0.182,0.422,0.000284,0.0674,0.791,175.896,3.84,4
+4r9jkMEnArtWGH2rL2FZl0,Bad Bunny,A Tu Merced,El Salvador,0.86,0.791,0,-4.784,1,0.0568,0.169,0.000106,0.106,0.887,92.023,2.93,4
+0G2zPzWqVjR68iNPmx2TBe,"Mora, Bad Bunny, Sech",Volando - Remix,El Salvador,0.659,0.688,6,-4.649,1,0.0673,0.207,0.0,0.113,0.632,153.979,4.56,4
+3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,El Salvador,0.627,0.429,1,-8.255,1,0.234,0.238,0.0,0.122,0.565,126.426,1.88,5
+4khWEpnaijN0G1x019Uzdr,Morat,No Se Va,El Salvador,0.734,0.685,0,-5.37,1,0.0453,0.117,0.0,0.109,0.754,92.042,3.61,4
+35wvL50xvKpCHEJPxLOLPI,Bad Bunny,Si Estuviésemos Juntos,El Salvador,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-05,0.152,0.158,171.854,2.82,4
+0wihfILRNOwE2156Shezc8,Bad Bunny,Agosto,El Salvador,0.849,0.584,1,-8.195,0,0.115,0.0929,6.18e-06,0.492,0.724,115.018,2.32,4
+6y8z28epOv5FlaxDv1Lo5B,Ryan Castro,Jordan,El Salvador,0.796,0.68,10,-5.555,0,0.37,0.0575,0.000683,0.103,0.71,179.923,2.94,4
+6NSMQFKgjpQb0KkjMDYIK0,"Arcangel, Bad Bunny, Mambo Kingz, DJ Luian",Tu No Vive Asi (feat. Mambo Kingz & DJ Luian),El Salvador,0.815,0.514,6,-9.446,0,0.361,0.54,0.0,0.611,0.623,120.054,4.4,4
+2NMjggapJcXXM7WccGEBUO,Bad Bunny,Enséñame a Bailar,El Salvador,0.81,0.789,8,-5.08,1,0.0846,0.191,1.08e-05,0.467,0.77,105.009,2.93,4
+2vsoD8S1OyrWSVIA43hjaU,Feid,Si Te La Encuentras Por Ahí,El Salvador,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,3.19,4
+6nAlJuLlRlpAcq30xIqKJs,Plan B,¿Por Que Te Demoras?,El Salvador,0.891,0.78,2,-6.416,0,0.0701,0.0398,0.0,0.0548,0.931,95.998,3.18,4
+3rdAz1fbUfZxYgaCviYhRo,Rauw Alejandro,Todo De Ti,El Salvador,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,0.336,127.962,3.33,4
+6ifUES3keWjwXgae8pXI3o,Danny Ocean,Me Rehúso,El Salvador,0.744,0.804,1,-6.327,1,0.0677,0.0231,0.0,0.0494,0.426,104.823,3.43,4
+4hceSKjrkDTO0nMKFcb3sj,"Bizarrap, Villano Antillano","Villano Antillano: Bzrp Music Sessions, Vol. 51",El Salvador,0.82,0.752,1,-7.635,0,0.0648,0.0584,0.00417,0.628,0.423,127.999,3.12,4
+4srcMdbm2qzVG98tJajHxp,"Alejo, Feid, ROBI",Pantysito,El Salvador,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4.01,4
+5J7teKIJGtqVypgYI6sqXj,"Bad Bunny, Mora",Una Vez,El Salvador,0.55,0.598,11,-5.402,0,0.0831,0.132,2.58e-06,0.0955,0.543,83.836,3.87,4
+75UMtPC77vqKRwfSuYuNPO,Kevin Kaarl,San Lucas,El Salvador,0.577,0.363,7,-12.378,1,0.0263,0.86,0.000282,0.0868,0.265,91.511,4.12,4
+2tFwfmceQa1Y6nRPhYbEtC,"Jhayco, Bad Bunny",CÓMO SE SIENTE - Remix,El Salvador,0.807,0.606,3,-8.871,0,0.088,0.0946,0.0,0.119,0.304,92.988,3.79,4
+0HINQFSerZ6iMfSsaTO3G5,DEKKO,12x3,El Salvador,0.869,0.727,2,-4.956,1,0.121,0.00118,6.97e-05,0.183,0.613,93.989,2.65,4
+2n7ohqg1s68ToAHh4u9mcW,Bad Bunny,Vete,El Salvador,0.886,0.672,1,-4.394,1,0.188,0.0363,8.78e-06,0.101,0.526,91.976,3.2,4
+4w273WCBXwM4P3jTX5HkB2,"Grupo Marca Registrada, Junior H",El Rescate,El Salvador,0.794,0.594,7,-8.698,0,0.139,0.283,0.000381,0.109,0.637,99.238,2.68,3
+5gflgO9EPbIBf16n5TKnQS,Zion & Lennox,Yo Voy (feat. Daddy Yankee),El Salvador,0.808,0.697,10,-5.899,1,0.241,0.041,0.0,0.0546,0.554,95.06,3.87,4
+3HgvO4B5LLmdPOT2d8cSZd,"LAGOS, Danny Ocean",Mónaco,El Salvador,0.699,0.654,11,-6.264,1,0.0383,0.054,7.08e-06,0.095,0.319,100.037,3.21,4
+1VauUM5CBX7nkLcgafQL2B,"Bizarrap, Eladio Carrion","Eladio Carrion: Bzrp Music Sessions, Vol. 40",El Salvador,0.783,0.524,5,-6.455,0,0.0554,0.241,0.0,0.271,0.839,117.496,2.75,4
+5q2JbCNi4FcnglgPfxcV65,"Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin",Sola (Remix),El Salvador,0.639,0.869,11,-4.024,1,0.147,0.27,0.0,0.0802,0.767,169.801,5.13,4
+41wtwzCZkXwpnakmwJ239F,Bad Bunny,Si Veo a Tu Mamá,El Salvador,0.9,0.603,2,-5.313,1,0.0646,0.402,4.81e-06,0.134,0.824,129.928,2.85,4
+0gCPvo1GkbtPhMqg5Gbx1K,"Daddy Yankee, Bad Bunny",Vuelve,El Salvador,0.734,0.531,1,-5.662,1,0.0321,0.196,0.0,0.119,0.199,130.024,4.66,4
+5clFSlfkCRlhnH1cAQjSBi,De La Ghetto,Sensacion Del Bloque,El Salvador,0.709,0.726,7,-7.129,1,0.0411,0.0977,0.0,0.301,0.404,92.006,3.04,4
+6srBp90EwADKAF7PorGiUC,Adolescent's Orquesta,Virgen,El Salvador,0.662,0.776,8,-4.707,1,0.0457,0.715,0.000411,0.106,0.724,90.838,4.53,4
+4f49sFQko7jHLEFd3tCf5p,Don Omar,Ojitos Chiquitos,El Salvador,0.801,0.839,1,-3.267,0,0.24,0.0206,7.65e-05,0.0946,0.792,170.011,3.82,4
+1F205Nl2feOSYSztLNOJAL,"Eladio Carrion, Brytiago",3 Am,El Salvador,0.852,0.613,9,-5.261,1,0.108,0.413,0.000201,0.123,0.576,89.951,3.47,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,El Salvador,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+4SSbtLDkepeOHAckM1FCBP,"El Alfa, Noriel, Trueno",LOS APARATOS,El Salvador,0.868,0.878,1,-3.294,1,0.038,0.0509,0.00052,0.0857,0.899,112.987,3.88,4
+6TsVhM8qIkWN5cJVDIVbbz,"Wisin & Yandel, ROSALÍA",Besos Moja2,El Salvador,0.736,0.727,5,-4.642,0,0.0571,0.0584,1.91e-06,0.0976,0.644,94.048,3.82,4
+6ylDpki1VpIsc525KC1ojF,Sebastian Yatra,Tacones Rojos,El Salvador,0.746,0.844,11,-3.499,0,0.0359,0.062,0.0,0.149,0.934,123.014,3.16,4
+0UvZcEfpzVyx47QsRbjyBz,Bad Bunny,El Apagón,El Salvador,0.629,0.698,8,-4.485,1,0.308,0.0509,0.00166,0.0909,0.599,117.765,3.36,4
+5RubKOuDoPn5Kj5TLVxSxY,Bad Bunny,TE MUDASTE,El Salvador,0.811,0.637,10,-4.835,0,0.0591,0.234,0.000572,0.118,0.471,92.025,2.17,4
+7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,El Salvador,0.759,0.561,0,-5.643,0,0.131,0.803,0.121,0.101,0.491,104.915,3.01,4
+0vHfVsEe6Ps0d8cZ9PGzSw,"De La Ghetto, Rauw Alejandro",Loco Por Perrearte - Remix,El Salvador,0.848,0.673,11,-4.034,0,0.058,0.0147,0.00652,0.102,0.39,93.987,3.32,4
+6G4U9avyBNEfP0fAIduev3,"Aventura, Don Omar",Ella Y Yo - Featuring Don Omar,El Salvador,0.732,0.708,9,-7.905,0,0.262,0.534,0.0,0.237,0.717,175.924,4.46,4
+5JhUm1v5AbI5Yu6jLKCPRO,Grupo Frontera,No Se Va - En Vivo,El Salvador,0.594,0.527,0,-9.335,1,0.0335,0.121,0.0,0.234,0.692,172.712,3.23,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,El Salvador,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+4jhHaLksdP8DJZzxYAjOSz,"Eladio Carrion, Bad Bunny",Kemba Walker,El Salvador,0.832,0.59,8,-7.168,0,0.272,0.446,1.43e-06,0.123,0.596,146.907,2.55,4
+2MnLkFqY9Rpg9s3Zv6ZJdK,"Gera MX, Christian Nodal",Botella Tras Botella,El Salvador,0.727,0.546,0,-4.572,1,0.0437,0.656,0.0,0.122,0.69,106.891,3.29,4
+6lX6l7OuA3qrnIRfdsr0dw,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,El Salvador,0.787,0.7,4,-4.598,0,0.0768,0.568,0.00051,0.663,0.791,90.02,3.89,4
+25ZAibhr3bdlMCLmubZDVt,"J Balvin, Bad Bunny",QUE PRETENDES,El Salvador,0.639,0.791,10,-4.443,0,0.253,0.0275,0.0,0.362,0.939,92.603,3.71,4
+3p6eieHX6oEOzJStPtEsLu,Calibre 50,Si Te Pudiera Mentir,El Salvador,0.764,0.585,2,-7.796,1,0.0305,0.348,0.00294,0.369,0.89,90.013,4.26,4
+6Pur3hWy6Nzc27ilmsp5HA,Los Enanitos Verdes,Lamento Boliviano,El Salvador,0.714,0.735,4,-7.125,0,0.0306,0.176,0.000622,0.115,0.68,123.57,3.7,4
+0bI5WRiDfU5BY38ufOJtGu,"Maluma, Chencho Corleone",Nos Comemos Vivos,El Salvador,0.822,0.719,10,-3.633,0,0.0576,0.165,2.48e-05,0.174,0.659,82.01,3.76,4
+4bF2y8rR7GUjrd5LNEvej3,Ingratax,París,El Salvador,0.57,0.455,1,-5.748,0,0.0996,0.441,0.000746,0.0654,0.399,167.933,2.52,4
+5QDLhrAOJJdNAmCTJ8xMyW,BTS,Dynamite,El Salvador,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,3.32,4
+0OTNHGKcqQbk51bOYe462Y,"Polimá Westcoast, Pailita",ULTRA SOLO,El Salvador,0.802,0.846,1,-4.495,1,0.207,0.233,1.92e-05,0.114,0.26,109.982,3.79,4
+3FkeNbs9Zeiqkr3WkbOiGp,Anitta,Envolver,El Salvador,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,3.23,4
+2TDyyEBasw10wu5Uh94bR1,"Rauw Alejandro, Baby Rasta",PUNTO 40,El Salvador,0.873,0.826,0,-0.722,1,0.0876,0.00127,0.0361,0.311,0.201,106.972,3.18,4
+6HIIuuUIEzH1meVdGbMXyf,Grupo Firme,Ya Supérame (En Vivo),El Salvador,0.436,0.4,0,-6.521,1,0.11,0.463,0.0,0.76,0.568,75.576,3.15,3
+0MEZYGMSPxNwUO4nAdQRBW,Eladio Carrion,Hola Como Vas,El Salvador,0.729,0.596,6,-7.523,1,0.24,0.689,0.000181,0.065,0.781,185.984,3.31,4
+7dT9D6117e5DbhnKxDLNW9,Kevin Kaarl,Colapso,El Salvador,0.544,0.216,7,-17.237,1,0.0402,0.922,0.311,0.112,0.145,75.004,3.92,4
+655JkvIwu2rDCaD1hPf04g,"Sebastian Yatra, Myke Towers",Pareja Del Año,El Salvador,0.715,0.611,4,-5.094,0,0.0519,0.176,0.0,0.0949,0.776,79.971,3.26,4
+6e9Ew4AECYwY5Xgs2ZKMgp,Anuel AA,Mercedes Tintia,El Salvador,0.815,0.67,11,-4.076,1,0.109,0.0902,0.000854,0.0973,0.768,172.014,3.26,4
+5PfFHceiEv61KldMOuVrv8,"Peso Pluma, Luis R Conriquez",Siempre Pendientes,El Salvador,0.774,0.748,0,-7.086,1,0.0352,0.331,0.0057,0.126,0.714,135.929,3.11,3
+5GF0X7GdNmnouKcdhhRmtm,"Paulo Londra, Duki",Party en el Barrio (feat. Duki),El Salvador,0.527,0.665,10,-7.108,1,0.164,0.0168,1.29e-06,0.324,0.546,135.026,3.94,4
+71iAechwVKGu26pahzFL0k,Morat,Cuando Nadie Ve,El Salvador,0.806,0.778,1,-4.577,0,0.0616,0.133,0.0,0.218,0.84,95.993,3.66,4
+5aucVLKiumD89mxVCB4zvS,"Crush, j-hope",Rush Hour (Feat. j-hope of BTS),El Salvador,0.738,0.714,0,-5.235,1,0.249,0.157,0.0,0.31,0.74,95.035,2.96,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),El Salvador,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,El Salvador,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),El Salvador,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+5kpxVMDvYGRmNqawPqDTYR,"La Adictiva, Luis R Conriquez",JGL,El Salvador,0.702,0.586,8,-5.317,1,0.118,0.55,0.0,0.27,0.965,112.852,2.63,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,El Salvador,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+4HYDUMY0xSpeBr0AMY9cUz,"Jay Wheeler, DJ Nelson, Myke Towers",La Curiosidad,El Salvador,0.845,0.677,11,-4.798,0,0.136,0.269,0.000917,0.108,0.68,90.013,3.65,4
+4vCAzANUWDE24URV6wQ4ra,Bad Bunny,Otra Noche en Miami,El Salvador,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-05,0.0958,0.297,88.661,3.89,4
+2DEZmgHKAvm41k4J3R2E9Y,"Bad Bunny, Jowell & Randy, Ñengo Flow",Safaera,El Salvador,0.607,0.829,2,-4.074,1,0.379,0.0103,0.0,0.107,0.685,96.172,4.92,4
+05bfbizlM5AX6Mf1RRyMho,"Nio Garcia, J Balvin, Bad Bunny",AM Remix,El Salvador,0.743,0.655,6,-5.015,0,0.159,0.114,0.0,0.0764,0.785,172.031,4.36,4
+4HzqWEdAbzcVFDv0pvxV4w,Maluma,Sobrio,El Salvador,0.762,0.77,5,-2.758,1,0.223,0.138,0.0,0.15,0.631,177.998,3.35,4
+4OwhwvKESFtuu06dTgct7i,"Marc Seguí, Rauw Alejandro, Pol Granch",Tiroteo - Remix,El Salvador,0.75,0.522,9,-7.018,1,0.0293,0.282,0.0,0.0743,0.601,110.427,5.36,4
+6yLqoieklk9gwabLaUDJ4s,"La Factoria, Eddy Lover",Perdóname,El Salvador,0.67,0.821,9,-5.868,0,0.0334,0.251,0.0,0.199,0.384,94.983,4.04,4
+0X5jHsNHshuHNfAWs1sxQ5,"Tony Dize, Yandel",Permitame,El Salvador,0.629,0.668,8,-6.974,1,0.15,0.0287,0.0,0.159,0.904,214.025,3.08,4
+2XIc1pqjXV3Cr2BQUGNBck,"Bad Bunny, ROSALÍA",LA NOCHE DE ANOCHE,El Salvador,0.856,0.618,7,-4.892,1,0.286,0.0303,0.0,0.0866,0.391,81.993,3.39,4
+7d7aPD2oxuzjhOZnu4Dj23,"Natti Natasha, Daddy Yankee, Wisin & Yandel",Mayor Que Usted,El Salvador,0.625,0.839,6,-4.824,0,0.0927,0.00762,2.35e-05,0.464,0.771,184.08,3.89,4
+1Sym1HsTqsa2pYKhYL1j15,"Eladio Carrion, Rels B",Me Gustas Natural,El Salvador,0.721,0.426,0,-7.473,0,0.11,0.859,0.000216,0.111,0.451,127.083,2.83,4
+3KJ3opyV29269SXkPrc19l,Bad Bunny,120,El Salvador,0.636,0.656,2,-5.542,0,0.0676,0.451,7.97e-06,0.287,0.439,171.918,2.53,4
+0uBcoM4zxRXk7kmsmxoiFS,"Grupo Firme, Luis Mexia",Calidad,El Salvador,0.731,0.491,0,-3.116,1,0.029,0.609,0.0,0.262,0.781,132.891,2.83,3
+0akyEssGRVHstqCSWXusJL,Ed Maverick,Fuentes de Ortiz,El Salvador,0.83,0.159,1,-14.461,1,0.0383,0.946,2.02e-05,0.362,0.189,104.95,3.46,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,El Salvador,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+2bbwjxA68m9PHZFWgF1fze,Duki,GIVENCHY,El Salvador,0.607,0.619,8,-6.726,1,0.396,0.142,0.0,0.231,0.377,102.974,3.04,3
+4XqXNU8MwPHwbgZmNXmAdc,Maluma,Junio,El Salvador,0.85,0.756,11,-3.439,0,0.0407,0.0999,0.0,0.0873,0.896,120.024,2.81,4
+4scwMEdlKi8qWJzzyDB8Z3,"Morat, Juanes",506,El Salvador,0.544,0.864,0,-5.65,1,0.048,0.00747,0.0,0.338,0.69,142.994,3.01,4
+3gOVQmGQcg8djqU044liT1,Anuel AA,La 2blea,El Salvador,0.434,0.764,10,-5.443,0,0.208,0.34,0.0,0.283,0.443,176.077,5.24,4
+2TzkIzgzIHhewMxyh1u4hh,Kevin Kaarl,Vámonos a Marte,El Salvador,0.675,0.16,0,-11.667,1,0.0586,0.985,0.00688,0.164,0.247,69.754,2.98,4
+6NfrH0ANGmgBXyxgV2PeXt,Bad Bunny,La Difícil,El Salvador,0.685,0.848,8,-4.561,0,0.0858,0.0861,7.14e-06,0.0783,0.761,179.87,2.72,4
+5nZYc9ZDMhlXv6iWahZTU8,Angel Y Khriz,Ven Bailalo - Reggaeton Mix,El Salvador,0.675,0.919,11,-6.075,0,0.0366,0.0606,0.00653,0.103,0.726,97.017,4.21,4
+1JSTJqkT5qHq8MDJnJbRE1,The Police,Every Breath You Take,El Salvador,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,4.23,4
+26w9NTiE9NGjW1ZvIOd1So,Bad Bunny,BOOKER T,El Salvador,0.883,0.6,7,-7.188,1,0.37,0.114,7.94e-06,0.0931,0.691,113.903,2.61,4
+2FNqnsX74ZlwduUAcnmzee,"Daddy Yankee, Zion & Lennox",Tu Príncipe,El Salvador,0.77,0.804,4,-5.479,1,0.0623,0.16,1e-05,0.193,0.568,94.017,3.43,4
+4t9a07PAghtQMRAIP9FQ7Z,"Lunay, Daddy Yankee, Bad Bunny",Soltera - Remix,El Salvador,0.795,0.783,5,-4.271,1,0.0432,0.361,0.0,0.437,0.799,92.01,4.43,4
+3nDNXKBb5fRTuQXpeowWTT,Wisin & Yandel,Algo Me Gusta De Ti,El Salvador,0.716,0.785,11,-3.926,0,0.0534,0.0243,0.0,0.0638,0.154,127.957,4.59,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,El Salvador,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+2sXWMdn0bNEwWYQ2UrTi0X,"Daddy Yankee, Wisin & Yandel, Zion, Hector, Tonny Tun Tun",Noche De Entierro,El Salvador,0.866,0.761,4,-6.571,0,0.173,0.127,0.00147,0.0894,0.397,97.001,4.39,4
+2ctjDCCg1wHoQSjIJ8p6U4,Plan B,Candy,El Salvador,0.897,0.864,11,-3.735,0,0.147,0.252,0.0,0.517,0.542,95.981,3.46,4
+1j6xOGusnyXq3l6IryKF3G,"Piso 21, Manuel Turizo",Déjala Que Vuelva (feat. Manuel Turizo),El Salvador,0.681,0.788,1,-4.323,1,0.0785,0.0482,0.0,0.0753,0.839,170.019,3.67,4
+3XaWuYsTtnkzCSBr0RmROc,Plan B,Si No Le Contesto,El Salvador,0.846,0.747,1,-5.074,0,0.0533,0.0947,0.0,0.159,0.517,95.003,3.67,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,El Salvador,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+7rwX0O3RlxqqIjQM8evm5E,"Ozuna, Mambo Kingz, DJ Luian, Bad Bunny, Wisin, Almighty",Solita,El Salvador,0.807,0.633,10,-6.016,0,0.0929,0.0564,0.0,0.107,0.325,138.038,5.2,4
+1TMxv8sfUhU55AC6Ul1PU5,Eddie Santiago,Que Locura Enamorarme De Ti,El Salvador,0.746,0.786,10,-7.273,0,0.0428,0.538,8e-06,0.0656,0.968,93.767,5.13,4
+1mlGScrDQqHqmhdIqE8MmA,"Morat, Juanes",Besos En Guerra,El Salvador,0.69,0.973,2,-3.588,1,0.0492,0.126,0.0,0.101,0.772,143.957,3.86,4
+7MmrcXVA7A5zZ2CbDuGHNa,Rels B,A Mí,El Salvador,0.846,0.548,1,-6.397,1,0.256,0.241,0.0713,0.0419,0.516,94.925,3.49,4
+3lR4O0vtkhCAvVEUEWUL0S,"Piso 21, Christian Nodal",Pa' Olvidarme De Ella,El Salvador,0.728,0.542,0,-5.195,1,0.0514,0.259,0.0,0.136,0.637,90.016,3.79,3
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,El Salvador,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+704LUEih663hiE3CnyUrFW,KAROL G,SEJODIOTO,El Salvador,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,3.02,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,El Salvador,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),El Salvador,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,2.88,4
+5kqNIqFjijuzvVLhuY9B8j,Bad Bunny,La Zona,El Salvador,0.762,0.801,1,-3.661,0,0.0409,0.2,7.04e-05,0.254,0.81,93.992,2.28,4
+2NWaWZZLFMcr5P4uI2KvWy,Victor Cibrian,En El Radio Un Cochinero,El Salvador,0.696,0.623,6,-8.738,0,0.0438,0.466,8.61e-06,0.0983,0.965,154.028,3.72,3
+5LazbgCsa2IskJbPMnI8Qd,"Tiago PZK, LIT killah",Entre Nosotros,El Salvador,0.729,0.513,5,-6.345,0,0.0455,0.494,1.1e-06,0.137,0.789,170.064,3.21,3
+2FSGUA0gFgGeQdprjtGM2M,"KAROL G, Mariah Angeliq",EL MAKINON,El Salvador,0.635,0.706,5,-3.224,0,0.125,0.256,0.0,0.108,0.443,88.863,3.49,4
+2GQclWZHwE4fMdqShvOPWU,"Lasso, Sebastian Yatra",Ojos Marrones - Con Sebastián Yatra,El Salvador,0.787,0.662,8,-4.285,0,0.0372,0.0648,0.0,0.133,0.79,119.983,3.31,4
+6eRmG7DPom2FfRNAoCmjqb,Frankie Ruiz,Deseándote,El Salvador,0.559,0.838,5,-4.534,0,0.0484,0.492,0.0,0.179,0.927,95.519,4.69,4
+6j5LtifAnuTjTYvml61yFZ,Vicente Fernández,Un Millón de Primaveras,El Salvador,0.73,0.341,3,-8.521,1,0.0578,0.654,0.000181,0.0926,0.822,100.558,2.88,3
+30W8VKHrAZmHzObnwAoc1u,"Mora, Sech",TUS LÁGRIMAS,El Salvador,0.683,0.714,1,-4.898,1,0.252,0.181,1e-06,0.111,0.448,173.963,2.91,4
+1yoMvmasuxZfqHEipJhRbp,Maluma,Hawái,El Salvador,0.783,0.727,6,-3.454,0,0.389,0.185,2.46e-05,0.0626,0.558,180.067,3.32,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),El Salvador,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+1qfoq1qvZT7VwDVeekCJ97,Christian Nodal,De Los Besos Que Te Di,El Salvador,0.504,0.503,7,-3.313,1,0.0422,0.388,0.0,0.0608,0.709,195.593,2.79,4
+614NVFo5csQqRnryl4jXs2,"Héctor ""El Father"", Wisin & Yandel",El Telefono,El Salvador,0.808,0.682,2,-7.128,1,0.0963,0.171,1.42e-06,0.464,0.491,89.987,3.93,4
+6lV9cTvioGWqRXSgfjAUGL,"Maluma, Feid",Mojando Asientos (feat. Feid),El Salvador,0.773,0.767,7,-4.019,1,0.0819,0.0352,0.0,0.299,0.49,94.99,4.2,4
+3pm4XtcsRIFFtH2UErk62R,"Yandel, Bad Bunny",CANCIÓN CON YANDEL,El Salvador,0.75,0.741,9,-4.43,1,0.402,0.447,0.0,0.121,0.495,79.968,3.49,4
+7DcJXd2xxVcohwehWahFJJ,Frankie Ruiz,Tú Con Él,El Salvador,0.827,0.781,7,-5.914,1,0.0502,0.188,0.000759,0.249,0.961,95.411,5.04,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,El Salvador,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+26QApq0cuO9brJigr0C0W4,Bad Bunny,HACIENDO QUE ME AMAS,El Salvador,0.584,0.411,10,-7.147,0,0.0838,0.869,4.47e-05,0.0955,0.412,169.934,3.63,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,El Salvador,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+4j4w4CXm6BSr0s25wAWrrX,"Bad Bunny, Yaviah",Bichiyal,El Salvador,0.737,0.766,10,-4.242,0,0.0458,0.31,6.63e-06,0.114,0.662,93.956,3.27,4
+0BenZn1xELuxhb7Pjwyjxv,"Don Omar, Plan B",Hooka,El Salvador,0.73,0.863,1,-5.082,1,0.154,0.0373,0.0,0.491,0.818,170.014,3.97,4
+26QKsGW4hMuwiEE1ftUMHe,Daddy Yankee,"Lo Que Pasó, Pasó",El Salvador,0.819,0.741,8,-6.538,0,0.0412,0.104,0.0,0.283,0.84,97.014,3.52,4
+2q9udNV9NK0BL3q9p6TLxf,"ChiChi Peralta, Jandy Feliz",Procura,El Salvador,0.805,0.757,8,-7.46,1,0.0355,0.279,0.000839,0.101,0.973,102.14,4.52,4
+5hKjEpYrJIJs6uPl7zw6Y6,"Jory Boy, Bad Bunny",No Te Hagas,El Salvador,0.748,0.69,0,-3.812,0,0.0477,0.0353,0.0,0.315,0.433,131.972,3.89,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,El Salvador,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+1mSviQV9iQnGSRyvTIuxAj,"Alvaro Diaz, Rauw Alejandro",Problemón,El Salvador,0.706,0.739,10,-3.753,1,0.0586,0.266,2.62e-05,0.126,0.371,91.906,3.21,4
+3JCaq3KDSROg3TXhdiDa9n,"Jhayco, Anuel AA",Ley Seca,El Salvador,0.759,0.842,8,-3.758,1,0.096,0.101,0.0,0.134,0.584,105.059,4.39,4
+4eecTlhTsAR8JMQXZmkbiT,"Dímelo Flow, Sech, Dalex, Justin Quiles, Arcangel, De La Ghetto, Lenny Tavárez",Se Le Ve,El Salvador,0.764,0.756,7,-4.153,0,0.0909,0.118,1.37e-05,0.226,0.651,167.772,4.55,4
+4NUt1fcnO9aQAELBgXq3Kr,Alejandro Fernández,Me Dediqué a Perderte,El Salvador,0.642,0.442,8,-9.115,1,0.074,0.491,1.58e-06,0.102,0.465,148.01,3.86,4
+3WLXf7K7mIGEBtFq41afce,Jerry Rivera,Amores Como el Nuestro,El Salvador,0.698,0.872,0,-2.16,1,0.0456,0.583,0.00946,0.0848,0.62,179.556,5.04,4
+3XjN0mvFkQp1FMVM9Ro5hm,Daddy Yankee,RUMBATÓN,El Salvador,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4.15,4

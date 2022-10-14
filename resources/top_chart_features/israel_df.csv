@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+5A3bEckI7AjWTguGqZOzUm,Noa Kirel,פנתרה,Israel,0.832,0.647,9,-7.954,0,0.0755,0.0588,0.0014,0.411,0.488,102.036,2.89,4
+7BcRDWY4VTCvRRHoobFWWo,"Tuna, Jasmin Moallem",סהרה - Live,Israel,0.33,0.768,3,-6.433,0,0.129,0.75,0.0,0.963,0.361,156.52,4.55,4
+3zhFqDzJZfnc8L5QkGWWG6,Benaia Barabi,קרן שמש,Israel,0.714,0.487,7,-7.396,1,0.0257,0.562,0.0,0.0895,0.528,100.009,3.79,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Israel,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+2G1o9Mq8KpamOwJPZLuJc7,"Full Trunk, Jimbo J",סתלבט בקיבוץ,Israel,0.671,0.724,8,-8.799,1,0.0879,0.588,3.07e-05,0.47,0.941,167.998,3.61,4
+1D8HR389yohrWVZ1yHI2bc,Tuna,היי בייב,Israel,0.648,0.776,2,-7.552,1,0.0401,0.00956,0.0,0.145,0.625,92.033,3.13,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Israel,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+4I9NVCnjIRVriXfNE7VhE0,Eden Hason,עושה לי צרות,Israel,0.552,0.433,6,-9.792,1,0.068,0.777,0.0,0.139,0.334,89.329,2.63,4
+2XNXcmwubbt8MJYlQRb4V2,Odeya,אינטלקטוערס (Prod. By Triangle),Israel,0.782,0.659,8,-7.011,0,0.173,0.449,0.0158,0.36,0.781,118.021,2.54,4
+3uidHx3If1PWAOCMcCdkNH,Tuna,סהרה,Israel,0.587,0.531,3,-7.844,0,0.0741,0.39,0.0,0.171,0.565,160.092,4.08,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Israel,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+7DS5SpsWS7rtKeAfe9rbfn,"Nunu, Sagi Kariv, Forever Tel Aviv",Cute Boy,Israel,0.768,0.8,1,-4.387,0,0.0913,0.113,0.000343,0.549,0.608,127.979,3.09,4
+0UXXAYRUrknaz6FuaPKtFW,אליאב זוהר,מיכל,Israel,0.472,0.48,4,-7.615,0,0.0277,0.736,0.0,0.123,0.262,88.089,3.65,4
+3iJQ54fGO6CyP374UzvDJu,Anna Zak,מי זאת,Israel,0.88,0.454,10,-8.404,0,0.0865,0.192,4.36e-06,0.0786,0.636,93.985,2.45,4
+3hpaRxH73ciJCuH6QcNWXO,Eden Hason,מטפסים על הקירות,Israel,0.776,0.817,3,-6.216,0,0.0841,0.228,4.27e-05,0.0616,0.965,99.993,2.78,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Israel,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+5tNrVA1ySsk7HkV5yg2iXN,"Marina Maximilian, Itay Galo",עולה על שולחנות,Israel,0.825,0.783,4,-6.674,0,0.0452,0.123,0.00117,0.117,0.652,125.014,3.27,4
+67PF7VLcYEKKF82ziNf9Ur,"Shahar Saul, Agam Buhbut, NOROZ",דובשנייה,Israel,0.77,0.894,7,-4.653,1,0.218,0.318,0.00238,0.3,0.671,104.993,2.53,4
+2O1af1DbXF7paOr7O5CRst,Avi Aburomi,ספרי להם הכל,Israel,0.483,0.776,10,-6.646,0,0.0667,0.0947,0.0,0.288,0.757,191.981,3.01,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Israel,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+1lHlKCdVZ4CGbbkTuG6LfT,Jasmin Moallem,יחפים,Israel,0.343,0.331,0,-11.067,0,0.0421,0.857,0.0,0.0896,0.154,173.65,3.27,3
+0SmY5bTuls1ccput6QhHSA,Adir Getz,"אני אוהב, אני מכור, אני שרוף",Israel,0.708,0.287,0,-10.791,0,0.0349,0.875,0.0,0.115,0.461,135.875,3.0,4
+1DAJswyIul47SQNBkYPiCx,Mergui,Sucks To Know You (FU),Israel,0.585,0.432,10,-6.566,0,0.0431,0.107,0.0,0.121,0.642,154.972,1.97,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Israel,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+2EpdcPssADDCCMeOQ9GVtv,"Omer Adam, Amir Dadon",לבחור נכון & פוליטיקה וסקס,Israel,0.345,0.452,1,-8.222,0,0.0386,0.443,0.0,0.0718,0.243,141.226,5.74,4
+1quBoxh2fvPsy4f0ZBLf46,"Osher Cohen, Shahar Saul",בסוף נרקוד,Israel,0.675,0.746,11,-9.602,0,0.0382,0.568,0.000112,0.115,0.334,125.001,3.88,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Israel,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+2SxcL0eba2ILQpJPuBBHsG,Eden Hason,מה פספסתי,Israel,0.719,0.528,8,-8.458,0,0.0625,0.126,6.79e-06,0.102,0.474,175.991,2.33,4
+1Dus0KytptzGZvzfAnTcfG,Ran Danker,מלכת הרחבה,Israel,0.855,0.598,9,-3.579,0,0.0661,0.00735,0.00322,0.576,0.492,109.04,3.21,4
+6d8ZHsSyTg6ABLkWNCZdSy,Avi Aburomi,מה עובר לך בראש,Israel,0.657,0.522,1,-7.848,0,0.0527,0.793,0.0,0.117,0.787,128.129,2.57,4
+7rNA5Jwu23g7PaXcMwfLdq,Eden Hason,מדליקה לי הכל,Israel,0.681,0.691,1,-5.31,0,0.0604,0.397,0.0,0.107,0.787,127.002,3.41,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Israel,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Israel,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+63TUZWEmunvQnAdLUD61yY,"Noa Kirel, Gitit Fisher",שלושה בנות,Israel,0.841,0.802,1,-4.064,1,0.0654,0.146,3.78e-06,0.228,0.81,127.953,3.62,4
+57BFhpG4Iq4Zgnoz2X6zbT,"Osher Cohen, Nadav Navi Aharoni",חמישי שישי,Israel,0.754,0.661,2,-7.454,1,0.0388,0.125,0.00711,0.109,0.198,121.981,3.42,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Israel,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Israel,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+4JmmjsGmOED0sn0Le3r84u,"Tuna, Ravid Plotnik",עולם משוגע,Israel,0.569,0.633,1,-8.26,1,0.0965,0.363,0.00155,0.123,0.568,149.904,5.92,4
+3yyHRwblo5kk0fH9pfMP6M,"Marina Maximilian, Guy Mentesh",ביחד,Israel,0.565,0.59,1,-5.73,0,0.0838,0.402,0.0,0.265,0.272,108.111,2.53,1
+6i2SQujw0VIv4LPkF5oFqB,Omer Adam,תמיד שלך,Israel,0.504,0.28,8,-9.323,1,0.0304,0.876,0.0,0.104,0.387,84.611,2.89,4
+4CLQRHj24bq6QVR0Fkmg1u,"נופיה ידידיה, הכוכב הבא",זאת שמעל לכל המצופה,Israel,0.556,0.458,9,-7.535,0,0.0339,0.694,0.0,0.569,0.23,85.931,3.04,4
+4N8FwcfRTju02qsgn9Mcl8,Eden Hason,בואי נישן על זה,Israel,0.583,0.873,7,-4.037,0,0.244,0.133,0.0,0.309,0.795,174.143,2.37,4
+3fCS3m3uWUgAFm3purs15C,Anna Zak,לך לישון,Israel,0.769,0.651,9,-8.138,0,0.0422,0.0245,0.0,0.323,0.548,116.98,2.64,4
+0Vza8xv9EmTgei0HxLO8L3,Mergui,Lie Like This,Israel,0.483,0.275,5,-7.789,0,0.052,0.00496,0.0,0.104,0.248,120.032,3.07,4
+68kVzJf0STAv91tuLutuDr,Eden Hason,שקיעות אדומות,Israel,0.585,0.394,6,-9.016,0,0.0321,0.676,0.0,0.119,0.345,84.018,3.55,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Israel,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+5dUG9RrLElsi2sxJAhVUZJ,"Agam Buhbut, הפשוטע",בשורות טובות,Israel,0.745,0.725,11,-6.25,0,0.0361,0.197,0.211,0.101,0.665,133.988,2.91,4
+05KQMm1vL6MnJkgobUtwft,Omer Adam,לבד על המיטה,Israel,0.637,0.53,11,-5.661,0,0.0336,0.679,3.67e-06,0.0997,0.408,140.204,2.59,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Israel,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+5e4PVtYVBu9BpJVhmQhIvS,Hanan Ben Ari,שמש,Israel,0.485,0.42,7,-8.801,0,0.036,0.575,0.0,0.0907,0.113,124.444,3.97,4
+5RnhWaP5VD3eJN3J0chPmh,"Tuna, Tzlil Danin",בסיבוב,Israel,0.633,0.81,11,-6.819,0,0.0486,0.0997,1.91e-06,0.12,0.665,94.009,5.22,4
+2PpTUW96jjJYr8ib8RUnUu,Tuna,י'א 2,Israel,0.69,0.689,1,-7.37,1,0.0719,0.781,3.9e-06,0.084,0.584,95.019,2.94,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Israel,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+4DgyTAwiSJsT5u5EljsImB,"Noa Kirel, Itay Galo",פעמון,Israel,0.822,0.598,4,-6.463,1,0.0442,0.0917,0.00107,0.0905,0.58,123.988,3.02,4
+79h6P8bV0ENtq6Vmhkpewr,Odeya,אם הייתי צריכה,Israel,0.578,0.538,1,-7.335,0,0.209,0.388,0.0,0.394,0.361,93.153,3.4,4
+0n2BeC9E0M7fC2jbKBYetu,Tomer Yosef,כאלו מילים,Israel,0.717,0.516,10,-4.739,0,0.0496,0.276,0.0,0.0857,0.963,174.999,2.77,4
+26ffnwQVV4votOweWSwpeN,Narkis,הולכת איתך,Israel,0.696,0.797,6,-6.031,0,0.0696,0.0251,0.0,0.105,0.454,107.925,3.56,4
+5CCxCzPB3HMh595Y1MNIm5,Tuna,סחרחורת,Israel,0.602,0.755,2,-4.901,0,0.0873,0.0905,0.0,0.68,0.449,92.88,4.23,3
+52n4gF126eIllrGuc9Zus6,Ishay Ribo,לשוב הביתה,Israel,0.73,0.448,11,-9.074,0,0.0309,0.51,1.26e-05,0.0926,0.632,104.007,3.29,4
+4C7X3ja0DeTxMaTQJXtQ8W,Agam Buhbut,יותר חזק מה?,Israel,0.818,0.661,2,-5.564,0,0.114,0.173,0.0,0.697,0.63,133.007,2.33,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Israel,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Israel,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+6SuC1LItQ9V9SjET2EvvtD,"Agam Buhbut, Shahar Saul",באתי להציל אותך,Israel,0.785,0.501,7,-8.358,0,0.0616,0.33,0.0,0.12,0.126,101.93,3.12,4
+2ICsg0MAobTLg4VVjW2iE5,Osher Cohen,אהובי לב אדום,Israel,0.745,0.649,5,-6.24,0,0.0417,0.201,1.64e-06,0.206,0.627,127.979,3.41,4
+0Ap742kKOE7chXEdDZWvOq,"Avraham Tal, Benaia Barabi",מי לא יבוא,Israel,0.77,0.416,0,-10.731,1,0.115,0.497,0.0,0.113,0.573,102.088,3.36,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Israel,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+3lc6b4cCbPLWNQ95GYxPkN,Nunu,ליבינג דה דרים,Israel,0.821,0.398,0,-12.508,1,0.0788,0.0309,0.00063,0.0551,0.431,127.033,2.93,4
+4BBEoERaClW0ROQY9evmE9,"Eden Ben Zaken, Maya Dadon",להיות שלך,Israel,0.621,0.474,6,-6.978,0,0.0283,0.354,0.0,0.12,0.139,80.027,3.31,4
+6uWUsqSzbYxGhRJHNI7xPE,Elisha Banai,סן דייגו,Israel,0.408,0.516,9,-6.309,1,0.0307,0.478,1.5e-06,0.107,0.257,76.968,3.52,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Israel,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+6sADtPKtORAMZP3GQhOsHv,Ishay Ribo,סיבת הסיבות,Israel,0.773,0.538,11,-6.298,0,0.036,0.541,4.45e-05,0.188,0.676,127.967,3.33,4
+0tIQwXFOyQjd6K7w7PIBrn,Akiva,יש בך הכל,Israel,0.561,0.566,3,-8.479,1,0.0375,0.609,0.000382,0.131,0.436,142.87,3.76,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Israel,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+1saT4tObMScARIwT4wTv0W,Ravid Plotnik,נתראה בגלגול הבא,Israel,0.511,0.396,6,-13.945,0,0.0389,0.184,0.51,0.68,0.197,111.506,3.56,3
+7dEtCKY2MthcyP0U6aiMCW,Nunu,קוביד 19,Israel,0.964,0.354,1,-9.213,1,0.0646,0.0201,0.0,0.0861,0.756,117.015,2.37,4
+71h6sV5KytTmPARarI28wI,Raviv Kaner,רסיסים,Israel,0.616,0.377,11,-7.988,0,0.0279,0.42,0.0,0.0996,0.375,73.974,3.35,4
+0hOEW1DOcq5pQdoSguJklk,Peer Tasi,ערק,Israel,0.706,0.498,3,-7.525,0,0.0566,0.4,0.0,0.324,0.282,100.023,3.37,4
+3RBpmZJ0YG9abVBXI2U1UO,Eden Hason,את חסרה לי,Israel,0.651,0.645,4,-6.173,0,0.0624,0.47,0.0,0.2,0.307,129.931,2.83,4
+4W1G1xlxcirdtXosgsR0m0,Agam Buhbut,קופידון (Prod. By Triangle),Israel,0.763,0.618,2,-5.919,1,0.072,0.166,0.0,0.149,0.805,110.034,2.72,4
+65xypSQQ6kSMjkL634ICtB,Maya Dadon,יאללה ביי,Israel,0.904,0.524,7,-8.574,1,0.103,0.209,1.4e-06,0.0688,0.678,114.011,2.54,4
+70Vsir4Wan3TrEzGCIZy0l,Eden Hason,ככה כל יום,Israel,0.691,0.434,2,-9.697,0,0.0399,0.504,0.0,0.0742,0.447,120.892,2.92,4
+3Y4G4E7EVomTWTFSFS0Sn5,Hanan Ben Ari,אלוף העולם,Israel,0.582,0.433,10,-8.309,0,0.0501,0.747,0.0,0.133,0.22,127.511,3.59,4
+2rtRolBeoU3EsfWtErOoTL,"Doli & Penn, Noa Kirel, Peled",שחרר אותי,Israel,0.813,0.638,6,-6.82,0,0.118,0.082,0.0,0.0751,0.71,116.01,2.48,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Israel,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Israel,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+6xtqda5h0wlcFn3WdI4pb6,Tuna,כל הכוכבים,Israel,0.597,0.427,7,-9.886,0,0.0266,0.102,0.0024,0.675,0.642,93.031,2.69,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Israel,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+5ezFz6Jwn7l40kIGAP4zmL,Eyal Golan,בזמן האחרון,Israel,0.405,0.39,6,-8.875,0,0.0381,0.52,0.0,0.056,0.332,172.051,3.33,4
+04qYVjQ9bRRpJzz5sm7cEk,Hanan Ben Ari,אם תרצי,Israel,0.669,0.593,11,-9.851,0,0.0361,0.355,0.0,0.343,0.774,131.043,2.93,4
+60GvepzSwgGx8kaZNln4L0,Ravid Plotnik,כל הזמן הזה,Israel,0.582,0.465,1,-11.032,0,0.0555,0.0591,0.0,0.267,0.33,147.959,4.97,4
+7jdvibTKMCbIP2B77ayD8Q,"דיג'יי אונלי, Talisman, Omri Sabach",עד המדבר,Israel,0.659,0.876,0,-3.976,0,0.0725,0.462,0.0,0.0787,0.563,104.981,3.41,4
+7vlw3ezpsoXCBONhNXLOcV,Tuna,גם זה יעבור,Israel,0.56,0.62,11,-7.778,0,0.089,0.36,0.000106,0.1,0.411,156.178,5.05,4
+7vn9SIc4NraLuIMzUeCK2o,Yuval Dayan,שרק תחייך,Israel,0.36,0.317,2,-9.483,1,0.034,0.827,1.83e-06,0.101,0.278,178.236,3.28,3
+1ttOlVyZvmnozD2muIxulw,Eviatar Banai,עד מחר,Israel,0.331,0.557,5,-7.167,1,0.0292,0.631,0.0175,0.143,0.27,163.164,4.46,3
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Israel,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Israel,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+0tx3OWVFMJ5GgrGa9QGFaQ,"Girafot, DMZL",יש לי חור בלב בצורה שלך,Israel,0.641,0.617,8,-7.427,0,0.0272,0.0156,6.72e-06,0.0952,0.823,94.004,3.36,4
+1JMDsOUPflzsNN62KEBaH9,"Jubël, Noa Kirel",Lucky (feat. Noa Kirel),Israel,0.746,0.738,1,-6.35,0,0.0354,0.0899,6.25e-05,0.103,0.803,120.079,2.37,4
+0PfvEnfj3hHl7zlc0WcfGY,Ravid Plotnik,‏שלווה בארמונותייך,Israel,0.335,0.331,5,-10.124,0,0.0349,0.563,4.15e-05,0.161,0.187,136.164,4.6,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Israel,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+1ZEsqzNBQqyC7VLRTUDopj,"Mor, Avi Aburomi",חצי שלי,Israel,0.677,0.403,5,-8.123,1,0.0432,0.729,0.0,0.0994,0.315,139.852,3.21,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Israel,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+3veP41hqImUDYUhBbnZG90,Maor Cohen,שיר של יום חולין,Israel,0.399,0.711,4,-4.316,0,0.0312,0.0038,3.48e-06,0.254,0.263,76.389,3.8,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Israel,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+05fmjmDag1xjIcIxuissuG,Rita,מחכה,Israel,0.516,0.688,11,-4.595,1,0.0273,0.62,0.0,0.193,0.379,92.121,4.13,3
+5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,BREAK MY SOUL,Israel,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,4.64,4
+2gK92y6pVz6ygq8Fc7N2xL,Shlomo Artzi,תתארו לכם,Israel,0.53,0.573,10,-8.276,1,0.0338,0.794,0.0,0.122,0.575,91.115,3.78,4
+3hay408PSjTAxPn5TPxzyh,Idan Amedi,חלק מהזמן,Israel,0.568,0.455,3,-7.611,0,0.0309,0.626,0.0,0.129,0.642,68.463,3.72,3
+0x9UM4GuxnMJUjyuipowmo,Akiva,אל תעזבי ידיים,Israel,0.605,0.455,1,-7.956,0,0.0472,0.739,6.46e-06,0.224,0.26,88.079,3.48,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Israel,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Israel,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Israel,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Israel,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+2liUMhNvpAxRNVAGnz8jNJ,"Static & Ben El, Netta",אפס מאמץ,Israel,0.847,0.584,9,-6.289,0,0.0458,0.113,0.0103,0.0673,0.596,140.011,3.34,4
+7lwBfnN8IVlP6WW702pGH0,"Omer Adam, Tuna",סחרחורת & בדד,Israel,0.408,0.416,2,-11.787,0,0.0528,0.335,0.00015,0.238,0.337,181.793,6.03,3
+4XCGTV9uchQOFffzH1eqDo,Alin Golan,אין לי כח,Israel,0.712,0.491,9,-8.575,1,0.0643,0.332,0.0,0.224,0.319,126.125,3.48,4
+406GxF9gnDjRwsy5wqLpOh,"Amir Ve Ben, Jane Bordeaux",תל אביב זה אני ואת,Israel,0.847,0.608,8,-4.925,1,0.0645,0.511,0.0,0.0862,0.707,104.993,3.69,4
+6jMCb4UpIBjmiKf6EwVK8u,Omer Adam,חצי דפוק,Israel,0.903,0.465,2,-9.638,0,0.126,0.101,1.18e-05,0.109,0.27,119.981,2.96,4
+6M5jWLELwfFMhVKm8mhb6w,Agam Buhbut,שירי דיכאון,Israel,0.391,0.508,5,-8.069,0,0.0494,0.517,0.0,0.11,0.278,160.058,3.54,4
+2WN0K3K7HYtnRjinyZ9ktp,Itay Levi,לא עושה לך כלום,Israel,0.49,0.368,11,-7.968,0,0.162,0.603,0.0,0.137,0.319,163.591,2.82,4
+3R07e1YzlIJATTjA3aT0Et,Mergui,לא להיות לבד,Israel,0.558,0.9,1,-4.78,1,0.0387,0.000128,0.00122,0.0421,0.966,144.973,3.0,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Israel,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+7G5bTmi3ep4zyMcYEzXRH8,Benaia Barabi,גומות,Israel,0.53,0.385,11,-8.326,1,0.046,0.635,0.0,0.106,0.279,77.094,3.32,4
+3qWDOGP2SBMLQ3nzMIkNbz,Nathan Goshen,שני ילדים בעולם,Israel,0.406,0.354,2,-9.343,0,0.0355,0.52,1.25e-05,0.116,0.479,119.706,3.1,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Israel,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+2cDJbr9zb9nx1bB2upCz13,Hanan Ben Ari,חנניה,Israel,0.589,0.803,0,-5.596,0,0.0955,0.0742,0.0,0.369,0.477,124.717,3.52,4
+72W6xVQGdKHQl348KYgwg2,Idan Rafael Haviv,שלמים,Israel,0.417,0.355,0,-12.372,1,0.0599,0.847,4.18e-05,0.113,0.0914,86.078,3.68,4
+2re0QWv8k08Z3bwDJeaEEp,"Doli & Penn, Lior Narkis",עזוב אותי מטכנו,Israel,0.884,0.71,0,-8.362,1,0.292,0.0254,0.000504,0.187,0.839,144.91,2.21,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Israel,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+66iaD8MCoVnBtqUhuzdglT,Ran Danker,בית משוגעים,Israel,0.778,0.577,5,-6.766,0,0.173,0.104,2.97e-06,0.122,0.361,99.05,2.83,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Israel,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Israel,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4.29,4
+7Ck421SAROdN0Q6RXMbic7,Ishay Ribo,הלב שלי,Israel,0.563,0.419,3,-9.262,1,0.0294,0.643,2.81e-05,0.0693,0.256,136.01,3.98,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Israel,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Israel,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Israel,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+691Tx41oL0SPUv0kUAVmmn,Benaia Barabi,מישהו איתי כאן,Israel,0.69,0.649,2,-5.973,0,0.03,0.631,0.0,0.144,0.483,99.984,3.68,4
+5UEnnrjmKyyReW8OY8FuvN,Liran Danino,ללכת,Israel,0.384,0.643,1,-3.249,1,0.0299,0.294,0.0,0.166,0.242,161.049,3.15,3
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Israel,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+4Ow0gCGxYfOcyiCuZOt9mp,Avraham Tal,שבוע טוב,Israel,0.697,0.777,7,-3.472,0,0.0834,0.0107,0.0,0.097,0.555,103.996,2.52,4
+1iqFD52dqVgLGJq74we3RW,Hanan Ben Ari,אמן על הילדים,Israel,0.398,0.37,10,-12.147,0,0.0621,0.307,1.23e-06,0.338,0.237,104.949,3.64,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Israel,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+4bm2aZg3iiqMjO3MIiyhAo,Chen Aharoni,נשימה,Israel,0.646,0.723,11,-6.308,0,0.0301,0.0408,0.0,0.284,0.751,136.0,3.36,4
+2A9yj46qweEVrsvnvntEa5,Zikney Tzfat,רק אל תלכי,Israel,0.686,0.621,5,-8.112,1,0.0319,0.103,1.05e-05,0.122,0.561,128.802,3.21,4
+5shn2i4JvFfzNlqeljroXn,Niv Demirel,השעות הקטנות,Israel,0.5,0.719,1,-6.942,0,0.0335,0.0944,0.0,0.096,0.235,98.263,3.37,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Israel,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+3MB1afOMzspYZUHF5cB0dq,Yoshi,אין מספיק זמן,Israel,0.705,0.559,2,-8.595,0,0.0424,0.567,0.0689,0.132,0.562,152.004,3.66,4
+1XuxoHDc7mFeyhaDcgjYST,Jasmin Moallem,מחילה,Israel,0.546,0.374,9,-8.108,0,0.0805,0.535,6.5e-05,0.112,0.206,187.776,3.42,4
+79frUUdqTcE1Qll6Twt8Ds,Ron Buhnik,לב יפה,Israel,0.489,0.236,0,-11.228,0,0.0371,0.913,2.1e-06,0.119,0.264,127.555,2.75,5
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Israel,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+3yrRbZeS9ZKLRi2QDRXyrc,Inbal Bibi,פרימיטיבי,Israel,0.606,0.68,5,-5.206,1,0.205,0.185,0.0,0.222,0.602,159.866,3.42,4
+1yzINfwcfaS0yOSwvaiQda,"Gil Vain, Benaia Barabi",אל תשאלי,Israel,0.706,0.651,1,-5.439,0,0.0429,0.446,0.0,0.0984,0.558,139.934,2.8,4
+0ety2yTiWVKeqQeaed4Spj,"Nathan Goshen, Ishay Ribo",נחכה לך,Israel,0.542,0.465,2,-7.736,1,0.027,0.491,0.0,0.0737,0.464,74.911,3.46,4
+0ll8uFnc0nANY35E0Lfxvg,Keane,Somewhere Only We Know,Israel,0.453,0.655,9,-4.22,1,0.0259,0.0794,7.61e-06,0.0849,0.368,172.012,3.94,4
+3fbZ0Up6ZCqNtVWECIRosI,The Friends of Natasha,על קו הזינוק,Israel,0.451,0.456,0,-13.692,1,0.027,0.185,0.00164,0.16,0.552,149.154,3.98,4
+6db8vtmyjTYEtqXVQRncCG,Full Trunk,ממותה,Israel,0.516,0.514,9,-8.756,1,0.185,0.0102,0.0,0.769,0.402,177.012,3.48,4
+7o6UDPFWtYrjUZnRvi1dvO,Jane Bordeaux,איך אפשר,Israel,0.615,0.317,9,-10.619,1,0.0327,0.126,0.0,0.1,0.362,121.808,4.1,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Israel,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Israel,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+7JJmb5XwzOO8jgpou264Ml,Shawn Mendes,There's Nothing Holdin' Me Back,Israel,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,3.32,4
+1vTVrYErMEixGuPZFZGg6C,Tuna,רוק 30,Israel,0.515,0.841,3,-7.014,0,0.192,0.167,8.2e-06,0.0768,0.608,86.85,4.62,4
+4A5lRH29TyKxllsl94BWex,Ishay Ribo,סדר העבודה,Israel,0.572,0.317,7,-10.091,1,0.0326,0.685,1.01e-05,0.115,0.196,74.954,5.85,4
+0taqIIB89cQQoiA8ZDukWf,Osher Cohen,מקבל על עצמי,Israel,0.709,0.514,9,-8.224,1,0.0446,0.711,1.17e-05,0.153,0.532,95.979,3.73,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Israel,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+1XGmzt0PVuFgQYYnV2It7A,"Maroon 5, Wiz Khalifa",Payphone,Israel,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,3.85,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Israel,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+5pZmyjoGBrQ1inaZmXXpFA,Jasmin Moallem,לא היה מעולם,Israel,0.57,0.487,1,-8.491,1,0.237,0.087,0.0,0.0439,0.309,173.838,3.36,4
+1WQca3OCy3Mlg90O4GXmRD,Ishay Ribo,תכף יפתח,Israel,0.56,0.716,0,-7.749,0,0.0837,0.373,0.00022,0.342,0.507,107.988,3.62,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Israel,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Israel,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Israel,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4.79,4
+7n6emXIcaECmkljP1rPlvQ,Amir Dadon,לבחור נכון,Israel,0.442,0.376,1,-9.08,0,0.0353,0.176,0.000243,0.112,0.166,71.769,3.6,4
+1B6qAMPiD7sv3WNI90ELMz,"Jasmin Moallem, Tuna",אור הירח,Israel,0.625,0.624,9,-8.391,1,0.14,0.179,7.15e-05,0.22,0.394,150.005,3.47,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Israel,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,Israel,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,3.4,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Israel,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Israel,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Israel,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Israel,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Israel,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Israel,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Israel,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+3dO18fcChMZeJf6WCyodpM,"Odeya, Osher Cohen, החללית",אוהבת אותך בטעות - LIVE מקיסריה,Israel,0.444,0.581,6,-9.549,0,0.041,0.738,1.08e-06,0.54,0.411,93.595,3.47,4
+2DhFhjUBv5xBeEDfpoArtB,Ben Zur,מה עובר לך בראש,Israel,0.759,0.336,11,-8.821,0,0.0975,0.882,0.0,0.115,0.65,129.916,2.54,4
+1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Israel,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4.04,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Israel,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Israel,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Israel,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,3.41,4
+3sNVsP50132BTNlImLx70i,Kanye West,Bound 2,Israel,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913,3.82,4
+4abB8WdkswrxWxcV2e56x9,Eden Hason,גדל לי קצת זקן,Israel,0.671,0.472,8,-7.898,0,0.0344,0.875,0.0,0.124,0.663,139.748,3.29,4
+07uIhNfeg1X7QZBl5BRxUK,Ishay Ribo,אוחילה,Israel,0.615,0.252,5,-10.674,0,0.0317,0.976,0.000182,0.11,0.162,129.987,3.85,4
+4wMOaYw3W2PoHPWidiyKrp,Eyal Golan,מחפשים אהבה,Israel,0.71,0.519,1,-7.551,0,0.0544,0.266,0.0,0.16,0.546,130.102,3.57,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Israel,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+2wJCZ42C6XY9DpP8IlO9OU,Odeya,תשבור לי ת'לב,Israel,0.461,0.475,1,-7.613,0,0.321,0.333,0.0,0.0862,0.513,83.294,3.13,4
+7Ddk8FhoYKdsVoX9AOCPMm,"DJ Khaled, Drake, Lil Baby",STAYING ALIVE (feat. Drake & Lil Baby),Israel,0.677,0.495,4,-7.174,0,0.0821,0.0668,0.0,0.319,0.152,129.974,2.97,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Israel,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+5nhdL0kvFVnRLIuygOcfQ9,Yossi Shitrit,מחשבות,Israel,0.61,0.582,8,-5.409,1,0.0327,0.293,0.0,0.122,0.19,132.07,3.34,4
+0cnXDZGevuZ5kj2nbVzPyu,Maor Cohen,לילה עיר,Israel,0.364,0.634,0,-5.667,1,0.0257,0.637,3.49e-05,0.118,0.268,82.88,3.53,4
+6dMsWeQ2vCXOroR5dL84Wf,"Danny Sanderson, Mazi Cohen",זה הכל בשבילך,Israel,0.659,0.3,7,-10.946,0,0.0292,0.527,0.0,0.21,0.213,87.864,3.42,4
+2BhTmU38CWP8UrV4tB5gin,Akiva,בשעה אחת,Israel,0.494,0.622,11,-9.052,1,0.0458,0.367,1.58e-05,0.114,0.297,139.668,3.64,4

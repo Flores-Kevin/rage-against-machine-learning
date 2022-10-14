@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+1aL9518P5G72N92b48tuKw,AP Dhillon,Summer High,Pakistan,0.86,0.541,1,-6.51,0,0.0325,0.165,0.163,0.0663,0.952,114.984,2.96,4
+4VsP4Dm8gsibRxB5I2hEkw,Kaifi Khalil,Kahani Suno 2.0,Pakistan,0.577,0.379,11,-13.235,1,0.0374,0.909,0.000586,0.0986,0.26,139.585,2.89,3
+08Isz2ETWSBhvIl8UpKYsp,Shubh,No Love,Pakistan,0.768,0.487,4,-8.936,0,0.0431,0.24,0.0,0.175,0.722,137.034,2.84,4
+6qrifdo7QINdPQr80IelGi,"Rovalio, Abdul Hannan",Iraaday,Pakistan,0.737,0.458,6,-5.805,1,0.0317,0.601,6.98e-06,0.138,0.456,89.993,2.22,4
+42TMa2hgBNjte4uV7jNCnQ,"Shubh, Ikky",Baller,Pakistan,0.711,0.702,5,-10.048,1,0.233,0.00487,0.0163,0.0932,0.674,180.219,2.47,4
+4UMIv5jd9gK98a39BQRD9X,"Pritam, Arijit Singh, Amitabh Bhattacharya",Kesariya,Pakistan,0.577,0.574,0,-6.525,1,0.0278,0.572,0.0,0.1,0.436,94.009,4.47,4
+0OdztoASgKBBNcAgtErk0X,"Abdul Hannan, Rovalio",Bikhra,Pakistan,0.462,0.371,6,-11.604,0,0.0988,0.794,0.118,0.124,0.187,99.662,2.81,4
+2uThc9fZx2BEL3t6uuRMO1,"aleemrk, Umair",Cold Hours,Pakistan,0.737,0.613,1,-7.304,0,0.358,0.316,1.26e-06,0.343,0.493,170.14,3.44,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Pakistan,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+7lvDsmTRXFE3dK4OjvRiWB,"Shae Gill, Ali Sethi",Pasoori,Pakistan,0.714,0.596,11,-6.206,0,0.043,0.0657,0.0,0.0625,0.669,91.991,3.74,4
+1d5lpW3gUyq537iuyrb9Lf,Aditya Rikhari,Samjho Na,Pakistan,0.744,0.328,0,-12.535,1,0.231,0.681,0.0002,0.128,0.532,98.923,2.87,4
+29m79w9xPMH4YCD6r8JSmV,"AP Dhillon, Gurinder Gill, Intense",Excuses,Pakistan,0.837,0.717,5,-7.749,0,0.0822,0.0842,0.0,0.149,0.494,94.984,2.94,4
+6ZYxNjuAU9Vy3VtF6W1dtE,Shubh,We Rollin,Pakistan,0.82,0.504,4,-9.113,0,0.141,0.261,7e-06,0.104,0.275,85.016,3.32,4
+6PSGzXHJaQogb2G8m8gGZZ,"Yashraj, Dropped Out, Talwiinder",Dhundhala,Pakistan,0.648,0.45,5,-9.57,0,0.167,0.134,7.31e-05,0.137,0.472,99.932,3.04,4
+7e6mcPDj3sEZ5TQkZjn6Fy,Asim Azhar,Habibi,Pakistan,0.716,0.613,7,-7.421,1,0.272,0.627,0.000207,0.0981,0.56,99.955,3.13,4
+0yCWDaAgOtg6TKlNCg9rwA,King,Tu Aake Dekhle,Pakistan,0.77,0.84,11,-4.022,1,0.107,0.515,0.00452,0.145,0.192,96.012,4.5,4
+5W7DOVGQLTigu09afW7QMT,Sidhu Moose Wala,295,Pakistan,0.557,0.794,11,-5.698,0,0.2,0.179,0.0,0.106,0.432,91.366,4.5,4
+3nlAERKIpn3ffgGwYQs0EB,Mitraz,Akhiyaan,Pakistan,0.737,0.634,2,-9.573,1,0.0535,0.0645,0.745,0.0886,0.0574,100.01,3.2,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Pakistan,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+3UhmuWcFaLS3AO3kI9ynQ2,"AP Dhillon, Shinda Kahlon, Gurinder Gill, Gminxr",Insane,Pakistan,0.796,0.572,8,-7.03,0,0.0545,0.416,2.55e-05,0.0975,0.304,98.967,3.43,4
+4tkk65MyQNzYOQKgVbLCZ3,"Abdul Hannan, BAIG",Siyah,Pakistan,0.756,0.417,10,-6.776,1,0.0336,0.538,0.0255,0.0999,0.276,123.957,2.85,4
+3wz2vWhYnnBoFmgMkqtzLy,"Chani Nattan, Inderpal Moga",Daku,Pakistan,0.847,0.558,8,-5.855,0,0.0663,0.325,0.0,0.135,0.495,98.062,2.18,4
+5pcmtf1lwrMqmAWWm248fY,"AP Dhillon, Gurinder Gill",DESIRES,Pakistan,0.863,0.387,5,-10.057,0,0.256,0.365,0.00238,0.06,0.39,100.013,2.8,4
+6KtSNVgCmQEvDgIuHoXAkT,Azaan Sami Khan,Ik Lamha,Pakistan,0.581,0.578,5,-7.571,0,0.0524,0.671,0.0,0.106,0.335,140.0,4.31,4
+0zlGnseLGzRIBA0TJcb3Bo,"Yohani, Jubin Nautiyal, Tanishk Bagchi, Rashmi Virag, Surya Ragunaathan","Manike (From ""Thank God"")",Pakistan,0.551,0.578,1,-7.005,0,0.0732,0.522,0.0,0.073,0.509,106.772,3.29,4
+0NLkVxf0PyxsXBG3EuZcJf,Anuv Jain,Gul,Pakistan,0.6,0.294,6,-12.301,1,0.0292,0.871,8.66e-05,0.102,0.342,86.97,3.62,4
+2LCvypYL9a21Hln4A4EdWU,Abdul Hannan,Haaray,Pakistan,0.716,0.29,9,-12.098,1,0.0332,0.634,7.3e-05,0.0987,0.281,90.019,3.07,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Pakistan,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Pakistan,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+6DefzsWqnwrFrmNVnJxWkS,Asim Azhar,Jo Tu Na Mila,Pakistan,0.508,0.507,0,-5.33,0,0.0384,0.0636,1.15e-05,0.359,0.218,159.68,3.9,4
+2AilvPt1AQ8PixlCKqkjfj,Shubh,Elevated,Pakistan,0.828,0.533,6,-5.779,0,0.091,0.214,2.8e-05,0.307,0.605,93.021,3.34,4
+5ZCHWdMgsdoo78m9prkhOR,"Rap Demon, Talha Anjum, Umair",Agency,Pakistan,0.792,0.618,7,-8.139,1,0.0841,0.174,0.00128,0.186,0.288,105.997,4.53,4
+1yFryDjhXXIIaJA1dKqrab,"Hasan Raheem, Natasha Noorani, Talal Qureshi",Faltu Pyar,Pakistan,0.648,0.517,10,-6.813,0,0.119,0.42,0.0,0.0395,0.76,199.919,3.69,4
+6TClJ8jXi3OBV7gcrU3jx5,"AP Dhillon, Gurinder Gill",TERE TE,Pakistan,0.692,0.488,7,-10.96,0,0.135,0.0508,0.0,0.154,0.299,171.9,1.91,4
+043SPVu75TXbs94ZfM9dfn,"Kaushik-Guddu, Raghav Chaitanya, Kunaal Vermaa","Dil (From ""Ek Villain Returns"")",Pakistan,0.573,0.515,1,-7.227,0,0.0345,0.826,0.0,0.103,0.306,119.95,5.15,4
+6jjYDGxVJsWS0a5wlVF5vS,BTS,Butter,Pakistan,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,2.75,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Pakistan,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+58f4twRnbZOOVUhMUpplJ4,"AP Dhillon, Gminxr, Gurinder Gill, Shinda Kahlon",Brown Munde,Pakistan,0.854,0.611,8,-6.26,0,0.0864,0.223,0.0,0.119,0.417,100.024,4.24,4
+7B4uYqxTpTOS1sgxFB9Ann,Sidhu Moose Wala,The Last Ride,Pakistan,0.792,0.647,10,-5.447,0,0.334,0.0299,0.0,0.119,0.638,89.029,4.37,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Pakistan,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+5aucVLKiumD89mxVCB4zvS,"Crush, j-hope",Rush Hour (Feat. j-hope of BTS),Pakistan,0.738,0.714,0,-5.235,1,0.249,0.157,0.0,0.31,0.74,95.035,2.96,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Pakistan,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+3yBbbbZNbo4ymn99Y2zoCj,"Faisal Kapadia, Young Stunners",Phir Milenge,Pakistan,0.63,0.419,9,-12.159,0,0.249,0.387,2.93e-06,0.195,0.384,81.94,5.86,4
+5mnvugwfFYnJm9zuyGkgqF,"Asim Azhar, Zenab Fatimah Sultan","Ghalat Fehmi - From ""Superstar""",Pakistan,0.758,0.588,11,-7.777,0,0.091,0.608,9.3e-05,0.189,0.796,134.014,4.77,4
+2eTkxblLeqdTSsb2ivafDX,"Ankit Tiwari, Manoj Muntashir","Galliyan Returns (From ""Ek Villain Returns"")",Pakistan,0.43,0.612,10,-5.534,0,0.0392,0.432,2.29e-06,0.0955,0.241,85.959,5.83,4
+7MTUN4bpk7Im3Sxz9oCULf,"Kaifi Khalil, Eva B, Wahab Bugti",Kana Yaari,Pakistan,0.841,0.536,10,-6.866,0,0.118,0.103,0.0,0.185,0.582,96.013,3.78,4
+05sqcYfU2wMlKwPVJ0rotq,"Young Stunners, Talha Anjum, Talhah Yunus",Afsanay,Pakistan,0.816,0.456,9,-8.281,0,0.569,0.529,0.0,0.189,0.534,95.992,5.72,4
+6ePcfMCQ7uUKwAamUiVtXL,"Hasan Raheem, Justin Bibis, Talal Qureshi",Peechay Hutt,Pakistan,0.894,0.509,4,-9.59,0,0.0722,0.108,0.000193,0.124,0.589,114.012,3.76,4
+6cdiviyVL3tFYE1eDcmUzL,"Young Stunners, Talha Anjum, Talhah Yunus",Gumaan,Pakistan,0.716,0.542,11,-6.195,1,0.304,0.358,0.0,0.106,0.571,77.502,4.34,4
+1rDjwexewf4hrdZT7SRNsH,"Faridkot, Amar Jalal",Nasha (Equals Sessions),Pakistan,0.78,0.46,6,-7.516,1,0.0851,0.455,0.000141,0.061,0.788,124.007,4.79,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Pakistan,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+2FCXQHugkoHE1K3tiDu8pu,"Alka Yagnik, Arijit Singh","Agar Tum Saath Ho (From ""Tamasha"")",Pakistan,0.562,0.519,3,-8.744,1,0.0326,0.557,0.000268,0.172,0.415,122.925,5.68,4
+2PcGqmKToUz0s65q1Acg7d,"AP Dhillon, Shinda Kahlon, Gminxr",SPACESHIP,Pakistan,0.69,0.683,5,-7.186,0,0.0968,0.076,0.000113,0.134,0.549,160.088,2.07,4
+10SRMwb9EuVS1K9rYsBfHQ,BTS,Yet To Come,Pakistan,0.559,0.885,1,-4.515,1,0.189,0.0432,0.0,0.333,0.683,172.029,3.23,4
+60YICjIPdL7LDBcCMK0tAk,"Sidhu Moose Wala, Sunny Malton, The Kidd",Levels,Pakistan,0.592,0.728,2,-6.098,1,0.311,0.00148,0.0,0.379,0.577,113.17,3.81,5
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Pakistan,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+5urYiIXu1ZhfMAOsp7WDTc,"Yasser Desai, Neha Kakkar, Rajat Nagpal","Dil Ko Karaar Aaya (From ""Sukoon"")",Pakistan,0.55,0.448,11,-9.117,1,0.0366,0.777,0.000459,0.111,0.388,147.986,3.86,4
+0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),Pakistan,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,2.88,4
+5iCY0TXNImK4hyKfcplQsg,Anuv Jain,Baarishein,Pakistan,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,3.46,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Pakistan,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+1iZLpuGMr4tn1F5bZu32Kb,Harrdy Sandhu,Bijlee Bijlee,Pakistan,0.795,0.67,1,-5.313,0,0.143,0.269,0.0,0.0733,0.643,100.004,2.81,4
+0snQrp1VaY5Pj1YIHRJpRJ,Aditya A,Chaand Baaliyan,Pakistan,0.729,0.396,0,-8.98,1,0.0359,0.796,0.0,0.104,0.886,97.281,1.72,4
+72zHuDxFQTjbL51qJQSA7j,"Jasleen Royal, B Praak, Romy, Anvita Dutt","Ranjha (From ""Shershaah"")",Pakistan,0.603,0.573,1,-5.843,1,0.0502,0.478,0.0,0.0971,0.236,82.941,3.81,4
+3D0pmiK3zyF9PudyJ8mkor,"AP Dhillon, Amari",Ma Belle,Pakistan,0.908,0.314,0,-9.614,1,0.116,0.0424,4.15e-05,0.0727,0.244,97.011,2.68,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Pakistan,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Pakistan,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,0.454,116.959,3.9,3
+4faDlXyZMSxEuxBdd5gDIz,"AP Dhillon, Intense",Toxic,Pakistan,0.802,0.737,9,-4.306,1,0.0432,0.309,0.0,0.0815,0.577,116.955,3.07,4
+4Mh04VNolWA9g97ychP72l,Shubh,Offshore,Pakistan,0.801,0.346,5,-13.455,0,0.252,0.0468,0.00169,0.112,0.653,159.986,2.87,4
+5O2P9iiztwhomNh8xkR9lJ,One Direction,Night Changes,Pakistan,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,3.78,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Pakistan,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+6BvRzfqi3sMAoQYnRpMVL0,Anuv Jain,Mazaak,Pakistan,0.534,0.461,2,-11.292,1,0.0295,0.795,1.51e-06,0.114,0.244,145.972,3.53,4
+5QDLhrAOJJdNAmCTJ8xMyW,BTS,Dynamite,Pakistan,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,3.32,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Pakistan,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+4xIGWteeVsy3hM9fJZMwji,"Bir, Dhanju, thiarajxtt",Afterhours,Pakistan,0.772,0.702,11,-7.73,0,0.122,0.211,0.00114,0.129,0.471,89.995,2.34,4
+74kCarkFBzXYXNkkYJIsG0,Anuv Jain,Alag Aasmaan,Pakistan,0.699,0.299,6,-12.599,1,0.0403,0.869,0.0,0.0724,0.459,118.969,3.55,4
+6zAvNLJkdyRApUHnlJjKfO,Ali Zafar,Jhoom - R&B Mix,Pakistan,0.662,0.4,2,-11.2,1,0.0548,0.735,1.65e-05,0.0863,0.617,79.972,4.98,4
+0s76ExpXyMGVBlKLUr683e,Aditya Rikhari,Faasle,Pakistan,0.645,0.324,1,-13.621,0,0.0545,0.754,0.000727,0.103,0.493,162.037,3.7,3
+3JkVYvxNoGf2HCWJo61462,"Sidhu Moose Wala, Sunny Malton",Never Fold (feat. Sunny Malton),Pakistan,0.814,0.786,8,-5.178,0,0.232,0.069,0.0,0.0976,0.797,93.025,3.05,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Pakistan,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+7cWnks0lsRtpAi87COOiXK,"Salim–Sulaiman, Rahat Fateh Ali Khan, Jaideep Sahni",O Re Piya,Pakistan,0.586,0.532,11,-8.837,0,0.0328,0.779,0.000565,0.124,0.494,99.994,6.33,4
+7AW4g4I9fPfUIyqtbsuAkM,"AP Dhillon, Gurinder Gill, Gminxr",Droptop,Pakistan,0.899,0.479,2,-10.432,1,0.272,0.0126,0.0,0.142,0.309,85.005,2.35,4
+2rOnSn2piaqLAlYjtfUBlY,"Tanishk Bagchi, Jubin Nautiyal, Asees Kaur","Raataan Lambiyan (From ""Shershaah"")",Pakistan,0.72,0.63,10,-5.549,1,0.0413,0.615,0.0,0.108,0.512,81.009,3.84,4
+2sKGFDYcN7mJ4S7xQHjCBr,"Young Stunners, Talha Anjum, Talhah Yunus",Why Not Meri Jaan,Pakistan,0.795,0.524,8,-7.533,1,0.422,0.344,0.0,0.0713,0.753,185.991,2.81,4
+7k6QR9YHyW258yVN6FHO1T,"OAFF, Savera, Lothika, Kausar Munir",Doobey,Pakistan,0.751,0.669,3,-6.532,0,0.0359,0.342,1.31e-05,0.0822,0.359,119.014,3.66,4
+59hkyI30Y03Zei8ITME2mz,"Taha G, Maanu",Dou Pal,Pakistan,0.74,0.64,0,-9.931,1,0.0399,0.265,7.7e-05,0.125,0.376,118.019,2.9,4
+5gSVKG0R4xc8qtDIoyDNy8,"AP Dhillon, Gurinder Gill, Money Musik",Saada Pyaar,Pakistan,0.743,0.655,7,-5.228,0,0.0866,0.0391,0.0,0.118,0.164,91.004,3.56,4
+1XkMxUilV0E3ChDERZJUEq,"Balming Tiger, Omega Sapien, bj wnjn, Mudd the student, RM",SEXY NUKIM (feat. RM of BTS),Pakistan,0.747,0.71,1,-5.729,1,0.116,0.00219,0.214,0.371,0.426,93.995,3.83,4
+4mPZipDmUysKaLxZTDEVsx,"Hassan & Roshaan, Shae Gill",Sukoon,Pakistan,0.705,0.493,4,-7.12,1,0.0552,0.283,0.000688,0.125,0.794,149.957,4.26,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Pakistan,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+1W1dS4VnIrYnllQJ3CAcZy,Sidhu Moose Wala,So High,Pakistan,0.538,0.763,11,-6.346,0,0.205,0.0152,0.0,0.109,0.484,180.002,3.64,4
+32LKwbmh6yVsWoRRF8DIvf,Pav Dharia,Na Ja,Pakistan,0.772,0.649,2,-6.411,1,0.143,0.0724,0.0,0.0761,0.824,90.072,3.47,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Pakistan,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+3ZGJhN4unVspOqpwGvUL2W,Diljit Dosanjh,Lemonade,Pakistan,0.789,0.744,1,-7.245,1,0.0414,0.281,0.0,0.0763,0.783,143.998,2.78,4
+1smFN2CLqGROu0J0UyvDfL,"Pritam, Arijit Singh",Shayad,Pakistan,0.483,0.468,8,-7.642,1,0.0341,0.784,0.0,0.152,0.319,135.875,4.13,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Pakistan,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+2JgSxQenl3eRwewgBUWyKU,Taha G,Dil Kay Isharay,Pakistan,0.822,0.498,1,-7.294,1,0.033,0.33,0.0018,0.137,0.483,114.019,3.14,4
+4PwTeFfKqmR3XIeXXUBDOf,"Sachet-Parampara, Sachet Tandon","Maiyya Mainu (From ""Jersey"")",Pakistan,0.63,0.739,0,-3.942,1,0.0248,0.194,0.0,0.113,0.224,109.985,3.86,4
+2qxmye6gAegTMjLKEBoR3d,Alec Benjamin,Let Me Down Slowly,Pakistan,0.652,0.557,1,-5.714,0,0.0318,0.74,0.0,0.124,0.483,150.073,2.82,4
+3TB0OtQMzrPoNcmXfUMVzC,"Shamoon Ismail, Hasan Raheem",Faasla,Pakistan,0.739,0.39,11,-12.118,0,0.0918,0.0475,0.132,0.0732,0.285,91.961,3.33,4
+4iFPsNzNV7V9KJgcOX7TEO,"Atif Aslam, Pritam",Tu Jaane Na,Pakistan,0.702,0.86,7,-3.969,1,0.0345,0.361,1.33e-06,0.133,0.829,120.042,5.7,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Pakistan,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Pakistan,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+69xohKu8C1fsflYAiSNbwM,BTS,Run BTS,Pakistan,0.724,0.818,8,-3.747,1,0.168,0.0201,0.0,0.0358,0.696,77.004,3.42,4
+2weDNfUaaHIy5ck06qCJ54,"Asim Azhar, Arshman Naeem",Jo Tu Na Mila x Habibi (Mashup),Pakistan,0.553,0.451,6,-7.781,1,0.0399,0.639,2.87e-06,0.399,0.36,79.988,3.16,4
+4FcknXDJ8yW2QYUl0cm6uJ,Imran Khan,Bewafa,Pakistan,0.704,0.563,4,-4.739,0,0.0297,0.594,0.0,0.133,0.0739,94.037,3.75,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Pakistan,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+2J2Z1SkXYghSajLibnQHOa,Sia,Unstoppable,Pakistan,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,0.26,173.799,3.63,4
+2tjWCe2W7sgvS3C8NHcdtI,"Akhil, Dhvani Bhanushali, Abhijit Vaghani, Bob","Duniyaa (From ""Luka Chuppi"")",Pakistan,0.435,0.658,7,-5.949,0,0.0368,0.699,0.0,0.125,0.524,77.17,3.71,4
+0dLbrlAVPPjpPqnYfmJsWk,"Atif Aslam, Alisha Chinai, Pritam",Tera Hone Laga Hoon,Pakistan,0.684,0.771,8,-5.353,1,0.0307,0.548,0.0,0.112,0.539,119.982,5.0,4
+2Xr1dTzJee307rmrkt8c0g,CKay,love nwantiti (ah ah ah),Pakistan,0.727,0.739,8,-3.805,1,0.0411,0.365,0.00137,0.161,0.533,93.005,2.43,4
+0mAswKg3RCbmXAV4KYTUxM,"Hasan Raheem, Abdullah Kasumbi",Aisay Kaisay,Pakistan,0.577,0.428,0,-9.066,1,0.0302,0.467,2.61e-05,0.272,0.401,104.938,3.31,4
+4Tkb7zsDmsawB7S5TpKQV1,"Atif Aslam, Shiraz Uppal",Pehli Dafa,Pakistan,0.679,0.537,4,-7.843,1,0.0322,0.844,3.34e-06,0.108,0.481,111.979,4.98,4
+2xRtXbFAmk3cW6xE1zF7ye,"Naseebo Lal, Abida Parveen",Tu Jhoom,Pakistan,0.42,0.481,7,-8.949,1,0.0395,0.255,0.000414,0.0909,0.0594,84.794,6.63,4
+78nvT4euebtCsEigaNt4aa,KSI,Summer Is Over,Pakistan,0.349,0.745,0,-5.234,1,0.0454,0.422,1.18e-05,0.34,0.146,95.98,3.14,4
+4Tol72m7hzEseRnsDc3SWw,"Young Stunners, Talha Anjum, Talhah Yunus, Rap Demon",Dont Mind,Pakistan,0.646,0.615,7,-6.719,1,0.268,0.0685,0.0,0.103,0.444,99.235,3.24,4
+4e8CdhpvvQqn11xYdAcpXP,"Talwiinder, Vision",Nasha,Pakistan,0.579,0.346,4,-12.453,0,0.0502,0.602,0.000856,0.105,0.13,111.071,3.16,4
+0ZHILXmUaVSLEOCWxPQ1ga,"Tanishk Bagchi, Yasser Desai, Asees Kaur",Makhna,Pakistan,0.696,0.704,1,-7.876,1,0.0423,0.167,0.0,0.155,0.426,124.972,3.05,4
+0T9F7LqksEkxsDyHfqACv8,Abdul Hannan,Faaslay,Pakistan,0.545,0.313,6,-10.947,1,0.0295,0.334,0.0122,0.114,0.123,79.965,3.39,5
+3Vmo13MxVRKBszmfK61ONH,"Karan Aujla, YG",Gangsta,Pakistan,0.791,0.687,1,-6.279,1,0.104,0.00665,2.12e-06,0.0986,0.513,130.154,3.17,4
+4BoFJMLSO3ZoD48KgnslSe,Yashal Shahid,Mere Humsafar (Original Score) [Female Version],Pakistan,0.442,0.444,4,-9.804,1,0.042,0.744,0.0,0.0671,0.386,143.691,5.85,3
+3yV2c3cYhkAwSsxAq6nRiv,Gajendra Verma,"Mann Mera (From ""Table No. 21"")",Pakistan,0.535,0.765,1,-7.862,0,0.0444,0.054,0.0,0.0921,0.373,191.827,3.34,4
+455lcFHS2MOMKcGquhAf22,"Ankit Tiwari, Tara Sutaria","Shaamat (From ""Ek Villain Returns"")",Pakistan,0.537,0.628,10,-5.342,0,0.029,0.148,0.0,0.0355,0.514,97.87,5.57,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Pakistan,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+5O932cZmzOZGOGZz9RHx20,"Pritam, Arijit Singh",Khairiyat,Pakistan,0.534,0.481,0,-9.016,0,0.0412,0.697,0.0,0.142,0.293,124.914,4.67,4
+2Fv2injs4qAm8mJBGaxVKU,"Arijit Singh, Mithoon","Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Pakistan,0.427,0.396,11,-7.556,1,0.0366,0.736,0.0,0.11,0.306,70.368,4.75,4
+3fwyItGexa88kR8j76dIqv,Pratsofficial,Aziyat 2.0 - Reprise Version,Pakistan,0.445,0.28,10,-12.668,1,0.0275,0.819,1.29e-05,0.111,0.299,104.743,3.24,4
+2QWEMqQMJR1KDf6hDjJOs6,j-hope,Arson,Pakistan,0.938,0.798,1,-3.998,1,0.103,0.00813,7.03e-05,0.146,0.265,99.992,2.66,4
+4roFMBSQp7W4fYVxKMmhA5,Mitraz,Junoon,Pakistan,0.607,0.593,4,-7.982,0,0.0378,0.2,0.0,0.0833,0.211,107.988,3.19,4
+1ZiReD9pPTttQWwSoYqdyH,Dikshant,Aankhon Se Batana,Pakistan,0.544,0.307,10,-11.361,1,0.0334,0.791,0.0,0.11,0.335,177.808,3.69,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Pakistan,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+43YkTTlOD203o9E5ZxhUjF,Arijit Singh,"Main Dhoondne Ko Zamaane Mein (From ""Heartless"")",Pakistan,0.329,0.45,2,-6.312,0,0.0405,0.594,0.0,0.13,0.284,80.095,4.38,4
+7jdHemolm8HmaireObpqXt,"Asim Azhar, Talhah Yunus, Talha Anjum",Yaad,Pakistan,0.742,0.491,9,-8.009,0,0.226,0.108,0.0,0.121,0.321,148.182,4.51,4
+3CLlelB1UWvrGYCyvdAA4B,"Karakoram, Faris Shafi, Talha Anjum",Ye Dunya,Pakistan,0.535,0.665,9,-7.67,0,0.0629,0.101,0.0,0.367,0.322,75.033,5.21,4
+7GARzfC1mwhDuk4t9WOACq,j-hope,MORE,Pakistan,0.783,0.722,2,-4.864,1,0.0357,0.00537,0.00209,0.105,0.306,97.031,3.0,4
+1m5KaAuRcBwvlSgHo8vJap,"Annural Khalid, Farasat Anees",Trust Issues,Pakistan,0.608,0.318,11,-10.0,0,0.0418,0.612,9.22e-06,0.117,0.397,140.036,2.46,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Pakistan,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+75Ak0cit8hV604Wjlq1gf2,Imran Khan,Aaja We Mahiya,Pakistan,0.639,0.594,10,-6.497,1,0.0347,0.131,0.0,0.119,0.378,80.034,3.87,4
+18twglRl0wFIIMtFOy2CHs,"Hasan Raheem, Abdullah Kasumbi",Joona,Pakistan,0.733,0.627,6,-8.707,0,0.073,0.444,0.0,0.211,0.894,109.007,3.16,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Pakistan,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Pakistan,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+0loZn1c5heXie7OAtvK6nH,"Jubin Nautiyal, Rocky - Shiv",Humnava Mere,Pakistan,0.401,0.553,5,-8.263,0,0.0337,0.47,2.96e-06,0.124,0.364,79.144,5.48,4
+1skGwRjc7wYY70PJCAkKMr,"Sidhu Moose Wala, AR Paisley",Love Sick (feat. AR Paisley),Pakistan,0.824,0.543,4,-8.667,0,0.209,0.101,0.0,0.178,0.548,124.018,3.87,4
+7eQl3Yqv35ioqUfveKHitE,"Pritam, Mohit Chauhan",Tum Se Hi,Pakistan,0.609,0.538,6,-7.842,1,0.0273,0.328,0.0,0.125,0.608,130.015,5.35,4
+3T0oPETOdddxJ2xTt2qJe4,"Arjun Kanungo, Momina Mustehsan",Aaya Na Tu,Pakistan,0.665,0.539,11,-7.213,0,0.0474,0.825,5.85e-06,0.121,0.368,110.101,3.5,4
+4qVStkAhz8A61r7bfLqPvM,"Atif Aslam, Jyotica Tangri",O'Meri Laila,Pakistan,0.577,0.812,8,-4.801,1,0.0535,0.158,0.0,0.25,0.758,160.1,4.7,3
+6712goAF36pcQ2k51UwbIe,"Young Stunners, Talha Anjum, Talhah Yunus",Why,Pakistan,0.841,0.459,7,-6.824,1,0.152,0.0396,3.25e-05,0.0979,0.544,146.951,4.35,4
+4RFJxn4303SGvL3A5AlaJO,"aleemrk, Umair",No Need,Pakistan,0.772,0.467,2,-10.503,0,0.155,0.64,0.000684,0.131,0.644,123.987,2.58,4
+2oi55VmillH7At5wHVNFbE,"Asfar Hussain, Arooj Aftab",Mehram,Pakistan,0.366,0.12,1,-15.475,1,0.0344,0.895,0.00191,0.113,0.0637,129.95,5.65,4
+0fFRf7HYEIz1cGszXONTAy,"Talha Anjum, Umair",Pain Killers,Pakistan,0.609,0.337,11,-15.081,0,0.331,0.825,0.889,0.143,0.284,120.3,4.33,4
+1y1rQTkWmrZdJmjwuK07GC,Vishal Mishra,"Kaise Hua (From ""Kabir Singh"")",Pakistan,0.385,0.464,2,-6.975,1,0.0404,0.452,0.0,0.109,0.15,137.839,3.91,4
+0cJTjTH3XVTTJh8F4Uq1db,Dream Note,Waqt Ki Baatein,Pakistan,0.556,0.202,4,-16.397,1,0.0324,0.915,0.0381,0.112,0.2,145.017,4.06,3
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Pakistan,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+6NEEbZXla00cRzXErdNZ6k,"Abdullah Siddiqui, Atif Aslam",GO,Pakistan,0.631,0.587,7,-7.813,1,0.0421,0.319,0.0,0.0692,0.373,81.989,5.8,4
+1zi7xx7UVEFkmKfv06H8x0,"Drake, Wizkid, Kyla",One Dance,Pakistan,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.0018,0.329,0.37,103.967,2.9,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Pakistan,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+1w3exvIgbRFV2ijf6qyWm8,Sidhu Moose Wala,Everybody Hurts,Pakistan,0.738,0.599,8,-7.102,1,0.0393,0.434,0.0,0.13,0.575,120.052,2.89,5
+4ncTUgTfUV3wrjTPzKvn01,BTS,Yet To Come (Hyundai Ver.),Pakistan,0.508,0.842,1,-3.992,1,0.0612,0.078,0.0,0.0858,0.44,86.041,3.73,4
+62NkzAFZKNOe6arO1lSFm0,Faris Shafi,Introduction,Pakistan,0.741,0.755,6,-9.016,0,0.206,0.721,0.0,0.108,0.775,166.094,1.93,4
+0TzvYA85b1yc7cQYPV6ydI,Danny Zee,Udh Chaliye,Pakistan,0.806,0.387,5,-9.13,1,0.0451,0.472,0.0,0.173,0.498,124.957,3.75,4
+0DXfJ2iKRDEG7rPgssWFea,"Kanishk Seth, Kavita Seth","Rangisari (From ""Jugjugg Jeeyo"")",Pakistan,0.524,0.758,10,-9.28,1,0.0538,0.27,0.13,0.106,0.319,140.012,3.72,4
+6vo7Y1iWyZvpjvFbf6BiZ5,"Pritam, Arijit Singh",Kalank (Title Track),Pakistan,0.57,0.55,10,-8.343,1,0.035,0.524,3.73e-05,0.0921,0.435,117.999,5.19,4
+7cVe3mYMIfhOlz1NXFWv70,Sidhu Moose Wala,0 to 100,Pakistan,0.742,0.675,8,-6.551,1,0.0907,0.139,0.0,0.167,0.679,145.989,1.81,4
+2zQE8TE5BQDJA11ggnope9,"Sidhu Moose Wala, Bohemia",These Days (feat. Bohemia),Pakistan,0.73,0.748,6,-4.371,0,0.152,0.0936,0.0,0.282,0.694,155.861,3.49,4
+2FZDNh6tm9mkZ9vTphuAh8,"Pritam, Tanishk Bagchi, Neeraj Shridhar",Bhool Bhulaiyaa 2 Title Track,Pakistan,0.857,0.893,0,-2.87,0,0.0422,0.0663,0.0,0.0335,0.845,108.022,3.53,4
+3mZLiEDAHIjZ8ms5Lxq33F,Diljit Dosanjh,Peaches,Pakistan,0.663,0.478,4,-7.265,0,0.185,0.095,0.0,0.0705,0.341,85.264,3.15,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Pakistan,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+0l1i3nJ4aDMk0inxnvzYTz,Imran Khan,Amplifier,Pakistan,0.727,0.714,2,-4.494,1,0.0872,0.0209,0.0,0.153,0.618,164.003,3.88,4
+7oN0Wo7sCVvXPdpxoio3JM,Madhur Sharma,Kali Kali Zulfon Ke (Lo-Fi),Pakistan,0.464,0.491,7,-7.039,1,0.0392,0.837,1.39e-06,0.111,0.106,76.739,1.29,3
+7CVZJA2KH8Y5RIxx0evQ6u,Sad Pilot,take me in your arms - Arabic Song Remix,Pakistan,0.452,0.332,7,-11.598,0,0.0428,0.645,0.861,0.0921,0.163,82.653,1.82,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Pakistan,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+5TnlSZbrojgc8wczZGB7uN,"Talwiinder, Vylom",Tera Saath,Pakistan,0.419,0.472,7,-8.452,1,0.319,0.559,0.0,0.108,0.346,170.265,3.58,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Pakistan,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+2rU33n6Fhd6G1MzYhUj6C5,"Jubin Nautiyal, Emraan Hashmi",Lut Gaye,Pakistan,0.638,0.785,10,-2.612,1,0.044,0.185,0.0,0.245,0.515,91.101,3.8,4
+3e7sxremeOE3wTySiOhGiP,"ZAYN, Sia",Dusk Till Dawn (feat. Sia) - Radio Edit,Pakistan,0.259,0.437,11,-6.589,0,0.0386,0.102,1.32e-06,0.106,0.0951,180.042,3.98,4
+0GD8UKZxIfKGMLrmrmatZm,aleemrk,Life Goes On,Pakistan,0.711,0.511,6,-12.887,0,0.264,0.779,0.0,0.111,0.358,95.126,3.63,4
+2PvaburAUlhNHxVhw5lvOq,Arijit Singh,"Humdard (From ""Ek Villain"")",Pakistan,0.575,0.541,5,-6.45,1,0.0237,0.759,0.0,0.111,0.27,87.022,4.34,4
+72H6G8v9xyuwdRBaTkoT5G,"Gurinder Gill, Shinda Kahlon, AP Dhillon",Faraar,Pakistan,0.899,0.529,7,-8.686,0,0.218,0.293,3.3e-05,0.0914,0.271,89.864,2.17,4
+7eNSk0grNnO7MqjLZzs6MM,"Mithoon, Arijit Singh, Neeti Mohan, Karan Malhotra",Fitoor,Pakistan,0.516,0.481,0,-9.234,1,0.0433,0.819,2.87e-06,0.0893,0.212,138.997,5.14,4
+5Y3OxkwWPuFZc5rRoJE45A,"Shamoon Ismail, Annural Khalid",Promises,Pakistan,0.666,0.35,2,-10.65,1,0.0389,0.204,0.00437,0.238,0.272,149.873,3.26,4
+2jt9VV6QGn0tbwkrr26OO6,"AP Dhillon, Shinda Kahlon, Gminxr",Arrogant,Pakistan,0.751,0.739,1,-6.977,0,0.045,0.2,0.0,0.0926,0.405,95.003,1.71,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Pakistan,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+7jMjMcyt3qxEkbC0s8LJQf,"Izzchughtai, Abdul Hannan",Ghuroor,Pakistan,0.392,0.331,7,-13.0,1,0.128,0.737,2.23e-06,0.0929,0.26,74.824,3.31,4
+65c6VCikt7f5sAS1heoYQC,"Bohemia, Sidhu Moose Wala",Same Beef,Pakistan,0.779,0.854,9,-4.958,1,0.219,0.0462,0.0,0.21,0.379,91.992,4.84,4
+3tDoe3YGIltxR9zv5AkWqi,"Meesha Shafi, Faris Shafi",Muaziz Saarif,Pakistan,0.723,0.653,3,-9.814,0,0.0866,0.0267,1.1e-06,0.147,0.498,131.962,4.69,4
+3APdIdF8H0jsxSuGOqXedS,Rashid Ali,Kabhi Kabhi Aditi,Pakistan,0.791,0.558,7,-7.155,0,0.0661,0.276,0.0,0.0859,0.872,95.077,3.65,4
+6XPmY4hIb1RGRyNuq0UBsl,The PropheC,Kina Chir,Pakistan,0.622,0.431,11,-8.26,0,0.0293,0.0955,0.0,0.088,0.365,117.919,3.6,4
+4TNzipbkHuhp5DtHcZ9osE,"Atif Aslam, Momina Mustehsan",Sajan Das Na,Pakistan,0.67,0.68,8,-6.849,0,0.0372,0.229,4.24e-06,0.067,0.422,139.965,3.94,4
+5pBRSczAiFZEtrIwH1LqAo,Hasan Raheem,Aarzu,Pakistan,0.911,0.383,7,-6.733,0,0.0737,0.34,2.41e-06,0.0993,0.259,114.999,2.81,4
+6G699QfN1BWYWXfiblH51F,"Tanishk Bagchi, Zahrah S Khan, Dev Negi","Kusu Kusu (From ""Satyameva Jayate 2"")",Pakistan,0.742,0.911,8,-2.812,1,0.0572,0.0137,0.00081,0.0593,0.78,101.0,3.26,4
+4bD9z9qa4qg9BhryvYWB7c,"Pritam, Tochi Raina, Rekha Bhardwaj",Kabira,Pakistan,0.59,0.555,2,-6.861,1,0.0271,0.481,0.0,0.192,0.191,84.027,3.72,4
+68AyTcvyK46hpzwohHUkJI,Harnoor,Waalian,Pakistan,0.617,0.392,1,-9.295,1,0.193,0.381,0.0,0.1,0.313,84.499,3.64,4
+1GwcxZZvnshqiDqeD7EP8D,"Umair, Talha Anjum",No Other Place,Pakistan,0.864,0.495,6,-8.719,1,0.289,0.191,0.000769,0.112,0.643,85.503,3.18,4
+7bu8qrmyzKhsJKvpeUL4KY,"Jokhay, aleemrk, Talhah Yunus",Kab Tak,Pakistan,0.741,0.762,2,-6.261,0,0.364,0.105,0.0,0.103,0.374,169.813,5.53,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Pakistan,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+0QzuaeCEEOV40Pn7IvKEny,dhruv,double take,Pakistan,0.656,0.436,8,-11.141,1,0.0744,0.845,0.0,0.221,0.196,109.239,2.86,4
+2vR23BjIzpLMtzsyKrM6Mb,"Kailash Kher, Paresh Kamath, Naresh Kamath",Saiyyan,Pakistan,0.473,0.562,0,-8.624,1,0.0451,0.65,0.000117,0.12,0.316,74.653,5.73,3
+1OldtKIXBu5lzLtW37UkqR,Omar Mukhtar,Jia,Pakistan,0.576,0.336,2,-10.659,1,0.0254,0.847,0.0,0.127,0.357,98.007,4.08,4
+1Ef0TmgS1QrVO6tKHrMMmH,"Vishal-Shekhar, Arijit Singh, Shilpa Rao, Kumaar","Ghungroo (From ""War"")",Pakistan,0.695,0.729,6,-6.274,0,0.0322,0.0738,0.000182,0.533,0.872,118.028,5.05,4
+2ZRo7axmMPeSVUvDbGkJah,XXXTENTACION,Hope,Pakistan,0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,1.85,4
+48QmG1dfvMuYLxMPt7KSRA,"Sean Paul, Dua Lipa",No Lie,Pakistan,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,3.69,4

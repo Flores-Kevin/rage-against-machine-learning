@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),United Kingdom,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),United Kingdom,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,United Kingdom,0.669,0.742,1,-3.518,0,0.0441,0.296,0.0,0.355,0.716,101.982,3.39,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,United Kingdom,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,United Kingdom,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,United Kingdom,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,United Kingdom,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,United Kingdom,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,United Kingdom,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,United Kingdom,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+40SBS57su9xLiE1WqkXOVr,LF SYSTEM,Afraid To Feel,United Kingdom,0.578,0.912,1,-3.929,1,0.114,0.0166,0.00362,0.273,0.68,127.87,2.96,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,United Kingdom,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+1LIvdWNdKmHvU0FJvw2diN,"Luude, Mattafix",Big City Life,United Kingdom,0.615,0.902,3,-4.316,1,0.0859,0.0176,3.91e-05,0.103,0.298,87.03,2.45,4
+5YbPxJwPfrj7uswNwoF1pJ,Burna Boy,Last Last,United Kingdom,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,2.87,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,United Kingdom,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+1eprzC29mwUQqcVj0eILdx,"Anne-Marie, Aitch",PSYCHO,United Kingdom,0.62,0.681,9,-4.915,1,0.356,0.0138,0.0,0.0248,0.741,160.743,2.71,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,United Kingdom,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,United Kingdom,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,United Kingdom,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+3PXmiB8Htr95ccAdKyIsyR,"KSI, Tom Grennan",Not Over Yet (feat. Tom Grennan),United Kingdom,0.501,0.775,9,-2.993,1,0.052,0.542,0.0,0.394,0.557,174.009,2.59,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,United Kingdom,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,United Kingdom,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,United Kingdom,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,United Kingdom,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,United Kingdom,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,United Kingdom,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+13Irp51zj01BZu2XtDrnAg,Lizzo,2 Be Loved (Am I Ready),United Kingdom,0.721,0.769,7,-4.111,1,0.105,0.0922,0.0,0.0817,0.915,155.932,3.12,4
+5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,BREAK MY SOUL,United Kingdom,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,4.64,4
+59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),United Kingdom,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,3.16,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,United Kingdom,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,United Kingdom,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+003vvx7Niy0yvhvHt4a68B,The Killers,Mr. Brightside,United Kingdom,0.352,0.911,1,-5.23,1,0.0747,0.00121,0.0,0.0995,0.236,148.033,3.72,4
+11jRCxY01k9jvCdUru0EeP,Arctic Monkeys,Body Paint,United Kingdom,0.56,0.313,7,-11.653,0,0.0627,0.567,0.0,0.0767,0.254,144.745,4.84,4
+6Iqz3QB6zSdn1N61acinau,"Aitch, Ed Sheeran",My G (feat. Ed Sheeran),United Kingdom,0.786,0.572,0,-7.362,1,0.164,0.62,0.0,0.241,0.537,100.121,3.3,4
+4N5s8lPTsjI9EGP7K4SXzB,George Ezra,Green Green Grass,United Kingdom,0.685,0.738,8,-4.413,1,0.0595,0.0695,0.0,0.128,0.8,112.972,2.79,4
+2WigMwGJysIh9fRnSJvpjn,Oxlade,KU LO SA - A COLORS SHOW,United Kingdom,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9,2.46,4
+1WCEAGGRD066z2Q89ObXTq,"David Guetta, Becky Hill, Ella Henderson",Crazy What Love Can Do,United Kingdom,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,2.83,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,United Kingdom,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+531KGXtBroSrOX9LVmiIgc,Dave,Starlight,United Kingdom,0.954,0.367,4,-9.551,0,0.288,0.341,5.48e-06,0.0979,0.372,124.026,3.53,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,United Kingdom,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+3y8xPhq9Ho1hCEMIE9DvZe,Stormzy,Mel Made Me Do It,United Kingdom,0.725,0.677,1,-6.609,1,0.348,0.224,0.0,0.334,0.687,100.043,7.35,4
+3sNVsP50132BTNlImLx70i,Kanye West,Bound 2,United Kingdom,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913,3.82,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,United Kingdom,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",United Kingdom,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,United Kingdom,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,United Kingdom,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,2.89,4
+3gw91o4at6nDzewF9Hxzs7,Bru-C,No Excuses,United Kingdom,0.678,0.732,4,-5.696,0,0.0465,0.105,1.56e-05,0.306,0.337,87.495,3.71,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,United Kingdom,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+7e8utCy2JlSB8dRHKi49xM,Arctic Monkeys,Fluorescent Adolescent,United Kingdom,0.646,0.813,6,-5.29,0,0.0288,0.00178,2.26e-05,0.144,0.821,112.115,2.89,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),United Kingdom,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+58VQMrt5md1pozhyeM3MeG,D-Block Europe,She's Not Anyone,United Kingdom,0.687,0.519,7,-9.376,0,0.353,0.393,0.0,0.107,0.604,101.648,3.29,4
+78nvT4euebtCsEigaNt4aa,KSI,Summer Is Over,United Kingdom,0.349,0.745,0,-5.234,1,0.0454,0.422,1.18e-05,0.34,0.146,95.98,3.14,4
+7u3w4fQhulC1etJbdfmv3Q,"Tion Wayne, La Roux",IFTK,United Kingdom,0.614,0.82,6,-4.32,0,0.226,0.0781,8.18e-05,0.618,0.739,146.235,3.18,4
+5rF6YUIlgiat22OT1lWspJ,Sam Fender,Seventeen Going Under,United Kingdom,0.48,0.87,1,-4.792,1,0.0362,0.00438,0.00603,0.0826,0.584,161.953,4.97,4
+5RobAV5ROH5KARimi7n3cO,"venbee, goddard.",messy in heaven,United Kingdom,0.62,0.837,8,-4.356,0,0.13,0.128,0.000242,0.242,0.433,172.081,2.84,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,United Kingdom,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+4OmfWzukSVD140NiAIEjem,Steve Lacy,Static,United Kingdom,0.335,0.305,1,-12.661,1,0.0741,0.434,0.631,0.101,0.215,79.001,2.61,5
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,United Kingdom,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,United Kingdom,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),United Kingdom,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,United Kingdom,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+3pBpX15YF0hdlRz2ddfSh2,"Fred again.., Swedish House Mafia, Future",Turn On The Lights again.. (feat. Future),United Kingdom,0.683,0.887,6,-4.944,0,0.0497,0.0125,0.446,0.318,0.551,132.007,4.47,4
+0JzG1wJuB4v9UPkSE7LMXi,Montell Fish,Hotel,United Kingdom,0.228,0.427,0,-8.739,0,0.0363,0.752,0.0167,0.592,0.192,180.345,3.29,4
+78UihSJn90VSGBBES12kFL,D-Block Europe,4 The Win,United Kingdom,0.76,0.627,5,-6.81,0,0.333,0.091,0.0,0.102,0.371,143.982,3.45,4
+1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,United Kingdom,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4.04,4
+0HaRLPnr887lcQM2YQzkff,"Burna Boy, Ed Sheeran",For My Hand (feat. Ed Sheeran),United Kingdom,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,2.65,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),United Kingdom,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,United Kingdom,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4
+3z4CGd63tpUn9a6oQSG0CI,"Dave, Burna Boy",Location (feat. Burna Boy),United Kingdom,0.812,0.496,9,-5.969,0,0.297,0.271,0.0,0.0955,0.55,109.979,4.02,4
+29tzJGvqJPTAFs6LXmsHoA,Arctic Monkeys,R U Mine?,United Kingdom,0.288,0.758,6,-5.692,0,0.0371,0.00616,0.0,0.303,0.619,97.094,3.36,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),United Kingdom,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,United Kingdom,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+2zzLRQ78kKfPTx8FJQCdC2,Arctic Monkeys,When The Sun Goes Down,United Kingdom,0.348,0.875,11,-4.758,0,0.199,0.0341,0.0,0.117,0.407,169.152,3.37,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),United Kingdom,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,United Kingdom,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+0yowbJnnbTLpr99f9l1uba,Arctic Monkeys,There’d Better Be A Mirrorball,United Kingdom,0.513,0.369,3,-10.899,1,0.0307,0.634,0.0139,0.186,0.311,72.062,4.43,4
+4RvWPyQ5RL0ao9LPZeSouE,Tears For Fears,Everybody Wants To Rule The World,United Kingdom,0.645,0.795,7,-12.095,1,0.0527,0.347,0.00389,0.104,0.535,112.067,4.19,4
+7DVNEcKN7bE50N6xQ74mh2,Arctic Monkeys,Snap Out Of It,United Kingdom,0.728,0.638,5,-6.455,0,0.0336,0.249,0.0,0.116,0.872,130.014,3.22,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),United Kingdom,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),United Kingdom,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+5gpyyqA9WZyWu24ESUzrkk,Central Cee,LA Leakers Freestyle,United Kingdom,0.797,0.832,6,-6.084,0,0.226,0.0248,5e-06,0.593,0.906,142.001,2.97,4
+1RF02Cf80mTaeNXG2P2boR,"Nathan Dawe, Ella Henderson",21 Reasons (feat. Ella Henderson),United Kingdom,0.621,0.785,6,-4.499,1,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,2.59,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,United Kingdom,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+4qtdkdTY1t3RmlmSbWykzR,"Sigala, Talia Mar",Stay the Night,United Kingdom,0.636,0.936,7,-2.65,0,0.0729,0.177,0.0,0.0879,0.415,124.034,2.87,4
+7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,United Kingdom,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,3.4,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,United Kingdom,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,Don’t Blame Me,United Kingdom,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917,3.94,4
+3GZD6HmiNUhxXYf8Gch723,Frank Ocean,Lost,United Kingdom,0.913,0.603,8,-4.892,1,0.226,0.0272,0.000503,0.167,0.497,123.061,3.9,4
+0wHFktze2PHC5jDt3B17DC,Jack Harlow,First Class,United Kingdom,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2.9,4
+6Qyc6fS4DsZjB2mRW9DsQs,The Goo Goo Dolls,Iris,United Kingdom,0.315,0.715,11,-8.072,0,0.0362,0.00125,7.97e-06,0.0942,0.497,155.925,4.83,3
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,United Kingdom,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,United Kingdom,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,United Kingdom,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,United Kingdom,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,good 4 u,United Kingdom,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,2.97,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,United Kingdom,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+7z84Fwf1R3Z2BwHCP620CI,Paramore,This Is Why,United Kingdom,0.723,0.737,11,-7.566,0,0.0386,0.00435,0.00261,0.116,0.689,123.039,3.46,4
+5qqabIl2vWzo9ApSC317sa,Oasis,Wonderwall - Remastered,United Kingdom,0.378,0.896,2,-4.066,1,0.0407,0.000452,0.0,0.194,0.469,174.302,4.31,4
+3DQVgcqaP3iSMbaKsd57l5,Arctic Monkeys,I Bet You Look Good On The Dancefloor,United Kingdom,0.535,0.948,6,-4.19,0,0.0356,0.00225,0.0,0.376,0.778,103.183,2.89,4
+5IfHQilcjciOxJQBFCNCCN,"Joel Corry, Becky Hill",HISTORY,United Kingdom,0.674,0.86,8,-3.318,1,0.0369,0.155,3.21e-06,0.359,0.771,122.975,2.94,4
+6clzeGvi1CFioMOolbAOlX,"Calvin Harris, Justin Timberlake, Halsey, Pharrell Williams","Stay With Me (with Justin Timberlake, Halsey & Pharrell)",United Kingdom,0.81,0.733,9,-6.338,1,0.0444,0.276,6.73e-06,0.288,0.9,125.975,3.82,4
+2K3Xp4H1Er79eEjhDcXjWX,"D-Block Europe, Ghost Killer Track",Elegant & Gang,United Kingdom,0.7,0.461,9,-12.973,1,0.339,0.627,0.0,0.0929,0.454,100.0,3.42,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,United Kingdom,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+337kcYVjYXdLBItCw9ry3b,"D-Block Europe, Central Cee",Overseas,United Kingdom,0.838,0.623,8,-7.524,0,0.354,0.532,0.0,0.307,0.811,135.935,3.7,4
+0UvCh63URrLFcPkKt99hHd,Oasis,Don't Look Back In Anger - Remastered,United Kingdom,0.327,0.938,0,-3.237,1,0.0645,0.0708,3.79e-06,0.148,0.326,162.937,4.83,4
+46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,United Kingdom,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,3.74,4
+7MIhUdNJtaOnDmC5nBC1fb,"Alok, Ella Eyre, Kenny Dope, Never Dull",Deep Down (feat. Never Dull),United Kingdom,0.687,0.818,0,-4.221,1,0.0778,0.0112,0.0,0.248,0.886,125.952,2.76,4
+45bfH0GZvUyujIBiKRhXso,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All),United Kingdom,0.756,0.962,0,-7.526,1,0.0583,0.0671,0.703,0.194,0.749,136.981,5.97,4
+7JWYtvZzxAptMETUfm37oL,K-Trap,Warm,United Kingdom,0.873,0.657,7,-6.696,1,0.333,0.389,0.0,0.11,0.697,143.055,2.8,4
+0ntQJM78wzOLVeCUAW7Y45,Kings of Leon,Sex on Fire,United Kingdom,0.542,0.905,9,-5.653,1,0.054,0.00172,0.0104,0.136,0.374,153.398,3.39,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,United Kingdom,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,United Kingdom,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,United Kingdom,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,United Kingdom,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+3UmaczJpikHgJFyBTAJVoz,"Eminem, Dido",Stan,United Kingdom,0.78,0.768,6,-4.325,0,0.238,0.0371,2.34e-06,0.518,0.507,80.063,6.74,4
+5LYMamLv12UPbemOaTPyeV,Harry Styles,Music For a Sushi Restaurant,United Kingdom,0.72,0.715,11,-4.652,1,0.04,0.258,0.0568,0.107,0.357,107.041,3.23,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,United Kingdom,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+3sa06xVNmLLYIxdNNmVQN8,"Jax Jones, MNEK",Where Did You Go? (feat. MNEK),United Kingdom,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,0.502,127.034,2.96,4
+6uvh0In7u1Xn4HgxOfAn8O,Harry Styles,Matilda,United Kingdom,0.507,0.294,2,-10.0,1,0.04,0.896,1.97e-05,0.0966,0.386,114.199,4.1,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,United Kingdom,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),United Kingdom,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+6RZo8T7GY9EoWZXC5i2587,"Cat Burns, goddard.",go - goddard. Remix,United Kingdom,0.728,0.689,6,-6.601,0,0.13,0.222,6.14e-05,0.107,0.0473,89.973,3.21,4
+4sNG6zQBmtq7M8aeeKJRMQ,Declan McKenna,Brazil,United Kingdom,0.687,0.617,4,-5.213,1,0.0287,0.0941,1.27e-05,0.0898,0.665,121.079,4.21,4
+2zxEc1GCSCxbHIXTfhraRC,"Dave, Stormzy",Clash (feat. Stormzy),United Kingdom,0.871,0.519,2,-6.549,1,0.258,0.313,8.14e-06,0.0869,0.532,140.013,4.2,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),United Kingdom,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+2fyIS6GXMgUcSv4oejx63f,Arctic Monkeys,Mardy Bum,United Kingdom,0.634,0.599,2,-5.447,1,0.0365,0.0288,0.0,0.197,0.312,112.215,2.92,4
+4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,United Kingdom,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,4.98,3
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,United Kingdom,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+2gMXnyrvIjhVBUZwvLZDMP,Lewis Capaldi,Before You Go,United Kingdom,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,3.59,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,United Kingdom,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+3dYD57lRAUcMHufyqn9GcI,Hozier,Take Me to Church,United Kingdom,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,4.03,4
+4oxGI8yyghLuMV7ybRG3kg,Central Cee,Obsessed With You,United Kingdom,0.746,0.825,3,-4.457,1,0.0435,0.192,0.0,0.365,0.904,143.062,1.81,4
+0ofHAoxe9vBkTCp2UQIavz,Fleetwood Mac,Dreams - 2004 Remaster,United Kingdom,0.828,0.492,0,-9.744,1,0.0276,0.0644,0.00428,0.128,0.789,120.151,4.3,4
+3Z7CaxQkqbIs1rewKi6v4W,"Tiësto, Charli XCX",Hot In It,United Kingdom,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,2.16,4
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,United Kingdom,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+4m9JJpWpijDvgVWcRrkgSB,"K-Trap, Headie One",Extra Sleeve,United Kingdom,0.8,0.588,5,-6.508,0,0.369,0.215,0.0,0.232,0.584,146.045,3.59,3
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,United Kingdom,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,United Kingdom,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,United Kingdom,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,United Kingdom,0.715,0.47,5,-12.638,0,0.0772,0.353,0.0923,0.104,0.426,89.965,1.86,4
+29Co9NKhOM5R9vWCrpkPPK,Cian Ducrot,All For You,United Kingdom,0.551,0.268,2,-9.954,1,0.0427,0.805,0.0,0.0977,0.335,77.079,3.66,3
+7wCmS9TTVUcIhRalDYFgPy,Pixies,Where Is My Mind? - Remastered,United Kingdom,0.519,0.441,4,-14.178,1,0.0353,0.0204,0.000453,0.076,0.25,81.334,3.92,4
+3gbBpTdY8lnQwqxNCcf795,Bastille,Pompeii,United Kingdom,0.679,0.715,9,-6.383,1,0.0407,0.0755,0.0,0.271,0.571,127.435,3.57,4
+5xoUgPXbMNUmoHU0Enwtwq,The Kooks,She Moves In Her Own Way,United Kingdom,0.41,0.803,7,-5.363,1,0.0623,0.239,0.0,0.103,0.814,153.315,2.82,4
+4wHkV6OpCanrNg2PRNhWjM,"Aitch, Ashanti",Baby (feat. Ashanti),United Kingdom,0.752,0.813,4,-8.069,0,0.237,0.2,0.0,0.163,0.559,103.836,2.96,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),United Kingdom,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+4Li2WHPkuyCdtmokzW2007,"JAY-Z, Kanye West",Ni**as In Paris,United Kingdom,0.789,0.858,1,-5.542,1,0.311,0.127,0.0,0.349,0.775,140.022,3.66,4
+7BHPGtpuuWWsvE7cCaMuEU,The Kooks,Naive,United Kingdom,0.391,0.808,8,-6.209,0,0.0892,0.0759,0.0,0.149,0.737,100.304,3.39,4
+1jDJFeK9x3OZboIAHsY9k2,Elton John,I'm Still Standing,United Kingdom,0.504,0.904,6,-6.863,1,0.179,0.356,0.121,0.14,0.772,176.808,3.06,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,United Kingdom,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,United Kingdom,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,0.454,116.959,3.9,3
+4Of7rzpRpV1mWRbhp5rAqG,Lewis Capaldi,Bruises,United Kingdom,0.736,0.308,4,-7.83,1,0.0677,0.946,0.0,0.186,0.361,111.202,3.67,4
+7D0RhFcb3CrfPuTJ0obrod,Coldplay,Sparks,United Kingdom,0.371,0.268,1,-10.506,1,0.0281,0.748,0.0517,0.104,0.165,102.617,3.78,3
+0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,United Kingdom,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,0.691,116.731,5.01,4
+1bgKMxPQU7JIZEhNsM1vFs,"Alesso, Zara Larsson",Words (feat. Zara Larsson),United Kingdom,0.739,0.586,10,-5.079,0,0.0472,0.0245,0.000252,0.308,0.444,124.026,2.38,4
+0oiv4E896TUTTeQU0cmIui,Drake,Massive,United Kingdom,0.499,0.671,4,-6.774,0,0.0561,0.114,0.0169,0.148,0.0557,124.994,5.62,3
+68EkhVWIeULhHxcbi1QhzK,AJR,World's Smallest Violin,United Kingdom,0.68,0.697,5,-7.01,1,0.0484,0.121,0.0,0.661,0.684,116.033,3.01,4
+6feiJqgHqeSvkGUzf11AYs,"Becky Hill, David Guetta",Remember (and David Guetta),United Kingdom,0.626,0.864,8,-3.12,1,0.0378,0.0682,0.0,0.087,0.555,123.833,2.69,4
+22skzmqfdWrjJylampe0kt,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",Can't Hold Us (feat. Ray Dalton),United Kingdom,0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,0.88,146.097,4.31,4
+3Fzlg5r1IjhLk2qRw667od,Toploader,Dancing in the Moonlight,United Kingdom,0.632,0.856,10,-3.463,1,0.0348,0.0624,0.0,0.347,0.867,119.397,3.88,4
+7iL6o9tox1zgHpKUfh9vuC,50 Cent,In Da Club,United Kingdom,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,3.22,4
+3Oww84xrmgjyr5J1ilOmAf,"Luude, Colin Hay",Down Under (feat. Colin Hay),United Kingdom,0.308,0.86,11,-4.111,0,0.168,0.0116,0.000828,0.277,0.0387,171.835,2.65,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,United Kingdom,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+6sxbe2ZGLQ6hbBvjEdunkd,D-Block Europe,Conor McGregor,United Kingdom,0.838,0.566,1,-7.496,0,0.449,0.161,0.0,0.586,0.843,135.021,3.11,4
+1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",United Kingdom,0.686,0.735,2,-4.616,1,0.264,0.00921,0.00066,0.342,0.0596,171.355,5.37,4
+1zi7xx7UVEFkmKfv06H8x0,"Drake, Wizkid, Kyla",One Dance,United Kingdom,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.0018,0.329,0.37,103.967,2.9,4
+3hRV0jL3vUpRrcy398teAU,Lord Huron,The Night We Met,United Kingdom,0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,0.102,87.01,3.47,3
+31tf1qEai5o5f4r66Kd0pU,Childish Gambino,Me and Your Mama,United Kingdom,0.554,0.433,5,-12.628,1,0.0341,0.0116,0.0449,0.0667,0.237,117.996,6.32,3
+5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,United Kingdom,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4.03,4
+6qmvAJSUfVGMubvI2awW7p,Tate McRae,uh oh,United Kingdom,0.625,0.604,10,-7.415,0,0.339,0.257,2.06e-05,0.129,0.372,174.089,2.83,4
+4wVOKKEHUJxHCFFNUWDn0B,"Drake, Giveon",Chicago Freestyle (feat. Giveon),United Kingdom,0.735,0.449,10,-7.507,1,0.347,0.629,0.0,0.113,0.0397,122.947,3.67,4
+5UWwZ5lm5PKu6eKsHAGxOk,Foo Fighters,Everlong,United Kingdom,0.413,0.881,11,-5.541,0,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066,4.18,4
+6VIYEyjNW71NnIGEduf8D8,Tom Grennan,Remind Me,United Kingdom,0.599,0.831,11,-4.188,1,0.0439,0.0603,0.0,0.204,0.624,132.019,3.52,4
+4CUX44NA1CPEzd0ibMLQsL,"Belters Only, Jazzy",Make Me Feel Good,United Kingdom,0.773,0.74,7,-8.169,0,0.0386,0.0627,0.00183,0.0829,0.504,124.014,3.29,4
+4hJhHbkhZFnxmWbAkZRoe0,"Fireboy DML, Ed Sheeran",Peru,United Kingdom,0.956,0.417,7,-7.892,0,0.0926,0.572,0.00071,0.0782,0.714,108.015,3.12,4
+4bHsxqR3GMrXTxEPLuK5ue,Journey,Don't Stop Believin',United Kingdom,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,4.18,4
+4svaKoxMMP7ImmKrD5hfQu,Jax,Victoria’s Secret,United Kingdom,0.586,0.556,6,-7.639,1,0.0592,0.00655,0.0,0.0836,0.517,167.018,2.94,4
+4EWCNWgDS8707fNSZ1oaA5,Kanye West,Heartless,United Kingdom,0.79,0.647,10,-5.983,0,0.136,0.0515,0.0,0.248,0.654,87.999,3.52,4
+7Ddk8FhoYKdsVoX9AOCPMm,"DJ Khaled, Drake, Lil Baby",STAYING ALIVE (feat. Drake & Lil Baby),United Kingdom,0.677,0.495,4,-7.174,0,0.0821,0.0668,0.0,0.319,0.152,129.974,2.97,4
+3DKCTIiJ97bS9TGiqcABjo,"Dave, AJ Tracey",Thiago Silva,United Kingdom,0.667,0.673,0,-7.574,1,0.323,0.0641,4e-06,0.0975,0.669,144.256,3.37,4
+0ll8uFnc0nANY35E0Lfxvg,Keane,Somewhere Only We Know,United Kingdom,0.453,0.655,9,-4.22,1,0.0259,0.0794,7.61e-06,0.0849,0.368,172.012,3.94,4
+2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,United Kingdom,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4.29,4
+25FTMokYEbEWHEdss5JLZS,Wheatus,Teenage Dirtbag,United Kingdom,0.625,0.85,4,-3.904,1,0.0495,0.346,0.000233,0.174,0.633,94.661,4.03,4
+3hUxzQpSfdDqwM3ZTFQY0K,Taylor Swift,august,United Kingdom,0.532,0.623,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,0.403,89.937,4.37,4
+6CltzquypraYIlWFp48m1O,Sam Fender,Hypersonic Missiles,United Kingdom,0.551,0.814,4,-3.683,1,0.0425,0.00089,1.16e-06,0.18,0.469,130.971,3.97,4
+5TRPicyLGbAF2LGBFbHGvO,"Kanye West, Dwele",Flashing Lights,United Kingdom,0.639,0.628,6,-7.578,0,0.0399,0.0381,0.0,0.386,0.43,90.482,3.96,4
+4u7EnebtmKWzUH433cf5Qv,Queen,Bohemian Rhapsody - Remastered 2011,United Kingdom,0.414,0.404,0,-9.928,0,0.0499,0.271,0.0,0.3,0.224,71.105,5.91,4
+62ke5zFUJN6RvtXZgVH0F8,Paloma Faith,Only Love Can Hurt Like This,United Kingdom,0.566,0.885,8,-4.528,1,0.0818,0.0958,9.97e-05,0.334,0.304,90.99,3.88,4
+5T8EDUDqKcs6OSOwEsfqG7,Queen,Don't Stop Me Now - Remastered 2011,United Kingdom,0.559,0.868,5,-5.276,1,0.17,0.0475,0.000176,0.776,0.609,156.295,3.49,4
+7l9IqDtVWJurTvkQHq1BGh,Tate McRae,she's all i wanna be,United Kingdom,0.602,0.626,2,-5.323,0,0.0396,0.0129,9.02e-06,0.144,0.619,160.118,3.45,4
+6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,United Kingdom,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2.55,4
+7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,United Kingdom,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,4.04,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,United Kingdom,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,United Kingdom,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+7DFNE7NO0raLIUbgzY2rzm,Passenger,Let Her Go,United Kingdom,0.509,0.538,7,-7.335,1,0.0572,0.385,0.0,0.104,0.244,75.089,4.21,4
+5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,United Kingdom,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,3.52,4
+6UoIrO15w3w62Jj8kGCnR7,"Bugzy Malone, MIST",Energy,United Kingdom,0.723,0.879,1,-3.983,1,0.0535,0.0256,0.0,0.308,0.779,130.035,3.1,4
+1ei3hzQmrgealgRKFxIcWn,Benson Boone,In The Stars,United Kingdom,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,0.3,78.007,3.61,3
+7o2CTH4ctstm8TNelqjb51,Guns N' Roses,Sweet Child O' Mine,United Kingdom,0.454,0.91,6,-7.766,1,0.0448,0.0866,0.0996,0.116,0.629,125.116,5.91,4
+5hnGrTBaEsdukpDF6aZg8a,Dean Lewis,How Do I Say Goodbye,United Kingdom,0.4,0.641,8,-6.303,1,0.0674,0.214,0.0,0.0656,0.393,81.552,2.73,4
