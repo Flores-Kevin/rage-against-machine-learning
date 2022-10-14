@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Singapore,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Singapore,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,Singapore,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Singapore,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Singapore,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Singapore,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+2gYj9lubBorOPIVWsTXugG,IVE,After LIKE,Singapore,0.68,0.922,0,-1.215,1,0.121,0.103,0.0,0.0877,0.799,125.014,2.95,4
+0HYAsQwJIO6FLqpyTeD3l6,Fujii Kaze,Shinunoga E-Wa,Singapore,0.6,0.76,6,-6.123,0,0.0451,0.167,4.07e-05,0.189,0.519,158.075,3.09,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Singapore,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Singapore,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Singapore,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Singapore,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Singapore,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+0a4MMyCrzT0En247IhqZbD,NewJeans,Hype Boy,Singapore,0.593,0.935,4,-3.43,0,0.225,0.268,0.0,0.286,0.783,99.976,2.98,4
+6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,Singapore,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2.55,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Singapore,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+0kqTXMHiQiB7IECD0WwcPq,TWICE,Talk that Talk,Singapore,0.774,0.905,3,-2.432,0,0.122,0.143,0.0,0.332,0.768,119.964,2.96,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Singapore,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+2m6Ko3CY1qXNNja8AlugNc,Troye Sivan,Angel Baby,Singapore,0.559,0.559,11,-6.425,1,0.0358,0.0145,0.0,0.138,0.338,72.498,3.68,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Singapore,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+72OVnXDzugvrCU25lMi9au,WeiBird,"如果可以 - 電影""月老""主題曲",Singapore,0.54,0.54,3,-6.368,1,0.029,0.241,0.0,0.351,0.372,74.969,4.57,4
+1gH1h30wkQdd9zhY3j7a8T,Rex Orange County,THE SHADE,Singapore,0.898,0.509,5,-7.973,1,0.062,0.391,0.0,0.0876,0.727,119.869,3.03,4
+0L8LOav65XwLjCLS11gNPD,BLACKPINK,Typa Girl,Singapore,0.915,0.621,7,-6.519,1,0.1,0.0745,0.0,0.628,0.527,131.984,2.99,4
+2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Singapore,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,0.454,116.959,3.9,3
+2pIUpMhHL6L9Z5lnKxJJr9,NewJeans,Attention,Singapore,0.811,0.648,10,-3.684,0,0.0368,0.236,0.0,0.0761,0.695,104.988,3.0,4
+6C734SmqoIYuRWo2qSCnpC,NMIXX,DICE,Singapore,0.556,0.798,7,-3.331,1,0.254,0.0848,0.0,0.33,0.628,131.096,2.76,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Singapore,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+1IVj6CsBbTgOEpo0W6hgwN,张远,嘉宾,Singapore,0.309,0.434,9,-8.88,1,0.0363,0.672,0.0,0.0896,0.427,71.585,5.56,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Singapore,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Singapore,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Singapore,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Singapore,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+0Q5VnK2DYzRyfqQRJuUtvi,IVE,LOVE DIVE,Singapore,0.703,0.709,1,-4.169,0,0.0433,0.00379,5.43e-05,0.333,0.538,117.941,2.95,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Singapore,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+1ei3hzQmrgealgRKFxIcWn,Benson Boone,In The Stars,Singapore,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,0.3,78.007,3.61,3
+3MJhPqL2IgGs7gHEB2M35q,BLACKPINK,Hard to Love,Singapore,0.654,0.768,5,-5.007,1,0.0431,0.00616,0.0,0.202,0.505,104.97,2.71,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Singapore,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+0QzuaeCEEOV40Pn7IvKEny,dhruv,double take,Singapore,0.656,0.436,8,-11.141,1,0.0744,0.845,0.0,0.221,0.196,109.239,2.86,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Singapore,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+3OM6qQmdFV6uy61GIqpRtf,Rex Orange County,AMAZING,Singapore,0.719,0.461,8,-8.191,1,0.0454,0.279,0.0,0.0875,0.548,123.915,3.49,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Singapore,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+6XBL9naPxZjATbmGAWGJ9V,Ren Ran,飞鸟和蝉,Singapore,0.578,0.508,10,-8.884,1,0.0536,0.722,0.0,0.105,0.304,147.94,4.93,4
+2OR5FUKy3GQ7I9DCbRnfsW,Eric Chou,"最後一堂課 - 《媽,別鬧了!》影集片尾曲",Singapore,0.55,0.543,8,-6.961,1,0.0268,0.769,0.0,0.0911,0.35,74.008,4.65,4
+7AdGloF1UHKe1vAZPbqIXH,BLACKPINK,The Happiest Girl,Singapore,0.382,0.37,0,-8.475,1,0.0785,0.605,0.0,0.102,0.556,181.459,3.7,3
+5mdWIwsJAzR97ShGkt8gcR,"ZICO, HOMIES",New thing (Prod. ZICO) (Feat. Homies),Singapore,0.775,0.865,1,-2.015,1,0.307,0.0453,0.0,0.261,0.663,175.12,2.46,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Singapore,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,Singapore,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+4qu63nuBpdn0qHUHuObEj1,"Marshmello, Jonas Brothers",Leave Before You Love Me (with Jonas Brothers),Singapore,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,2.58,4
+3W4U7TEgILGpq0EmquurtH,"yuji, putri dahlia",Old Love,Singapore,0.478,0.367,11,-10.513,1,0.0283,0.716,0.0,0.124,0.359,141.95,4.16,3
+0bYVPJvXr8ACmw313cVvhB,BLACKPINK,Tally,Singapore,0.688,0.637,2,-4.85,1,0.031,0.00777,0.0,0.13,0.427,129.902,3.07,4
+5O2P9iiztwhomNh8xkR9lJ,One Direction,Night Changes,Singapore,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,3.78,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Singapore,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Singapore,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+6la3Kme7O7D01fJPxgpAS5,詹雯婷,訣愛 (劇集《蒼蘭訣》片頭曲),Singapore,0.45,0.62,11,-6.492,1,0.0365,0.313,0.0,0.0672,0.169,142.026,3.15,4
+1oen3GpTcA486fTHaT7neg,Girls' Generation,FOREVER 1,Singapore,0.615,0.871,9,-1.248,1,0.0516,0.0427,0.0,0.254,0.297,123.915,3.38,4
+0ll8uFnc0nANY35E0Lfxvg,Keane,Somewhere Only We Know,Singapore,0.453,0.655,9,-4.22,1,0.0259,0.0794,7.61e-06,0.0849,0.368,172.012,3.94,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Singapore,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+3sqrvkNC6IPTIXvvbx9Arw,Taylor Swift,Enchanted,Singapore,0.535,0.618,8,-3.913,1,0.0273,0.0716,0.000388,0.169,0.228,81.975,5.87,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Singapore,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+2gug6MRv4xQFYi9LA3PJCS,Eric Chou,"你,好不好? - TVBS連續劇【遺憾拼圖】片尾曲",Singapore,0.439,0.477,10,-5.638,1,0.0307,0.643,0.0,0.114,0.535,159.819,4.79,4
+1zxfRSZcaonV1VXcY0PgY5,NIKI,High School in Jakarta,Singapore,0.873,0.488,7,-8.285,0,0.0413,0.531,0.000132,0.153,0.462,119.983,3.65,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Singapore,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+5cU1O9P0EDA0rPkPDykhIm,Eric Chou,怎麼了,Singapore,0.502,0.565,9,-7.779,1,0.0358,0.696,5.55e-05,0.156,0.253,139.926,5.35,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Singapore,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Singapore,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+3AVXwaOGCEL8cmBecfcsFJ,Charlie Puth,Light Switch,Singapore,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,3.09,4
+0zRezEuKtaAXHcB4eruwi2,Charlie Puth,I Don’t Think That I Like Her,Singapore,0.587,0.548,8,-5.846,0,0.0339,0.396,0.0,0.109,0.713,186.073,3.14,4
+5y4WmuvFX1t3NdSId0MFOh,BLACKPINK,Yeah Yeah Yeah,Singapore,0.729,0.588,1,-6.654,0,0.0359,0.00574,2.91e-06,0.0614,0.639,124.019,2.98,4
+1Wwh6gmMeolwzbRzfZMY5b,BLACKPINK,Ready For Love,Singapore,0.676,0.702,6,-5.446,1,0.118,0.0143,0.0,0.103,0.542,107.931,3.08,4
+7I5WT7DtpwSAhEeDLpZEfm,Lauv,All 4 Nothing (I'm So In Love),Singapore,0.72,0.819,1,-4.588,1,0.0362,0.0411,0.0,0.0606,0.898,131.99,3.05,4
+1GpbSYjurHKlxhcxCZ1Bqa,小阿七,从前说,Singapore,0.616,0.69,4,-5.189,1,0.0338,0.671,0.0,0.368,0.446,115.966,4.19,4
+5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,Singapore,0.669,0.742,1,-3.518,0,0.0441,0.296,0.0,0.355,0.716,101.982,3.39,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Singapore,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+5rJ7bdPmr8nfmm2JQ8xHOz,NAYEON,POP!,Singapore,0.793,0.859,2,-2.998,1,0.0544,0.0356,0.0,0.0343,0.392,97.001,2.8,4
+1XGmzt0PVuFgQYYnV2It7A,"Maroon 5, Wiz Khalifa",Payphone,Singapore,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,3.85,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Singapore,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+1jIMjbzcGCcCQn5iMu9CUc,Charlie Puth,That's Hilarious,Singapore,0.714,0.442,6,-5.909,1,0.0605,0.742,0.0,0.114,0.546,108.039,2.45,4
+0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Singapore,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,4.39,3
+4nrDn3HEdKn524GrOSAll8,Charlie Puth,Charlie Be Quiet!,Singapore,0.753,0.662,8,-4.25,1,0.0702,0.205,3.66e-06,0.0851,0.466,94.958,2.14,4
+5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Singapore,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4.03,4
+4xqrdfXkTW4T0RauPLv3WA,Conan Gray,Heather,Singapore,0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,3.3,3
+3afkJSKX0EAMsJXTZnDXXJ,Troye Sivan,Strawberries & Cigarettes,Singapore,0.578,0.537,9,-8.676,1,0.0832,0.162,0.0,0.076,0.25,83.909,3.36,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Singapore,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+296nXCOv97WJNRWzIBQnoj,LE SSERAFIM,FEARLESS,Singapore,0.863,0.62,7,-7.167,1,0.135,0.0508,0.00324,0.129,0.432,103.971,2.81,4
+2MJz8BxxMsERULatmBikDH,Pink Sweat$,At My Worst,Singapore,0.813,0.415,0,-5.926,1,0.0349,0.777,0.0,0.131,0.667,91.921,2.84,4
+4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Singapore,0.575,0.648,10,-4.891,1,0.0358,0.583,0.0,0.115,0.466,75.977,2.67,4
+4cktbXiXOapiLBMprHFErI,Maroon 5,Memories,Singapore,0.775,0.327,11,-7.241,1,0.0557,0.841,0.0,0.0821,0.595,91.05,3.16,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Singapore,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Singapore,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,3.52,4
+1u8c2t2Cy7UBoG4ArRcF5g,Taylor Swift,Blank Space,Singapore,0.76,0.703,5,-5.412,1,0.054,0.103,0.0,0.0913,0.57,95.997,3.86,4
+0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),Singapore,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,2.88,4
+4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Singapore,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,4.98,3
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Singapore,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+3rsZY9djzo1egB9OBJLuQ1,JVKE,this is what falling in love feels like,Singapore,0.424,0.438,11,-5.53,1,0.0553,0.617,0.0,0.0837,0.325,128.983,2.01,5
+3azJifCSqg9fRij2yKIbWz,Tory Lanez,The Color Violet,Singapore,0.645,0.534,6,-10.8,0,0.0479,0.157,0.0,0.0863,0.463,105.02,3.77,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Singapore,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+5Y47GrCrjQY44qFv8Gt0Gm,Eric Chou,你不屬於我 - 《比悲傷更悲傷的故事》影集版片尾曲,Singapore,0.358,0.391,9,-8.979,1,0.0316,0.856,0.00232,0.0971,0.284,75.168,5.37,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Singapore,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+5UXJzLFdBn6u9FJTCnoHrH,Conan Gray,Memories,Singapore,0.34,0.684,11,-6.306,1,0.044,0.00979,0.0,0.348,0.556,112.969,4.15,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Singapore,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+2At18rPHOuTEjGEppwGV0A,Anson Seabra,Peter Pan Was Right,Singapore,0.661,0.517,5,-7.74,1,0.0406,0.223,0.0,0.116,0.241,84.014,3.21,4
+7l9IqDtVWJurTvkQHq1BGh,Tate McRae,she's all i wanna be,Singapore,0.602,0.626,2,-5.323,0,0.0396,0.0129,9.02e-06,0.144,0.619,160.118,3.45,4
+5aucVLKiumD89mxVCB4zvS,"Crush, j-hope",Rush Hour (Feat. j-hope of BTS),Singapore,0.738,0.714,0,-5.235,1,0.249,0.157,0.0,0.31,0.74,95.035,2.96,4
+0l6w3GsvjJWdZHs3eXTjuL,1K,就忘了吧,Singapore,0.524,0.653,10,-6.011,1,0.0325,0.488,0.0,0.241,0.41,131.979,3.39,4
+46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Singapore,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,3.74,4
+1oFAF1hdPOickyHgbuRjyX,"The Weeknd, Ariana Grande",Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,Singapore,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,3.18,4
+0FOBJ5PbwOe5XBY9y0bnhi,"B.I, Soulja Boy, DeVita",BTBT,Singapore,0.763,0.663,9,-6.928,0,0.183,0.321,0.0,0.115,0.496,109.979,3.66,4
+2DwUdMJ5uxv20EhAildreg,NewJeans,Cookie,Singapore,0.847,0.638,0,-3.764,1,0.0575,0.0596,0.0,0.0894,0.661,156.935,3.93,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Singapore,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+6fxVffaTuwjgEk5h9QyRjy,Ed Sheeran,Photograph,Singapore,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,4.32,4
+1BxfuPKGuaTgP7aM0Bbdwr,Taylor Swift,Cruel Summer,Singapore,0.552,0.702,9,-5.707,1,0.157,0.117,2.06e-05,0.105,0.564,169.994,2.97,4
+2GThBgzZoZfz0lx1JjBwfe,New West,Those Eyes,Singapore,0.597,0.351,4,-8.043,1,0.0281,0.727,3.86e-05,0.319,0.243,119.948,3.68,3
+2BgEsaKNfHUdlh97KmvFyo,Anne-Marie,2002,Singapore,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,3.12,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Singapore,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Singapore,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+2gMXnyrvIjhVBUZwvLZDMP,Lewis Capaldi,Before You Go,Singapore,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,3.59,4
+46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Singapore,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,0.47,105.006,3.77,4
+6qmvAJSUfVGMubvI2awW7p,Tate McRae,uh oh,Singapore,0.625,0.604,10,-7.415,0,0.339,0.257,2.06e-05,0.129,0.372,174.089,2.83,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Singapore,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+6HU7h9RYOaPRFeh0R3UeAr,Olivia Rodrigo,deja vu,Singapore,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,3.59,4
+78Sw5GDo6AlGwTwanjXbGh,d4vd,Here With Me,Singapore,0.574,0.469,4,-8.209,1,0.0254,0.534,9.21e-05,0.128,0.288,132.023,4.04,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Singapore,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Singapore,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+3QP3cYE3qnplFueLKNVsbM,队长,哪里都是你,Singapore,0.544,0.401,5,-8.347,1,0.027,0.749,1.51e-05,0.265,0.163,131.846,3.71,4
+6I2tqFhk8tq69iursYxuxd,SEVENTEEN,HOT,Singapore,0.765,0.777,5,-4.376,0,0.0399,0.0539,2.58e-06,0.338,0.64,111.944,3.29,4
+5CZ40GBx1sQ9agT82CLQCT,Olivia Rodrigo,traitor,Singapore,0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,3.82,4
+0F02KChKwbcQ3tk4q1YxLH,Jay Chou,晴天,Singapore,0.547,0.567,7,-7.295,1,0.0242,0.276,0.000548,0.104,0.399,137.13,4.5,4
+3OC84eKMxRJ4x0Hcwl9i4i,Crowd Lu,刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲,Singapore,0.425,0.201,10,-11.961,1,0.0373,0.873,0.0,0.111,0.267,136.328,5.34,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Singapore,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+1ZeVIrCWzEmsJexkrgvjFv,Hebe Tien,小幸運,Singapore,0.519,0.412,0,-8.584,1,0.0365,0.75,0.0,0.101,0.506,157.916,4.43,4
+1ivCIgrYZyE0BvItL4Z8lk,Jay Chou,告白氣球,Singapore,0.59,0.572,11,-7.658,1,0.0379,0.192,0.0,0.109,0.448,179.989,3.59,4
+5kZDxLcbqglZ2yYXg4Mkjc,JJ Lin,那些你很冒險的夢,Singapore,0.426,0.487,2,-5.276,1,0.0361,0.785,0.0,0.259,0.28,135.103,4.07,4
+6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Singapore,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,4.12,4
+5SMCxRA6hB2jEhroaYfw6N,"MAX, keshi",IT'S YOU (feat. keshi),Singapore,0.697,0.368,2,-9.708,1,0.056,0.835,0.00016,0.135,0.451,90.011,2.89,4
+7BqBn9nzAq8spo5e7cZ0dJ,Bruno Mars,Just the Way You Are,Singapore,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,3.68,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Singapore,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+6kabSi7XCHHGThNme6J2tL,Eric Chou,如果雨之後,Singapore,0.315,0.534,6,-5.931,1,0.0332,0.525,0.0,0.171,0.445,136.725,4.69,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Singapore,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+2P91MQbaiQOfbiz9VqhqKQ,Lauv,I Like Me Better,Singapore,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,3.29,4
+1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,Singapore,0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,3.35,4
+46fURCnWErjFdNM2yBJ2c8,Eric Chou,永不失聯的愛,Singapore,0.289,0.43,10,-6.818,1,0.0332,0.624,0.0,0.101,0.531,169.511,4.33,4
+6whxKQ0Ocn1FmzpDc7lTHq,Eric Chou,想知道你在想什麼 - 《我吃了那男孩一整年的早餐》電影主題曲,Singapore,0.455,0.297,7,-11.63,1,0.0265,0.212,2.14e-06,0.121,0.243,90.093,4.9,4
+6akVETVeqqPVvuBS5e0EB1,Eason Chan,孤勇者 - 《英雄聯盟:雙城之戰》動畫劇集中文主題曲,Singapore,0.615,0.535,8,-6.847,0,0.032,0.63,0.0,0.0907,0.293,130.025,4.27,4
+78nvT4euebtCsEigaNt4aa,KSI,Summer Is Over,Singapore,0.349,0.745,0,-5.234,1,0.0454,0.422,1.18e-05,0.34,0.146,95.98,3.14,4
+1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Singapore,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4.04,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Singapore,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+68EkhVWIeULhHxcbi1QhzK,AJR,World's Smallest Violin,Singapore,0.68,0.697,5,-7.01,1,0.0484,0.121,0.0,0.661,0.684,116.033,3.01,4
+0IGUXY4JbK18bu9oD4mPIm,(G)I-DLE,TOMBOY,Singapore,0.755,0.87,1,-2.414,0,0.0936,0.00988,0.0,0.0917,0.645,124.032,2.91,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Singapore,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+35xilew5nalcetOeytaDFj,Jay Chou,還在流浪,Singapore,0.624,0.549,1,-7.4,1,0.0329,0.109,0.000499,0.11,0.115,165.991,4.43,3
+5QDLhrAOJJdNAmCTJ8xMyW,BTS,Dynamite,Singapore,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,3.32,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Singapore,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+4HBZA5flZLE435QTztThqH,"Ariana Grande, Justin Bieber",Stuck with U (with Justin Bieber),Singapore,0.597,0.45,8,-6.658,1,0.0418,0.223,0.0,0.382,0.537,178.765,3.81,3
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Singapore,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Singapore,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+77BQceOpfvUBXgokOFHYMm,"Jay Chou, Ashin Chen",說好不哭,Singapore,0.513,0.363,10,-11.219,1,0.0306,0.53,0.0,0.0792,0.383,151.828,3.68,4
+21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,Singapore,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,3.59,4
+2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Singapore,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4.29,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Singapore,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+7zyYmIdjqqiX6kLryb7QBx,Eric Chou,以後別做朋友,Singapore,0.423,0.36,3,-9.458,1,0.0372,0.728,0.0,0.105,0.291,130.576,4.34,4
+3FAJ6O0NOHQV8Mc5Ri6ENp,Giveon,Heartbreak Anniversary,Singapore,0.449,0.465,0,-8.964,1,0.0791,0.524,1.02e-06,0.303,0.543,89.087,3.31,3
+5nujrmhLynf4yMoMtj8AQF,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),Singapore,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,3.38,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Singapore,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+5p0ietGkLNEqx1Z7ijkw5g,Westlife,My Love,Singapore,0.491,0.593,0,-5.975,1,0.0255,0.098,0.0,0.257,0.328,144.142,3.86,4
+7JJmb5XwzOO8jgpou264Ml,Shawn Mendes,There's Nothing Holdin' Me Back,Singapore,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,3.32,4
+68HocO7fx9z0MgDU0ZPHro,NIKI,Every Summertime,Singapore,0.628,0.676,6,-4.227,1,0.0424,0.393,6.94e-05,0.0978,0.723,78.996,3.59,4
+1CAksvEO6oRHd9bBKWAfuY,Ariana Grande,One Last Time,Singapore,0.631,0.601,8,-4.98,1,0.032,0.0953,2.86e-06,0.0999,0.104,125.014,3.29,4
+7n2FZQsaLb7ZRfRPfEeIvr,IVE,ELEVEN,Singapore,0.828,0.731,9,-3.033,1,0.111,0.0617,0.0,0.048,0.587,119.978,2.97,4
+1dGr1c8CrMLDpV6mPbImSI,Taylor Swift,Lover,Singapore,0.359,0.543,7,-7.582,1,0.0919,0.492,1.58e-05,0.118,0.453,68.534,3.69,4
+3Eb5sztvEMa0Mqnb8DUAlU,IV Of Spades,Come Inside Of My Heart,Singapore,0.676,0.565,10,-9.411,1,0.03,0.00321,0.000579,0.241,0.689,113.007,4.11,4
+4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,good 4 u,Singapore,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,2.97,4
+6v3KW9xbzN5yKLt9YKDYA2,"Shawn Mendes, Camila Cabello",Señorita,Singapore,0.759,0.548,9,-6.049,0,0.029,0.0392,0.0,0.0828,0.749,116.967,3.18,4
+5qrSlOut2rNAWv3ubArkNy,Dean Lewis,Be Alright,Singapore,0.551,0.537,11,-7.595,1,0.034,0.705,0.0,0.0802,0.493,126.421,3.27,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Singapore,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+0ct6r3EGTcMLPtrXHDvVjc,Avicii,The Nights,Singapore,0.527,0.835,6,-5.298,1,0.0433,0.0166,0.0,0.249,0.654,125.983,2.94,4
+2J2Z1SkXYghSajLibnQHOa,Sia,Unstoppable,Singapore,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,0.26,173.799,3.63,4
+1aEsTgCsv8nOjEgyEoRCpS,"Jeremy Zucker, Chelsea Cutler",this is how you fall in love,Singapore,0.441,0.202,7,-12.499,1,0.0381,0.732,2.6e-05,0.126,0.269,77.971,2.91,4
+3Y2MvObZdPakD1X71KOxCD,Stephen Dawes,Teenage Dream,Singapore,0.615,0.361,10,-9.57,1,0.028,0.38,0.0,0.0844,0.244,111.991,2.96,4
+6LXIhiXK8z1KLd3giR904b,Charlie Puth,Smells Like Me,Singapore,0.602,0.565,11,-6.498,1,0.0498,0.329,0.0,0.0622,0.609,208.038,3.4,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Singapore,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,Don’t Blame Me,Singapore,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917,3.94,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Singapore,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+0mL82sxCRjrs3br407IdJh,The Weeknd,Is There Someone Else?,Singapore,0.702,0.586,9,-7.83,0,0.0313,0.0388,7.27e-05,0.156,0.608,134.951,3.32,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Singapore,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,THATS WHAT I WANT,Singapore,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,2.4,4
+6jjYDGxVJsWS0a5wlVF5vS,BTS,Butter,Singapore,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,2.75,4
+1nX1b7kRg5a6XKAq7uQOpr,ITZY,SNEAKERS,Singapore,0.935,0.849,7,-3.047,1,0.0779,0.0192,0.0,0.0223,0.551,119.986,2.99,4
+62ke5zFUJN6RvtXZgVH0F8,Paloma Faith,Only Love Can Hurt Like This,Singapore,0.566,0.885,8,-4.528,1,0.0818,0.0958,9.97e-05,0.334,0.304,90.99,3.88,4
+02VBYrHfVwfEWXk5DXyf0T,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,Singapore,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03,4
+0ocf3HwWhrXtA8r63Vcd2h,Crash Adams,Give Me A Kiss,Singapore,0.611,0.862,11,-4.969,0,0.0346,0.0102,2.99e-06,0.255,0.836,141.042,2.82,4
+4iJyoBOLtHqaGxP12qzhQI,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),Singapore,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,3.3,4
+50kpGaPAhYJ3sGmk6vplg0,Justin Bieber,Love Yourself,Singapore,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,3.9,4
+6lanRgr6wXibZr8KgzXxBl,Christina Perri,A Thousand Years,Singapore,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,4.75,3
+7BKLCZ1jbUBVqRi2FVlTVw,"The Chainsmokers, Halsey",Closer,Singapore,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,4.08,4
+0rKtyWc8bvkriBthvHKY8d,Joji,SLOW DANCING IN THE DARK,Singapore,0.515,0.479,3,-7.458,1,0.0261,0.544,0.00598,0.191,0.284,88.964,3.49,4
+68EMU2RD1ECNeOeJ5qAXCV,"Charlie Puth, Selena Gomez",We Don't Talk Anymore (feat. Selena Gomez),Singapore,0.728,0.563,1,-8.053,0,0.134,0.621,0.0,0.179,0.352,100.017,3.63,4
+4U0bL1ouvksMgvXU2aKq4O,en,间距,Singapore,0.575,0.562,6,-7.396,1,0.0289,0.45,0.0,0.101,0.334,130.056,4.73,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Singapore,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+1JLtvvPsHwLyd2ufASdkWV,"阿涵, Ayo97",感谢你曾来过,Singapore,0.481,0.795,8,-5.097,1,0.0408,0.0782,0.0,0.1,0.332,160.02,4.17,4
+0ug5NqcwcFR2xrfTkc7k8e,Taylor Swift,Style,Singapore,0.588,0.791,7,-5.595,1,0.0402,0.00245,0.00258,0.118,0.487,94.933,3.85,4

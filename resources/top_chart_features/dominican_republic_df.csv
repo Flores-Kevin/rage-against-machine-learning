@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Dominican Republic,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2.98,4
+5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,Dominican Republic,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,3.55,4
+2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",Dominican Republic,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Dominican Republic,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4
+6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,Dominican Republic,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4.1,4
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Dominican Republic,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4
+3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Dominican Republic,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4.3,4
+31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,Dominican Republic,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,0.428,122.016,2.89,4
+0TH2Oz2cnc2lxfgaPLGmSp,EL YALA,Tan Soldao,Dominican Republic,0.787,0.879,2,-3.398,1,0.191,0.00374,1.82e-06,0.124,0.775,110.003,3.09,4
+41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Dominican Republic,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,3.96,4
+5S4aEL1BMsgLvCSt4BijHd,"Romeo Santos, Chris Lebron",SIRI,Dominican Republic,0.69,0.524,3,-5.552,1,0.146,0.418,4.63e-06,0.0748,0.44,125.783,2.73,5
+4SSbtLDkepeOHAckM1FCBP,"El Alfa, Noriel, Trueno",LOS APARATOS,Dominican Republic,0.868,0.878,1,-3.294,1,0.038,0.0509,0.00052,0.0857,0.899,112.987,3.88,4
+7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,Dominican Republic,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,3.5,4
+5EWQWiQS2eseBWfgesPEh2,Amenazzy,Hey Chanty,Dominican Republic,0.761,0.55,1,-6.847,1,0.279,0.302,1.08e-05,0.128,0.603,101.032,2.68,4
+1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Dominican Republic,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,3.31,4
+4tYFy8ALRjIZvnvSLw5lxN,"Bad Bunny, Rauw Alejandro",Party,Dominican Republic,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,0.471,97.013,3.79,4
+1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,Dominican Republic,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,3.49,4
+79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,Dominican Republic,0.834,0.828,11,-2.657,0,0.0452,0.21,5.91e-06,0.103,0.58,102.019,3.25,4
+1dm6z1fWB0cErMszU25dy2,Bad Bunny,Después de la Playa,Dominican Republic,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,0.607,78.293,3.84,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,Dominican Republic,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+5CzixCxDkRXX9mScCmah8O,Bad Bunny,Un Ratito,Dominican Republic,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,2.95,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Dominican Republic,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Dominican Republic,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,4.04,4
+7jfmlr5W2AQWUGLVhT8ofl,"Romeo Santos, ROSALÍA",El Pañuelo,Dominican Republic,0.839,0.71,8,-3.823,1,0.0409,0.0534,0.0,0.283,0.661,129.997,3.91,4
+3gOVQmGQcg8djqU044liT1,Anuel AA,La 2blea,Dominican Republic,0.434,0.764,10,-5.443,0,0.208,0.34,0.0,0.283,0.443,176.077,5.24,4
+6VrQTLzzuyGIYjUDe4kAZk,Bad Bunny,Un Coco,Dominican Republic,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,0.744,151.991,3.27,4
+4d4ZXH4dr5bYfgErHiZCX2,Bad Bunny,Dos Mil 16,Dominican Republic,0.817,0.67,1,-6.534,1,0.0506,0.123,1.92e-06,0.128,0.495,130.058,3.48,3
+4gzsuuZypVbxs0Af1LSZyB,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Dominican Republic,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888,3.46,4
+44XjoNvtwevktFKjvVe1vH,"Bad Bunny, Buscabulla",Andrea,Dominican Republic,0.797,0.616,1,-10.229,0,0.375,0.762,0.000293,0.0979,0.451,103.071,5.66,4
+5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Dominican Republic,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0,0.0717,0.464,91.911,3.37,4
+7D9nm7i0rxiSI9ffTg6EaL,Jabriell,Bendita Nota,Dominican Republic,0.729,0.706,10,-4.686,0,0.343,0.0876,4.1e-06,0.111,0.748,139.848,2.8,5
+0hzC5kZ6qKZJ9ybyW75VV8,"Chris Lebron, Sech, Jay Wheeler",Desde Mis Ojos - Remix,Dominican Republic,0.673,0.56,1,-5.191,1,0.182,0.677,0.0,0.293,0.656,93.978,3.73,4
+2eJFFzezwWHCztF4cLKmB0,Angel Dior,A I O,Dominican Republic,0.819,0.919,11,-2.944,1,0.367,0.237,0.0,0.0774,0.853,120.159,2.97,4
+6riuMNiPqRmE4LPJZGzIuv,"El Alfa, Chael Produciendo",Gogo Dance,Dominican Republic,0.596,0.868,8,-4.95,1,0.161,0.12,0.518,0.0514,0.705,118.02,2.89,4
+2TAwTtG4uihlWzelKWRRLp,EL YALA,2 Na' Ma,Dominican Republic,0.673,0.769,2,-5.251,1,0.42,0.234,0.000428,0.0392,0.792,146.548,1.9,5
+2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Dominican Republic,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,2.87,4
+6DoL1yYIwEW7VZMRaJhoJI,"Chris Jedi, Anuel AA, Chencho Corleone, Ñengo Flow",La Llevo Al Cielo (Ft. Ñengo Flow),Dominican Republic,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4.25,4
+6Azm43fhAq2ntWLxCLWJ6y,Jabriell,Trucha,Dominican Republic,0.792,0.787,8,-5.342,0,0.0641,0.0701,2.93e-06,0.193,0.705,105.009,2.45,4
+2CeKVsFFXG4QzA415QygGb,Feid,Feliz Cumpleaños Ferxxo,Dominican Republic,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,2.6,4
+2uflssWlCaJ6CbTMOsUpNI,Bad Bunny,Aguacero,Dominican Republic,0.861,0.645,6,-6.96,0,0.0743,0.423,0.000592,0.349,0.668,121.391,3.52,5
+18HOjcvTVV7W8YzBuOsAPS,Bad Bunny,Un Verano Sin Ti,Dominican Republic,0.503,0.496,5,-9.123,0,0.0556,0.693,0.0,0.123,0.412,187.844,2.47,4
+6mmPpaltUZK7xjNlBPQQ0p,"Rauw Alejandro, Chencho Corleone",Desesperados,Dominican Republic,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,0.511,90.02,3.75,4
+7mLJiuLlh6v8Hz5PfYfOTh,"Amenazzy, Beny Jr",Rulay,Dominican Republic,0.825,0.86,1,-4.204,0,0.112,0.26,0.0246,0.151,0.792,117.035,3.16,4
+7jux0dIxYi7emKlkAD2bS2,Adarfy,Diablita,Dominican Republic,0.865,0.89,8,-3.923,1,0.0864,0.147,0.00916,0.0993,0.923,117.015,2.6,4
+0G2zPzWqVjR68iNPmx2TBe,"Mora, Bad Bunny, Sech",Volando - Remix,Dominican Republic,0.659,0.688,6,-4.649,1,0.0673,0.207,0.0,0.113,0.632,153.979,4.56,4
+1w0oaaPLWVXGJWtUrYjuO8,"EL YALA, Hansel El De La H",Mi Area,Dominican Republic,0.679,0.865,7,-3.626,1,0.371,0.023,0.0,0.0665,0.779,103.461,2.94,4
+7FlQk2gJ6TBrHHiidvdR2O,"Becky G, KAROL G",MAMIII,Dominican Republic,0.836,0.703,4,-3.554,0,0.0657,0.0845,0.0,0.138,0.902,94.048,3.77,4
+5kVZxyMY1gfdCLiChsfjn1,Bad Bunny,Yo No Soy Celoso,Dominican Republic,0.872,0.588,0,-6.276,1,0.0492,0.275,0.0,0.17,0.93,142.004,3.85,4
+64tieWGakaO5NtAmuiF0Bz,"El Alfa, Imperio Record, Bluemoney, Chocoleyrol",Que No - Remix,Dominican Republic,0.904,0.944,11,-2.636,0,0.0713,0.0104,0.0015,0.52,0.839,110.021,3.81,4
+65497v9jzFfu5sSA8ADap5,"Tokischa, Treintisiete",Sistema De Patio,Dominican Republic,0.914,0.948,6,-2.243,0,0.21,0.07,0.000782,0.328,0.694,109.999,2.24,4
+2TDyyEBasw10wu5Uh94bR1,"Rauw Alejandro, Baby Rasta",PUNTO 40,Dominican Republic,0.873,0.826,0,-0.722,1,0.0876,0.00127,0.0361,0.311,0.201,106.972,3.18,4
+2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,Dominican Republic,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,3.45,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Dominican Republic,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Dominican Republic,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+1lh3TDFVCmgOE6szIPwoIK,Rochy RD,El Coba,Dominican Republic,0.73,0.914,11,-2.39,0,0.415,0.106,0.0,0.187,0.569,227.941,2.06,4
+0wihfILRNOwE2156Shezc8,Bad Bunny,Agosto,Dominican Republic,0.849,0.584,1,-8.195,0,0.115,0.0929,6.18e-06,0.492,0.724,115.018,2.32,4
+0E0DRHf5PfMeor0ZCwB3oT,"Bad Bunny, The Marías",Otro Atardecer,Dominican Republic,0.777,0.595,2,-6.79,1,0.0375,0.59,0.00139,0.0669,0.546,108.02,4.07,4
+2NMjggapJcXXM7WccGEBUO,Bad Bunny,Enséñame a Bailar,Dominican Republic,0.81,0.789,8,-5.08,1,0.0846,0.191,1.08e-05,0.467,0.77,105.009,2.93,4
+71wFwRo8xGc4lrcyKwsvba,"Bad Bunny, Tainy",Callaita,Dominican Republic,0.608,0.626,2,-4.773,1,0.301,0.597,2.16e-06,0.25,0.246,176.086,4.18,4
+7k3qWn8D43a5ISa3x8lJux,Anuel AA,¿Qué Nos Pasó?,Dominican Republic,0.703,0.694,3,-4.808,0,0.0607,0.436,5.8e-06,0.12,0.298,95.0,4.1,4
+48AJSd42lXpicsGqcgopof,"Daddy Yankee, Bad Bunny",X ÚLTIMA VEZ,Dominican Republic,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,3.21,4
+7fBuy1fdHEwG3mRdlHNM41,Romeo Santos,Sus Huellas,Dominican Republic,0.826,0.78,11,-4.091,1,0.0541,0.0389,0.0,0.0992,0.873,126.032,3.58,4
+14pr9SjxdNW8ZGU9GdZGLh,El Alfa,Chu Chu Pamela,Dominican Republic,0.893,0.871,2,-4.316,1,0.0734,0.0718,0.5,0.056,0.792,115.995,2.95,4
+4R8BJggjosTswLxtkw8V7P,"Jhayco, J Balvin, Bad Bunny",No Me Conoce - Remix,Dominican Republic,0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,5.15,4
+7HsebNHZDGj8UhWIrZaMx6,Romeo Santos,Bebo,Dominican Republic,0.765,0.878,3,-3.649,0,0.0465,0.105,0.0,0.314,0.96,125.046,3.93,4
+4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Dominican Republic,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,3.42,4
+6i1g5ZRmJZAkDwBaUZ3f2i,Luar La L,Caile,Dominican Republic,0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,0.461,121.737,2.36,3
+28GCbKgjlVD9eDmasGbe0T,Bad Bunny,Me Fui de Vacaciones,Dominican Republic,0.714,0.645,10,-5.493,1,0.0514,0.229,0.00083,0.0942,0.434,85.046,3.02,4
+7zmJxjG9P9if2WRBnNl81o,"Tivi Gunz, Young Gatillo, Angel Dior, D´Flow Aka La Maldad",Zuculento,Dominican Republic,0.768,0.877,2,-3.849,1,0.305,0.366,0.000338,0.312,0.786,117.986,2.79,4
+1Sym1HsTqsa2pYKhYL1j15,"Eladio Carrion, Rels B",Me Gustas Natural,Dominican Republic,0.721,0.426,0,-7.473,0,0.11,0.859,0.000216,0.111,0.451,127.083,2.83,4
+0UvZcEfpzVyx47QsRbjyBz,Bad Bunny,El Apagón,Dominican Republic,0.629,0.698,8,-4.485,1,0.308,0.0509,0.00166,0.0909,0.599,117.765,3.36,4
+1jlCndlFWOWUl1YXETLB2h,"Messiah, Dowba Montana",Vaina Cara,Dominican Republic,0.782,0.784,11,-4.269,1,0.219,0.342,0.0,0.0902,0.696,130.012,3.2,4
+6C1RD7YQVvt3YQj0CmuTeu,"Bad Bunny, Ozuna, Farruko, Arcangel, Ñengo Flow, DJ Luian, Mambo Kingz",Diles,Dominican Republic,0.813,0.56,2,-5.904,0,0.0618,0.108,0.0,0.268,0.287,118.033,4.77,4
+2hLXUbsOU9cDb9RFva9FYr,"Mora, Jhay Cortez",MEMORIAS,Dominican Republic,0.771,0.707,2,-6.404,0,0.055,0.389,0.0,0.0745,0.317,127.963,3.81,4
+22TyikLrwsaXhsL31mewls,Eladio Carrion,Que Cojones,Dominican Republic,0.382,0.618,2,-7.201,0,0.0942,0.459,0.0,0.128,0.711,183.061,2.69,4
+5q3b86vdmn3itBhsAPHMfd,"Luigui Bleand, Musicologo The Libro",Lo Prieto,Dominican Republic,0.767,0.848,5,-1.135,0,0.216,0.527,6.17e-06,0.148,0.848,93.995,3.08,4
+3HQxzXOb4p9pfpD5gP38D5,"Eladio Carrion, KAROL G",No Te Deseo el Mal,Dominican Republic,0.886,0.482,7,-9.882,1,0.175,0.396,0.0,0.115,0.568,124.956,3.88,4
+5dtNrI6WMGCTBbK8499242,Mora,CALENTÓN,Dominican Republic,0.455,0.592,11,-7.069,0,0.227,0.45,1.03e-06,0.116,0.512,134.025,3.38,4
+5VD5mr12uonOBeEFbqobXA,"Tokischa, Eladio Carrion",Hola,Dominican Republic,0.798,0.518,10,-6.723,0,0.253,0.503,0.0,0.0995,0.528,85.979,2.79,4
+0T2pB7P1VdXPhLdQZ488uH,Feid,Normal,Dominican Republic,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,2.86,4
+5bbDOmtSTUeAmzYDUv8eVF,Yiyo Sarante,Manos de Tijera,Dominican Republic,0.733,0.684,11,-6.736,0,0.0344,0.614,2.14e-05,0.197,0.861,153.943,3.84,4
+00nY6dEt6R0zGDTFt7FlBO,"Treintisiete, La Demente",Un Malo y Medio,Dominican Republic,0.921,0.923,10,-3.278,0,0.16,0.127,0.0,0.152,0.495,109.994,1.85,4
+3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Dominican Republic,0.627,0.429,1,-8.255,1,0.234,0.238,0.0,0.122,0.565,126.426,1.88,5
+6TsVhM8qIkWN5cJVDIVbbz,"Wisin & Yandel, ROSALÍA",Besos Moja2,Dominican Republic,0.736,0.727,5,-4.642,0,0.0571,0.0584,1.91e-06,0.0976,0.644,94.048,3.82,4
+3JCaq3KDSROg3TXhdiDa9n,"Jhayco, Anuel AA",Ley Seca,Dominican Republic,0.759,0.842,8,-3.758,1,0.096,0.101,0.0,0.134,0.584,105.059,4.39,4
+4o5kWgO8DVkEXO54fdXR3l,Anuel AA,Nosotros,Dominican Republic,0.663,0.542,0,-5.875,1,0.058,0.189,0.00201,0.127,0.0993,154.994,4.38,4
+2Dd09eL1Hlu7TdORnKKvGU,Dimelo Bless,Dimelo Bless Vol1,Dominican Republic,0.666,0.183,1,-15.753,1,0.427,0.0017,0.905,0.11,0.87,145.055,2.5,4
+4jhHaLksdP8DJZzxYAjOSz,"Eladio Carrion, Bad Bunny",Kemba Walker,Dominican Republic,0.832,0.59,8,-7.168,0,0.272,0.446,1.43e-06,0.123,0.596,146.907,2.55,4
+1VauUM5CBX7nkLcgafQL2B,"Bizarrap, Eladio Carrion","Eladio Carrion: Bzrp Music Sessions, Vol. 40",Dominican Republic,0.783,0.524,5,-6.455,0,0.0554,0.241,0.0,0.271,0.839,117.496,2.75,4
+6Y5aTqQNbr0LLtxcIXMCH4,"BM Legacy, Ale Mix, Legado ARM, Alberto Stylee",Contigo,Dominican Republic,0.784,0.899,11,-5.55,0,0.175,0.0559,0.000161,0.0602,0.895,97.022,3.04,4
+0BakJchpLPMO9eVYW6V6k7,"Ale Mix, Dj Chekesito",Cumbiaton Mexa,Dominican Republic,0.867,0.806,2,-5.126,1,0.197,0.461,0.0,0.25,0.767,99.97,2.9,4
+22iCMlT0xYryKNnz4X5Vwn,Romeo Santos,Solo Conmigo,Dominican Republic,0.855,0.856,2,-1.948,1,0.0455,0.199,0.0,0.0824,0.922,122.976,4.25,4
+2tFwfmceQa1Y6nRPhYbEtC,"Jhayco, Bad Bunny",CÓMO SE SIENTE - Remix,Dominican Republic,0.807,0.606,3,-8.871,0,0.088,0.0946,0.0,0.119,0.304,92.988,3.79,4
+3M23T72K5eqHI2GzdFMMHE,Anuel AA,Brother,Dominican Republic,0.592,0.625,10,-6.203,0,0.2,0.618,9.71e-05,0.287,0.555,166.018,3.49,4
+2vmfvSoZBFAt9hhRoEByLi,"Aventura, Bad Bunny",Volví,Dominican Republic,0.725,0.86,1,-3.726,1,0.182,0.422,0.000284,0.0674,0.791,175.896,3.84,4
+3qx4POjFiODHPwCBjq8IEW,"Romeo Santos, Christian Nodal",Me Extraño,Dominican Republic,0.639,0.516,0,-4.418,1,0.0296,0.391,0.0,0.259,0.759,94.931,3.2,4
+69vlMrzHwATKzupwNcUPyK,"Bad Bunny, Daddy Yankee",La Santa,Dominican Republic,0.744,0.868,1,-4.524,1,0.047,0.0326,0.0,0.0822,0.586,93.037,3.44,4
+5WG5YepJrJ13Fxh4V2oLCr,Chris Lebron,Mesero,Dominican Republic,0.487,0.552,0,-8.782,1,0.174,0.76,0.0,0.115,0.676,115.998,2.51,4
+30W8VKHrAZmHzObnwAoc1u,"Mora, Sech",TUS LÁGRIMAS,Dominican Republic,0.683,0.714,1,-4.898,1,0.252,0.181,1e-06,0.111,0.448,173.963,2.91,4
+3DGvNJcyicD4gHoVEvH86P,Romeo Santos,Suegra,Dominican Republic,0.84,0.863,1,-2.979,1,0.0433,0.0981,2.21e-05,0.0805,0.96,122.997,3.74,4
+1LrpAyDAR2l8jqRCr2mLo7,Dowba Montana,Depues De Las 3,Dominican Republic,0.885,0.746,5,-4.732,1,0.268,0.399,0.0,0.23,0.405,101.991,3.19,4
+6NSMQFKgjpQb0KkjMDYIK0,"Arcangel, Bad Bunny, Mambo Kingz, DJ Luian",Tu No Vive Asi (feat. Mambo Kingz & DJ Luian),Dominican Republic,0.815,0.514,6,-9.446,0,0.361,0.54,0.0,0.611,0.623,120.054,4.4,4
+2ROQe6QkIXODJRx0y8UjzV,"Tokischa, Anuel AA, Ñengo Flow",Delincuente,Dominican Republic,0.798,0.71,2,-3.39,1,0.0973,0.0576,0.025,0.4,0.662,97.875,3.77,4
+7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Dominican Republic,0.759,0.561,0,-5.643,0,0.131,0.803,0.121,0.101,0.491,104.915,3.01,4
+6e9Ew4AECYwY5Xgs2ZKMgp,Anuel AA,Mercedes Tintia,Dominican Republic,0.815,0.67,11,-4.076,1,0.109,0.0902,0.000854,0.0973,0.768,172.014,3.26,4
+3rdAz1fbUfZxYgaCviYhRo,Rauw Alejandro,Todo De Ti,Dominican Republic,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,0.336,127.962,3.33,4
+5LHqFj9aWBKzffkzdx9EQK,"Braulio Fogon, Bulin 47",Ahi Si Si Si,Dominican Republic,0.726,0.617,11,-2.36,0,0.421,0.0083,0.0,0.118,0.625,232.018,3.14,4
+35wvL50xvKpCHEJPxLOLPI,Bad Bunny,Si Estuviésemos Juntos,Dominican Republic,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-05,0.152,0.158,171.854,2.82,4
+0kTMK4gNFfLXaTb62w1UaJ,"Pablo Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",BABY OTAKU,Dominican Republic,0.835,0.747,9,-4.65,1,0.083,0.0492,0.0,0.055,0.432,102.003,2.94,4
+4BBTalxG6c1Aoai1x1EA5g,"Romeo Santos, Justin Timberlake",Sin Fin,Dominican Republic,0.736,0.869,0,-3.873,1,0.0548,0.18,0.0,0.0687,0.783,128.009,3.91,4
+1F205Nl2feOSYSztLNOJAL,"Eladio Carrion, Brytiago",3 Am,Dominican Republic,0.852,0.613,9,-5.261,1,0.108,0.413,0.000201,0.123,0.576,89.951,3.47,4
+6WfxIJKmYRSpsBJv0tEAKX,Rauw Alejandro,MUSEO,Dominican Republic,0.793,0.449,0,-7.212,1,0.047,0.763,0.0,0.165,0.322,108.937,4.26,4
+1SZMZCqVHIWgyEy2dIHsZR,Yiyo Sarante,Corazon de Acero,Dominican Republic,0.608,0.769,5,-4.028,0,0.0434,0.484,4.77e-06,0.0529,0.948,83.892,3.77,4
+5m6i8SGp2CyudL8rgYUYFe,"El Alfa, Farina",Bendecido,Dominican Republic,0.913,0.831,11,-5.837,0,0.217,0.0787,0.0976,0.0723,0.599,118.064,3.12,4
+2BEcap3xJtmiPaHKyfQi4e,"Rvssian, Rauw Alejandro, Chris Brown",Nostálgico,Dominican Republic,0.734,0.846,9,-3.425,0,0.0489,0.166,1.74e-06,0.235,0.604,98.026,3.5,4
+6fZAPx7wPQmVOK5hMJiHzG,Fifty Voice,Duelo,Dominican Republic,0.738,0.537,9,-8.124,0,0.405,0.0427,0.0,0.104,0.35,170.005,2.3,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Dominican Republic,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Dominican Republic,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+2FILi8VnFqZlMhKjnrAEtK,Young Flow,Yo Vivo Mi Vida,Dominican Republic,0.95,0.3,2,-14.628,1,0.643,0.129,0.0,0.0624,0.229,119.979,3.25,4
+3PpWCS95gDUDRPko3u1MZ9,Feid,Prohibidox,Dominican Republic,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,2.77,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Dominican Republic,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+48PWl8PXhw0aHpbunmwI8k,ØMG,La Noche Perfecta,Dominican Republic,0.725,0.637,6,-5.579,1,0.048,0.222,3.27e-06,0.0996,0.811,103.944,2.79,4
+0X6sRADYbUDYutAulPllKN,"Romeo Santos, Toño Rosario, Rubby Pérez, Fernando Villalona, Ramón Orlando","15,500 Noches",Dominican Republic,0.682,0.871,8,-3.428,0,0.0851,0.0987,0.0,0.0434,0.873,123.934,4.52,4
+6mCzElWVPTZMNPA2jjbFuJ,Chris Jonex,Completa,Dominican Republic,0.654,0.679,8,-6.403,1,0.0684,0.254,0.0,0.167,0.77,150.048,2.12,4
+0gCPvo1GkbtPhMqg5Gbx1K,"Daddy Yankee, Bad Bunny",Vuelve,Dominican Republic,0.734,0.531,1,-5.662,1,0.0321,0.196,0.0,0.119,0.199,130.024,4.66,4
+3GizofVtPLJ1ROVmYItTlX,Dowba Montana,La Vuelta 3,Dominican Republic,0.773,0.758,2,-2.201,1,0.325,0.407,0.0,0.077,0.658,90.49,3.65,4
+0yFNk7ZdaaJrJhzFwTNfLh,"Jay Wheeler, Zhamira Zambrano",Dicelo,Dominican Republic,0.379,0.258,10,-11.088,1,0.0398,0.841,0.0,0.107,0.489,153.313,4.0,4
+4vCAzANUWDE24URV6wQ4ra,Bad Bunny,Otra Noche en Miami,Dominican Republic,0.514,0.646,1,-8.833,1,0.275,0.197,2.3e-05,0.0958,0.297,88.661,3.89,4
+2n7ohqg1s68ToAHh4u9mcW,Bad Bunny,Vete,Dominican Republic,0.886,0.672,1,-4.394,1,0.188,0.0363,8.78e-06,0.101,0.526,91.976,3.2,4
+6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Dominican Republic,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.00387,0.0638,0.585,109.97,5.37,4
+62jJgYMqkNuVlOiyscQo15,"El Bird, Pacho y Cirilo, Polaco, Gastam, Prynce, Klaze & Eztylo, JQ ""The #1 Contender""",Quiero Fumar - Remix,Dominican Republic,0.847,0.874,1,-3.86,1,0.234,0.193,0.0,0.51,0.793,96.983,8.97,4
+6mjhmQB61lSVhgcmOFJv9L,Romeo Santos,Ayúdame,Dominican Republic,0.811,0.81,9,-3.748,0,0.0422,0.108,0.0,0.0627,0.75,124.053,3.74,4
+0MEZYGMSPxNwUO4nAdQRBW,Eladio Carrion,Hola Como Vas,Dominican Republic,0.729,0.596,6,-7.523,1,0.24,0.689,0.000181,0.065,0.781,185.984,3.31,4
+1UdzJEpgJxtuXAlCOvD4S0,Danny Ocean,Fuera del mercado,Dominican Republic,0.453,0.673,8,-5.649,1,0.144,0.32,0.0,0.131,0.266,92.06,2.66,4
+4r9jkMEnArtWGH2rL2FZl0,Bad Bunny,A Tu Merced,Dominican Republic,0.86,0.791,0,-4.784,1,0.0568,0.169,0.000106,0.106,0.887,92.023,2.93,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Dominican Republic,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+2nlbKSzDPYUmU8F2npLFak,Treintisiete,3730,Dominican Republic,0.847,0.755,11,-5.669,0,0.108,0.00931,0.0126,0.0684,0.76,107.972,2.3,4
+2Fe1CT9Q87RobsBIOMA6Gc,Dimelo Bless,Dimelo Bless Vol8,Dominican Republic,0.572,0.453,5,-20.483,0,0.0681,0.273,0.935,0.192,0.842,137.934,1.5,4
+0AGbrxmcHf93xiuaaXQO9S,Dimelo Bless,Dimelo Bless Vol7,Dominican Republic,0.825,0.655,3,-19.294,1,0.101,0.34,0.579,0.0633,0.923,138.047,1.51,4
+5q2JbCNi4FcnglgPfxcV65,"Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin",Sola (Remix),Dominican Republic,0.639,0.869,11,-4.024,1,0.147,0.27,0.0,0.0802,0.767,169.801,5.13,4
+1KwMVzMArDnM5m2LNuzXAO,"Messiah, Nicky Jam, Ozuna",Millonario (Remix) [feat. Ozuna],Dominican Republic,0.549,0.723,6,-5.228,0,0.283,0.488,0.0,0.083,0.782,83.691,3.57,4
+1sbNEFiURUYfy024cJX8JG,Feid,Ferxxo 100,Dominican Republic,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,2.8,4
+0ill3qz7eiLAswHanCCoeJ,Romeo Santos,Boomerang,Dominican Republic,0.857,0.699,0,-5.493,0,0.0432,0.0498,0.0,0.112,0.905,130.031,4.13,4
+5YJ4BVvTFmVCxUyhKejHfR,Tego Calderón,Pa' Que Retozen,Dominican Republic,0.815,0.856,1,-3.825,0,0.122,0.4,8.34e-05,0.244,0.872,91.995,2.53,4
+4HYDUMY0xSpeBr0AMY9cUz,"Jay Wheeler, DJ Nelson, Myke Towers",La Curiosidad,Dominican Republic,0.845,0.677,11,-4.798,0,0.136,0.269,0.000917,0.108,0.68,90.013,3.65,4
+0kSFS3u3KvnuyaBS9VYJ3p,Kaly Ocho,Bocina Bom,Dominican Republic,0.72,0.884,10,-0.469,0,0.321,0.0879,0.0,0.121,0.572,117.439,3.29,4
+5PycBIeabfvX3n9ILG7Vrv,Romeo Santos,Propuesta Indecente,Dominican Republic,0.757,0.632,2,-6.83,1,0.0549,0.499,0.0,0.0723,0.742,122.936,3.92,4
+2rm9Jixn9sLzTM6PF8u8AH,"Eladio Carrion, Nicki Nicole",Nota,Dominican Republic,0.7,0.545,3,-5.563,1,0.349,0.723,0.0,0.111,0.643,91.05,2.66,4
+4srcMdbm2qzVG98tJajHxp,"Alejo, Feid, ROBI",Pantysito,Dominican Republic,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4.01,4
+2XIc1pqjXV3Cr2BQUGNBck,"Bad Bunny, ROSALÍA",LA NOCHE DE ANOCHE,Dominican Republic,0.856,0.618,7,-4.892,1,0.286,0.0303,0.0,0.0866,0.391,81.993,3.39,4
+69Ej1xrGjOcHvIMtMKxK0G,Don Omar,Dile,Dominican Republic,0.817,0.714,4,-7.501,0,0.141,0.184,0.000132,0.042,0.714,94.001,3.41,4
+0R7DSnSibvuE4PEHqUayqf,Plan B,Es un Secreto,Dominican Republic,0.836,0.777,6,-5.376,0,0.0439,0.0951,1.68e-06,0.0561,0.504,94.977,3.18,4
+3FkeNbs9Zeiqkr3WkbOiGp,Anitta,Envolver,Dominican Republic,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,3.23,4
+2fpKvUg9hxiKAOLuwfEdlJ,"Foreign Teck, Justin Quiles, Jay Wheeler, Bryant Myers, Eladio Carrion, Tory Lanez",Conexión,Dominican Republic,0.635,0.682,10,-6.86,1,0.271,0.207,0.0,0.361,0.673,89.085,4.8,4
+3jYupNC83fSYhF96CshISt,Jesus Brillo,Mi Movimiento,Dominican Republic,0.611,0.911,5,-3.543,1,0.299,0.251,0.0,0.345,0.705,99.373,2.83,4
+41wtwzCZkXwpnakmwJ239F,Bad Bunny,Si Veo a Tu Mamá,Dominican Republic,0.9,0.603,2,-5.313,1,0.0646,0.402,4.81e-06,0.134,0.824,129.928,2.85,4
+5RubKOuDoPn5Kj5TLVxSxY,Bad Bunny,TE MUDASTE,Dominican Republic,0.811,0.637,10,-4.835,0,0.0591,0.234,0.000572,0.118,0.471,92.025,2.17,4
+3f5lA8nnc4YYF1qf78WpHw,"Anuel AA, Romeo Santos",Ella Quiere Beber - Remix,Dominican Republic,0.75,0.665,8,-3.083,1,0.124,0.265,0.0,0.0515,0.697,95.239,3.66,4
+73u8KWnLOQykesSgYic6nD,"La Materialista, La Perversa",TOMALA,Dominican Republic,0.874,0.862,2,-3.588,1,0.0731,0.00191,0.00421,0.141,0.802,117.003,3.04,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Dominican Republic,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+24HzEc30Pzu0ioNlyukZhJ,"Yomel El Meloso, Kiko el Crazy, Treintisiete",Molly,Dominican Republic,0.893,0.955,11,-1.976,1,0.125,0.0683,0.00142,0.0699,0.931,117.958,2.24,4
+0B1J4Mm4oRVMqoy6RM9vIM,"Anuel AA, Eladio Carrion",North Carolina,Dominican Republic,0.705,0.541,5,-6.421,0,0.0701,0.369,0.0,0.206,0.273,139.909,2.94,4
+4hceSKjrkDTO0nMKFcb3sj,"Bizarrap, Villano Antillano","Villano Antillano: Bzrp Music Sessions, Vol. 51",Dominican Republic,0.82,0.752,1,-7.635,0,0.0648,0.0584,0.00417,0.628,0.423,127.999,3.12,4
+3KJ3opyV29269SXkPrc19l,Bad Bunny,120,Dominican Republic,0.636,0.656,2,-5.542,0,0.0676,0.451,7.97e-06,0.287,0.439,171.918,2.53,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Dominican Republic,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+3xv8JksRyqHa1lwkM9xvJf,"Anuel AA, Myke Towers, Jhay Cortez",Súbelo,Dominican Republic,0.625,0.754,6,-4.158,0,0.076,0.17,3.76e-05,0.109,0.746,89.888,4.0,4
+4joPCNKibsoabhpuHPofqG,"Kany García, Christian Nodal",La Siguiente,Dominican Republic,0.715,0.612,4,-4.32,1,0.0344,0.471,0.0,0.0838,0.602,93.869,3.37,3
+55b9ywCCjdMt4p0rrDWZGp,Chris Lebron,Desde Mis Ojos,Dominican Republic,0.561,0.432,1,-7.207,1,0.22,0.547,1.27e-06,0.119,0.504,188.091,2.83,4
+45mag7rLJ1gF0Bm1cac818,Dimelo Bless,Dimelo Bless Vol2,Dominican Republic,0.666,0.196,10,-21.819,0,0.0469,0.000933,0.95,0.117,0.381,116.004,2.5,4
+1cV11tWPqPON7IQTap55Sk,"Yaisel LM, EL YALA",La 40,Dominican Republic,0.861,0.917,11,-3.364,0,0.39,0.322,0.0186,0.251,0.805,117.041,2.57,4
+6r46lnXFbE9fr2d3KNaGbe,Romeo Santos,Imitadora,Dominican Republic,0.737,0.709,8,-6.889,0,0.045,0.333,0.0,0.289,0.556,125.997,3.91,4
+7hynhxDoDpgMIV12JuVtNa,"J Balvin, Bad Bunny, Marciano Cantero",UN PESO,Dominican Republic,0.627,0.675,5,-7.125,0,0.213,0.125,0.0,0.0784,0.961,79.31,4.62,4
+0pnyg7HvD4XBQaZGI6Jtev,"Messiah, Leo RD",Princeso,Dominican Republic,0.889,0.848,1,-4.807,0,0.389,0.000561,1.79e-05,0.0714,0.822,118.343,2.37,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Dominican Republic,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+5J7teKIJGtqVypgYI6sqXj,"Bad Bunny, Mora",Una Vez,Dominican Republic,0.55,0.598,11,-5.402,0,0.0831,0.132,2.58e-06,0.0955,0.543,83.836,3.87,4
+0vHfVsEe6Ps0d8cZ9PGzSw,"De La Ghetto, Rauw Alejandro",Loco Por Perrearte - Remix,Dominican Republic,0.848,0.673,11,-4.034,0,0.058,0.0147,0.00652,0.102,0.39,93.987,3.32,4
+4et8cFiIp4NPpWfULoukzc,Jay Wheeler,Eazt,Dominican Republic,0.563,0.23,5,-10.062,1,0.11,0.877,0.0,0.118,0.334,180.086,3.6,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Dominican Republic,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+74WOZ17ERaFrHXYtSid13p,Miky Woodz,La MVP,Dominican Republic,0.892,0.601,8,-5.868,0,0.152,0.165,0.0,0.104,0.58,119.95,3.01,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Dominican Republic,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+2vsoD8S1OyrWSVIA43hjaU,Feid,Si Te La Encuentras Por Ahí,Dominican Republic,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,3.19,4
+4lrJuO3sqIV1nJJGH2u3S8,Manny Music RD,Base Dem,Dominican Republic,0.818,0.691,8,-13.432,0,0.123,1.33e-06,0.948,0.0921,0.978,120.097,2.27,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Dominican Republic,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+7DcJXd2xxVcohwehWahFJJ,Frankie Ruiz,Tú Con Él,Dominican Republic,0.827,0.781,7,-5.914,1,0.0502,0.188,0.000759,0.249,0.961,95.411,5.04,4
+5hKjEpYrJIJs6uPl7zw6Y6,"Jory Boy, Bad Bunny",No Te Hagas,Dominican Republic,0.748,0.69,0,-3.812,0,0.0477,0.0353,0.0,0.315,0.433,131.972,3.89,4
+6eRmG7DPom2FfRNAoCmjqb,Frankie Ruiz,Deseándote,Dominican Republic,0.559,0.838,5,-4.534,0,0.0484,0.492,0.0,0.179,0.927,95.519,4.69,4
+7rwX0O3RlxqqIjQM8evm5E,"Ozuna, Mambo Kingz, DJ Luian, Bad Bunny, Wisin, Almighty",Solita,Dominican Republic,0.807,0.633,10,-6.016,0,0.0929,0.0564,0.0,0.107,0.325,138.038,5.2,4
+1WbXIpiGBJkCiv3hn40iPB,"Romeo Santos, Ozuna",Sobredosis (feat. Ozuna),Dominican Republic,0.759,0.639,4,-8.085,0,0.0511,0.207,0.0,0.23,0.682,128.01,3.31,4
+2z91iRvzhHgCM6Y8a9cXEC,"EL YALA, Braulio Fogon, Hansel El De La H",2 Na Ma - Remix,Dominican Republic,0.745,0.885,1,-2.031,0,0.413,0.345,1.61e-05,0.14,0.791,146.323,2.63,5
+25ZAibhr3bdlMCLmubZDVt,"J Balvin, Bad Bunny",QUE PRETENDES,Dominican Republic,0.639,0.791,10,-4.443,0,0.253,0.0275,0.0,0.362,0.939,92.603,3.71,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Dominican Republic,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+6EPECSL7gi8R67mRuIM2Xs,Manny Music RD,Dembow calle,Dominican Republic,0.803,0.436,1,-20.954,1,0.24,0.00276,0.92,0.076,0.345,130.021,3.14,4
+4BhM4l1yhOBBpVB65P6f7G,Manny Music RD,Electro bongo,Dominican Republic,0.804,0.474,6,-18.735,1,0.269,4.44e-05,0.845,0.0857,0.0615,130.03,2.07,4
+6NG7Km87ITvhmzphMs2uz4,Canelo Music,Gucci Trap,Dominican Republic,0.797,0.175,10,-19.975,0,0.426,0.0253,0.905,0.0847,0.556,135.037,1.93,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Dominican Republic,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Dominican Republic,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+78QcVmzxS0wIwuC2rpAauI,"Rauw Alejandro, Mr. Naisgai",2/Catorce,Dominican Republic,0.768,0.56,3,-3.497,1,0.0859,0.709,0.000791,0.115,0.372,112.084,3.43,3
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Dominican Republic,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+2zknaYPaPICrQ5b04Y5oDP,Dj Concon,Dj Concon Vol1,Dominican Republic,0.634,0.126,9,-20.696,1,0.0342,0.738,0.841,0.112,0.335,110.092,1.55,3
+06s3QtMJVXw1AJX3UfvZG1,"Anuel AA, Bad Bunny",Hasta Que Dios Diga,Dominican Republic,0.691,0.765,8,-4.727,1,0.111,0.464,3.29e-06,0.203,0.855,174.021,4.1,4

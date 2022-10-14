@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+5BGdBH8MsaHCgfr4TMpRin,"Bárbara Bandeira, Ivandro",Como Tu (feat. Ivandro),Portugal,0.562,0.671,1,-8.672,0,0.437,0.665,5.86e-06,0.4,0.43,187.57,3.46,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Portugal,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+7BELSQR2lAJLELaKvVkct3,Ivandro,Lua,Portugal,0.629,0.348,3,-10.154,0,0.0854,0.843,0.000107,0.117,0.35,152.088,3.21,4
+5vC8UAOHeG95ehRzZChniB,"L7NNON, DJ Biel do Furduncinho, Bianca",Ai Preto,Portugal,0.953,0.57,6,-5.149,1,0.245,0.537,0.0,0.0993,0.834,129.947,2.19,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Portugal,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,Portugal,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Portugal,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Portugal,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4
+7qoIhutxU269Zqo9PG5IOj,"Pineapple StormTv, Chris MC, Salve Malak, Tz da Coronel, MC Cabelinho, Chefin, L7NNON, Luísa Sonza, Oruam, Xamã, N.I.N.A",Poesia Acústica 13,Portugal,0.572,0.579,10,-7.242,0,0.128,0.469,0.0,0.136,0.5,127.982,10.34,4
+1OZ4uv7OAP24Ix6j3vojLt,"Mc Paiva ZS, MC Ryan SP, Kotim",Casei Com a Putaria,Portugal,0.585,0.6,10,-7.008,0,0.436,0.117,0.0,0.0504,0.617,160.635,2.62,4
+0dLkZwE2Xt4ETtUt5cED2l,Juliette,Diferença Mara,Portugal,0.603,0.494,11,-11.163,1,0.0362,0.534,0.0,0.0947,0.705,160.008,2.83,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Portugal,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Portugal,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+0dAZ5dCofHy6rquqU6YG29,Matias Damásio,Como Antes,Portugal,0.574,0.776,2,-5.288,0,0.0491,0.392,0.000191,0.211,0.516,171.932,3.74,4
+5bBQI31u2eqXJE5OyP4hxq,"Mizzy Miles, Deejay Telio, Teto, Gson",EUROPA (feat. Gson),Portugal,0.794,0.619,2,-5.636,1,0.0991,0.0701,0.0,0.164,0.183,98.05,3.61,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Portugal,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+0i4UV3HjjvsUuV3BajEXoD,"MC Tairon, Mc Vitin Da Igrejinha, Dj Win",Baile no Morro,Portugal,0.714,0.404,3,-7.903,0,0.453,0.457,0.0,0.0701,0.782,130.088,2.34,4
+7AwVSKaQxpidrtYBerkHKk,"Ana Castela, Melody, Dj Chris No Beat",Pipoco,Portugal,0.774,0.742,8,-4.178,1,0.0766,0.473,0.000472,0.342,0.736,134.991,3.23,4
+2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",Portugal,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Portugal,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+3q3EBdrTrlF4PmJQTZ17ie,"Calema, Zé Felipe",Onde Anda,Portugal,0.683,0.66,1,-8.44,0,0.295,0.261,0.0,0.101,0.561,99.913,2.96,4
+0jAAnWNbcHf6X1EXOtvOT7,MC Kevin o Chris,Incendeia,Portugal,0.893,0.461,3,-5.708,0,0.422,0.713,0.0406,0.117,0.864,135.136,4.0,4
+5zNxUkUW9WiV5oyg6gh2wB,"PEDRO SAMPAIO, Mc Pedrinho",DANÇARINA,Portugal,0.778,0.571,9,-4.776,0,0.0788,0.0423,0.0,0.0964,0.554,134.999,1.84,4
+7qD2vjd3btuOgwpQPEY7ci,"Mc Don Juan, MC G15, Mc Davi",EU VOU COM CARINHO ELA QUER COM FORÇA,Portugal,0.82,0.28,5,-11.742,1,0.0485,0.353,1.69e-05,0.116,0.209,129.854,2.4,4
+5fjD0vHh9XRL6b657FWe9C,Plutonio,Por Enquanto,Portugal,0.696,0.708,1,-6.815,1,0.0666,0.492,0.000726,0.101,0.699,97.907,2.37,4
+0oKpBxCq4U5IvUZqMuVMM3,Bárbara Tinoco,chamada não atendida,Portugal,0.44,0.347,6,-8.369,0,0.1,0.87,1.58e-05,0.115,0.134,172.593,3.41,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Portugal,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+4x5q5T5mhE1xvoCVXY6qrN,"DJ AK BR, Dj Darge",Melodia Alucinógena,Portugal,0.685,0.644,1,-9.458,1,0.0365,0.746,0.755,0.157,0.405,130.077,3.06,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Portugal,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+5PSkF3QpVMlAx8U5Inxj39,"Mc Jacaré, Dj Tk",Vento Forte,Portugal,0.86,0.78,3,-4.158,0,0.131,0.246,0.000827,0.31,0.801,130.048,2.06,4
+4PQdrXMDHDPl1RczrrlADd,Luan Santana,MORENA,Portugal,0.526,0.731,11,-4.662,1,0.0887,0.18,0.0,0.0891,0.476,86.959,3.22,4
+4aoZBldNDVYmTwmeoI49ud,"Mc Gabzin, DJ TAK VADIÃO, dj sv",O Poder Dessa Garota,Portugal,0.763,0.474,4,-3.584,0,0.0767,0.686,0.0,0.0835,0.788,86.585,2.28,5
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Portugal,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Portugal,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4
+6hFwju6M40CKovKBPu5IpY,Jovem Dionisio,ACORDA PEDRINHO,Portugal,0.876,0.359,11,-11.169,0,0.341,0.187,1.71e-06,0.666,0.876,124.016,2.88,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Portugal,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+6bTdZ7xfKp3NqqADJ8HLyj,"Matuê, WIU, Teto",Vampiro,Portugal,0.782,0.643,8,-4.956,0,0.0438,0.0136,0.0,0.0654,0.627,114.994,4.17,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Portugal,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Portugal,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Portugal,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+0NBgyml7T0IvUNbXIkcSpH,"Xamã, Gustah, Neo Beats, Bagua Records",Malvadão 3,Portugal,0.821,0.609,6,-6.541,0,0.268,0.378,0.0,0.136,0.516,133.133,2.36,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Portugal,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+3gK5ckT0cq3t5enyqzzRgV,PEDRO SAMPAIO,GALOPA,Portugal,0.763,0.85,1,-4.036,0,0.0409,0.285,0.0,0.104,0.77,150.009,2.34,4
+3imzmQM2DPPVBLMiBBexRL,"Kweller, Enzo Cello",202,Portugal,0.76,0.305,5,-10.233,0,0.303,0.7,0.0,0.184,0.788,119.992,2.83,4
+57rx7d5tagl2wOWzj3eWJc,Ivandro,Moça,Portugal,0.546,0.41,4,-10.538,0,0.421,0.522,5.05e-05,0.0945,0.317,63.1,3.01,3
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Portugal,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Portugal,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+30WnHkBkq3vE8jJcNZ3RKr,Wet Bed Gang,Praça Onze,Portugal,0.595,0.73,6,-5.968,0,0.113,0.285,0.0,0.116,0.189,93.849,4.39,4
+2Z8pPatBfVlRqNlsnmMdhV,Richie Campbell,Let You Go,Portugal,0.477,0.578,0,-8.957,0,0.356,0.807,0.0,0.103,0.298,87.907,3.41,4
+4NJKCE1TBC653P3dCnto0u,Mc Gabzin,Simplesmente Ela,Portugal,0.572,0.616,4,-2.609,0,0.083,0.227,0.0,0.0728,0.545,83.04,2.68,3
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Portugal,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+4a0sqvCBo7aRIS4GzBQpnp,"MC Braz, MC Tairon, Dj Win",Kikando e Me Olhando,Portugal,0.742,0.439,3,-5.141,0,0.28,0.637,0.0,0.0876,0.842,85.974,3.51,3
+1h1JMmAzXR6lWJ7KnJQkU7,Gama WNTD,Borboletas,Portugal,0.793,0.44,6,-9.637,1,0.0668,0.755,2.07e-05,0.182,0.75,94.98,3.4,4
+7afaZ37wJJL6880z1NRgJS,Teto,Fim de Semana no Rio,Portugal,0.867,0.494,1,-6.514,0,0.084,0.118,0.0,0.101,0.29,118.868,2.76,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Portugal,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+4vWh6tEfcLzdvYWp2IlOJS,"Luan Santana, Luísa Sonza",CORAÇÃO CIGANO - Ao Vivo,Portugal,0.653,0.68,4,-5.507,0,0.0298,0.0962,0.0,0.884,0.512,126.048,3.5,4
+4QQTPEwqE4Aq7LXSyIgSci,"Mc Kitinho, Mc guizinho niazi, DJ DEIVÃO, Silva Mc",Primeiro Beck Ela Me Mamou,Portugal,0.937,0.724,1,-1.076,1,0.243,0.176,0.0114,0.224,0.798,130.033,2.32,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Portugal,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+3FkeNbs9Zeiqkr3WkbOiGp,Anitta,Envolver,Portugal,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,3.23,4
+1DHSj9pjlwGsVTQ2A2Z8gk,"Deejay Telio, Julinho Ksd",Cara Que Engana,Portugal,0.766,0.639,3,-6.797,0,0.242,0.664,0.0318,0.0936,0.78,142.019,2.99,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Portugal,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+5TMLavqGRKNxgzMBrVpC9R,"zzoilo, Aitana",Mon Amour - Remix,Portugal,0.748,0.761,2,-6.621,1,0.102,0.122,6.56e-06,0.0984,0.362,116.041,3.0,4
+1ftBvRj542ol7LT1A0EtL7,Wet Bed Gang,Devia Ir,Portugal,0.714,0.51,5,-7.965,0,0.403,0.638,0.0,0.236,0.486,94.205,4.9,4
+3ShKPhFkexrwl7WoyTtNND,"MC Rogerinho, Wesley Safadão",Tchuco Nela,Portugal,0.802,0.727,9,-4.968,0,0.0307,0.413,0.0,0.0713,0.837,125.038,2.85,4
+2Cq6yIgdyyaDmY7pvnADVP,Julinho Ksd,Lingerie,Portugal,0.853,0.661,2,-5.827,1,0.0856,0.252,0.0,0.262,0.857,108.009,3.58,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Portugal,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+3BnDvpeuGOj21Ir2aVEtQo,Rema,Calm Down,Portugal,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,0.842,107.003,3.66,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Portugal,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+0tu5F0rmLZYIdUMEvfRXAo,Álvaro De Luna,Juramento eterno de sal,Portugal,0.631,0.594,2,-5.727,1,0.0581,0.0225,1.91e-06,0.351,0.716,129.991,3.43,4
+75fCsUnTiDelE4HMd06t4O,"Mc Pepeu, DJ Swat",Gostosinho Tu Cai,Portugal,0.739,0.414,10,-8.146,0,0.0481,0.902,0.00284,0.133,0.505,130.039,2.22,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Portugal,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,Portugal,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,3.5,4
+0elz4WC9ZtAOzqP4fgt8T5,"Kappa Jotta, MUN",ROSAS,Portugal,0.8,0.341,5,-9.329,0,0.0923,0.859,0.0,0.144,0.751,87.915,2.95,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Portugal,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Portugal,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2.98,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Portugal,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+5kr0kja5gbZAaT7w3TGKts,Calema,Te Amo,Portugal,0.522,0.688,6,-8.771,0,0.136,0.241,0.00016,0.368,0.482,126.202,4.3,5
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Portugal,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+5A35xC90Nk6tXmcOAOOavi,Luan Santana,ABALO EMOCIONAL - Ao Vivo,Portugal,0.441,0.915,3,-4.096,0,0.112,0.306,0.0,0.252,0.726,185.936,2.55,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Portugal,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+7KWKWJnbGJ3Soag6Oopion,Luísa Sonza,CACHORRINHAS,Portugal,0.709,0.696,8,-4.837,0,0.275,0.16,0.0,0.248,0.484,98.119,2.25,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Portugal,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+3sd2p4kE7xQmFH3lPnFl6h,"Davi Kneip, Mc Frog, Dj Gabriel do Borel, Luísa Sonza",sentaDONA (Remix) s2,Portugal,0.925,0.454,3,-3.533,0,0.273,0.252,4.19e-06,0.128,0.771,135.02,2.09,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Portugal,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+5x2NQmYWyqExdyyXjNIWh3,Domingues,Fica,Portugal,0.598,0.252,4,-9.411,0,0.2,0.959,0.0,0.0875,0.662,139.688,4.34,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Portugal,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Portugal,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Portugal,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+4can6ssapSsRCEbZZfYL8K,"Pineapple StormTv, Filipe Ret, Teto, Luiz Lins, Salve Malak, Borges, Budah, BIN, Marina Sena, Caio Luccas",Poesia Acústica 12 - Pra Sempre,Portugal,0.636,0.665,11,-5.172,0,0.0503,0.451,0.0,0.338,0.374,91.976,7.87,4
+04vzhKfl5HtPEgrdZJCZ7L,"Mc Paiva ZS, Kotim",Bagulho Louco,Portugal,0.531,0.464,0,-9.882,0,0.346,0.814,1.57e-06,0.133,0.643,170.085,2.07,4
+1ei3hzQmrgealgRKFxIcWn,Benson Boone,In The Stars,Portugal,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,0.3,78.007,3.61,3
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Portugal,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+7ARoqP7G8UYW8SyYPyPp7k,"Anitta, PEDRO SAMPAIO",NO CHÃO NOVINHA,Portugal,0.703,0.806,7,-3.563,1,0.0594,0.06,0.00661,0.375,0.704,141.984,2.28,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Portugal,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Portugal,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Portugal,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Portugal,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Portugal,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+2tsXCHNbktRlQxMUV7ql3d,"Bispo, Ivandro",Essa Saia,Portugal,0.693,0.666,11,-5.717,0,0.2,0.518,0.0,0.0942,0.396,88.743,3.51,4
+2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Portugal,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4.79,4
+2vFjbIf5sKoXsXdBG2E9Xf,Maninho,Pode Tentar,Portugal,0.798,0.71,8,-5.078,0,0.171,0.517,0.0,0.167,0.82,130.037,2.59,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Portugal,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+2dWbucCC3cVXQWi6JaL7js,"FRANKIEONTHEGUITAR, Slow J, Ivandro",Imagina,Portugal,0.592,0.416,6,-7.881,0,0.0754,0.604,0.0,0.095,0.357,139.315,3.72,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Portugal,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Portugal,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Portugal,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Portugal,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+13Rf6RaZT13TW4xLQR3MQr,"Pineapple StormTv, MC Cabelinho, Bob do Contra, Azzy, Filipe Ret, Dudu, Xamã, Orochi, Maquiny, Salve Malak, Hunter",Poesia Acústica #6: Era uma Vez,Portugal,0.518,0.575,5,-10.454,0,0.0524,0.427,0.0,0.153,0.577,93.885,9.63,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,Portugal,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+2WigMwGJysIh9fRnSJvpjn,Oxlade,KU LO SA - A COLORS SHOW,Portugal,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9,2.46,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Portugal,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+38EnNqW16JfwQMmKzxX1yc,"Diogo Piçarra, Bispo",Monarquia,Portugal,0.383,0.379,3,-9.739,0,0.0333,0.748,2.03e-06,0.123,0.269,83.928,3.32,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Portugal,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+4xigvdbvlzxJIIZGIg6eGT,"Bárbara Bandeira, Carminho",Onde Vais (feat. Carminho),Portugal,0.471,0.25,4,-7.921,1,0.0342,0.894,0.0,0.171,0.438,140.227,3.97,3
+7qq40cRIYNKZCDt1STfBqt,Niack,"Bruna, Tu Já Parou Pra Pensar",Portugal,0.959,0.936,7,-4.589,0,0.0616,0.542,0.00975,0.0933,0.581,130.099,2.71,4
+11jRCxY01k9jvCdUru0EeP,Arctic Monkeys,Body Paint,Portugal,0.56,0.313,7,-11.653,0,0.0627,0.567,0.0,0.0767,0.254,144.745,4.84,4
+6FInCuMbSlhdlkiFv36KUi,Richie Campbell,Do You No Wrong - Single Version,Portugal,0.679,0.375,4,-6.094,0,0.0366,0.482,1.34e-06,0.0971,0.269,81.029,4.05,3
+4lsDFVKOVwPeAVw1hPOn7G,"Simone & Simaria, Zé Felipe",Vontade De Morder,Portugal,0.807,0.868,7,-3.023,1,0.0567,0.306,0.0,0.0691,0.916,82.024,2.58,4
+5PZAbR6JHYYV9xp5gv0XES,"Zé Felipe, MC Mari",Bandido,Portugal,0.882,0.721,11,-2.851,0,0.0512,0.0958,0.0,0.0989,0.97,120.018,2.2,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Portugal,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Portugal,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Portugal,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4.3,4
+65BXCyoVQ1sSGj0z6UxRcL,CAROLINA DE DEUS,Talvez...,Portugal,0.378,0.396,10,-10.147,1,0.0405,0.586,0.0,0.109,0.433,169.205,3.07,4
+0GNgrdn3uuVzssBxJzdpcF,"Mike11, Bárbara Bandeira",Ride (feat. Bárbara Bandeira),Portugal,0.582,0.558,10,-5.998,0,0.228,0.523,0.0,0.205,0.543,101.619,3.22,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Portugal,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,Portugal,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2.55,4
+1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Portugal,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4.04,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Portugal,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+6pQKUKBpwr6GhfhcFFFozo,"MC Zaquin, MC Rick",Não Nasceu pra Namorar,Portugal,0.525,0.448,1,-4.075,0,0.0443,0.14,0.0,0.0922,0.527,83.406,2.34,4
+0Rq7EzwIvsVqPPUNM3M4as,GIULIA BE,pessoa certa hora errada,Portugal,0.751,0.493,0,-4.953,1,0.17,0.422,0.0,0.629,0.557,141.812,2.74,4
+2Xr1dTzJee307rmrkt8c0g,CKay,love nwantiti (ah ah ah),Portugal,0.727,0.739,8,-3.805,1,0.0411,0.365,0.00137,0.161,0.533,93.005,2.43,4
+4NFkcqZ3jU2O9rgEbuluVn,"Mario Mc, Menor Adr",Bafora o Lança - Remix,Portugal,0.867,0.627,11,-3.661,0,0.128,0.117,0.0,0.0753,0.804,80.011,3.53,4
+17MPtgaJHgr2WlJVyhA6kw,Dillaz,Papaia,Portugal,0.72,0.494,3,-10.927,0,0.131,0.308,0.00256,0.11,0.255,137.206,3.04,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Portugal,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+4cKn3YjlRNowwNQi5LuZkk,"Luan Santana, Mc Don Juan",SORRIA,Portugal,0.568,0.736,11,-4.817,0,0.0557,0.201,0.0,0.362,0.72,153.093,3.02,4
+0dcHD9QhnWRA41zoLnC83X,"MC Cabelinho, Dallass",X1,Portugal,0.579,0.804,8,-5.024,1,0.0581,0.457,0.0,0.136,0.546,183.075,3.15,3
+2orGm2E68ODFYOURjaES62,"WIU, MC Ryan SP",Felina,Portugal,0.585,0.662,5,-4.235,0,0.351,0.385,0.0,0.0966,0.533,169.239,3.76,4
+7gVzhRCrLRUBEGdS7zNTp0,Zé Felipe,Malvada,Portugal,0.894,0.859,5,-2.981,0,0.0471,0.159,0.000153,0.075,0.888,134.947,2.43,4
+2hOFPpEOYj7sEUAjGeVnpx,"Bárbara Tinoco, Bárbara Bandeira",Cidade,Portugal,0.628,0.482,2,-8.423,1,0.0315,0.867,0.0,0.124,0.633,77.992,2.76,4
+46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Portugal,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,0.47,105.006,3.77,4
+0VO8gYVDSwM1Qdd2GsMoYK,"Swedish House Mafia, The Weeknd",Moth To A Flame (with The Weeknd),Portugal,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,3.9,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Portugal,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+75JFxkI2RXiU7L9VXzMkle,Coldplay,The Scientist,Portugal,0.557,0.442,5,-7.224,1,0.0243,0.731,1.46e-05,0.11,0.213,146.277,5.16,4
+59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),Portugal,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,3.16,4
+2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Portugal,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,0.454,116.959,3.9,3
+0WmSoWksyfhCME62WhkP2U,Domingues,Romance de Cinema,Portugal,0.509,0.528,7,-5.18,0,0.438,0.695,0.0,0.125,0.52,173.999,3.93,3
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Portugal,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+2TdOWHAolNaQx8gyRDVS1N,"Luan Santana, Henrique & Juliano",ERRO PLANEJADO - Ao Vivo,Portugal,0.534,0.85,0,-4.142,1,0.0861,0.255,0.0,0.632,0.341,143.958,2.58,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Portugal,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Portugal,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,3.74,4
+7aZusA4cWXz3Wv9e9uhavz,Matuê,Quer Voar,Portugal,0.806,0.595,8,-6.166,0,0.246,0.138,0.0,0.0882,0.677,82.492,3.13,4
+6EDj1nbl9wo6ivGI1t59G4,Jão,Idiota,Portugal,0.669,0.785,4,-6.093,0,0.0421,0.0685,0.0,0.566,0.84,131.957,3.03,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Portugal,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+1XcmAgREOuJQb91sr68AAD,"Dyamante DJ, Mc Gw",Sentadinha Diferente,Portugal,0.886,0.835,9,-3.114,1,0.325,0.199,0.0,0.248,0.957,86.585,2.05,5
+1iL2qN1fpyE9MxUhUUu0O4,Nena,Portas do Sol,Portugal,0.443,0.29,3,-8.303,1,0.0349,0.739,0.0,0.0945,0.335,98.663,3.81,4
+1O3ehXYHBBK0dYben12YVM,Chico da Tina,Ronaldo,Portugal,0.779,0.458,7,-9.248,0,0.0818,0.665,0.0,0.0929,0.289,125.038,3.04,4
+21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,Portugal,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,3.59,4
+4GSmcAtzTz5sLn2VWX1Rda,Os Quatro e Meia,Olá Solidão,Portugal,0.657,0.471,11,-7.824,0,0.0396,0.0665,0.000702,0.0738,0.131,132.078,4.68,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Portugal,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+7MIhUdNJtaOnDmC5nBC1fb,"Alok, Ella Eyre, Kenny Dope, Never Dull",Deep Down (feat. Never Dull),Portugal,0.687,0.818,0,-4.221,1,0.0778,0.0112,0.0,0.248,0.886,125.952,2.76,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Portugal,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Portugal,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Portugal,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+0otRX6Z89qKkHkQ9OqJpKt,James Arthur,Car's Outside,Portugal,0.338,0.562,9,-7.181,1,0.029,0.039,0.0,0.107,0.259,149.907,4.14,4
+19gFXFDAFUdsuaiAorKEbr,"FRANKIEONTHEGUITAR, T-Rex, LON3R JOHNY, Bispo",Tempo,Portugal,0.757,0.607,7,-6.006,0,0.0438,0.562,6.47e-06,0.143,0.4,123.986,4.17,4
+62ke5zFUJN6RvtXZgVH0F8,Paloma Faith,Only Love Can Hurt Like This,Portugal,0.566,0.885,8,-4.528,1,0.0818,0.0958,9.97e-05,0.334,0.304,90.99,3.88,4
+0A0NJtd7yYuegBrj6qvqSo,Julinho Ksd,Stunka,Portugal,0.722,0.728,5,-7.905,0,0.075,0.168,0.173,0.277,0.66,139.965,3.14,4
+0UW3wnVAl9vzLiTHIwN075,Dillaz,Maçã,Portugal,0.795,0.553,4,-9.53,0,0.0405,0.649,0.00466,0.123,0.179,114.996,3.65,4
+0xcdw2bWgJ4lrt3qZJrZ1o,L7NNON,Perdição,Portugal,0.839,0.334,1,-13.277,0,0.147,0.592,0.0,0.12,0.501,120.0,4.58,4
+4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Portugal,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,4.98,3
+3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Portugal,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,3.05,4
+0ll8uFnc0nANY35E0Lfxvg,Keane,Somewhere Only We Know,Portugal,0.453,0.655,9,-4.22,1,0.0259,0.0794,7.61e-06,0.0849,0.368,172.012,3.94,4
+5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,BREAK MY SOUL,Portugal,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,4.64,4
+1oFAF1hdPOickyHgbuRjyX,"The Weeknd, Ariana Grande",Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,Portugal,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,3.18,4
+5h5TUj8pU2WhdSeJx9BnX2,Morad,Pelele,Portugal,0.83,0.698,1,-5.549,0,0.163,0.224,0.00065,0.0761,0.825,144.929,3.61,4
+6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Portugal,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,4.12,4
+3SI736Mng30L5ZTpGEhKEr,"Malu, DJ Lucas Beat",Disco Arranhado - Funk Remix,Portugal,0.746,0.716,5,-2.813,1,0.409,0.567,0.0,0.062,0.922,129.84,2.09,4
+3QGxgNaqaFSpORp2OVLXHR,"Chefin, Mainstreet",212,Portugal,0.789,0.519,2,-4.84,0,0.0697,0.659,0.0,0.085,0.857,154.037,2.51,4
+0E0OENqh3jaZ4VpDFTOLGj,"Mc Delux, DJ ABDO",EU BEM QUE TE AVISEI - TU EMPINOU ELE PEI,Portugal,0.955,0.659,0,-3.531,0,0.382,0.411,0.00731,0.148,0.495,129.962,2.65,4
+1X3ltingEVNGRoJf1dvZfQ,Plutonio,Somos Iguais,Portugal,0.645,0.699,6,-7.634,1,0.174,0.306,0.000291,0.118,0.574,91.704,3.96,4
+1SOClUWhOi8vHZYMz3GluK,Jaymes Young,Infinity,Portugal,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,0.494,121.963,3.96,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Portugal,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Portugal,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Portugal,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+3ZtHHGpAPSWC7Gnios4lmK,"Mc Poze do Rodo, Mainstreet, Ajaxx",Metflix,Portugal,0.505,0.529,1,-5.84,0,0.184,0.556,0.0,0.11,0.31,174.322,2.22,4
+5nujrmhLynf4yMoMtj8AQF,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),Portugal,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,3.38,4
+7v3BTjWrmUYjaGiVHVVhCK,"Os Quebradeiras, DJ Zullu, Machadez, Mousik, Thamirys",Na Rebolada,Portugal,0.919,0.768,0,-4.269,1,0.388,0.454,0.000163,0.134,0.933,140.144,1.87,4
+0B7wvvmu9EISAwZnOpjhNI,Bruno Mars,When I Was Your Man,Portugal,0.601,0.271,0,-8.688,1,0.0403,0.937,0.0,0.144,0.411,145.494,3.56,4
+6ylDpki1VpIsc525KC1ojF,Sebastian Yatra,Tacones Rojos,Portugal,0.746,0.844,11,-3.499,0,0.0359,0.062,0.0,0.149,0.934,123.014,3.16,4
+6wDT7SWDZPlOoneWOmSmSC,T-Rex,PRA MIM,Portugal,0.655,0.586,2,-9.859,0,0.164,0.607,0.0,0.207,0.638,97.364,2.56,4
+3QxKHcpNt6CWNUYCLLBHeZ,"MC CH da Z.O, MC Myres, Danado do Recife, eoo kendy, Deyvinho PL",Escolhe o Bandido,Portugal,0.85,0.962,8,-0.126,1,0.276,0.334,8.1e-06,0.141,0.923,163.077,2.4,4
+4SIBZgMomGFnrIWjmq7Np8,"L7NNON, Os Hawaianos, DJ Bel da CDD, DJ Biel do Furduncinho",Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho),Portugal,0.93,0.673,6,-6.298,1,0.409,0.275,0.0,0.142,0.95,129.967,1.93,4
+7LVHVU3tWfcxj5aiPFEW4Q,Coldplay,Fix You,Portugal,0.209,0.417,3,-8.74,1,0.0338,0.164,0.00196,0.113,0.124,138.178,4.93,4
+0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Portugal,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,3.41,4
+1RgJ4lexKGNBlKnyxB5SRt,"Teto, Mateca",Balazul,Portugal,0.843,0.458,5,-7.428,0,0.166,0.31,0.0,0.14,0.772,110.077,3.38,4
+2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Portugal,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,0.477,122.016,4.29,4
+724pvVQHyko3mId2lLWQJ9,Mc Jaovittin,Voltei pra Put4Ria,Portugal,0.611,0.581,1,-6.534,1,0.45,0.0748,2.57e-05,0.0695,0.907,169.697,1.98,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Portugal,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+0yL7K9MzC20uBesZTPY81r,"DJ Matt D, Menor MC, MC GP, Vulgo FK",Pandora,Portugal,0.688,0.458,1,-9.138,0,0.588,0.14,0.0,0.407,0.559,124.553,2.95,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Portugal,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4

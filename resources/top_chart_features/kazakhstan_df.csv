@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+2uNrriUaePhbbmsXT8HQJU,INSTASAMKA,POPSTAR,Kazakhstan,0.808,0.688,7,-8.964,0,0.0493,0.115,0.0251,0.114,0.377,120.039,2.3,4
+0dY8qhMk6KOxw51j36GtlM,"Ulukmanapo, Bakr",Расстояние,Kazakhstan,0.608,0.591,5,-5.312,0,0.0854,0.489,9.01e-06,0.0919,0.562,84.866,3.01,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Kazakhstan,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+2DHX9faMGUQQTwD1Ot4ch2,INSTASAMKA,MONEYKEN LOVE,Kazakhstan,0.801,0.644,1,-7.37,1,0.118,0.0152,0.0644,0.123,0.261,100.025,2.28,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Kazakhstan,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+33r51tO7fefxJw4dKsY1qa,V $ X V PRiNCE,Мурашки,Kazakhstan,0.921,0.39,11,-13.349,0,0.196,0.264,0.000114,0.109,0.788,95.005,2.91,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Kazakhstan,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+6z3RBRZVdV34ZjFKgjmDXA,Bakr,Вредина,Kazakhstan,0.774,0.638,8,-6.298,0,0.161,0.742,9.61e-06,0.0793,0.641,144.986,2.65,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Kazakhstan,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+4woTEX1wYOTGDqNXuavlRC,"Eminem, Dina Rae",Superman,Kazakhstan,0.802,0.755,4,-3.138,0,0.0564,0.0215,0.0,0.295,0.58,130.027,5.84,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Kazakhstan,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Kazakhstan,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+5i3H6himHZaKZT3Dk8lr8Z,Bakr,Сирень,Kazakhstan,0.777,0.498,0,-7.709,0,0.0477,0.734,4.7e-06,0.0861,0.222,130.008,3.2,4
+1iBDgZDBkV8LTjFbNDcvOO,Xcho,Про любовь,Kazakhstan,0.767,0.743,4,-6.819,1,0.203,0.357,0.0,0.86,0.516,140.018,2.35,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Kazakhstan,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+4oHEJ5KPf9hW1pDyQYIRIw,"Aarne, BUSHIDO ZHO, ANIKV",Тесно,Kazakhstan,0.931,0.696,7,-6.656,1,0.187,0.336,2.49e-05,0.339,0.357,134.005,2.21,4
+5oDzu4mpi13XnbBteabhYF,V $ X V PRiNCE,Суета,Kazakhstan,0.755,0.647,6,-7.339,0,0.127,0.297,0.0136,0.112,0.341,100.051,3.05,4
+1P2goYva6Y2MYM9mPMcYKh,Bakr,Статус души,Kazakhstan,0.795,0.463,7,-12.1,0,0.144,0.45,0.0,0.118,0.342,139.968,2.97,4
+5ra09IpXEagKCe9n1Zcb7x,"Qanay, ALI",Lolly,Kazakhstan,0.763,0.507,8,-8.268,0,0.0422,0.653,0.0756,0.117,0.758,106.028,2.7,4
+0wGbyS1tExQSwOYu6UceyE,"ONIMXRU, SMITHMANE",SHADOW,Kazakhstan,0.721,0.692,7,-2.927,1,0.0414,0.000166,0.275,0.104,0.531,120.005,2.7,4
+2ksyzVfU0WJoBpu8otr4pz,INTERWORLD,METAMORPHOSIS,Kazakhstan,0.593,0.641,7,-12.727,0,0.0992,0.426,0.901,0.122,0.147,175.014,2.38,4
+3qPi9H4HOdYIl9Lr4WPLJU,Bakr,Очи,Kazakhstan,0.894,0.548,5,-6.839,0,0.0469,0.815,1.06e-06,0.104,0.629,114.031,2.85,4
+4TQfMvGF7yMIspZ0CNLaCu,Hiro,Особа крутая,Kazakhstan,0.824,0.416,2,-9.471,1,0.132,0.0694,0.00374,0.095,0.445,105.034,3.44,4
+0HYAsQwJIO6FLqpyTeD3l6,Fujii Kaze,Shinunoga E-Wa,Kazakhstan,0.6,0.76,6,-6.123,0,0.0451,0.167,4.07e-05,0.189,0.519,158.075,3.09,4
+3b1csq4T7y11X9WSAweCB4,Bakr,Эталон красоты,Kazakhstan,0.63,0.551,1,-7.425,1,0.271,0.463,0.0,0.127,0.479,119.075,3.11,5
+2WzAAerBvZvvFXgUpSwHZ9,"PLAYAMANE, Nateki",MIDNIGHT,Kazakhstan,0.633,0.433,1,-8.833,1,0.229,0.0053,0.28,0.145,0.373,122.088,2.03,4
+5Sk39LuvdwuvL84jD01Dum,"MUPP, Sadfriendd",vendetta!,Kazakhstan,0.706,0.91,1,-3.527,1,0.146,0.175,2e-06,0.11,0.667,126.007,1.78,4
+47vnQjxyQYM30wkZTgTIpO,Duman,Жіберем қалай?,Kazakhstan,0.685,0.495,6,-7.846,0,0.0413,0.473,0.0,0.104,0.354,132.167,2.67,4
+1vievxaPscSfHvaduvcSE2,"V $ X V PRiNCE, Кисло-Сладкий & Bonah",Дом 50,Kazakhstan,0.623,0.452,7,-5.732,0,0.388,0.0619,0.0,0.0549,0.509,83.492,2.65,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Kazakhstan,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+75C98tVaHUtjYZTIcy9U7U,Xcho,Ты и Я,Kazakhstan,0.863,0.673,9,-3.87,0,0.227,0.431,0.0,0.0901,0.385,135.001,2.47,4
+3ACYaC2pM4wA1KFIj0Fyk9,"ELMAN, MONA",Черная любовь,Kazakhstan,0.629,0.438,1,-9.465,0,0.0469,0.387,0.0,0.114,0.3,76.97,2.97,4
+1tVJ6OAOSN5D7e0kwrhdqc,"Irina Kairatovna, Shiza",Kõk tu,Kazakhstan,0.925,0.65,6,-6.667,1,0.155,0.0569,0.00631,0.0917,0.923,137.052,3.68,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Kazakhstan,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Kazakhstan,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+01kfSdF9zfcDLri5sSWEoL,Dxrk ダーク,RAVE,Kazakhstan,0.716,0.748,8,-6.06,1,0.0356,0.235,0.849,0.114,0.338,119.918,2.82,4
+6w55jwLKo6JuQqBN672X2K,Qarakesek,Қураған гүл,Kazakhstan,0.924,0.351,4,-9.5,0,0.203,0.511,0.00437,0.0797,0.118,120.96,2.96,4
+41gRAnGJ3hyF0GLMe4Rx4h,Bonapart,Алмата-Семей,Kazakhstan,0.862,0.523,8,-4.814,0,0.0694,0.137,0.00455,0.292,0.721,160.134,2.68,4
+0zCgWGmDF0aih5qexATyBn,Mr.Kitty,After Dark,Kazakhstan,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,0.0392,140.019,4.29,4
+1hnMLPOqTMV2gurNxOnsjK,"Jakone, A.V.G, Итачи",Курить,Kazakhstan,0.919,0.43,6,-9.582,1,0.18,0.0358,3.79e-06,0.109,0.467,115.047,2.12,4
+68TlFj0yGyrBRzmgCawiKT,Kenan & Suleyman,Не похожа,Kazakhstan,0.741,0.442,1,-9.513,1,0.0423,0.354,0.0,0.131,0.423,119.963,3.68,4
+0LdDBjHLVBRzc9BY5wA030,Ulukmanapo,Летали,Kazakhstan,0.779,0.552,6,-5.764,0,0.0489,0.51,0.698,0.0896,0.0665,99.997,3.12,4
+4m0ELYovhweZYdw4cCqVv0,INSTASAMKA,RARARA,Kazakhstan,0.9,0.682,8,-7.304,1,0.162,0.00287,8.9e-06,0.0728,0.597,141.93,2.06,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Kazakhstan,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+0cLyaJBLn7rduVsXhoqzO9,"Basta, Andro",Осень - 20.22,Kazakhstan,0.506,0.55,6,-8.791,1,0.21,0.404,0.0,0.133,0.51,84.224,2.87,4
+4SoNwm8ceBTUWdE5Ua5dxF,Irina Kairatovna,5000,Kazakhstan,0.776,0.545,8,-9.194,1,0.444,0.0361,9.67e-06,0.0875,0.589,209.808,3.24,4
+3pzr7iKQpV9QjLGcLcd2ic,"uglystephan, Scally Milano",Заберу,Kazakhstan,0.764,0.7,2,-4.462,0,0.117,0.113,0.0,0.133,0.273,145.011,2.04,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Kazakhstan,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+0iUrxveyNUBfj0cqjYEijt,MoonDeity,NEON BLADE,Kazakhstan,0.548,0.996,7,-2.169,1,0.112,0.0284,0.92,0.595,0.893,94.999,4.42,4
+5upoMJ65CgUaxp0HJPQ39V,V $ X V PRiNCE,Точка или запятая,Kazakhstan,0.782,0.538,4,-6.926,0,0.298,0.216,0.0,0.119,0.582,149.948,3.49,4
+0EPK3XVvgbe8q0KrS7nEiY,АДЛИН,Dead Inside,Kazakhstan,0.895,0.676,2,-7.575,1,0.0853,0.0665,0.222,0.0878,0.418,126.993,2.08,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Kazakhstan,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+05dDasMn9KPsnhNRD9L6W3,"Милана Хаметова, Milana Star",ЛП,Kazakhstan,0.886,0.742,6,-4.853,1,0.284,0.349,0.00186,0.32,0.658,141.91,2.21,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Kazakhstan,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+5AYJuHpCgVxS9742DWvYUk,coldcore,Revelations,Kazakhstan,0.954,0.484,4,-10.21,0,0.273,0.0507,0.00078,0.1,0.263,122.981,1.7,4
+675AarEBSWDwtxNaiIvNYX,Bakr,За любовь,Kazakhstan,0.786,0.64,1,-6.668,0,0.0732,0.483,2.36e-06,0.11,0.184,118.026,3.02,4
+1P9oRiZJWnxe2pZmYUZ5eC,Skryptonite,Это любовь,Kazakhstan,0.358,0.416,0,-10.972,0,0.0596,0.325,0.356,0.173,0.128,139.945,4.65,3
+43wgyQXc2M9KmTDUqVzugM,"MiyaGi & Endspiel, Rem Digga",I Got Love,Kazakhstan,0.666,0.862,2,-4.376,0,0.203,0.154,0.0,0.139,0.203,106.028,4.61,4
+3XnFWF8iiR2HOzmPCeS3UT,V $ X V PRiNCE,Модная подруга,Kazakhstan,0.514,0.678,6,-8.196,0,0.414,0.0668,0.0,0.678,0.39,133.913,3.27,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Kazakhstan,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+5y3ndnhzdlUcCGzMJ5OtV6,Жугунусов Мирас,Зымыран,Kazakhstan,0.692,0.586,7,-6.602,1,0.123,0.589,0.0,0.161,0.309,89.991,3.53,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Kazakhstan,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Kazakhstan,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Kazakhstan,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+33aN03SdPY7SyO7jAWMTwc,INSTASAMKA,BALANCE,Kazakhstan,0.847,0.754,1,-6.132,0,0.0531,0.0119,4.41e-06,0.133,0.396,97.008,2.27,4
+1hfISzdAwnywAKxaSpfloo,Skryptonite,Положение,Kazakhstan,0.58,0.539,1,-8.893,0,0.322,0.542,0.000292,0.146,0.243,62.922,4.71,4
+1aXV8GrmQLvgoFtBPERP7E,Eyedress,Jealous,Kazakhstan,0.474,0.921,9,-10.431,0,0.0457,0.00491,0.85,0.476,0.696,93.01,2.04,4
+7bhx0XLV99UXH4Mtj0idPg,Kazybek Kuraiysh,Таптым-ау сені,Kazakhstan,0.614,0.289,7,-10.333,0,0.0305,0.962,0.00209,0.0999,0.296,145.862,3.23,4
+0L8LOav65XwLjCLS11gNPD,BLACKPINK,Typa Girl,Kazakhstan,0.915,0.621,7,-6.519,1,0.1,0.0745,0.0,0.628,0.527,131.984,2.99,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Kazakhstan,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+0SL5InQfRLwBkhmsBXlCvM,Жугунусов Мирас,Шыда,Kazakhstan,0.861,0.64,6,-5.616,1,0.0731,0.327,2.84e-05,0.126,0.569,110.058,2.64,4
+2dMrVtG4WeGZF4Hw97oXOt,Bakr,Нотная слеза,Kazakhstan,0.829,0.723,4,-4.623,0,0.0941,0.445,9.74e-06,0.684,0.699,130.015,3.48,4
+6D9MoUhI2Kdj9T6p6sA8uY,Bakr,Не лей,Kazakhstan,0.764,0.691,5,-5.727,1,0.0529,0.237,0.0,0.192,0.34,125.988,3.37,4
+3NjAwkM75GH3cvfV9zRtv8,BUSHIDO ZHO,vodila,Kazakhstan,0.772,0.508,1,-8.694,1,0.143,0.0769,0.0,0.196,0.34,96.107,1.85,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Kazakhstan,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+3CLSHJv5aUROAN2vfOyCOh,DVRST,Close Eyes,Kazakhstan,0.784,0.572,0,-9.853,1,0.0573,0.0748,0.843,0.139,0.209,96.181,2.21,4
+2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Kazakhstan,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,0.37,93.986,3.44,4
+0lp2DZhCtUFxBC9mJ9VJAy,Ninety One,ABUSE,Kazakhstan,0.339,0.67,11,-8.045,0,0.0637,0.162,0.0002,0.113,0.179,83.226,3.04,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Kazakhstan,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+3e4Oiy7Cx0QYelNNPdqJoi,"V $ X V PRiNCE, De Lacure",Су,Kazakhstan,0.833,0.48,5,-7.965,0,0.13,0.237,7.83e-06,0.122,0.758,93.998,3.1,4
+6nqdgUTiWt4JbABDurkxMI,Hensonn,Sahara,Kazakhstan,0.615,0.521,2,-9.488,1,0.0318,0.146,0.772,0.11,0.045,115.016,2.86,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Kazakhstan,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+5hY09NvKjD3gBQS3qhriXD,ssshhhiiittt!,Танцы,Kazakhstan,0.481,0.972,7,-1.647,0,0.0576,0.144,0.000184,0.789,0.856,159.905,2.92,4
+5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Kazakhstan,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,4.34,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Kazakhstan,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+21LIoC4ZxT3F8xq9gidNbX,xxxmanera,Never Broke Again,Kazakhstan,0.643,0.573,1,-6.992,1,0.0466,0.0126,0.0,0.201,0.7,139.94,1.8,4
+2t76tKMI4u1kJBtOc9i0Op,Ninety One,Suraqtar,Kazakhstan,0.704,0.815,7,-6.317,1,0.0386,0.0147,0.0301,0.343,0.973,149.957,3.04,4
+2jloOpRyKxdIA5hUDws6Qm,"Irina Kairatovna, Junior",NE ÁŃGIME?,Kazakhstan,0.821,0.606,5,-5.976,1,0.27,0.14,0.0,0.107,0.509,173.997,3.53,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Kazakhstan,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Kazakhstan,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+34lfu3S4fIcKZRNXzbdbo7,Kordhell,Live Another Day,Kazakhstan,0.822,0.981,9,-1.321,1,0.109,0.000593,0.748,0.0938,0.404,115.005,2.23,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Kazakhstan,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Kazakhstan,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+27sTvQ5qRMwcL1zcdtGlOi,"Scally Milano, OG Buda",Большие Бабки,Kazakhstan,0.727,0.66,0,-6.14,1,0.165,0.0618,9.41e-05,0.161,0.28,91.935,2.35,4
+3mcw4dkjfzj5B4Ago9NSmN,"uniqe, nkeeei, ARTEM SHILOVETS",ТОЛПЫ КРИЧАТ,Kazakhstan,0.895,0.384,3,-7.204,0,0.241,0.698,0.0,0.0933,0.697,130.087,2.09,4
+6BfnNid8w0UyZqzR2mx1HB,"Молодой Платон, Poshlaya Molly, Yanix","DON'T PLAY, BAE",Kazakhstan,0.843,0.774,10,-3.998,0,0.0612,0.00813,0.0,0.0668,0.391,101.982,3.03,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Kazakhstan,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+2llEsEEmWyKYouWkGS40S1,The Adresov,Бабочки,Kazakhstan,0.719,0.539,11,-10.122,1,0.0388,0.263,0.0,0.235,0.545,100.038,3.55,4
+6ljlpspxptHxDmYfR3NW2O,INSTASAMKA,SHAKE,Kazakhstan,0.909,0.591,1,-6.263,1,0.212,0.0163,0.0,0.0626,0.464,87.016,2.19,4
+37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Kazakhstan,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,2.89,4
+0aKl63MnUIVKkXlVtp2vLr,Дайте танк (!),Утро,Kazakhstan,0.549,0.493,1,-8.589,0,0.113,0.488,8.42e-05,0.134,0.396,79.617,2.45,4
+5X33A2X2OuQXUOKhawWCMm,"Skryptonite, Райда",Baby mama,Kazakhstan,0.89,0.569,7,-6.192,0,0.154,0.0222,4.46e-05,0.136,0.552,104.017,3.86,4
+4tPB6H0QcK4bDib8iauE28,Alyona Shvets,первое свидание,Kazakhstan,0.764,0.5,11,-10.403,0,0.108,0.685,6.09e-05,0.159,0.607,85.499,2.53,4
+3F6Tb3mUPNx1QwN8XOpF6Q,Son Pascal,Men Seni Suyemin,Kazakhstan,0.619,0.431,9,-7.52,0,0.0331,0.0759,0.017,0.077,0.152,119.927,3.09,4
+4jvw60Iw8LpSRJwy1sOmoB,Шайни,Yeyo!,Kazakhstan,0.716,0.8,9,-9.417,1,0.0618,0.0988,0.0,0.116,0.436,138.01,1.86,4
+4umjgYILQbHyV41ZmaemQm,"Big Baby Tape, kizaru",Million,Kazakhstan,0.868,0.677,6,-4.61,1,0.223,0.0284,0.0,0.267,0.719,165.029,2.25,4
+41bGn6u78I8eNZg86tx3vp,Skryptonite,Москва любит...,Kazakhstan,0.741,0.459,2,-9.046,1,0.157,0.0484,0.00289,0.293,0.125,76.996,3.43,4
+4B8gtpBuEtU9XUizl6BK2W,MoonDeity,WAKE UP!,Kazakhstan,0.676,0.617,0,-4.626,1,0.0414,0.000816,0.636,0.227,0.718,124.978,2.38,4
+3H8huRteGqidGIpxsBU5WB,Sadraddin,ANT,Kazakhstan,0.68,0.557,3,-9.301,0,0.0446,0.661,0.00141,0.0971,0.346,100.014,2.79,4
+34ttji2fIHtqipyVsda1E5,Jah Khalib,SnD,Kazakhstan,0.8,0.6,5,-5.953,0,0.0475,0.375,0.0,0.0893,0.505,139.967,4.18,4
+5e2l2ZAMwHmrkdM4Z6NhAR,"Shiloh Dynasty, Timmies",Again,Kazakhstan,0.603,0.204,7,-12.727,0,0.112,0.479,0.0714,0.642,0.71,74.688,2.62,5
+5FX30idriKlEIRYTxpNf65,KUTE,AVOID ME,Kazakhstan,0.656,0.964,6,-2.087,0,0.0964,0.123,0.813,0.78,0.965,114.007,1.76,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,Kazakhstan,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+5GRVQQ0N8yIRSnnFjNObrU,ALTAIR x ABBI,QAZAQ VIBE,Kazakhstan,0.785,0.675,7,-8.427,1,0.184,0.0534,0.0195,0.106,0.511,99.981,2.18,4
+4oMyggIzClkOcCTvotFLkP,Ghostface Playa,Why Not,Kazakhstan,0.725,0.984,9,-1.638,1,0.0351,0.000718,0.895,0.372,0.931,119.983,2.75,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,Kazakhstan,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+2z8QxqQ6Kesq4NFfi7A638,"Skryptonite, 104",Цепи,Kazakhstan,0.719,0.661,1,-8.797,1,0.31,0.0338,0.0,0.262,0.564,159.96,3.45,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Kazakhstan,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+2MpprDNfYfuyNoygc8V82g,Skryptonite,Мистер 718,Kazakhstan,0.867,0.618,8,-7.062,0,0.0676,0.463,7.38e-06,0.224,0.346,112.053,3.78,4
+2BH3j05ZXWr5PR30sW079d,Isolate.exe,Crystals,Kazakhstan,0.692,0.729,11,-10.435,1,0.0554,0.438,0.656,0.0939,0.13,100.015,2.32,4
+0G17UriYHMjXnZE2OJJSMR,Xantesha,SUNRISE (Slowed + Reverb),Kazakhstan,0.74,0.934,10,-8.178,1,0.0384,0.063,0.831,0.198,0.261,119.693,2.31,4
+4ikCWgaaGLKgb724CUNnqZ,Кореш,глаза не врут,Kazakhstan,0.841,0.452,1,-8.04,0,0.159,0.873,5.7e-05,0.0979,0.392,119.982,1.84,4
+3uCth4TIWyeQDnj3YbAVQB,Miyagi & Andy Panda,Патрон,Kazakhstan,0.642,0.449,3,-8.502,0,0.0706,0.656,1.91e-05,0.107,0.328,88.039,3.75,4
+7EkWXAI1wn8Ii883ecd9xr,Surf Curse,Freaks,Kazakhstan,0.345,0.941,9,-9.918,1,0.0466,3.84e-05,0.633,0.0511,0.407,179.626,2.45,4
+54ZhPL5soHKDxg9a5wizPv,INSTASAMKA,LIPSI HA,Kazakhstan,0.758,0.534,9,-7.314,0,0.21,0.0863,0.0,0.139,0.783,180.035,2.02,4
+5m5rShfBQk4UpG7vpsEKzf,Miyagi & Andy Panda,Minor,Kazakhstan,0.759,0.67,9,-6.763,0,0.0708,0.593,5.99e-06,0.0984,0.49,99.948,2.93,4
+3tVfeeaDLYRwDVkFZ7bKKw,TEKSIDR,МАМ,Kazakhstan,0.829,0.439,8,-10.069,0,0.0986,0.907,0.0799,0.0891,0.372,90.964,2.52,4
+6HXheUbvgpEVEFH51ipUf9,INSTASAMKA,И ЧТОЭ,Kazakhstan,0.884,0.571,11,-5.408,1,0.365,0.00296,0.0,0.342,0.643,86.655,1.91,5
+0IjCnXqJTlPElz8HmIiO9p,"The Limba, MORGENSHTERN",Известным,Kazakhstan,0.979,0.553,7,-5.955,1,0.0567,0.0134,0.0,0.113,0.648,116.071,2.4,4
+48fzAdCxamFYCHNXXLk6zn,shadowraze,showdown,Kazakhstan,0.714,0.63,6,-11.098,1,0.129,0.0355,0.0294,0.0922,0.378,114.945,2.0,4
+7biChppM3c8q7qcVl7ceb2,FACE,ЛАБИРИНТ,Kazakhstan,0.866,0.722,4,-6.497,0,0.143,0.213,0.0,0.183,0.912,137.969,2.82,4
+2ZTwEA73OreT35Nm0mjCkj,Jah Khalib,Медина,Kazakhstan,0.799,0.576,1,-5.987,0,0.0476,0.344,0.00297,0.101,0.259,88.004,3.7,4
+6QG3PhgXcYShWkDwBOkqLz,Jah Khalib,Сжигая дотла,Kazakhstan,0.835,0.432,5,-6.892,0,0.184,0.65,0.0,0.121,0.468,140.005,4.2,4
+2IqHYHsktvX60MSTBzjJ8D,"Жугунусов Мирас, 2Rar",Ойлай берем,Kazakhstan,0.692,0.687,9,-4.625,0,0.0908,0.422,0.0,0.083,0.425,93.974,3.78,4
+4V6xeXI8PvKDj9y9E6QWJY,Bakr,Ойлорумда,Kazakhstan,0.89,0.621,5,-7.389,0,0.0633,0.568,0.0,0.125,0.379,120.043,3.2,4
+1x8o2E70kQnWm6pHW5ApOw,uglystephan archive,ahh,Kazakhstan,0.554,0.562,2,-8.741,1,0.13,0.0489,0.0,0.149,0.144,141.066,1.4,4
+0iXdfXcMxYcKaiI7MNbEcA,ogat,По уши я в тебя влюблён,Kazakhstan,0.615,0.496,9,-7.409,0,0.195,0.358,0.0,0.115,0.624,167.936,3.38,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Kazakhstan,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Kazakhstan,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+4kPQOlAtcuc6eiZHdulklg,Moldanazar,Mahabbatym,Kazakhstan,0.458,0.0949,0,-17.206,1,0.0385,0.805,0.000192,0.353,0.284,121.482,3.01,4
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Kazakhstan,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+1eQc0azOMOv6VuqQi9c2Ba,Xcho,Вороны,Kazakhstan,0.63,0.514,5,-4.942,0,0.0831,0.388,0.0,0.112,0.167,175.953,2.61,4
+5I6HwLc0M8fKNahQvvs2vI,МОТ,Любовь как спецэффект,Kazakhstan,0.752,0.534,4,-7.952,0,0.105,0.164,0.000208,0.0818,0.279,92.939,2.0,4
+16AzcbKli3UQsxj491hJLQ,"Big Baby Tape, kizaru",Bandana,Kazakhstan,0.747,0.577,5,-6.46,1,0.0336,0.00654,0.0412,0.167,0.346,102.993,2.52,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Kazakhstan,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+0uo7p6JtXF7U8x0ktN0Vty,Funk Tribu,Phonky Tribu,Kazakhstan,0.731,0.873,11,-7.746,0,0.0518,0.000268,0.851,0.1,0.671,159.984,4.77,4
+0KYvs7DKC7Cl5IHmwpP13f,KSLV Noh,Override,Kazakhstan,0.688,0.761,4,-4.607,0,0.163,0.00477,0.41,0.175,0.536,111.014,1.91,4
+7DSoZO8s5HMsaWKBcrWWCx,FEDUK,Хлопья летят наверх,Kazakhstan,0.634,0.174,9,-13.514,1,0.0382,0.97,0.000801,0.107,0.171,137.879,4.38,4
+4B90pWSzl2SnZQpKMITmx4,Ninety One,Bata,Kazakhstan,0.474,0.733,11,-4.163,0,0.0989,0.18,0.000324,0.0689,0.394,110.179,2.71,4
+2vXKRlJBXyOcvZYTdNeckS,"Gesaffelstein, The Weeknd",Lost in the Fire (feat. The Weeknd),Kazakhstan,0.658,0.671,2,-12.21,1,0.0363,0.0933,0.000927,0.115,0.166,100.966,3.37,4
+0r9fpWPI6z3V3YZXIiVaNC,"Big Baby Tape, kizaru",99 Problems,Kazakhstan,0.949,0.452,9,-9.253,1,0.0973,0.0196,0.00351,0.0655,0.184,100.044,2.65,4
+01ovvmz6UHFeuCh6pLcBe4,"V $ X V PRiNCE, Tony Tonite",Карусель,Kazakhstan,0.812,0.921,5,-3.945,0,0.101,0.0217,1.21e-05,0.17,0.711,100.005,3.5,4
+1WMUqe3wdl3gYBzOmVpzWJ,INSTASAMKA,СНОВА?,Kazakhstan,0.82,0.474,8,-7.927,1,0.295,0.00475,0.00288,0.103,0.311,174.079,2.16,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Kazakhstan,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Kazakhstan,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+0gW9iaWpQ526EuAP3pMv8f,Pompeya,90,Kazakhstan,0.658,0.737,6,-7.176,0,0.0357,0.566,0.379,0.098,0.339,89.971,4.51,4
+3pr2J4VXb5h8WhCu4ljify,The Limba,Секрет,Kazakhstan,0.963,0.613,0,-7.052,0,0.146,0.203,0.0,0.111,0.695,115.949,2.79,4
+5TK74MJYRmwU5NIAjGRvRq,"Scally Milano, uglystephan",Я хочу тебя трахать,Kazakhstan,0.772,0.599,1,-4.972,1,0.171,0.183,0.0,0.0688,0.753,136.061,2.41,4
+0PGAJ37n4O2AslZosr1YGx,KSLV Noh,Disaster,Kazakhstan,0.824,0.613,0,-6.043,1,0.094,0.0158,0.348,0.159,0.511,117.051,1.4,4
+3F8ydJz1se1vIxZTRcRjIJ,"SHADXWBXRN, ARCHEZ, KXNVRA",PRINCE OF DARKNESS,Kazakhstan,0.685,0.93,8,-4.65,1,0.0398,0.153,0.841,0.168,0.487,124.011,2.06,4
+4qbEaaJ29p32GI8EWQmm6R,mazie,dumb dumb,Kazakhstan,0.783,0.472,2,-8.392,1,0.0427,0.22,0.000458,0.0798,0.589,122.052,2.09,4
+3d2GgxInzow4BaPk1lygWu,Ninety One,Mooz,Kazakhstan,0.722,0.898,2,-6.576,1,0.0653,0.339,0.000104,0.529,0.713,105.051,3.76,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Kazakhstan,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+4h3KlpOEXS6FxIpab6EKlf,MC ORSEN,INCOMING,Kazakhstan,0.905,0.876,2,-5.467,1,0.0422,0.00391,0.841,0.058,0.31,124.976,2.34,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Kazakhstan,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+47iHvzU9Po0e6raFlgLBOF,shadowraze,astral step,Kazakhstan,0.795,0.624,7,-7.245,1,0.292,0.0131,0.0,0.102,0.693,95.018,2.02,4
+4AMCdODHG4ZZ1BiErHt0VI,Egor Kreed,We Gotta Get Love,Kazakhstan,0.799,0.642,2,-5.47,1,0.0644,0.138,1.03e-05,0.0998,0.177,104.997,2.24,4
+7q8jzypmJPGTsph168wWjt,MACAN,Кино,Kazakhstan,0.862,0.386,6,-8.427,0,0.0715,0.33,1.91e-05,0.0946,0.148,108.01,3.07,4
+0fLampmh4qsOLGitXM171a,PLOHOYPAREN,Таблетка,Kazakhstan,0.771,0.719,0,-7.33,1,0.169,0.279,4.86e-06,0.125,0.367,77.493,1.5,4
+4R0GSffKN3s7NNmQVz4NM3,"EMIN, JONY",Лунная ночь,Kazakhstan,0.711,0.749,7,-4.523,1,0.126,0.143,2.55e-05,0.181,0.502,92.056,3.37,4
+70qbqCW6z92WESMZC1opsd,Nervy,Нервы,Kazakhstan,0.404,0.832,2,-10.002,0,0.0896,0.000951,0.0,0.0595,0.31,90.782,2.65,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Kazakhstan,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Kazakhstan,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+4CK9NEdPWB6rJ8N6BU20pN,ПОЛМАТЕРИ,ярче звёзд,Kazakhstan,0.45,0.913,6,-3.756,1,0.0543,0.0191,0.0,0.193,0.261,114.972,2.79,4
+5mnpMkzp3Z2RCCbwIEZCbv,PlayaPhonk,Phonky Town,Kazakhstan,0.805,0.816,1,-4.685,1,0.346,0.363,0.826,0.121,0.338,124.966,2.36,4
+4pGEL8mg9JhSbfWq5CgwRt,"V $ X V PRiNCE, De Lacure",Жүрегімді,Kazakhstan,0.59,0.44,8,-8.542,0,0.348,0.324,0.0,0.119,0.376,87.048,3.21,4
+3ZCTVFBt2Brf31RLEnCkWJ,Billie Eilish,everything i wanted,Kazakhstan,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,4.09,4
+35LIFNsMZjGJhLvRYAYxTX,Где Фантом?,Я тебя люблю,Kazakhstan,0.518,0.659,4,-9.738,1,0.0271,0.657,0.415,0.11,0.622,185.032,3.28,4
+7ygS8Vsh9dqFNQA7u6mp7A,Ninety One,Қайтадан,Kazakhstan,0.661,0.847,3,-4.589,1,0.0427,0.054,0.0,0.106,0.626,119.99,3.93,4
+1Y5MJnYsIi3Qlifvss4jPI,GRAVECHILL,Twilight,Kazakhstan,0.889,0.884,4,-4.323,1,0.0379,0.0111,0.804,0.0999,0.789,124.003,1.94,4
+7rvEwAILTqxBpdIyUifkE8,"Miyagi & Andy Panda, Mav-d",Marmalade,Kazakhstan,0.725,0.507,10,-9.316,0,0.0484,0.571,7.25e-06,0.119,0.511,110.03,3.67,4
+6ETHJLVy1Zwibk0LdxQQ0p,Andro,Как не любить,Kazakhstan,0.627,0.538,8,-7.588,0,0.164,0.103,1.61e-06,0.112,0.242,85.868,2.8,4
+1Zd6LGKFhCp2JCN5OmgzAH,Zhenis,Возле дома (Acoustic Version),Kazakhstan,0.783,0.112,7,-16.825,0,0.215,0.786,0.0,0.0673,0.863,118.262,1.82,4
+51BlxnwGHpVayyjgssVXCi,"JONY, HammAli","Наверно, ты меня не помнишь",Kazakhstan,0.634,0.509,9,-8.541,0,0.0646,0.856,0.228,0.109,0.217,123.551,3.17,4
+7D8k995g6jdie4NF1E7Tpu,"WENARO, LXNER",Лёд,Kazakhstan,0.636,0.794,8,-7.867,1,0.0642,0.169,0.0,0.161,0.953,172.088,2.55,4
+71hUNAiuvPyzaQGVYQtqlF,MiyaGi & Endspiel,Fire Man,Kazakhstan,0.586,0.874,4,-7.264,0,0.0362,0.196,0.0,0.0974,0.912,90.027,3.62,4
+4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Kazakhstan,0.575,0.648,10,-4.891,1,0.0358,0.583,0.0,0.115,0.466,75.977,2.67,4
+4ExjsnUFdOejQZLk9aysrl,IL'HAN,Арман - Сені күнде көру,Kazakhstan,0.625,0.574,11,-6.543,0,0.178,0.467,8.1e-06,0.221,0.533,90.011,2.84,4
+5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,Kazakhstan,0.715,0.47,5,-12.638,0,0.0772,0.353,0.0923,0.104,0.426,89.965,1.86,4
+2Y3NszNuyzK3I2fi5O9ha4,MADENIYETT,Beineñ,Kazakhstan,0.531,0.528,1,-11.493,1,0.0593,0.31,0.0,0.124,0.351,89.522,2.53,4
+1GOiMxQXZUzjzH0Sxpck0B,kizaru,Дежавю,Kazakhstan,0.801,0.591,2,-5.18,1,0.143,0.0186,0.0,0.108,0.231,87.509,2.9,4
+2ZRo7axmMPeSVUvDbGkJah,XXXTENTACION,Hope,Kazakhstan,0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,1.85,4
+0rA8bDGxxCgoHvtQXzV9PO,"104, Truwer",Сафари,Kazakhstan,0.53,0.572,1,-6.659,1,0.403,0.21,0.000101,0.297,0.411,96.026,2.67,4
+26yvlxKTtN2u3mpbl6AIeI,FACE,Антидепрессант,Kazakhstan,0.423,0.657,4,-6.361,1,0.0486,0.607,0.0296,0.304,0.567,129.904,2.0,4
+7AdGloF1UHKe1vAZPbqIXH,BLACKPINK,The Happiest Girl,Kazakhstan,0.382,0.37,0,-8.475,1,0.0785,0.605,0.0,0.102,0.556,181.459,3.7,3
+3M0lSi5WW79CXQamgSBIjx,Chase Atlantic,Swim,Kazakhstan,0.666,0.542,8,-6.429,1,0.0392,0.27,0.0,0.0765,0.0771,120.134,3.81,4
+5RBOcBpJXaNnHCGViJmYhh,Mareux,The Perfect Girl,Kazakhstan,0.485,0.89,8,-5.992,0,0.0911,0.000872,0.818,0.102,0.258,128.881,3.24,4
+32OE5KJSVajgzj5JFqo6cd,abdr.,Из-за тебя,Kazakhstan,0.724,0.613,6,-5.602,1,0.0753,0.587,0.00136,0.373,0.219,101.036,2.97,4
+5K9tfeoiztw94dyWzF39jq,Vierre Cloud,moment,Kazakhstan,0.544,0.855,6,-7.461,1,0.093,0.0426,0.157,0.167,0.517,171.349,2.16,4
+2gYj9lubBorOPIVWsTXugG,IVE,After LIKE,Kazakhstan,0.68,0.922,0,-1.215,1,0.121,0.103,0.0,0.0877,0.799,125.014,2.95,4

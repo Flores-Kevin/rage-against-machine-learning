@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+0a4MMyCrzT0En247IhqZbD,NewJeans,Hype Boy,South Korea,0.593,0.935,4,-3.43,0,0.225,0.268,0.0,0.286,0.783,99.976,2.98,4
+5mdWIwsJAzR97ShGkt8gcR,"ZICO, HOMIES",New thing (Prod. ZICO) (Feat. Homies),South Korea,0.775,0.865,1,-2.015,1,0.307,0.0453,0.0,0.261,0.663,175.12,2.46,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,South Korea,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+2gYj9lubBorOPIVWsTXugG,IVE,After LIKE,South Korea,0.68,0.922,0,-1.215,1,0.121,0.103,0.0,0.0877,0.799,125.014,2.95,4
+2pIUpMhHL6L9Z5lnKxJJr9,NewJeans,Attention,South Korea,0.811,0.648,10,-3.684,0,0.0368,0.236,0.0,0.0761,0.695,104.988,3.0,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,South Korea,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+5aucVLKiumD89mxVCB4zvS,"Crush, j-hope",Rush Hour (Feat. j-hope of BTS),South Korea,0.738,0.714,0,-5.235,1,0.249,0.157,0.0,0.31,0.74,95.035,2.96,4
+0Q5VnK2DYzRyfqQRJuUtvi,IVE,LOVE DIVE,South Korea,0.703,0.709,1,-4.169,0,0.0433,0.00379,5.43e-05,0.333,0.538,117.941,2.95,4
+2DwUdMJ5uxv20EhAildreg,NewJeans,Cookie,South Korea,0.847,0.638,0,-3.764,1,0.0575,0.0596,0.0,0.0894,0.661,156.935,3.93,4
+0zRezEuKtaAXHcB4eruwi2,Charlie Puth,I Don’t Think That I Like Her,South Korea,0.587,0.548,8,-5.846,0,0.0339,0.396,0.0,0.109,0.713,186.073,3.14,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),South Korea,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+6C734SmqoIYuRWo2qSCnpC,NMIXX,DICE,South Korea,0.556,0.798,7,-3.331,1,0.254,0.0848,0.0,0.33,0.628,131.096,2.76,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,South Korea,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),South Korea,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+296nXCOv97WJNRWzIBQnoj,LE SSERAFIM,FEARLESS,South Korea,0.863,0.62,7,-7.167,1,0.135,0.0508,0.00324,0.129,0.432,103.971,2.81,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,South Korea,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+4FKmrrI6y8REWoCyV5tAhY,"10cm, BIG Naughty",Just 10 centimeters,South Korea,0.687,0.743,2,-4.716,1,0.0459,0.347,0.0,0.0799,0.545,92.002,3.26,4
+5expoVGQPvXuwBBFuNGqBd,NewJeans,Hurt,South Korea,0.599,0.446,10,-6.511,0,0.0833,0.731,0.0,0.105,0.567,179.877,2.97,4
+4nrDn3HEdKn524GrOSAll8,Charlie Puth,Charlie Be Quiet!,South Korea,0.753,0.662,8,-4.25,1,0.0702,0.205,3.66e-06,0.0851,0.466,94.958,2.14,4
+1oen3GpTcA486fTHaT7neg,Girls' Generation,FOREVER 1,South Korea,0.615,0.871,9,-1.248,1,0.0516,0.0427,0.0,0.254,0.297,123.915,3.38,4
+0HsRZwZzHoZ5AM5W2ZYI5c,"BIG Naughty, 10cm",Beyond Love (Feat. 10CM),South Korea,0.507,0.571,7,-6.909,1,0.0856,0.222,0.0,0.241,0.587,174.954,3.15,4
+396FqjKmViUZ92Wmm4rx3i,aespa,Illusion,South Korea,0.75,0.718,2,-2.817,0,0.0468,0.0814,1.75e-05,0.322,0.592,90.027,3.25,4
+2RLdkXSaiQjRbey5pvP8Kt,Lim Young Woong,If We Ever Meet Again,South Korea,0.401,0.394,1,-6.655,1,0.0324,0.748,0.0,0.0993,0.327,129.74,4.57,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),South Korea,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+1nX1b7kRg5a6XKAq7uQOpr,ITZY,SNEAKERS,South Korea,0.935,0.849,7,-3.047,1,0.0779,0.0192,0.0,0.0223,0.551,119.986,2.99,4
+7n2FZQsaLb7ZRfRPfEeIvr,IVE,ELEVEN,South Korea,0.828,0.731,9,-3.033,1,0.111,0.0617,0.0,0.048,0.587,119.978,2.97,4
+41HriGdYdajxCJIOMiIBWs,Kim Seungmin,My pleasure Is That You Ride The Bentley,South Korea,0.688,0.608,6,-5.675,0,0.0721,0.523,0.0,0.321,0.567,99.946,3.03,4
+07trPhWMgiagFnSOlmpzl0,"BE'O, ZICO",Complex (Feat. ZICO),South Korea,0.785,0.769,5,-1.919,0,0.0488,0.0799,0.0,0.111,0.947,124.983,3.25,4
+1jIMjbzcGCcCQn5iMu9CUc,Charlie Puth,That's Hilarious,South Korea,0.714,0.442,6,-5.909,1,0.0605,0.742,0.0,0.114,0.546,108.039,2.45,4
+3MJhPqL2IgGs7gHEB2M35q,BLACKPINK,Hard to Love,South Korea,0.654,0.768,5,-5.007,1,0.0431,0.00616,0.0,0.202,0.505,104.97,2.71,4
+775S83AMYbQc8SYteOktTL,10cm,Gradation,South Korea,0.63,0.653,11,-3.592,1,0.0252,0.175,0.0,0.108,0.442,104.003,3.35,4
+0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),South Korea,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,2.88,4
+50xSycnGMDy0Wg5jJcOv3S,Lim Young Woong,Rainbow,South Korea,0.641,0.889,8,-3.534,1,0.0541,0.0394,0.0,0.181,0.616,96.033,3.27,4
+5rJ7bdPmr8nfmm2JQ8xHOz,NAYEON,POP!,South Korea,0.793,0.859,2,-2.998,1,0.0544,0.0356,0.0,0.0343,0.392,97.001,2.8,4
+0kqTXMHiQiB7IECD0WwcPq,TWICE,Talk that Talk,South Korea,0.774,0.905,3,-2.432,0,0.122,0.143,0.0,0.332,0.768,119.964,2.96,4
+0IGUXY4JbK18bu9oD4mPIm,(G)I-DLE,TOMBOY,South Korea,0.755,0.87,1,-2.414,0,0.0936,0.00988,0.0,0.0917,0.645,124.032,2.91,4
+0VES0jpNQEdRpD31gYDIMe,"Yoon Mirae, BIBI",LAW (Prod. Czaer),South Korea,0.756,0.9,2,-4.428,1,0.0843,0.00857,0.000111,0.237,0.55,128.054,3.16,4
+2WTHLEVjfefbGoW7F3dXIg,aespa,Girls,South Korea,0.57,0.974,3,-0.173,0,0.325,0.115,0.000594,0.125,0.65,171.958,4.01,4
+0HYAsQwJIO6FLqpyTeD3l6,Fujii Kaze,Shinunoga E-Wa,South Korea,0.6,0.76,6,-6.123,0,0.0451,0.167,4.07e-05,0.189,0.519,158.075,3.09,4
+3AVXwaOGCEL8cmBecfcsFJ,Charlie Puth,Light Switch,South Korea,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,3.09,4
+0L8LOav65XwLjCLS11gNPD,BLACKPINK,Typa Girl,South Korea,0.915,0.621,7,-6.519,1,0.1,0.0745,0.0,0.628,0.527,131.984,2.99,4
+3scRk3rUGIwpCg9kMNrtEQ,Baek A,Amor,South Korea,0.551,0.286,9,-10.174,0,0.0415,0.813,0.0,0.103,0.414,133.817,3.15,4
+10qiH1RJkexhTUuN562FsP,Sion,Braindead,South Korea,0.879,0.414,4,-9.014,1,0.248,0.592,7.06e-06,0.0919,0.822,72.477,2.73,4
+2jidjmWNeRmKgLjXhW52Gz,Lim Young Woong,"Our Blues, Our Life",South Korea,0.381,0.405,1,-7.325,1,0.0325,0.629,0.0,0.418,0.273,130.94,3.46,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),South Korea,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+5y4WmuvFX1t3NdSId0MFOh,BLACKPINK,Yeah Yeah Yeah,South Korea,0.729,0.588,1,-6.654,0,0.0359,0.00574,2.91e-06,0.0614,0.639,124.019,2.98,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),South Korea,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+10SRMwb9EuVS1K9rYsBfHQ,BTS,Yet To Come,South Korea,0.559,0.885,1,-4.515,1,0.189,0.0432,0.0,0.333,0.683,172.029,3.23,4
+4BLpd6QINAs4UXd1lVtdhj,Charlie Puth,Dangerously,South Korea,0.696,0.517,2,-8.379,0,0.0366,0.364,0.0,0.197,0.23,112.291,3.32,3
+2lsRp40mCRkhqULWdMbOzn,Lim Young Woong,I Love You,South Korea,0.635,0.442,7,-5.919,1,0.0362,0.706,0.0,0.0929,0.609,110.862,3.98,3
+1Wwh6gmMeolwzbRzfZMY5b,BLACKPINK,Ready For Love,South Korea,0.676,0.702,6,-5.446,1,0.118,0.0143,0.0,0.103,0.542,107.931,3.08,4
+1lUNlmwyhsJy6kXmmrO11t,SEUNGKWAN,As It Was - Spotify Singles,South Korea,0.509,0.83,9,-4.446,1,0.0742,0.0138,0.00263,0.208,0.83,174.009,2.66,4
+4Cr43xPo7bwyCcL1g3yVCu,Lim Young Woong,A bientot,South Korea,0.606,0.729,0,-4.555,1,0.0804,0.268,0.0,0.271,0.527,73.967,4.27,4
+3oiMjDZ1bShIpFfOQf55IW,BE'O,LOVE me,South Korea,0.628,0.812,4,-2.669,1,0.0477,0.0689,0.0,0.34,0.683,147.872,2.89,4
+5BqwC9kOBbqYkzdOKeXFFk,JANNABI,for lovers who hesitate,South Korea,0.52,0.431,10,-8.484,1,0.0284,0.705,0.000264,0.301,0.302,74.004,4.42,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,South Korea,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+0UnOf7i44YK0ULpkEGHe4R,KyoungSeo,Dear my X,South Korea,0.701,0.553,3,-3.393,1,0.0287,0.528,0.0,0.147,0.515,94.023,3.13,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,South Korea,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+7x3SGAkfIrzDr9paSslwMv,Lim Young Woong,Lovely Touch,South Korea,0.372,0.551,6,-3.508,1,0.0324,0.536,0.0,0.226,0.444,105.104,3.25,3
+7GNRUsU3M4XNDDB9xle5Dz,"PSY, SUGA",That That (prod. & feat. SUGA of BTS),South Korea,0.905,0.962,4,-3.197,1,0.0856,0.0299,0.0,0.0272,0.906,129.969,2.91,4
+20SIjymeaQNEv0NkPLpa6N,WSG WANNABE (Sa-Fire),I Missed You,South Korea,0.554,0.722,7,-3.533,1,0.056,0.425,0.0,0.0703,0.22,169.883,3.46,4
+7AdGloF1UHKe1vAZPbqIXH,BLACKPINK,The Happiest Girl,South Korea,0.382,0.37,0,-8.475,1,0.0785,0.605,0.0,0.102,0.556,181.459,3.7,3
+365znJ27Fb3faGsctmQYWR,Lim Young Woong,Father,South Korea,0.314,0.363,7,-7.236,1,0.0289,0.765,0.0,0.189,0.243,139.695,3.97,4
+6I2tqFhk8tq69iursYxuxd,SEVENTEEN,HOT,South Korea,0.765,0.777,5,-4.376,0,0.0399,0.0539,2.58e-06,0.338,0.64,111.944,3.29,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,South Korea,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,South Korea,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+1WKLxJpDqkQ9x1qEDNutoX,NCT 127,2 Baddies,South Korea,0.596,0.921,2,-2.372,1,0.258,0.153,0.0,0.0922,0.529,171.96,3.84,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,South Korea,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,South Korea,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2.55,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,South Korea,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,South Korea,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+37YoRLUu1qId0ewavgvnkG,LE SSERAFIM,Blue Flame,South Korea,0.781,0.725,4,-3.571,0,0.0452,0.0281,0.0,0.0761,0.765,112.045,3.36,4
+4rMEoXVYww6Xy7q9wSj4gy,Lim Young Woong,Love Always Run Away,South Korea,0.404,0.443,8,-6.799,1,0.0333,0.651,0.0,0.12,0.36,131.298,4.05,4
+2gzhQaCTeNgxpeB2TPllyY,"Jimin, HA SUNG WOON",With you,South Korea,0.532,0.426,3,-6.117,1,0.0288,0.639,0.0,0.134,0.137,149.898,3.37,3
+4p4yxplNCSmt9xfaAMpcd5,BIG Naughty,Vancouver,South Korea,0.622,0.604,6,-6.731,1,0.145,0.419,0.0,0.122,0.698,89.483,3.6,4
+3bUD1FmJClHcD0U7rIN0TR,"BIG Naughty, CHANGMO, Jay Park","Romance Symphony (Feat. CHANGMO, Jay Park)",South Korea,0.445,0.666,4,-6.266,1,0.288,0.183,0.0,0.192,0.534,88.042,4.01,4
+0CB3B5ir8I2KbB3dkGVtWF,WSG WANNBE (Gaya-G),At That Moment,South Korea,0.575,0.794,7,-2.673,1,0.0392,0.213,0.0,0.365,0.29,118.023,3.72,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),South Korea,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+0yfQBmmOIVqiwhV5u10EhN,Lim Young Woong,Love Letter,South Korea,0.488,0.132,2,-12.332,1,0.0389,0.942,4.3e-05,0.108,0.209,136.189,3.58,4
+2oBMZYteeO8DyXV9gDx6Za,Red Velvet,Feel My Rhythm,South Korea,0.412,0.94,1,-2.171,1,0.215,0.0648,0.0,0.358,0.423,157.964,3.5,4
+0bYVPJvXr8ACmw313cVvhB,BLACKPINK,Tally,South Korea,0.688,0.637,2,-4.85,1,0.031,0.00777,0.0,0.13,0.427,129.902,3.07,4
+3TSLqZssCoCdDlMhCJ08XW,BIGBANG,Still Life,South Korea,0.68,0.584,8,-4.457,1,0.034,0.443,0.0,0.0628,0.239,118.06,3.14,4
+6jjYDGxVJsWS0a5wlVF5vS,BTS,Butter,South Korea,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,2.75,4
+7rXcCpIAoOUCydkVDMcoPV,TAEYEON,INVU,South Korea,0.599,0.816,11,-3.412,0,0.0556,0.0911,2.17e-06,0.0961,0.399,106.962,3.42,4
+4zCIxSnVWpGNghERX4uWZF,"YENA, BIBI",SMILEY(Feat. BIBI),South Korea,0.652,0.91,9,-3.444,1,0.134,0.0963,1.25e-05,0.093,0.82,155.967,2.89,4
+68EkhVWIeULhHxcbi1QhzK,AJR,World's Smallest Violin,South Korea,0.68,0.697,5,-7.01,1,0.0484,0.121,0.0,0.661,0.684,116.033,3.01,4
+05STjz8kmPBUebu3uu5sO0,Lim Young Woong,Nest,South Korea,0.643,0.841,2,-3.834,0,0.0665,0.0133,1.39e-06,0.312,0.764,145.999,2.87,4
+6RBziRcDeiho3iTPdtEeg9,Younha,Event Horizon,South Korea,0.534,0.861,11,-3.177,0,0.0361,0.0758,0.0,0.167,0.286,97.977,5.01,4
+6LXIhiXK8z1KLd3giR904b,Charlie Puth,Smells Like Me,South Korea,0.602,0.565,11,-6.498,1,0.0498,0.329,0.0,0.0622,0.609,208.038,3.4,4
+2D1xAiDD33nqcxtSMH30hO,Lim Young Woong,Love Station,South Korea,0.663,0.636,11,-3.698,1,0.0269,0.677,0.0,0.147,0.913,101.983,3.19,4
+3gAXVQOR0h7Ks71lsr5MFZ,BIBI,Animal Farm,South Korea,0.617,0.57,5,-4.28,0,0.0308,0.0178,5.92e-06,0.55,0.375,107.971,3.4,3
+1E14FuM0BRaHAJSJ9YxMVu,Lim Young Woong,A Psalm of Life,South Korea,0.279,0.515,7,-4.511,1,0.0305,0.75,0.000114,0.188,0.173,139.694,3.89,4
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,South Korea,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+1w2hClDL1xH4FPZIipZ1FJ,Yoon Do Hyun,I Guess I Loved You,South Korea,0.702,0.534,9,-6.102,1,0.0282,0.444,0.0,0.108,0.544,93.983,3.98,4
+1dfsPqH09vnzUWEOsN98Ex,SEULGI,28 Reasons,South Korea,0.766,0.651,5,-3.546,0,0.0952,0.211,2.51e-06,0.144,0.488,121.995,3.16,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,South Korea,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+4LxFRsy3TZjqAtAgIsjkez,"PATEKO, ASH ISLAND, Skinny Brown","Rainy day (Feat. ASH ISLAND, Skinny Brown)",South Korea,0.621,0.783,2,-4.78,1,0.162,0.55,0.0,0.109,0.49,160.161,3.64,4
+5quFr5s5PXYfUX5jV2EBZ1,"Jay Park, IU",GANADARA (Feat. IU),South Korea,0.492,0.615,2,-6.663,1,0.244,0.196,0.0,0.0772,0.458,90.081,3.4,4
+5QDLhrAOJJdNAmCTJ8xMyW,BTS,Dynamite,South Korea,0.746,0.765,6,-4.41,0,0.0993,0.0112,0.0,0.0936,0.737,114.044,3.32,4
+1IvOxLYTstsq5Z6pN3l3zm,Lim Young Woong,Loving You,South Korea,0.604,0.79,7,-3.534,1,0.0294,0.0675,0.0,0.314,0.87,95.036,3.54,4
+4YTvuLSqKshDOJvwyDmAYS,Sung Si Kyung,Every moment of you 너의 모든 순간,South Korea,0.366,0.385,10,-7.952,1,0.0336,0.816,0.0,0.0872,0.244,139.982,4.06,4
+4bZZVcgWWMWPBwzTTp642w,BTS,Filter,South Korea,0.779,0.762,10,-5.188,0,0.0631,0.0224,0.0,0.121,0.859,110.043,3.0,4
+2X45nVBeYzmDlrXji9Av0Q,MeloMance,"Love, Maybe",South Korea,0.402,0.731,8,-3.529,1,0.0693,0.508,0.0,0.146,0.631,171.594,3.08,4
+1XkMxUilV0E3ChDERZJUEq,"Balming Tiger, Omega Sapien, bj wnjn, Mudd the student, RM",SEXY NUKIM (feat. RM of BTS),South Korea,0.747,0.71,1,-5.729,1,0.116,0.00219,0.214,0.371,0.426,93.995,3.83,4
+3T03rPwlL8NVk1yIaxeD8U,Justin Bieber,Off My Face,South Korea,0.509,0.228,4,-8.68,1,0.0332,0.92,0.0,0.104,0.586,90.674,2.61,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,South Korea,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,South Korea,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+4KU23Zay3Q1W0c0yJCNczH,JANNABI,Baby I Need You,South Korea,0.613,0.642,2,-6.052,0,0.034,0.14,0.0,0.11,0.692,176.176,3.36,4
+6262LmmRM1khHX1D4yk6MA,Juho,without me,South Korea,0.431,0.499,11,-4.995,1,0.0365,0.0431,0.0,0.325,0.228,133.154,4.13,4
+5YMXGBD6vcYP7IolemyLtK,BTS,Euphoria,South Korea,0.637,0.799,2,-4.518,1,0.0338,0.394,0.0,0.0921,0.57,104.996,3.81,4
+0pYacDCZuRhcrwGUA5nTBe,"IU, SUGA",eight(Prod.&Feat. SUGA of BTS),South Korea,0.676,0.869,1,-1.573,1,0.0423,0.115,0.0,0.132,0.594,120.029,2.79,4
+1m2PksrrMpIev63uPxT1V0,NMIXX,O.O,South Korea,0.39,0.767,11,-3.918,0,0.293,0.0354,4.26e-06,0.0601,0.285,200.263,2.88,4
+423WHvB4mKprM6hELzpH3F,Nerd Connection,Good Night Good Dream,South Korea,0.478,0.434,2,-4.547,1,0.0298,0.0538,6.18e-06,0.0748,0.133,129.762,4.43,4
+2JIaYEoBsURkmNab7EgYwA,"KANG MINKYUNG, CHOI JUNG HOON of JANNABI",Because we loved,South Korea,0.49,0.454,4,-6.178,1,0.0303,0.728,0.0,0.105,0.162,66.007,3.7,4
+5cF0dROlMOK5uNZtivgu50,Charlie Puth,Attention,South Korea,0.775,0.613,3,-4.586,0,0.0542,0.109,2.33e-05,0.134,0.797,100.066,3.48,4
+46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,South Korea,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,0.47,105.006,3.77,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,South Korea,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+2zrhoHlFKxFTRF5aMyxMoQ,aespa,Next Level,South Korea,0.82,0.852,11,-2.567,0,0.166,0.488,5.94e-06,0.0907,0.82,109.036,3.69,4
+3QwiidVHfeE9y5jl4n2MTC,SEVENTEEN,_WORLD,South Korea,0.709,0.809,2,-3.198,0,0.0541,0.312,0.0,0.0899,0.788,111.01,2.97,4
+6wBpO4Xc4YgShnENGSFA1M,LE SSERAFIM,Sour Grapes,South Korea,0.779,0.801,6,-5.564,0,0.0457,0.395,0.0,0.108,0.72,139.998,3.28,4
+2g0LdZQce9xlcHb1mBJyuz,IU,strawberry moon,South Korea,0.475,0.712,6,-3.306,1,0.0431,0.138,0.0,0.0936,0.443,169.796,3.42,4
+2SLwbpExuoBDZBpjfefCtV,The Weeknd,Out of Time,South Korea,0.65,0.76,0,-4.422,0,0.0446,0.255,0.0,0.339,0.838,93.057,3.57,4
+56s2s5e8WuBsWVKnmz6J9L,STAYC,BEAUTIFUL MONSTER,South Korea,0.594,0.647,6,-4.347,1,0.0834,0.121,0.0,0.352,0.511,82.321,3.0,4
+26Iv7VGUF1lqU10rxQXFL8,"Paul Blanco, BE'O",Summer (Feat. BE’O),South Korea,0.701,0.732,4,-4.773,0,0.126,0.208,0.0,0.158,0.739,158.075,3.33,4
+69xohKu8C1fsflYAiSNbwM,BTS,Run BTS,South Korea,0.724,0.818,8,-3.747,1,0.168,0.0201,0.0,0.0358,0.696,77.004,3.42,4
+2ouguQxJZn4jXisuNREqe5,aespa,Life's Too Short (English Version),South Korea,0.472,0.8,0,-3.681,1,0.265,0.289,0.0,0.149,0.548,72.203,2.97,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,South Korea,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+56kfw7CKOCgcYqaoDU5o0B,"DINDIN, 10cm",I’m not myself when I’m around you (Feat. 10CM),South Korea,0.768,0.517,1,-5.839,1,0.0573,0.482,0.0,0.0844,0.627,113.03,3.52,4
+6z1kLsntE7FuzKZHZWrXYN,DEAN,instagram,South Korea,0.463,0.566,8,-6.195,1,0.145,0.196,0.0,0.284,0.219,93.921,4.26,4
+4YaKlkNVJNbrIqN82EKFsQ,JANNABI,A thought on an autumn night,South Korea,0.538,0.297,10,-9.002,1,0.0266,0.901,0.000818,0.101,0.365,74.027,3.12,3
+68EMU2RD1ECNeOeJ5qAXCV,"Charlie Puth, Selena Gomez",We Don't Talk Anymore (feat. Selena Gomez),South Korea,0.728,0.563,1,-8.053,0,0.134,0.621,0.0,0.179,0.352,100.017,3.63,4
+50kpGaPAhYJ3sGmk6vplg0,Justin Bieber,Love Yourself,South Korea,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,3.9,4
+5xrtzzzikpG3BLbo4q1Yul,IU,LILAC,South Korea,0.738,0.89,2,-2.275,0,0.0748,0.0895,1.89e-06,0.213,0.75,114.942,3.57,4
+186NCtNk1tUYS7c2DxgJ7O,V,Christmas Tree,South Korea,0.437,0.384,5,-8.384,1,0.042,0.699,2.33e-05,0.121,0.181,139.009,3.5,4
+19Hg1UCZaCdpHB37L7x63X,The Black Skirts,EVERYTHING,South Korea,0.54,0.373,6,-8.591,1,0.0278,0.651,0.927,0.146,0.387,119.843,4.88,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,South Korea,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+66zdGutAO6NJmMjH8ejBIq,Christopher,Bad,South Korea,0.759,0.59,1,-7.291,0,0.12,0.076,0.0,0.329,0.713,95.866,3.19,4
+4iJyoBOLtHqaGxP12qzhQI,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),South Korea,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,3.3,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),South Korea,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+2bU2EvhMM4Z1M1CLJlnZH1,데이먼스 이어 Damons year,yours,South Korea,0.482,0.47,11,-6.365,1,0.0314,0.665,0.0,0.191,0.32,109.286,2.75,4
+4JmbtS0Muijl37KP9lDscy,SUNMI,Heart Burn,South Korea,0.84,0.656,6,-5.162,0,0.0401,0.0287,4.38e-06,0.0714,0.783,121.99,3.22,4
+0LMdtBOxbVgrYoA4n0Vwvv,IVE,ROYAL,South Korea,0.796,0.85,1,-2.987,1,0.102,0.0905,3.39e-06,0.205,0.47,109.922,3.44,4
+7GARzfC1mwhDuk4t9WOACq,j-hope,MORE,South Korea,0.783,0.722,2,-4.864,1,0.0357,0.00537,0.00209,0.105,0.306,97.031,3.0,4
+6uEWYpv8HNAdbwHlqemG1F,BOL4,Love story,South Korea,0.865,0.822,4,-3.261,1,0.0548,0.432,0.0,0.0989,0.634,114.058,3.29,4
+7CAdT0HdiQNlt1C7xk2hep,Jung Kook,Stay Alive (Prod. SUGA of BTS),South Korea,0.512,0.76,2,-5.889,0,0.0682,0.299,0.0,0.103,0.495,130.096,3.52,4
+5nCwjUUsmBuNZKn9Xu10Os,IU,Celebrity,South Korea,0.73,0.784,9,-2.62,1,0.0691,0.191,0.0,0.0956,0.673,99.995,3.26,4
+0tgxvf4rqBBeEB54h0nnRD,"GyeongseoYeji, Jeon Gunho",If you lovingly call my name,South Korea,0.382,0.672,7,-2.836,1,0.032,0.351,0.0,0.144,0.236,143.643,3.86,4
+2SMq0lOqCTHayWa9juoI0d,"Woo, Loco, GRAY",We Are,South Korea,0.756,0.808,7,-3.272,1,0.0752,0.147,0.0,0.129,0.685,100.018,3.27,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,South Korea,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),South Korea,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,South Korea,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,3.59,4
+0QzuaeCEEOV40Pn7IvKEny,dhruv,double take,South Korea,0.656,0.436,8,-11.141,1,0.0744,0.845,0.0,0.221,0.196,109.239,2.86,4
+3gFcGnU4kTdMYLXDjH1TK8,STAYC,RUN2U,South Korea,0.722,0.676,11,-5.885,0,0.0829,0.000835,1.2e-05,0.321,0.362,129.943,3.56,4
+6eyVKpe2LGukVfC8wpd3D2,"Kim Seungmin, Punch","One, Two (Feat. Punch)",South Korea,0.397,0.593,1,-5.487,1,0.0699,0.404,0.0,0.344,0.464,199.527,3.34,3
+4Ws314Ylb27BVsvlZOy30C,BLACKPINK,Lovesick Girls,South Korea,0.654,0.707,6,-5.661,1,0.0664,0.00559,0.0,0.0873,0.448,127.97,3.25,4
+7pDDXE5HVFZBvMxjL4CjVp,NMIXX,COOL (Your rainbow),South Korea,0.594,0.722,8,-5.473,1,0.161,0.554,0.0,0.323,0.572,148.904,2.84,4
+3dbLT62Cvs46Ju7a8gpr36,aespa,Savage,South Korea,0.727,0.879,9,-1.167,1,0.129,0.124,1.17e-05,0.244,0.671,146.959,3.97,4
+3XYRV7ZSHqIRDG87DKTtry,BTS,Permission to Dance,South Korea,0.702,0.741,9,-5.33,1,0.0427,0.00544,0.0,0.337,0.646,124.925,3.13,4
+2BgEsaKNfHUdlh97KmvFyo,Anne-Marie,2002,South Korea,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,3.12,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,South Korea,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+0CatzXH85XWyBqqdB6qPMB,NCT DREAM,Beatbox,South Korea,0.857,0.7,4,-4.189,0,0.074,0.0411,0.0,0.0334,0.773,93.997,3.42,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,South Korea,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+4a9tbd947vo9K8Vti9JwcI,"BTS, Halsey",Boy With Luv (feat. Halsey),South Korea,0.645,0.862,11,-4.761,0,0.0845,0.0933,0.0,0.193,0.803,119.947,3.83,4
+7gXMkqirKU23zgdlSAb00a,BE'O,Suddenly,South Korea,0.86,0.524,9,-5.164,1,0.0399,0.564,1.82e-06,0.192,0.639,105.028,2.61,4
+5q3LwAHTqo9d3rET2EA9Nq,"88rising, BIBI",The Weekend,South Korea,0.784,0.521,1,-5.701,1,0.0322,0.062,4.75e-06,0.0995,0.817,101.491,2.79,4
+7IuuFQShxmy7zMZ3vZvMFj,"Lee Young Ji, Jay Park",Day & Night (feat. Jay Park),South Korea,0.854,0.798,5,-4.401,0,0.242,0.0129,0.0,0.111,0.87,107.932,3.59,4
+4JmRth9mDEINhUNIpDYLQi,JANNABI,Summer,South Korea,0.495,0.624,5,-4.03,0,0.0265,0.438,0.000424,0.292,0.327,79.0,4.05,4
+41CgzGD7xlgnJe14R4cqkL,Lauv,Paris in the Rain,South Korea,0.426,0.408,3,-9.419,1,0.0524,0.771,7.88e-06,0.394,0.528,76.309,3.41,4
+2QWEMqQMJR1KDf6hDjJOs6,j-hope,Arson,South Korea,0.938,0.798,1,-3.998,1,0.103,0.00813,7.03e-05,0.146,0.265,99.992,2.66,4
+4zCcKPm03kHARVAiyzlDX8,Lim Young Woong,Trust in me,South Korea,0.273,0.494,11,-3.58,1,0.0344,0.642,0.0,0.0996,0.26,189.142,4.05,3
+7IkuRNVAjwXpZ2DheQHL4L,EXID,FIRE,South Korea,0.75,0.941,8,-1.759,1,0.0609,0.0111,2.11e-06,0.228,0.867,129.978,3.45,4
+2P91MQbaiQOfbiz9VqhqKQ,Lauv,I Like Me Better,South Korea,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,3.29,4
+2j1Es5qEl4pD8GEe2WsYgP,SEVENTEEN,Darl+ing,South Korea,0.519,0.695,0,-4.861,1,0.0812,0.299,0.0,0.43,0.515,95.384,2.94,4
+2JzZzZUQj3Qff7wapcbKjc,"Wiz Khalifa, Charlie Puth",See You Again (feat. Charlie Puth),South Korea,0.689,0.481,10,-7.503,1,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,3.83,4
+4Dr2hJ3EnVh2Aaot6fRwDO,IU,Blueming,South Korea,0.819,0.674,0,-3.145,1,0.0587,0.0849,0.0,0.0667,0.682,106.032,3.62,4
+2xms6U7ngGDBYJ4RnRTPyz,10cm,스토커 Stalker,South Korea,0.583,0.288,1,-5.907,1,0.0288,0.816,0.0,0.106,0.218,136.014,4.21,4
+0y5iPq7pRaJV8iCGybWebp,21univ.,Sticker picture,South Korea,0.743,0.377,8,-5.463,1,0.031,0.61,0.0,0.0808,0.56,94.024,3.14,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,South Korea,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+0RiRZpuVRbi7oqRdSMwhQY,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,South Korea,0.755,0.522,2,-4.368,1,0.0575,0.533,0.0,0.0685,0.925,89.96,2.63,4
+3pqgVtpnQbBAZoWT4AEm1B,fromis_9,Stay This Way,South Korea,0.682,0.855,11,-2.421,1,0.0553,0.0709,0.0,0.046,0.764,123.945,3.26,4
+0RErLzcXg9K3FtjN86e4gm,Grizzly,Beige coat,South Korea,0.614,0.528,0,-6.061,1,0.0479,0.493,0.0,0.483,0.732,73.144,2.98,4
+6qmvAJSUfVGMubvI2awW7p,Tate McRae,uh oh,South Korea,0.625,0.604,10,-7.415,0,0.339,0.257,2.06e-05,0.129,0.372,174.089,2.83,4
+0M4EDkH7RpbKlWwrZ9o17N,An Nyeong,haeyo (2022),South Korea,0.453,0.522,4,-5.013,1,0.0521,0.647,0.0,0.105,0.29,70.004,3.97,4
+6JeleVHUHrdvgiFESE33ZU,ASH ISLAND,MELODY,South Korea,0.63,0.706,7,-4.434,0,0.0575,0.378,0.0,0.104,0.576,149.979,3.01,4
+4HBZA5flZLE435QTztThqH,"Ariana Grande, Justin Bieber",Stuck with U (with Justin Bieber),South Korea,0.597,0.45,8,-6.658,1,0.0418,0.223,0.0,0.382,0.537,178.765,3.81,3
+2MJz8BxxMsERULatmBikDH,Pink Sweat$,At My Worst,South Korea,0.813,0.415,0,-5.926,1,0.0349,0.777,0.0,0.131,0.667,91.921,2.84,4
+3uA8SjMyDtwtt0jLPMQbVD,"DEAN, Gaeko",D (Half Moon),South Korea,0.512,0.765,7,-5.252,1,0.136,0.246,0.0,0.0573,0.519,169.709,3.82,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,South Korea,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+34lKiKHCKhMe9PAfGcdFNE,CHUNG HA,Sparkling,South Korea,0.6,0.923,1,-1.926,0,0.105,0.166,0.0,0.32,0.712,160.025,3.12,4
+53NYRM8s4mm4yeCsmsvTik,ZICO,Freak,South Korea,0.629,0.886,0,-2.105,0,0.303,0.0177,0.0,0.296,0.83,141.036,2.83,4
+3uKoBRThCMtgKss90CiXQc,ASH ISLAND,Nightmare,South Korea,0.757,0.695,2,-7.94,1,0.413,0.786,1.83e-05,0.258,0.729,80.039,1.93,4
+4iJprGt1rt5iy0sxXXaRWn,"D-Hack, PATEKO",OHAYO MY NIGHT,South Korea,0.456,0.756,7,-3.89,0,0.167,0.661,0.0,0.0878,0.737,190.208,3.98,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,South Korea,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+2SSbQoEqPHu6qAgi3pFobY,"Coogie, LeeHi",Alone (Feat. LeeHi),South Korea,0.764,0.647,8,-4.733,1,0.0563,0.68,0.0,0.275,0.819,119.973,2.98,4
+1oFAF1hdPOickyHgbuRjyX,"The Weeknd, Ariana Grande",Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,South Korea,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,3.18,4
+03qu1u4hDyepQQi2lNxCka,Lee Mujin,Traffic light,South Korea,0.609,0.717,6,-3.547,0,0.0597,0.0965,0.0,0.0694,0.545,97.026,3.86,4
+1xWVYPdaLm909DbFmuPGOR,Sandeul,Slightly Tipsy (She is My Type♡ X SANDEUL),South Korea,0.697,0.447,1,-6.552,1,0.0264,0.769,0.0,0.115,0.549,93.931,3.8,4
+0U5HgFCn3EJN2zZqI0KGfJ,Tophyun,Tell me you love me,South Korea,0.716,0.557,1,-5.889,1,0.0308,0.776,0.0,0.121,0.625,106.986,3.32,4
+4fFfyouye6vrX9o9z4PVMu,Lauv,Never Not,South Korea,0.47,0.221,5,-9.243,1,0.0371,0.693,0.0,0.104,0.264,133.714,3.47,4
+4qu63nuBpdn0qHUHuObEj1,"Marshmello, Jonas Brothers",Leave Before You Love Me (with Jonas Brothers),South Korea,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,2.58,4

@@ -1,0 +1,201 @@
+track_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature,artist_names,track_name,region
+5ww2BF9slyYgNOk37BlC4u,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4,Manuel Turizo,La Bachata,Peru
+2tTmW7RDtMQtBk7m2rYeSw,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",Peru
+5Eax0qFko2dh7Rl2lYs3bx,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,3.55,4,Bad Bunny,Efecto,Peru
+6Sq7ltF9Qa7SNFBsV5Cogx,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2.98,4,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Peru
+1IHWl5LamUGEuP4ozKQSXZ,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4,Bad Bunny,Tití Me Preguntó,Peru
+31i56LZnwE6uSu3exoHjtB,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,0.428,122.016,2.89,4,Bad Bunny,Neverita,Peru
+3k3NWokhRRkEPhCzPmV8TW,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4.3,4,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Peru
+2CeKVsFFXG4QzA415QygGb,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,2.6,4,Feid,Feliz Cumpleaños Ferxxo,Peru
+6Xom58OOXk2SoU711L2IXO,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4.1,4,Bad Bunny,Moscow Mule,Peru
+7dSZ6zGTQx66c2GF91xCrb,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,3.5,4,KAROL G,PROVENZA,Peru
+7gwT3HGL84vF7bgtwL1N88,0.809,0.649,8,-4.433,0,0.0416,0.0407,0.0,0.145,0.72,120.014,3.31,4,Lasso,Ojos Marrones,Peru
+79HZAZNnOE97rb2hnI0XQr,0.834,0.828,11,-2.657,0,0.0452,0.21,5.91e-06,0.103,0.58,102.019,3.25,4,"Rauw Alejandro, Lyanno, Brray",LOKERA,Peru
+53tfEupEzQRtVFOeZvk7xq,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4,ROSALÍA,DESPECHÁ,Peru
+0kTMK4gNFfLXaTb62w1UaJ,0.835,0.747,9,-4.65,1,0.083,0.0492,0.0,0.055,0.432,102.003,2.94,4,"Pablo Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",BABY OTAKU,Peru
+1ga4PztXOIw1yBbdUt2X8v,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,3.49,4,"KAROL G, Maldy",GATÚBELA,Peru
+41oY4WCTj5kccfesTVFnvN,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,3.96,4,"Bad Bunny, Jhay Cortez",Tarot,Peru
+4tYFy8ALRjIZvnvSLw5lxN,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,0.471,97.013,3.79,4,"Bad Bunny, Rauw Alejandro",Party,Peru
+3fjN3y5x4hN53rykAN2LHQ,0.627,0.429,1,-8.255,1,0.234,0.238,0.0,0.122,0.565,126.426,1.88,5,Rels B,cómo dormiste?,Peru
+1797zYiX4cKosMH836X9Gt,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,3.31,4,"Bad Bunny, Tony Dize",La Corriente,Peru
+6wtZPYBIXUvCpXwVjMCJBf,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.00387,0.0638,0.585,109.97,5.37,4,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Peru
+2rurDawMfoKP4uHyb2kJBt,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,2.87,4,"Shakira, Rauw Alejandro",Te Felicito,Peru
+4Dvkj6JhhA12EX05fT7y2e,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4,Harry Styles,As It Was,Peru
+0T2pB7P1VdXPhLdQZ488uH,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,2.86,4,Feid,Normal,Peru
+3PpWCS95gDUDRPko3u1MZ9,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,2.77,4,Feid,Prohibidox,Peru
+6mmPpaltUZK7xjNlBPQQ0p,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,0.511,90.02,3.75,4,"Rauw Alejandro, Chencho Corleone",Desesperados,Peru
+0fea68AdmYNygeTGI4RC18,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,4.04,4,"J Balvin, Bad Bunny",LA CANCIÓN,Peru
+6i1g5ZRmJZAkDwBaUZ3f2i,0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,0.461,121.737,2.36,3,Luar La L,Caile,Peru
+7FlQk2gJ6TBrHHiidvdR2O,0.836,0.703,4,-3.554,0,0.0657,0.0845,0.0,0.138,0.902,94.048,3.77,4,"Becky G, KAROL G",MAMIII,Peru
+4gzsuuZypVbxs0Af1LSZyB,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888,3.46,4,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Peru
+1O2pcBJGej0pmH2Y9XZMs6,0.87,0.548,10,-5.253,0,0.077,0.0924,4.6e-05,0.0534,0.832,96.018,2.56,4,Cris Mj,Una Noche en Medellín,Peru
+6DoL1yYIwEW7VZMRaJhoJI,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4.25,4,"Chris Jedi, Anuel AA, Chencho Corleone, Ñengo Flow",La Llevo Al Cielo (Ft. Ñengo Flow),Peru
+1dm6z1fWB0cErMszU25dy2,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,0.607,78.293,3.84,4,Bad Bunny,Después de la Playa,Peru
+0HINQFSerZ6iMfSsaTO3G5,0.869,0.727,2,-4.956,1,0.121,0.00118,6.97e-05,0.183,0.613,93.989,2.65,4,DEKKO,12x3,Peru
+5jt25aFjW2kNoBqaEVaz5W,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0,0.0717,0.464,91.911,3.37,4,"Mora, Feid",LA INOCENTE,Peru
+6ylDpki1VpIsc525KC1ojF,0.746,0.844,11,-3.499,0,0.0359,0.062,0.0,0.149,0.934,123.014,3.16,4,Sebastian Yatra,Tacones Rojos,Peru
+6VAS7m73rDopQe7BdrFMpD,0.657,0.821,8,-3.06,0,0.32,0.459,0.0,0.103,0.752,96.561,2.67,4,"Bizarrap, Tiago PZK","Tiago PZK: Bzrp Music Sessions, Vol. 48",Peru
+2JPLbjOn0wPCngEot2STUS,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,3.45,4,Bad Bunny,Yonaguni,Peru
+3rdAz1fbUfZxYgaCviYhRo,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,0.336,127.962,3.33,4,Rauw Alejandro,Todo De Ti,Peru
+6VrQTLzzuyGIYjUDe4kAZk,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,0.744,151.991,3.27,4,Bad Bunny,Un Coco,Peru
+1UdzJEpgJxtuXAlCOvD4S0,0.453,0.673,8,-5.649,1,0.144,0.32,0.0,0.131,0.266,92.06,2.66,4,Danny Ocean,Fuera del mercado,Peru
+5fhcuVxuBWfgNXGuyAtLmr,0.774,0.73,0,-3.865,1,0.134,0.108,0.0,0.194,0.421,91.966,3.54,4,"Piso 21, Manuel Turizo",Los Cachos,Peru
+5CzixCxDkRXX9mScCmah8O,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,2.95,4,Bad Bunny,Un Ratito,Peru
+7hynhxDoDpgMIV12JuVtNa,0.627,0.675,5,-7.125,0,0.213,0.125,0.0,0.0784,0.961,79.31,4.62,4,"J Balvin, Bad Bunny, Marciano Cantero",UN PESO,Peru
+6srBp90EwADKAF7PorGiUC,0.662,0.776,8,-4.707,1,0.0457,0.715,0.000411,0.106,0.724,90.838,4.53,4,Adolescent's Orquesta,Virgen,Peru
+5zwwW9Oq7ubSxoCGyW1nbY,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4,BLACKPINK,Pink Venom,Peru
+4khWEpnaijN0G1x019Uzdr,0.734,0.685,0,-5.37,1,0.0453,0.117,0.0,0.109,0.754,92.042,3.61,4,Morat,No Se Va,Peru
+7gRFDGEzF9UkBV233yv2dc,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3,BLACKPINK,Shut Down,Peru
+1qR2WrGGfv9cagAxTaehlw,0.849,0.757,1,-4.577,0,0.0719,0.305,2.57e-06,0.144,0.74,103.069,3.53,4,"Fixty Ordara y Ja Rulay, Wampi, Wow Popy",Por Ustedes (Pornosotros 2),Peru
+1sbNEFiURUYfy024cJX8JG,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,2.8,4,Feid,Ferxxo 100,Peru
+48AJSd42lXpicsGqcgopof,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,3.21,4,"Daddy Yankee, Bad Bunny",X ÚLTIMA VEZ,Peru
+4d4ZXH4dr5bYfgErHiZCX2,0.817,0.67,1,-6.534,1,0.0506,0.123,1.92e-06,0.128,0.495,130.058,3.48,3,Bad Bunny,Dos Mil 16,Peru
+0R7DSnSibvuE4PEHqUayqf,0.836,0.777,6,-5.376,0,0.0439,0.0951,1.68e-06,0.0561,0.504,94.977,3.18,4,Plan B,Es un Secreto,Peru
+2BEcap3xJtmiPaHKyfQi4e,0.734,0.846,9,-3.425,0,0.0489,0.166,1.74e-06,0.235,0.604,98.026,3.5,4,"Rvssian, Rauw Alejandro, Chris Brown",Nostálgico,Peru
+6Pur3hWy6Nzc27ilmsp5HA,0.714,0.735,4,-7.125,0,0.0306,0.176,0.000622,0.115,0.68,123.57,3.7,4,Los Enanitos Verdes,Lamento Boliviano,Peru
+28GCbKgjlVD9eDmasGbe0T,0.714,0.645,10,-5.493,1,0.0514,0.229,0.00083,0.0942,0.434,85.046,3.02,4,Bad Bunny,Me Fui de Vacaciones,Peru
+6y8z28epOv5FlaxDv1Lo5B,0.796,0.68,10,-5.555,0,0.37,0.0575,0.000683,0.103,0.71,179.923,2.94,4,Ryan Castro,Jordan,Peru
+3nqQXoyQOWXiESFLlDF1hG,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Peru
+4hceSKjrkDTO0nMKFcb3sj,0.82,0.752,1,-7.635,0,0.0648,0.0584,0.00417,0.628,0.423,127.999,3.12,4,"Bizarrap, Villano Antillano","Villano Antillano: Bzrp Music Sessions, Vol. 51",Peru
+0E0DRHf5PfMeor0ZCwB3oT,0.777,0.595,2,-6.79,1,0.0375,0.59,0.00139,0.0669,0.546,108.02,4.07,4,"Bad Bunny, The Marías",Otro Atardecer,Peru
+4R8BJggjosTswLxtkw8V7P,0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,5.15,4,"Jhayco, J Balvin, Bad Bunny",No Me Conoce - Remix,Peru
+2GQclWZHwE4fMdqShvOPWU,0.787,0.662,8,-4.285,0,0.0372,0.0648,0.0,0.133,0.79,119.983,3.31,4,"Lasso, Sebastian Yatra",Ojos Marrones - Con Sebastián Yatra,Peru
+5GF0X7GdNmnouKcdhhRmtm,0.527,0.665,10,-7.108,1,0.164,0.0168,1.29e-06,0.324,0.546,135.026,3.94,4,"Paulo Londra, Duki",Party en el Barrio (feat. Duki),Peru
+44XjoNvtwevktFKjvVe1vH,0.797,0.616,1,-10.229,0,0.375,0.762,0.000293,0.0979,0.451,103.071,5.66,4,"Bad Bunny, Buscabulla",Andrea,Peru
+4XqXNU8MwPHwbgZmNXmAdc,0.85,0.756,11,-3.439,0,0.0407,0.0999,0.0,0.0873,0.896,120.024,2.81,4,Maluma,Junio,Peru
+3AJwUDP919kvQ9QcozQPxg,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4,Coldplay,Yellow,Peru
+4OwhwvKESFtuu06dTgct7i,0.75,0.522,9,-7.018,1,0.0293,0.282,0.0,0.0743,0.601,110.427,5.36,4,"Marc Seguí, Rauw Alejandro, Pol Granch",Tiroteo - Remix,Peru
+4srcMdbm2qzVG98tJajHxp,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4.01,4,"Alejo, Feid, ROBI",Pantysito,Peru
+7iwJOi3hlMqZt6pj1sQOBj,0.759,0.561,0,-5.643,0,0.131,0.803,0.121,0.101,0.491,104.915,3.01,4,Quevedo,Vista Al Mar,Peru
+0OTNHGKcqQbk51bOYe462Y,0.802,0.846,1,-4.495,1,0.207,0.233,1.92e-05,0.114,0.26,109.982,3.79,4,"Polimá Westcoast, Pailita",ULTRA SOLO,Peru
+2NMjggapJcXXM7WccGEBUO,0.81,0.789,8,-5.08,1,0.0846,0.191,1.08e-05,0.467,0.77,105.009,2.93,4,Bad Bunny,Enséñame a Bailar,Peru
+71wFwRo8xGc4lrcyKwsvba,0.608,0.626,2,-4.773,1,0.301,0.597,2.16e-06,0.25,0.246,176.086,4.18,4,"Bad Bunny, Tainy",Callaita,Peru
+6ifUES3keWjwXgae8pXI3o,0.744,0.804,1,-6.327,1,0.0677,0.0231,0.0,0.0494,0.426,104.823,3.43,4,Danny Ocean,Me Rehúso,Peru
+2vsoD8S1OyrWSVIA43hjaU,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,3.19,4,Feid,Si Te La Encuentras Por Ahí,Peru
+5kVZxyMY1gfdCLiChsfjn1,0.872,0.588,0,-6.276,1,0.0492,0.275,0.0,0.17,0.93,142.004,3.85,4,Bad Bunny,Yo No Soy Celoso,Peru
+2bbwjxA68m9PHZFWgF1fze,0.607,0.619,8,-6.726,1,0.396,0.142,0.0,0.231,0.377,102.974,3.04,3,Duki,GIVENCHY,Peru
+2uflssWlCaJ6CbTMOsUpNI,0.861,0.645,6,-6.96,0,0.0743,0.423,0.000592,0.349,0.668,121.391,3.52,5,Bad Bunny,Aguacero,Peru
+0mBP9X2gPCuapvpZ7TGDk3,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Peru
+69vlMrzHwATKzupwNcUPyK,0.744,0.868,1,-4.524,1,0.047,0.0326,0.0,0.0822,0.586,93.037,3.44,4,"Bad Bunny, Daddy Yankee",La Santa,Peru
+71iAechwVKGu26pahzFL0k,0.806,0.778,1,-4.577,0,0.0616,0.133,0.0,0.218,0.84,95.993,3.66,4,Morat,Cuando Nadie Ve,Peru
+0wihfILRNOwE2156Shezc8,0.849,0.584,1,-8.195,0,0.115,0.0929,6.18e-06,0.492,0.724,115.018,2.32,4,Bad Bunny,Agosto,Peru
+2gpQi3hbcUAcEG8m2dlgfB,0.583,0.834,0,-4.875,1,0.0444,0.0495,0.0,0.0658,0.557,173.935,2.97,4,Paulo Londra,Plan A,Peru
+655JkvIwu2rDCaD1hPf04g,0.715,0.611,4,-5.094,0,0.0519,0.176,0.0,0.0949,0.776,79.971,3.26,4,"Sebastian Yatra, Myke Towers",Pareja Del Año,Peru
+4r9jkMEnArtWGH2rL2FZl0,0.86,0.791,0,-4.784,1,0.0568,0.169,0.000106,0.106,0.887,92.023,2.93,4,Bad Bunny,A Tu Merced,Peru
+5YJ4BVvTFmVCxUyhKejHfR,0.815,0.856,1,-3.825,0,0.122,0.4,8.34e-05,0.244,0.872,91.995,2.53,4,Tego Calderón,Pa' Que Retozen,Peru
+4SSbtLDkepeOHAckM1FCBP,0.868,0.878,1,-3.294,1,0.038,0.0509,0.00052,0.0857,0.899,112.987,3.88,4,"El Alfa, Noriel, Trueno",LOS APARATOS,Peru
+54ipXppHLA8U4yqpOFTUhr,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4,Imagine Dragons,Bones,Peru
+0cOa970mzTWAxKtltpkpLc,0.85,0.541,2,-4.522,1,0.0674,0.161,5.01e-06,0.286,0.916,92.003,2.75,4,"TINI, Maria Becerra",Miénteme,Peru
+4HzqWEdAbzcVFDv0pvxV4w,0.762,0.77,5,-2.758,1,0.223,0.138,0.0,0.15,0.631,177.998,3.35,4,Maluma,Sobrio,Peru
+2pR6bipXfJySBhje19SW02,0.806,0.85,1,-4.84,1,0.0967,0.155,0.0,0.201,0.728,95.014,3.07,4,"Stars Music Chile, Cris Mj, Standly",Marisola,Peru
+0G2zPzWqVjR68iNPmx2TBe,0.659,0.688,6,-4.649,1,0.0673,0.207,0.0,0.113,0.632,153.979,4.56,4,"Mora, Bad Bunny, Sech",Volando - Remix,Peru
+18HOjcvTVV7W8YzBuOsAPS,0.503,0.496,5,-9.123,0,0.0556,0.693,0.0,0.123,0.412,187.844,2.47,4,Bad Bunny,Un Verano Sin Ti,Peru
+01EzG8Qg7oQqYMTNV5YkOW,0.855,0.72,6,-7.953,1,0.0516,0.0626,0.0187,0.268,0.948,97.984,3.35,4,"Julianno Sosa, King Savagge",Cochinae,Peru
+4TGwERXRlyQtBdggYTHo6j,0.7,0.438,5,-5.784,0,0.0433,0.401,0.0,0.373,0.605,170.106,4.33,3,"Tiago PZK, LIT killah, Maria Becerra, Nicki Nicole",Entre Nosotros (Remix) [con Nicki Nicole],Peru
+3FkeNbs9Zeiqkr3WkbOiGp,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,3.23,4,Anitta,Envolver,Peru
+6C1RD7YQVvt3YQj0CmuTeu,0.813,0.56,2,-5.904,0,0.0618,0.108,0.0,0.268,0.287,118.033,4.77,4,"Bad Bunny, Ozuna, Farruko, Arcangel, Ñengo Flow, DJ Luian, Mambo Kingz",Diles,Peru
+4MzXwWMhyBbmu6hOcLVD49,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,3.42,4,"Bad Bunny, Jhay Cortez",DÁKITI,Peru
+6nAlJuLlRlpAcq30xIqKJs,0.891,0.78,2,-6.416,0,0.0701,0.0398,0.0,0.0548,0.931,95.998,3.18,4,Plan B,¿Por Que Te Demoras?,Peru
+3XjN0mvFkQp1FMVM9Ro5hm,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4.15,4,Daddy Yankee,RUMBATÓN,Peru
+0vHfVsEe6Ps0d8cZ9PGzSw,0.848,0.673,11,-4.034,0,0.058,0.0147,0.00652,0.102,0.39,93.987,3.32,4,"De La Ghetto, Rauw Alejandro",Loco Por Perrearte - Remix,Peru
+1Wrzhfa5bNlqvsnCztz190,0.603,0.843,9,-7.597,0,0.0557,0.0031,0.0337,0.445,0.503,172.676,3.25,4,Hombres G,Devuélveme a mi chica,Peru
+7a8GawTVgHZvBLQOh46he7,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4,Arctic Monkeys,I Wanna Be Yours,Peru
+0WtM2NBVQNNJLh6scP13H8,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Peru
+3scW7pt0vlhkCCgCNv5YR9,0.886,0.748,5,-9.584,1,0.0399,0.775,0.0635,0.0656,0.969,152.07,5.72,4,Adalberto Santiago,La Noche Mas Linda,Peru
+5TMLavqGRKNxgzMBrVpC9R,0.748,0.761,2,-6.621,1,0.102,0.122,6.56e-06,0.0984,0.362,116.041,3.0,4,"zzoilo, Aitana",Mon Amour - Remix,Peru
+7DTnxzUjeho8NYE0IsoDw1,0.804,0.728,1,-5.113,1,0.0941,0.201,1.58e-05,0.119,0.952,103.007,3.3,4,"Wampi, Wow Popy, Fixty Ordara y Ja Rulay",Pornosotros,Peru
+6lX6l7OuA3qrnIRfdsr0dw,0.787,0.7,4,-4.598,0,0.0768,0.568,0.00051,0.663,0.791,90.02,3.89,4,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,Peru
+4scwMEdlKi8qWJzzyDB8Z3,0.544,0.864,0,-5.65,1,0.048,0.00747,0.0,0.338,0.69,142.994,3.01,4,"Morat, Juanes",506,Peru
+5clFSlfkCRlhnH1cAQjSBi,0.709,0.726,7,-7.129,1,0.0411,0.0977,0.0,0.301,0.404,92.006,3.04,4,De La Ghetto,Sensacion Del Bloque,Peru
+25ZAibhr3bdlMCLmubZDVt,0.639,0.791,10,-4.443,0,0.253,0.0275,0.0,0.362,0.939,92.603,3.71,4,"J Balvin, Bad Bunny",QUE PRETENDES,Peru
+75UMtPC77vqKRwfSuYuNPO,0.577,0.363,7,-12.378,1,0.0263,0.86,0.000282,0.0868,0.265,91.511,4.12,4,Kevin Kaarl,San Lucas,Peru
+5gflgO9EPbIBf16n5TKnQS,0.808,0.697,10,-5.899,1,0.241,0.041,0.0,0.0546,0.554,95.06,3.87,4,Zion & Lennox,Yo Voy (feat. Daddy Yankee),Peru
+7MmrcXVA7A5zZ2CbDuGHNa,0.846,0.548,1,-6.397,1,0.256,0.241,0.0713,0.0419,0.516,94.925,3.49,4,Rels B,A Mí,Peru
+1mlGScrDQqHqmhdIqE8MmA,0.69,0.973,2,-3.588,1,0.0492,0.126,0.0,0.101,0.772,143.957,3.86,4,"Morat, Juanes",Besos En Guerra,Peru
+3E8xyYdIPpiH2wNEozE68I,0.83,0.818,7,-5.028,1,0.0552,0.306,0.0,0.0906,0.828,98.008,3.1,4,Standly,Pégate,Peru
+5aucVLKiumD89mxVCB4zvS,0.738,0.714,0,-5.235,1,0.249,0.157,0.0,0.31,0.74,95.035,2.96,4,"Crush, j-hope",Rush Hour (Feat. j-hope of BTS),Peru
+1gYtMKmICjH8KQG3MheNJt,0.647,0.662,10,-2.955,1,0.125,0.305,0.0,0.359,0.693,113.28,3.29,5,"TINI, Tiago PZK",El Último Beso,Peru
+35wvL50xvKpCHEJPxLOLPI,0.672,0.594,1,-6.813,0,0.0789,0.0626,5.14e-05,0.152,0.158,171.854,2.82,4,Bad Bunny,Si Estuviésemos Juntos,Peru
+2vmfvSoZBFAt9hhRoEByLi,0.725,0.86,1,-3.726,1,0.182,0.422,0.000284,0.0674,0.791,175.896,3.84,4,"Aventura, Bad Bunny",Volví,Peru
+1iRvhKiXRElIH2Uf4gd95P,0.531,0.834,2,-3.944,1,0.052,0.277,0.0,0.131,0.526,142.026,4.13,4,Jesse & Joy,Dueles,Peru
+4bF2y8rR7GUjrd5LNEvej3,0.57,0.455,1,-5.748,0,0.0996,0.441,0.000746,0.0654,0.399,167.933,2.52,4,Ingratax,París,Peru
+1yoMvmasuxZfqHEipJhRbp,0.783,0.727,6,-3.454,0,0.389,0.185,2.46e-05,0.0626,0.558,180.067,3.32,4,Maluma,Hawái,Peru
+0bI5WRiDfU5BY38ufOJtGu,0.822,0.719,10,-3.633,0,0.0576,0.165,2.48e-05,0.174,0.659,82.01,3.76,4,"Maluma, Chencho Corleone",Nos Comemos Vivos,Peru
+69Ej1xrGjOcHvIMtMKxK0G,0.817,0.714,4,-7.501,0,0.141,0.184,0.000132,0.042,0.714,94.001,3.41,4,Don Omar,Dile,Peru
+5IgjP7X4th6nMNDh4akUHb,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4,Chris Brown,Under The Influence,Peru
+6D2TCm4nf5nxAcdGJ7w3QP,0.903,0.817,8,-3.972,1,0.095,0.0272,0.000311,0.242,0.732,102.014,3.62,4,"J Balvin, Maria Becerra",Qué Más Pues?,Peru
+7DhYjNLksXZhbRQeheAums,0.76,0.773,9,-5.314,1,0.0675,0.176,0.0,0.1,0.895,102.789,4.44,4,Bacilos,Caraluna,Peru
+7ef4DlsgrMEH11cDZd32M6,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Peru
+7d7aPD2oxuzjhOZnu4Dj23,0.625,0.839,6,-4.824,0,0.0927,0.00762,2.35e-05,0.464,0.771,184.08,3.89,4,"Natti Natasha, Daddy Yankee, Wisin & Yandel",Mayor Que Usted,Peru
+2QjOHCTQ1Jl3zawyYOpxh6,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4,The Neighbourhood,Sweater Weather,Peru
+1Fid2jjqsHViMX6xNH70hE,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4,Seafret,Atlantis,Peru
+58ge6dfP91o9oXMzq3XkIS,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4,Arctic Monkeys,505,Peru
+41wtwzCZkXwpnakmwJ239F,0.9,0.603,2,-5.313,1,0.0646,0.402,4.81e-06,0.134,0.824,129.928,2.85,4,Bad Bunny,Si Veo a Tu Mamá,Peru
+1BYZxKSf0aTxp8ZFoeyM3d,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4,girl in red,we fell in love in october,Peru
+2TDyyEBasw10wu5Uh94bR1,0.873,0.826,0,-0.722,1,0.0876,0.00127,0.0361,0.311,0.201,106.972,3.18,4,"Rauw Alejandro, Baby Rasta",PUNTO 40,Peru
+5LazbgCsa2IskJbPMnI8Qd,0.729,0.513,5,-6.345,0,0.0455,0.494,1.1e-06,0.137,0.789,170.064,3.21,3,"Tiago PZK, LIT killah",Entre Nosotros,Peru
+3ehHqgYRzmeUi345MfHS2N,0.582,0.804,11,-4.155,1,0.0389,0.0493,0.0,0.0624,0.732,138.014,3.04,4,"Morat, Duki",París,Peru
+19CmuECYssqkPWANF4nLWM,0.658,0.815,0,-6.834,1,0.105,0.0168,0.0,0.341,0.837,99.276,3.19,4,La Mosca Tse-Tse,Para No Verte Más,Peru
+6NSMQFKgjpQb0KkjMDYIK0,0.815,0.514,6,-9.446,0,0.361,0.54,0.0,0.611,0.623,120.054,4.4,4,"Arcangel, Bad Bunny, Mambo Kingz, DJ Luian",Tu No Vive Asi (feat. Mambo Kingz & DJ Luian),Peru
+76OGwb5RA9h4FxQPT33ekc,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4,Rosa Linn,SNAP,Peru
+2hLXUbsOU9cDb9RFva9FYr,0.771,0.707,2,-6.404,0,0.055,0.389,0.0,0.0745,0.317,127.963,3.81,4,"Mora, Jhay Cortez",MEMORIAS,Peru
+5q2JbCNi4FcnglgPfxcV65,0.639,0.869,11,-4.024,1,0.147,0.27,0.0,0.0802,0.767,169.801,5.13,4,"Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin",Sola (Remix),Peru
+03a359wbiUsjN9h6yzXvmS,0.854,0.556,1,-4.49,1,0.14,0.345,0.0,0.165,0.342,119.938,3.49,4,"Duki, KHEA",She Don't Give a Fo,Peru
+46HNZY1i7O6jwTA7Slo2PI,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,0.47,105.006,3.77,4,"Coldplay, BTS",My Universe,Peru
+7jtQIBanIiJOMS6RyCx6jZ,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4,Tom Odell,Another Love,Peru
+0UvZcEfpzVyx47QsRbjyBz,0.629,0.698,8,-4.485,1,0.308,0.0509,0.00166,0.0909,0.599,117.765,3.36,4,Bad Bunny,El Apagón,Peru
+7JEnT0uFWcwZqNZWv7hC9N,0.605,0.349,3,-13.719,1,0.096,0.238,0.0,0.0753,0.6,99.362,2.81,4,Los Abuelos De La Nada,Mil Horas,Peru
+7kYbxvrGXv8cmKjkqgqhrw,0.801,0.633,11,-2.785,0,0.0777,0.414,0.0,0.27,0.676,92.025,2.79,4,TINI,La Triple T,Peru
+6lV9cTvioGWqRXSgfjAUGL,0.773,0.767,7,-4.019,1,0.0819,0.0352,0.0,0.299,0.49,94.99,4.2,4,"Maluma, Feid",Mojando Asientos (feat. Feid),Peru
+6BnqTZLQNh3bLSuGOHqLoa,0.761,0.517,9,-11.678,1,0.0335,0.346,0.00385,0.0948,0.926,101.996,3.61,4,Agua Marina,Tu Amor Fue una Mentira,Peru
+4HYDUMY0xSpeBr0AMY9cUz,0.845,0.677,11,-4.798,0,0.136,0.269,0.000917,0.108,0.68,90.013,3.65,4,"Jay Wheeler, DJ Nelson, Myke Towers",La Curiosidad,Peru
+3Ne5uYDFzHEFYAPbaBMIck,0.68,0.808,10,-3.854,0,0.224,0.0911,2.23e-06,0.205,0.868,176.131,2.92,4,Maria Becerra,AUTOMÁTICO,Peru
+6TCnhziFkBPhOTqvh8zVDU,0.753,0.733,0,-3.715,1,0.056,0.253,0.0,0.398,0.156,92.064,2.46,4,Danny Ocean,Volare,Peru
+1xzi1Jcr7mEi9K2RfzLOqS,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4,Beyoncé,CUFF IT,Peru
+7DcJXd2xxVcohwehWahFJJ,0.827,0.781,7,-5.914,1,0.0502,0.188,0.000759,0.249,0.961,95.411,5.04,4,Frankie Ruiz,Tú Con Él,Peru
+3BnDvpeuGOj21Ir2aVEtQo,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,0.842,107.003,3.66,4,Rema,Calm Down,Peru
+1p7m9H4H8s0Y7SgRm7j3ED,0.739,0.745,7,-6.658,1,0.0267,0.21,0.0135,0.127,0.949,109.326,4.63,4,Andrés Calamaro,Flaca,Peru
+77dMSg2VHi2wwXjXNrmcrZ,0.566,0.531,6,-6.635,1,0.0716,0.192,0.0,0.179,0.367,118.96,3.79,4,"Paulo Londra, Lenny Tavárez",Nena Maldición (feat. Lenny Tavárez),Peru
+75JFxkI2RXiU7L9VXzMkle,0.557,0.442,5,-7.224,1,0.0243,0.731,1.46e-05,0.11,0.213,146.277,5.16,4,Coldplay,The Scientist,Peru
+2q9udNV9NK0BL3q9p6TLxf,0.805,0.757,8,-7.46,1,0.0355,0.279,0.000839,0.101,0.973,102.14,4.52,4,"ChiChi Peralta, Jandy Feliz",Procura,Peru
+2tFwfmceQa1Y6nRPhYbEtC,0.807,0.606,3,-8.871,0,0.088,0.0946,0.0,0.119,0.304,92.988,3.79,4,"Jhayco, Bad Bunny",CÓMO SE SIENTE - Remix,Peru
+6jjYDGxVJsWS0a5wlVF5vS,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,2.75,4,BTS,Butter,Peru
+7cx9L3i88euMfx1oNCqDAD,0.747,0.812,3,-4.274,0,0.111,0.341,0.000131,0.174,0.884,180.062,5.51,4,"Boza, Lunay, Lenny Tavárez, Juhn, Beéle",Ella - Remix,Peru
+7dMTCS9BLzBqYTlAuHP8TM,0.797,0.677,9,-4.163,0,0.0857,0.101,0.0,0.441,0.919,130.034,3.66,4,Danna Paola,XT4S1S,Peru
+5jW3rF4URMdK7tO2xjS5EI,0.855,0.649,8,-2.443,1,0.151,0.25,0.0,0.0801,0.741,161.986,4.4,4,Paulo Londra,Tal Vez,Peru
+2f0Ft2XdvNSMSY5TUlZgEz,0.278,0.572,7,-8.295,1,0.0407,0.392,0.0,0.063,0.311,95.351,4.23,3,Pablo Alborán,Saturno,Peru
+0xzI1KAr0Yd9tv8jlIk3sn,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,2.88,4,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),Peru
+0S4w5ZBEbxYxiygvz9wWdK,0.876,0.673,8,-7.15,1,0.139,0.0524,0.00571,0.0813,0.462,113.995,2.59,4,Feid,Belixe,Peru
+5Q2J37xbIR60z6ifswoGKe,0.76,0.962,11,-6.288,0,0.0375,0.066,2.18e-05,0.0343,0.972,137.017,4.6,4,Pedro Suárez-Vértiz,"Un Vino, Una Cerveza",Peru
+1A9PKAFEHMWgXNLpgf7k4J,0.677,0.722,2,-4.443,0,0.0626,0.538,0.0,0.11,0.786,172.0,2.89,4,Myke Towers,Piensan,Peru
+5g7sDjBhZ4I3gcFIpkrLuI,0.728,0.697,5,-4.125,1,0.0456,0.0556,0.0,0.282,0.87,143.986,3.89,4,Bruno Mars,Locked out of Heaven,Peru
+3lGMtkONrZdJ8kTCg6KIFf,0.585,0.643,3,-8.392,1,0.0395,0.201,0.000306,0.144,0.592,152.98,3.7,3,Natalia Lafourcade,Hasta la Raíz,Peru
+059bcIhyc2SBwm6sw2AZzd,0.877,0.777,1,-4.246,1,0.117,0.0446,3.46e-05,0.0863,0.706,102.02,3.86,4,"Piso 21, Micro TDH",Te Vi,Peru
+0L8LOav65XwLjCLS11gNPD,0.915,0.621,7,-6.519,1,0.1,0.0745,0.0,0.628,0.527,131.984,2.99,4,BLACKPINK,Typa Girl,Peru
+0bI7K9Becu2dtXK1Q3cZNB,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,2.34,4,"Tiësto, KAROL G",Don't Be Shy,Peru
+0gCPvo1GkbtPhMqg5Gbx1K,0.734,0.531,1,-5.662,1,0.0321,0.196,0.0,0.119,0.199,130.024,4.66,4,"Daddy Yankee, Bad Bunny",Vuelve,Peru
+0HYAsQwJIO6FLqpyTeD3l6,0.6,0.76,6,-6.123,0,0.0451,0.167,4.07e-05,0.189,0.519,158.075,3.09,4,Fujii Kaze,Shinunoga E-Wa,Peru
+6OKhBvddAlWxxFnjbpilhu,0.717,0.837,8,-6.968,0,0.0282,0.155,1.15e-05,0.422,0.919,129.881,2.69,4,Los Enanitos Verdes,La Muralla Verde,Peru
+3RiPr603aXAoi4GHyXx0uy,0.491,0.693,0,-6.487,0,0.0377,0.211,6.92e-06,0.325,0.412,90.027,4.3,4,Coldplay,Hymn for the Weekend,Peru
+6JIC3hbC28JZKZ8AlAqX8h,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Peru
+6xGruZOHLs39ZbVccQTuPZ,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3,Joji,Glimpse of Us,Peru
+0akyEssGRVHstqCSWXusJL,0.83,0.159,1,-14.461,1,0.0383,0.946,2.02e-05,0.362,0.189,104.95,3.46,4,Ed Maverick,Fuentes de Ortiz,Peru
+1mSviQV9iQnGSRyvTIuxAj,0.706,0.739,10,-3.753,1,0.0586,0.266,2.62e-05,0.126,0.371,91.906,3.21,4,"Alvaro Diaz, Rauw Alejandro",Problemón,Peru
+1AWefrQG0I0OtvatTB01EZ,0.684,0.631,5,-5.638,0,0.0485,0.363,0.0,0.156,0.59,124.041,2.9,4,Munic HB,Pico y Pala,Peru
+4uUG5RXrOk84mYEfFvj3cK,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4,"David Guetta, Bebe Rexha",I'm Good (Blue),Peru
+704LUEih663hiE3CnyUrFW,0.822,0.736,1,-3.969,1,0.15,0.157,0.000781,0.0748,0.679,175.93,3.02,4,KAROL G,SEJODIOTO,Peru
+5PjdY0CKGZdEuoNab3yDmX,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Peru
+2LBqCSwhJGcFQeTHMVGwy3,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4,The Weeknd,Die For You,Peru
+17I27VXKtqXJHL6ReaG0eS,0.655,0.673,0,-5.98,0,0.308,0.473,0.0,0.0753,0.342,181.891,4.16,4,"Dalex, Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow",Hola - Remix,Peru
+3UI9I3e1g1y5T3SMfdgfGO,0.836,0.637,6,-4.803,1,0.0367,0.535,0.0,0.129,0.875,120.025,3.84,4,"Carlos Baute, Marta Sánchez",Colgando en tus manos (con Marta Sánchez),Peru
+4t9a07PAghtQMRAIP9FQ7Z,0.795,0.783,5,-4.271,1,0.0432,0.361,0.0,0.437,0.799,92.01,4.43,4,"Lunay, Daddy Yankee, Bad Bunny",Soltera - Remix,Peru
+7wdwIaXUuzlu1grzWMFRJm,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4,Ghost,Mary On A Cross,Peru
+3AbNNvo2OmyeDMvRBgf9vk,0.855,0.83,1,-2.815,1,0.106,0.0783,1.31e-06,0.08,0.775,90.009,3.18,4,"TINI, Becky G, Anitta",La Loto,Peru
+2yjHvbMtfyoXXJYpsR3rYP,0.739,0.887,0,-5.084,1,0.0317,0.167,0.0,0.225,0.873,98.011,3.28,4,Grupo 5,Motor Y Motivo,Peru
+2n7ohqg1s68ToAHh4u9mcW,0.886,0.672,1,-4.394,1,0.188,0.0363,8.78e-06,0.101,0.526,91.976,3.2,4,Bad Bunny,Vete,Peru
+5ddr0ZG0fPFlIrSw1glHVo,0.612,0.769,11,-5.695,0,0.029,0.106,0.000488,0.0404,0.917,139.325,3.17,4,Armonia 10,Dios Mío Hasta Que Me Enamoré,Peru
+1JSTJqkT5qHq8MDJnJbRE1,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,4.23,4,The Police,Every Breath You Take,Peru
+6aommJFM8i3iT4inKuDSXh,0.68,0.321,5,-10.944,1,0.0376,0.791,4.67e-06,0.125,0.416,110.827,3.6,4,Jósean Log,Chachachá,Peru
+2RVrdr062uLFxXwIxwdXPH,0.849,0.724,5,-4.139,1,0.0665,0.0204,5.98e-06,0.235,0.63,98.005,3.35,4,"Piso 21, Paulo Londra",Te Amo,Peru
+3SQRqRJ4xl2FZ8B5eswvvU,0.664,0.878,8,-7.021,1,0.0359,0.0249,6.53e-06,0.038,0.927,106.508,3.67,4,Grupo 5,El Ritmo de Mi Corazón,Peru
+2DB4DdfCFMw1iaR6JaR03a,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Peru

@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+0kTMK4gNFfLXaTb62w1UaJ,"Pablo Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",BABY OTAKU,Chile,0.835,0.747,9,-4.65,1,0.083,0.0492,0.0,0.055,0.432,102.003,2.94,4
+2pR6bipXfJySBhje19SW02,"Stars Music Chile, Cris Mj, Standly",Marisola,Chile,0.806,0.85,1,-4.84,1,0.0967,0.155,0.0,0.201,0.728,95.014,3.07,4
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Chile,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4
+2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",Chile,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4
+6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Chile,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2.98,4
+5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,Chile,0.801,0.475,7,-8.797,0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,3.55,4
+2RQsLucjZb02cKkz3s8NZ5,"Julianno Sosa, Young Cister",GANAS,Chile,0.728,0.643,0,-8.016,1,0.0436,0.124,0.0,0.119,0.334,99.987,3.12,4
+7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Chile,0.759,0.561,0,-5.643,0,0.131,0.803,0.121,0.101,0.491,104.915,3.01,4
+6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,Chile,0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,4.1,4
+3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Chile,0.647,0.686,3,-5.745,0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,4.3,4
+79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,Chile,0.834,0.828,11,-2.657,0,0.0452,0.21,5.91e-06,0.103,0.58,102.019,3.25,4
+5dqsBNMcoZdZSkdtAKmaQz,"Julianno Sosa, Endo, El Jordan 23, Noiss",PERREA KTM,Chile,0.834,0.684,1,-7.453,1,0.0694,0.0749,9.37e-05,0.192,0.641,98.015,3.71,4
+2CeKVsFFXG4QzA415QygGb,Feid,Feliz Cumpleaños Ferxxo,Chile,0.865,0.573,5,-5.501,1,0.0678,0.0863,0.0,0.305,0.563,94.999,2.6,4
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Chile,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4
+5i9bTK3gXeVCvua3PH4nwv,Young Cister,LA TERAPIA,Chile,0.811,0.889,11,-4.5,1,0.0617,0.171,0.00035,0.134,0.87,94.005,3.08,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,Chile,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Chile,0.909,0.824,1,-4.627,1,0.0797,0.0777,0.00387,0.0638,0.585,109.97,5.37,4
+1cZqrdhWL6f3EiY23zpnTe,"Pailita, Young Cister",Caminemos de la Mano,Chile,0.735,0.752,1,-5.138,1,0.0855,0.318,6.89e-06,0.331,0.647,92.915,3.58,4
+6i1g5ZRmJZAkDwBaUZ3f2i,Luar La L,Caile,Chile,0.704,0.756,0,-4.948,1,0.448,0.298,3.75e-06,0.0852,0.461,121.737,2.36,3
+4yG3Pgc8McT71M6jwRE9Hf,Standly,Panamera,Chile,0.783,0.759,10,-5.782,0,0.101,0.0449,9.02e-06,0.152,0.411,117.998,3.93,4
+2B9tPbnFANp0TTyX1C8tgz,Ak4:20,SE ENDIABLA,Chile,0.857,0.828,7,-4.724,0,0.258,0.0274,0.0,0.363,0.858,95.015,2.65,4
+31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,Chile,0.876,0.498,10,-7.511,1,0.0478,0.0706,0.0,0.143,0.428,122.016,2.89,4
+4ovp1Q6WURMBWgw3cOHbxz,El Jordan 23,Bakanisimo,Chile,0.85,0.82,2,-4.903,1,0.104,0.032,0.22,0.662,0.618,94.97,2.74,4
+1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,Chile,0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,3.49,4
+1AFcJGVt4enuH1gqGw2axN,"Polimá Westcoast, J Balvin",KAWAII,Chile,0.906,0.807,7,-3.963,1,0.0904,0.152,4.39e-05,0.109,0.681,97.009,3.3,4
+1iatbSLJGSR9wYz3knoCF2,Martinwhite,V16,Chile,0.795,0.858,11,-4.302,0,0.0687,0.0151,0.0213,0.0706,0.798,103.939,1.99,4
+6TsVhM8qIkWN5cJVDIVbbz,"Wisin & Yandel, ROSALÍA",Besos Moja2,Chile,0.736,0.727,5,-4.642,0,0.0571,0.0584,1.91e-06,0.0976,0.644,94.048,3.82,4
+40w8JmvwYUP2HUiXPxjy99,"Ak4:20, Pailita, Cris Mj",Me Arrepentí,Chile,0.861,0.786,0,-4.934,1,0.164,0.289,0.0,0.601,0.907,92.031,3.87,4
+1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Chile,0.663,0.786,11,-3.51,0,0.195,0.229,0.0,0.219,0.579,196.12,3.31,4
+1O2pcBJGej0pmH2Y9XZMs6,Cris Mj,Una Noche en Medellín,Chile,0.87,0.548,10,-5.253,0,0.077,0.0924,4.6e-05,0.0534,0.832,96.018,2.56,4
+7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,Chile,0.87,0.516,1,-8.006,1,0.0541,0.656,0.00823,0.11,0.53,111.005,3.5,4
+41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Chile,0.795,0.684,11,-3.971,0,0.0419,0.0225,0.0,0.658,0.419,114.011,3.96,4
+5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Chile,0.757,0.789,5,-3.46,0,0.0583,0.307,0.0,0.0717,0.464,91.911,3.37,4
+0km3c8Qiwi9kicTSTt9Ld1,"Cris Mj, El BAI",Pensandote,Chile,0.849,0.61,9,-7.86,0,0.201,0.457,0.0564,0.125,0.867,92.014,3.22,4
+0kRJ3rwE3rTDJGnGO4HmoD,"El Jordan 23, Standly",Bailando,Chile,0.821,0.587,10,-7.036,0,0.251,0.531,0.0,0.0937,0.565,95.041,3.75,4
+4gWqIR7bGRk9oLoYRgSUKN,Pailita,Parcera,Chile,0.731,0.848,1,-5.014,0,0.0547,0.026,0.00435,0.0779,0.659,96.996,3.47,4
+0T2pB7P1VdXPhLdQZ488uH,Feid,Normal,Chile,0.709,0.56,4,-4.867,0,0.171,0.034,0.0,0.315,0.541,170.082,2.86,4
+3PpWCS95gDUDRPko3u1MZ9,Feid,Prohibidox,Chile,0.647,0.801,1,-2.946,0,0.249,0.0451,0.0,0.0628,0.517,180.108,2.77,4
+3E8xyYdIPpiH2wNEozE68I,Standly,Pégate,Chile,0.83,0.818,7,-5.028,1,0.0552,0.306,0.0,0.0906,0.828,98.008,3.1,4
+6DoL1yYIwEW7VZMRaJhoJI,"Chris Jedi, Anuel AA, Chencho Corleone, Ñengo Flow",La Llevo Al Cielo (Ft. Ñengo Flow),Chile,0.795,0.845,9,-3.809,0,0.135,0.105,1.14e-05,0.172,0.769,170.023,4.25,4
+5N2lj5JJwYP5ggwYcESoHp,"Cris Mj, Jory Boy",Suburban,Chile,0.839,0.491,4,-11.353,0,0.102,0.129,0.00243,0.158,0.79,95.037,3.27,4
+4tYFy8ALRjIZvnvSLw5lxN,"Bad Bunny, Rauw Alejandro",Party,Chile,0.829,0.799,9,-5.389,1,0.0897,0.0151,0.000543,0.242,0.471,97.013,3.79,4
+6QxjQa0Kdf7a1oRrGCQqEX,"Brytiago, Polimá Westcoast",S.O.S.,Chile,0.891,0.775,6,-4.354,0,0.0899,0.248,0.0,0.348,0.809,99.994,4.06,4
+4lLl2TEcaKFcP6m9Xzx3rI,"Pailita, Cris Mj, Big Cvyu",Dime Tú,Chile,0.818,0.73,9,-7.248,1,0.109,0.344,6.06e-06,0.103,0.887,97.992,3.76,4
+0HsI8dYRVnVGpzppNThv1e,"Sayian Jimmy, Standly, Yishark, Nysix Music, Tobal Mj, Benji La Maldita Escritura De Oro",Flotao,Chile,0.801,0.674,6,-8.1,1,0.0966,0.198,0.0,0.24,0.891,94.0,5.62,4
+6bK2pgaYV5XAilxpDLRfnA,El Jordan 23,Pato Feo Soy Yo,Chile,0.889,0.811,10,-6.683,0,0.122,0.114,0.00171,0.124,0.571,123.934,3.3,4
+4nwwtB3VG12feSnOGv9Ogc,"Standly, Yilberking",Tequila y Limón,Chile,0.745,0.691,1,-5.555,0,0.0383,0.107,3.67e-06,0.334,0.704,130.18,3.58,4
+01EzG8Qg7oQqYMTNV5YkOW,"Julianno Sosa, King Savagge",Cochinae,Chile,0.855,0.72,6,-7.953,1,0.0516,0.0626,0.0187,0.268,0.948,97.984,3.35,4
+0OTNHGKcqQbk51bOYe462Y,"Polimá Westcoast, Pailita",ULTRA SOLO,Chile,0.802,0.846,1,-4.495,1,0.207,0.233,1.92e-05,0.114,0.26,109.982,3.79,4
+48AJSd42lXpicsGqcgopof,"Daddy Yankee, Bad Bunny",X ÚLTIMA VEZ,Chile,0.812,0.855,7,-3.725,1,0.0554,0.0789,0.000167,0.108,0.573,90.04,3.21,4
+2KxfFzjyd5mpJu66s66w2S,Standly,Baila para Mi,Chile,0.833,0.503,0,-10.672,1,0.0851,0.225,0.000583,0.116,0.818,98.037,2.74,4
+2kEuOngY5Td8iGxnzl8vPr,"Polimá Westcoast, Young Cister, Cris Mj",SEXTIME,Chile,0.696,0.799,2,-4.887,1,0.171,0.162,0.000133,0.0697,0.587,196.063,3.3,4
+46YrvybgPpjBL13f0uc8Oc,"King Savagge, Noriel",Tra Tra,Chile,0.861,0.779,8,-6.081,0,0.1,0.264,0.0,0.118,0.758,97.008,2.93,4
+2qrEyFnx2XaKmMFtLZ00xg,"Pailita, Big Cvyu",Na Na Na,Chile,0.87,0.726,11,-6.782,1,0.0689,0.0138,0.00447,0.0641,0.861,98.016,3.23,4
+02wijRhOIJdJ8VKM8N9voP,"Cris Mj, Fran C",Bellakera,Chile,0.885,0.628,7,-5.23,1,0.05,0.0456,0.000388,0.3,0.707,101.0,2.93,4
+5oIDyDmPYEzEOBIcZqfJ4C,"Nickoog Clk, Standly",Que se hace,Chile,0.831,0.532,3,-8.441,0,0.0422,0.108,0.0,0.206,0.968,97.041,3.13,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Chile,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+3XjN0mvFkQp1FMVM9Ro5hm,Daddy Yankee,RUMBATÓN,Chile,0.685,0.909,3,-4.034,0,0.0396,0.0471,0.0,0.35,0.922,95.004,4.15,4
+3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Chile,0.627,0.429,1,-8.255,1,0.234,0.238,0.0,0.122,0.565,126.426,1.88,5
+6mmPpaltUZK7xjNlBPQQ0p,"Rauw Alejandro, Chencho Corleone",Desesperados,Chile,0.869,0.694,1,-3.35,0,0.0783,0.356,0.00125,0.0878,0.511,90.02,3.75,4
+2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Chile,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,2.87,4
+2vsoD8S1OyrWSVIA43hjaU,Feid,Si Te La Encuentras Por Ahí,Chile,0.736,0.569,8,-3.559,0,0.0779,0.144,5.27e-05,0.112,0.433,171.973,3.19,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Chile,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+7FlQk2gJ6TBrHHiidvdR2O,"Becky G, KAROL G",MAMIII,Chile,0.836,0.703,4,-3.554,0,0.0657,0.0845,0.0,0.138,0.902,94.048,3.77,4
+5yNlgsdQ7LsysOVhxYn5yk,Jairo Vera,Tarima,Chile,0.813,0.513,6,-7.935,0,0.0478,0.0235,0.0358,0.111,0.346,97.985,2.9,4
+5CzixCxDkRXX9mScCmah8O,Bad Bunny,Un Ratito,Chile,0.787,0.546,0,-7.094,0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,2.95,4
+2TDyyEBasw10wu5Uh94bR1,"Rauw Alejandro, Baby Rasta",PUNTO 40,Chile,0.873,0.826,0,-0.722,1,0.0876,0.00127,0.0361,0.311,0.201,106.972,3.18,4
+1otBTx2rWzwH0UsvyxLAfy,Cris Mj,Paz Mental,Chile,0.831,0.573,4,-6.886,0,0.0743,0.28,5.85e-05,0.0903,0.78,94.961,2.99,4
+2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,Chile,0.644,0.648,1,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,3.45,4
+2wobyrg2plnNYY9Qy8ZPBK,"Gino Mella, King Savagge, Best",TAY PAPO,Chile,0.829,0.791,2,-5.585,1,0.116,0.029,0.0,0.0746,0.842,96.029,2.89,4
+0YRgRpM2bdmQEkiI8bWDBA,Standly,Bailemos Reggaeton,Chile,0.739,0.646,11,-5.533,1,0.151,0.014,0.0,0.158,0.723,90.012,2.98,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Chile,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+27toenwtHpZ7fn0QjehRl2,"El Jordan 23, Big Cvyu",Noche Loca,Chile,0.771,0.572,7,-6.162,1,0.0435,0.112,0.000194,0.0501,0.615,90.022,3.91,4
+3hK7qOPSyva12t0ldBvPqg,"Ak4:20, King Savagge, KEVVO",NO ERES SANTA,Chile,0.741,0.723,1,-5.44,0,0.236,0.0523,1.46e-05,0.101,0.655,87.945,4.32,4
+6e9Ew4AECYwY5Xgs2ZKMgp,Anuel AA,Mercedes Tintia,Chile,0.815,0.67,11,-4.076,1,0.109,0.0902,0.000854,0.0973,0.768,172.014,3.26,4
+5lRF8YZjaXMjy6R5fDSDZN,"El Jordan 23, Big Cvyu",Si Sako La 40,Chile,0.823,0.776,11,-8.24,1,0.239,0.441,0.0,0.0694,0.852,94.99,4.04,4
+6nAlJuLlRlpAcq30xIqKJs,Plan B,¿Por Que Te Demoras?,Chile,0.891,0.78,2,-6.416,0,0.0701,0.0398,0.0,0.0548,0.931,95.998,3.18,4
+0pVFw0LHdpjAWI2xwoUXQZ,"Jairo Vera, Darkiel, Gino Mella, Best, Bayriton","ADICTO (feat. Best, Bayriton)",Chile,0.627,0.56,7,-10.006,1,0.0521,0.149,0.0,0.0922,0.719,177.899,4.88,4
+1dm6z1fWB0cErMszU25dy2,Bad Bunny,Después de la Playa,Chile,0.564,0.903,5,-3.221,1,0.307,0.356,0.0,0.175,0.607,78.293,3.84,4
+69vlMrzHwATKzupwNcUPyK,"Bad Bunny, Daddy Yankee",La Santa,Chile,0.744,0.868,1,-4.524,1,0.047,0.0326,0.0,0.0822,0.586,93.037,3.44,4
+5prjQ7QCWQXH84EUwIckgB,"Nio Garcia, Pailita",Yo Quiero,Chile,0.84,0.574,9,-8.529,0,0.114,0.172,0.0108,0.102,0.624,95.991,3.5,4
+65MqlYPOWReasKWcuCaOCW,Daddy Yankee,REMIX,Chile,0.819,0.781,1,-4.879,1,0.0547,0.0323,0.0012,0.121,0.385,100.062,2.73,4
+2vZS65RIoFXGF4FpWqpMIR,"Pailita, El Casti",Par de Veces,Chile,0.67,0.722,9,-6.339,0,0.288,0.466,0.0,0.102,0.444,180.017,3.95,4
+0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Chile,0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,4.04,4
+0R7DSnSibvuE4PEHqUayqf,Plan B,Es un Secreto,Chile,0.836,0.777,6,-5.376,0,0.0439,0.0951,1.68e-06,0.0561,0.504,94.977,3.18,4
+6VrQTLzzuyGIYjUDe4kAZk,Bad Bunny,Un Coco,Chile,0.839,0.69,11,-4.464,1,0.0615,0.207,8.33e-06,0.176,0.744,151.991,3.27,4
+5fhcuVxuBWfgNXGuyAtLmr,"Piso 21, Manuel Turizo",Los Cachos,Chile,0.774,0.73,0,-3.865,1,0.134,0.108,0.0,0.194,0.421,91.966,3.54,4
+5gflgO9EPbIBf16n5TKnQS,Zion & Lennox,Yo Voy (feat. Daddy Yankee),Chile,0.808,0.697,10,-5.899,1,0.241,0.041,0.0,0.0546,0.554,95.06,3.87,4
+1sbNEFiURUYfy024cJX8JG,Feid,Ferxxo 100,Chile,0.705,0.562,8,-3.378,0,0.0674,0.257,0.0,0.137,0.569,163.893,2.8,4
+7d7aPD2oxuzjhOZnu4Dj23,"Natti Natasha, Daddy Yankee, Wisin & Yandel",Mayor Que Usted,Chile,0.625,0.839,6,-4.824,0,0.0927,0.00762,2.35e-05,0.464,0.771,184.08,3.89,4
+5YJ4BVvTFmVCxUyhKejHfR,Tego Calderón,Pa' Que Retozen,Chile,0.815,0.856,1,-3.825,0,0.122,0.4,8.34e-05,0.244,0.872,91.995,2.53,4
+2dx4GBIrGZdgOpJW1H5hzg,Nickoog Clk,Callate Perro,Chile,0.778,0.53,7,-8.235,1,0.0502,0.143,0.0,0.0886,0.672,95.957,3.17,4
+2k7S3I1y0pYfkxeFSgkuBa,Nickoog Clk,En El Jacuzzi,Chile,0.859,0.492,11,-9.757,1,0.0933,0.126,0.0,0.0982,0.895,96.973,2.74,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Chile,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+0vHfVsEe6Ps0d8cZ9PGzSw,"De La Ghetto, Rauw Alejandro",Loco Por Perrearte - Remix,Chile,0.848,0.673,11,-4.034,0,0.058,0.0147,0.00652,0.102,0.39,93.987,3.32,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Chile,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+228BxWXUYQPJrJYHDLOHkj,Daddy Yankee,Gasolina,Chile,0.852,0.797,0,-6.543,1,0.0614,0.322,2.69e-06,0.0845,0.741,96.008,3.21,4
+4gzsuuZypVbxs0Af1LSZyB,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Chile,0.639,0.703,4,-6.33,0,0.0794,0.0889,1.78e-06,0.0865,0.138,169.888,3.46,4
+2dG8CDU9UBem2ReYcLafDt,Cris Mj,Locura y Maldad,Chile,0.791,0.601,0,-6.636,1,0.213,0.289,0.45,0.0919,0.867,174.068,3.33,4
+4d4ZXH4dr5bYfgErHiZCX2,Bad Bunny,Dos Mil 16,Chile,0.817,0.67,1,-6.534,1,0.0506,0.123,1.92e-06,0.128,0.495,130.058,3.48,3
+1sDvWQbVj3anRUpONsubM9,"King Savagge, L-Gante, El Jordan 23, Cris Mj, Marcianeke, Drakomafia",Pantano - Remix,Chile,0.864,0.856,9,-3.088,1,0.233,0.232,1.17e-06,0.397,0.825,98.009,6.47,4
+4khWEpnaijN0G1x019Uzdr,Morat,No Se Va,Chile,0.734,0.685,0,-5.37,1,0.0453,0.117,0.0,0.109,0.754,92.042,3.61,4
+4o5DgFbeHH6kG84MrP85Ly,"Gino Mella, Balbi El Chamako, El Futuro Fuera De Orbita, Lleflight, Best","Olvidona (feat. Lleflight, Best)",Chile,0.776,0.596,0,-11.09,1,0.0566,0.00283,2.18e-05,0.091,0.956,97.99,3.88,4
+4r9jkMEnArtWGH2rL2FZl0,Bad Bunny,A Tu Merced,Chile,0.86,0.791,0,-4.784,1,0.0568,0.169,0.000106,0.106,0.887,92.023,2.93,4
+0hzC5kZ6qKZJ9ybyW75VV8,"Chris Lebron, Sech, Jay Wheeler",Desde Mis Ojos - Remix,Chile,0.673,0.56,1,-5.191,1,0.182,0.677,0.0,0.293,0.656,93.978,3.73,4
+6GiPJ61pvbekGilrzztD7n,"ITHAN NY, Galee Galee, Piero 47",X5,Chile,0.786,0.593,8,-8.088,0,0.0735,0.0329,0.0,0.18,0.333,107.995,3.26,4
+26QKsGW4hMuwiEE1ftUMHe,Daddy Yankee,"Lo Que Pasó, Pasó",Chile,0.819,0.741,8,-6.538,0,0.0412,0.104,0.0,0.283,0.84,97.014,3.52,4
+3Ne5uYDFzHEFYAPbaBMIck,Maria Becerra,AUTOMÁTICO,Chile,0.68,0.808,10,-3.854,0,0.224,0.0911,2.23e-06,0.205,0.868,176.131,2.92,4
+46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Chile,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,0.47,105.006,3.77,4
+3y0h34yThCG2qGO4vR0oi5,Cris Mj,Como Te Va,Chile,0.873,0.473,11,-7.73,1,0.166,0.106,4.41e-05,0.186,0.59,95.023,3.76,4
+75JFxkI2RXiU7L9VXzMkle,Coldplay,The Scientist,Chile,0.557,0.442,5,-7.224,1,0.0243,0.731,1.46e-05,0.11,0.213,146.277,5.16,4
+44XjoNvtwevktFKjvVe1vH,"Bad Bunny, Buscabulla",Andrea,Chile,0.797,0.616,1,-10.229,0,0.375,0.762,0.000293,0.0979,0.451,103.071,5.66,4
+1Zjdt705TM2Hr26YDKgnyc,El Jordan 23,Anti Rana,Chile,0.863,0.827,0,-6.628,1,0.0966,0.0758,0.01,0.396,0.765,98.019,3.15,4
+69Ej1xrGjOcHvIMtMKxK0G,Don Omar,Dile,Chile,0.817,0.714,4,-7.501,0,0.141,0.184,0.000132,0.042,0.714,94.001,3.41,4
+2FNqnsX74ZlwduUAcnmzee,"Daddy Yankee, Zion & Lennox",Tu Príncipe,Chile,0.77,0.804,4,-5.479,1,0.0623,0.16,1e-05,0.193,0.568,94.017,3.43,4
+7GXTxO3A5c5NfblodP5FuG,"El Jordan 23, Pipo Beatz",Ando,Chile,0.912,0.759,1,-7.224,0,0.242,0.196,0.00566,0.0847,0.8,98.001,2.51,4
+4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Chile,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,3.42,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Chile,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Chile,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+2bbwjxA68m9PHZFWgF1fze,Duki,GIVENCHY,Chile,0.607,0.619,8,-6.726,1,0.396,0.142,0.0,0.231,0.377,102.974,3.04,3
+5qCMJTlteDY9BBpmoQnP0l,Jairo Vera,Mirador,Chile,0.738,0.663,10,-7.536,0,0.364,0.102,0.000546,0.397,0.454,174.053,2.9,4
+28GCbKgjlVD9eDmasGbe0T,Bad Bunny,Me Fui de Vacaciones,Chile,0.714,0.645,10,-5.493,1,0.0514,0.229,0.00083,0.0942,0.434,85.046,3.02,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Chile,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+31HpWOxG7AxOF99ZnaxprO,Cris Mj,Matemos las Ganas,Chile,0.87,0.459,3,-8.821,0,0.133,0.0496,0.000325,0.0639,0.507,97.022,3.5,4
+7t4AkWpph5JlIOOyMC6NTn,"Cris Mj, Juanka",Víbora,Chile,0.791,0.707,4,-5.858,0,0.0578,0.166,0.000318,0.111,0.599,98.005,3.79,4
+5GF0X7GdNmnouKcdhhRmtm,"Paulo Londra, Duki",Party en el Barrio (feat. Duki),Chile,0.527,0.665,10,-7.108,1,0.164,0.0168,1.29e-06,0.324,0.546,135.026,3.94,4
+6J8lLpZoRCmB5pTrnB5jpV,"Standly, El Barto",Mi Gata,Chile,0.862,0.372,0,-10.909,0,0.453,0.554,0.0,0.144,0.494,94.994,3.37,4
+0yc0Cewx8JTFPjiOVLfzkS,"Nickoog Clk, Simon la Letra, Standly, Pailita",Phillie y Botella (Remix),Chile,0.778,0.651,7,-8.648,0,0.0449,0.194,0.0,0.103,0.761,114.988,4.8,4
+7gwT3HGL84vF7bgtwL1N88,Lasso,Ojos Marrones,Chile,0.809,0.649,8,-4.433,0,0.0416,0.0407,0.0,0.145,0.72,120.014,3.31,4
+18HOjcvTVV7W8YzBuOsAPS,Bad Bunny,Un Verano Sin Ti,Chile,0.503,0.496,5,-9.123,0,0.0556,0.693,0.0,0.123,0.412,187.844,2.47,4
+4SSbtLDkepeOHAckM1FCBP,"El Alfa, Noriel, Trueno",LOS APARATOS,Chile,0.868,0.878,1,-3.294,1,0.038,0.0509,0.00052,0.0857,0.899,112.987,3.88,4
+4yXBfJAPsDZjpjMEp9NyjT,"Wisin & Yandel, Rauw Alejandro",Vapor,Chile,0.803,0.779,11,-4.449,0,0.0694,0.066,2.23e-05,0.111,0.317,94.009,3.48,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Chile,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+4hceSKjrkDTO0nMKFcb3sj,"Bizarrap, Villano Antillano","Villano Antillano: Bzrp Music Sessions, Vol. 51",Chile,0.82,0.752,1,-7.635,0,0.0648,0.0584,0.00417,0.628,0.423,127.999,3.12,4
+7DsotsIcNLWL4O9kwPtMu0,"Cris Mj, Marcianeke, Simon la Letra, Stars Music Chile",Los Malvekes,Chile,0.798,0.813,0,-6.343,1,0.0794,0.187,0.00171,0.686,0.535,96.005,3.63,4
+5kVZxyMY1gfdCLiChsfjn1,Bad Bunny,Yo No Soy Celoso,Chile,0.872,0.588,0,-6.276,1,0.0492,0.275,0.0,0.17,0.93,142.004,3.85,4
+6VAS7m73rDopQe7BdrFMpD,"Bizarrap, Tiago PZK","Tiago PZK: Bzrp Music Sessions, Vol. 48",Chile,0.657,0.821,8,-3.06,0,0.32,0.459,0.0,0.103,0.752,96.561,2.67,4
+2uflssWlCaJ6CbTMOsUpNI,Bad Bunny,Aguacero,Chile,0.861,0.645,6,-6.96,0,0.0743,0.423,0.000592,0.349,0.668,121.391,3.52,5
+2V1gkU11cDoJJHmDUYGbTG,Nickoog Clk,Por Ella,Chile,0.797,0.577,9,-8.421,1,0.074,0.128,0.0,0.136,0.62,95.981,3.27,4
+5YhEoEA8OdwNYiFIBPh6nt,"Pailita, El Casti, Bigcvyu",Hooka,Chile,0.92,0.641,11,-9.405,1,0.221,0.13,0.0016,0.0773,0.84,98.043,3.22,4
+3FkeNbs9Zeiqkr3WkbOiGp,Anitta,Envolver,Chile,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,3.23,4
+1UdzJEpgJxtuXAlCOvD4S0,Danny Ocean,Fuera del mercado,Chile,0.453,0.673,8,-5.649,1,0.144,0.32,0.0,0.131,0.266,92.06,2.66,4
+3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Chile,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,3.05,4
+3HSVuIkPGY4rdtifvEU3xz,Young Cister,Casi Amor De Verano,Chile,0.691,0.671,7,-6.654,1,0.072,0.13,0.000166,0.0736,0.515,87.967,3.51,4
+3rdAz1fbUfZxYgaCviYhRo,Rauw Alejandro,Todo De Ti,Chile,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,0.336,127.962,3.33,4
+7LVHVU3tWfcxj5aiPFEW4Q,Coldplay,Fix You,Chile,0.209,0.417,3,-8.74,1,0.0338,0.164,0.00196,0.113,0.124,138.178,4.93,4
+5VSAcJtB7PlXO3cwC4vjom,"Standly, Polimá Westcoast",Me Voy Contigo,Chile,0.658,0.884,8,-4.128,1,0.097,0.148,0.000172,0.0907,0.725,193.984,3.31,4
+71wFwRo8xGc4lrcyKwsvba,"Bad Bunny, Tainy",Callaita,Chile,0.608,0.626,2,-4.773,1,0.301,0.597,2.16e-06,0.25,0.246,176.086,4.18,4
+0G2zPzWqVjR68iNPmx2TBe,"Mora, Bad Bunny, Sech",Volando - Remix,Chile,0.659,0.688,6,-4.649,1,0.0673,0.207,0.0,0.113,0.632,153.979,4.56,4
+2NMjggapJcXXM7WccGEBUO,Bad Bunny,Enséñame a Bailar,Chile,0.81,0.789,8,-5.08,1,0.0846,0.191,1.08e-05,0.467,0.77,105.009,2.93,4
+7o2CTH4ctstm8TNelqjb51,Guns N' Roses,Sweet Child O' Mine,Chile,0.454,0.91,6,-7.766,1,0.0448,0.0866,0.0996,0.116,0.629,125.116,5.91,4
+0bI5WRiDfU5BY38ufOJtGu,"Maluma, Chencho Corleone",Nos Comemos Vivos,Chile,0.822,0.719,10,-3.633,0,0.0576,0.165,2.48e-05,0.174,0.659,82.01,3.76,4
+7D0RhFcb3CrfPuTJ0obrod,Coldplay,Sparks,Chile,0.371,0.268,1,-10.506,1,0.0281,0.748,0.0517,0.104,0.165,102.617,3.78,3
+3VjCEyc0bHfa4Ie34kbWyb,"ROSALÍA, Chencho Corleone",CANDY - Remix,Chile,0.738,0.674,4,-3.837,0,0.179,0.727,0.00229,0.0815,0.556,179.979,3.41,4
+7wBrglFVTNCcW6IhdgBkm1,Coldplay,Paradise,Chile,0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,4.65,4
+0E0DRHf5PfMeor0ZCwB3oT,"Bad Bunny, The Marías",Otro Atardecer,Chile,0.777,0.595,2,-6.79,1,0.0375,0.59,0.00139,0.0669,0.546,108.02,4.07,4
+6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Chile,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,4.12,4
+5THQOgMI2EIIWiCiRu6Ltj,"Gino Mella, Sayian Jimmy, Best",Quiero Pelarme,Chile,0.829,0.632,5,-6.973,0,0.0502,0.00173,0.000303,0.064,0.974,100.928,2.45,4
+6lX6l7OuA3qrnIRfdsr0dw,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,Chile,0.787,0.7,4,-4.598,0,0.0768,0.568,0.00051,0.663,0.791,90.02,3.89,4
+2hLXUbsOU9cDb9RFva9FYr,"Mora, Jhay Cortez",MEMORIAS,Chile,0.771,0.707,2,-6.404,0,0.055,0.389,0.0,0.0745,0.317,127.963,3.81,4
+1Y62KpDaP5MEL43ZcI6IaG,"Quevedo, Ovy On The Drums",Sin Señal,Chile,0.822,0.851,11,-3.314,0,0.0422,0.333,0.00792,0.105,0.749,117.992,3.08,4
+7ccoyhNAr3OY5IQsvpQnck,"El Barto, El Jordan 23, Standly, Drakomafia, Gabo El Chamaquito",Flaytiando,Chile,0.87,0.687,1,-6.533,1,0.0695,0.0223,0.000659,0.112,0.878,97.998,4.02,4
+4R8BJggjosTswLxtkw8V7P,"Jhayco, J Balvin, Bad Bunny",No Me Conoce - Remix,Chile,0.806,0.786,10,-3.831,0,0.0741,0.145,0.0,0.0935,0.58,91.973,5.15,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Chile,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+0cOa970mzTWAxKtltpkpLc,"TINI, Maria Becerra",Miénteme,Chile,0.85,0.541,2,-4.522,1,0.0674,0.161,5.01e-06,0.286,0.916,92.003,2.75,4
+2jnZUvhw2LTvDI6YidRVcO,Daddy Yankee,Llamado de Emergencia,Chile,0.703,0.909,4,-4.456,0,0.0358,0.216,1.57e-06,0.162,0.777,97.982,4.0,4
+6C1RD7YQVvt3YQj0CmuTeu,"Bad Bunny, Ozuna, Farruko, Arcangel, Ñengo Flow, DJ Luian, Mambo Kingz",Diles,Chile,0.813,0.56,2,-5.904,0,0.0618,0.108,0.0,0.268,0.287,118.033,4.77,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Chile,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+62aT1Uk0pCl1QG4LLBMVUn,"Lleflight, Pablo Chill-E, Gino Mella, Julianno Sosa, El Jordan 23, King Savagge, Polimá Westcoast, Drago200, Jairo Vera, Galee Galee, Best","FULL PIOLI 2.O (feat. Julianno Sosa, El Jordan 23, King Savagge, Polima West Coast, Drago200, Jairo Vera, Galee Galee, Best)",Chile,0.84,0.784,7,-5.549,1,0.199,0.196,0.0,0.0754,0.722,94.964,6.67,4
+3RiPr603aXAoi4GHyXx0uy,Coldplay,Hymn for the Weekend,Chile,0.491,0.693,0,-6.487,0,0.0377,0.211,6.92e-06,0.325,0.412,90.027,4.3,4
+6y8z28epOv5FlaxDv1Lo5B,Ryan Castro,Jordan,Chile,0.796,0.68,10,-5.555,0,0.37,0.0575,0.000683,0.103,0.71,179.923,2.94,4
+4srcMdbm2qzVG98tJajHxp,"Alejo, Feid, ROBI",Pantysito,Chile,0.83,0.739,7,-5.395,0,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4.01,4
+4YQieyZIxrHaDiAPQosmoP,"Ceaese, Utopiko, Polimá Westcoast, Young Cister",Te Quiero Ver (feat. Polimá Westcoast y Young Cister),Chile,0.769,0.839,7,-3.765,0,0.0607,0.411,0.0,0.324,0.547,90.019,3.42,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Chile,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+2vmfvSoZBFAt9hhRoEByLi,"Aventura, Bad Bunny",Volví,Chile,0.725,0.86,1,-3.726,1,0.182,0.422,0.000284,0.0674,0.791,175.896,3.84,4
+5clFSlfkCRlhnH1cAQjSBi,De La Ghetto,Sensacion Del Bloque,Chile,0.709,0.726,7,-7.129,1,0.0411,0.0977,0.0,0.301,0.404,92.006,3.04,4
+0wihfILRNOwE2156Shezc8,Bad Bunny,Agosto,Chile,0.849,0.584,1,-8.195,0,0.115,0.0929,6.18e-06,0.492,0.724,115.018,2.32,4
+6ojZtz3sZr6ynvejLOqgCj,"Tiago PZK, Ozuna",Nos Comemos (feat. Ozuna),Chile,0.827,0.819,6,-3.701,1,0.052,0.1,0.0,0.089,0.562,92.017,3.18,4
+6AizmGCrFRQHru1Qf8WKoJ,"Myke Towers, Jhay Cortez",Ande Con Quien Ande,Chile,0.825,0.736,7,-5.55,1,0.0913,0.0822,0.0,0.158,0.508,92.028,3.48,4
+4TGwERXRlyQtBdggYTHo6j,"Tiago PZK, LIT killah, Maria Becerra, Nicki Nicole",Entre Nosotros (Remix) [con Nicki Nicole],Chile,0.7,0.438,5,-5.784,0,0.0433,0.401,0.0,0.373,0.605,170.106,4.33,3
+1JSTJqkT5qHq8MDJnJbRE1,The Police,Every Breath You Take,Chile,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,4.23,4
+5q2JbCNi4FcnglgPfxcV65,"Anuel AA, Daddy Yankee, Zion & Lennox, Farruko, Wisin",Sola (Remix),Chile,0.639,0.869,11,-4.024,1,0.147,0.27,0.0,0.0802,0.767,169.801,5.13,4
+5dtNrI6WMGCTBbK8499242,Mora,CALENTÓN,Chile,0.455,0.592,11,-7.069,0,0.227,0.45,1.03e-06,0.116,0.512,134.025,3.38,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Chile,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+0FDzzruyVECATHXKHFs9eJ,Coldplay,A Sky Full of Stars,Chile,0.545,0.675,6,-6.474,1,0.0279,0.00617,0.00197,0.209,0.162,124.97,4.46,4
+44gzTwIFpKyyRPOTRBUbKX,"Gino Mella, Best",AMIGA DATE CUENTA,Chile,0.8,0.569,1,-8.44,0,0.0997,0.0293,0.000241,0.0818,0.586,97.001,2.29,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Chile,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+30W8VKHrAZmHzObnwAoc1u,"Mora, Sech",TUS LÁGRIMAS,Chile,0.683,0.714,1,-4.898,1,0.252,0.181,1e-06,0.111,0.448,173.963,2.91,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Chile,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+5OrjaJWlswDGCqxWj9lxj0,"Ovi, Kim Loaiza, Pailita, Grupo Firme",Después de las 12 - Remix,Chile,0.772,0.94,7,-3.215,1,0.0717,0.157,0.0,0.0898,0.738,92.975,4.8,4
+5Py45FF8phNy49BaehU3PC,Santaferia,Algún Día Volverás,Chile,0.646,0.712,7,-3.765,1,0.0312,0.372,9.07e-05,0.0501,0.687,93.993,4.23,4
+4scwMEdlKi8qWJzzyDB8Z3,"Morat, Juanes",506,Chile,0.544,0.864,0,-5.65,1,0.048,0.00747,0.0,0.338,0.69,142.994,3.01,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Chile,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+3YcUBYZUAvx3rW2bHsb23x,"King Savagge, Criss J.",Cora Roto,Chile,0.835,0.713,6,-5.494,1,0.0597,0.172,8.36e-06,0.0947,0.769,92.033,3.04,4
+1gYtMKmICjH8KQG3MheNJt,"TINI, Tiago PZK",El Último Beso,Chile,0.647,0.662,10,-2.955,1,0.125,0.305,0.0,0.359,0.693,113.28,3.29,5
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Chile,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+3NW1FV4c9UNsPLkFOqTfF5,"Nickoog Clk, Izahn, Standly",Mi Waxita,Chile,0.75,0.595,9,-9.292,1,0.0589,0.189,0.0,0.0741,0.403,90.042,3.63,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Chile,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Chile,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+6G4U9avyBNEfP0fAIduev3,"Aventura, Don Omar",Ella Y Yo - Featuring Don Omar,Chile,0.732,0.708,9,-7.905,0,0.262,0.534,0.0,0.237,0.717,175.924,4.46,4

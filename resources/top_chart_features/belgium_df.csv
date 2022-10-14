@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Belgium,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Belgium,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Belgium,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Belgium,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+3D29kjUyWxsT3jUUTtARVQ,Gazo,DIE,Belgium,0.695,0.63,8,-7.16,0,0.035,0.229,0.0,0.118,0.55,130.968,4.01,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Belgium,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+0jm8p2ErwB4u3uvxc7vxGy,Jinho 9,Blind Op Zoek (Trapagas),Belgium,0.831,0.476,11,-7.88,0,0.0983,0.136,0.0,0.18,0.529,104.965,2.38,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Belgium,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Belgium,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+3BnDvpeuGOj21Ir2aVEtQo,Rema,Calm Down,Belgium,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,0.842,107.003,3.66,4
+7vwTsX8UY5QZmPiQUmWkaL,Oscar and the Wolf,Warrior,Belgium,0.574,0.69,6,-5.198,0,0.0469,0.175,0.0,0.197,0.298,87.019,3.39,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Belgium,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Belgium,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+4ZpIuzx91EAPK3VimONbfB,"ZEG P, Hamza, SCH",FADE UP,Belgium,0.758,0.599,4,-5.99,0,0.0877,0.57,1.13e-06,0.129,0.557,129.96,3.65,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Belgium,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+6PrB4KpvuoYWtwjPC5a44S,"Soolking, Niska",Balader,Belgium,0.603,0.802,4,-5.089,0,0.111,0.306,5.06e-05,0.124,0.787,130.121,2.94,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Belgium,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Belgium,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+3oFKhY9iW9S0iA9OHO9tN6,KATNUF,Van Mij Zijn,Belgium,0.835,0.645,6,-4.46,0,0.0827,0.145,0.0,0.11,0.338,105.068,2.78,4
+1ei3hzQmrgealgRKFxIcWn,Benson Boone,In The Stars,Belgium,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,0.3,78.007,3.61,3
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Belgium,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+1SBBqkpgv93ITwS6tf7DGm,Camille,Geen Tranen Meer Over,Belgium,0.671,0.773,4,-6.289,1,0.0679,0.152,0.0,0.11,0.846,162.925,3.31,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Belgium,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+2LcmbuYX7tyR4DWy3b273L,Goldband,Noodgeval,Belgium,0.856,0.89,2,-6.463,0,0.0627,0.131,0.0143,0.0614,0.77,139.003,3.57,4
+2WigMwGJysIh9fRnSJvpjn,Oxlade,KU LO SA - A COLORS SHOW,Belgium,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9,2.46,4
+3rb0tMq42WfggucPm0HHkA,"MEDUZA, James Carter, Elley Duhé, FAST BOY",Bad Memories (feat. Elley Duhé & FAST BOY),Belgium,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,2.48,3
+7mgPjcjjGwGx5kRDMH7Kkz,"Snelle, Metejoor",Kijk Ons Nou,Belgium,0.737,0.593,11,-6.565,1,0.0853,0.278,0.0,0.105,0.826,89.99,2.73,4
+2RUzYz3EqkJxpPQPehdxha,Camille,In De Regen,Belgium,0.648,0.769,11,-5.658,0,0.0415,0.0312,0.00125,0.138,0.741,156.009,3.59,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Belgium,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Belgium,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,Belgium,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Belgium,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+6KHsTu4Ht4XYiWcZOOdwbW,Fresh,Chop (Nouvelle École),Belgium,0.745,0.801,3,-6.545,0,0.724,0.439,1.13e-06,0.519,0.486,143.011,3.26,4
+7AVHDeAjfn0zfMnYRhp0oI,Pommelien Thijs,Ongewoon,Belgium,0.59,0.51,7,-7.371,1,0.0355,0.0653,5.21e-06,0.507,0.498,144.976,2.63,4
+7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Belgium,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,2.52,4
+6OZwia8loN0aPS0vTvsBjR,"Alonzo, Ninho, Naps",TOUT VA BIEN (feat. Ninho & Naps),Belgium,0.66,0.72,3,-5.874,0,0.0753,0.301,0.0,0.226,0.628,99.937,3.22,4
+1bgKMxPQU7JIZEhNsM1vFs,"Alesso, Zara Larsson",Words (feat. Zara Larsson),Belgium,0.739,0.586,10,-5.079,0,0.0472,0.0245,0.000252,0.308,0.444,124.026,2.38,4
+63WuQOXohQIxOxIFA2K7bR,Måneskin,SUPERMODEL,Belgium,0.636,0.876,7,-3.413,1,0.0555,0.00164,0.0,0.117,0.799,120.983,2.47,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Belgium,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Belgium,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+2RHbwWdj7mVUhJRxlTG6iq,Pauline,Uit Mijn Hoofd,Belgium,0.623,0.655,9,-5.401,0,0.0485,0.162,0.0,0.08,0.532,127.968,2.82,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Belgium,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+40SBS57su9xLiE1WqkXOVr,LF SYSTEM,Afraid To Feel,Belgium,0.578,0.912,1,-3.929,1,0.114,0.0166,0.00362,0.273,0.68,127.87,2.96,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Belgium,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+4VpmtsVKIRfNlmrtaEnrQi,Lomepal,À peu près,Belgium,0.739,0.682,10,-6.811,1,0.0561,0.089,0.000259,0.526,0.638,129.983,3.41,4
+0z3bi63SNZ5ylyHOzb81Uq,Gambi,PETETE,Belgium,0.752,0.669,10,-9.817,0,0.251,0.167,0.0,0.0795,0.627,155.997,2.06,4
+5T6gL9FrOwD6bNYFsy4twf,Pommelien Thijs,Wat Een Idee!?,Belgium,0.634,0.753,2,-5.936,1,0.063,0.0849,0.0,0.118,0.4,154.869,2.93,4
+4UyVCLbNG8yhrqbzeSmdho,"Black Eyed Peas, Shakira, David Guetta",DON'T YOU WORRY,Belgium,0.816,0.874,11,-4.822,1,0.0308,0.201,0.0,0.209,0.5,131.967,3.27,4
+0H5JKQ7qQ5MBeRSZSieZsM,Lomepal,Mauvais ordre,Belgium,0.764,0.43,4,-9.956,0,0.0594,0.767,0.0585,0.0843,0.426,143.992,3.66,4
+4k6yZRw7M04gZE2uW12Cw6,Makar,Mood,Belgium,0.673,0.408,5,-15.094,0,0.0554,0.48,0.305,0.13,0.407,125.003,2.53,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Belgium,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Belgium,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+3sgzxVe4NjuezbZ8CiPlLP,"Kalash, Damso",Malpolis,Belgium,0.796,0.534,1,-8.074,0,0.073,0.26,0.00103,0.0863,0.172,130.008,3.34,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Belgium,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Belgium,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+7MIhUdNJtaOnDmC5nBC1fb,"Alok, Ella Eyre, Kenny Dope, Never Dull",Deep Down (feat. Never Dull),Belgium,0.687,0.818,0,-4.221,1,0.0778,0.0112,0.0,0.248,0.886,125.952,2.76,4
+5VOBsfdn1wlCwuuw7pKgU3,Berre,Say My Name,Belgium,0.389,0.327,0,-8.318,1,0.0313,0.842,0.0,0.105,0.174,143.585,3.31,4
+6Qe7YCkIOc1iaw9HKqO3qV,Soolking,Suavemente,Belgium,0.862,0.696,0,-4.519,1,0.0538,0.326,0.00467,0.0418,0.519,140.018,2.66,4
+5EWPzyWm0b9McPS5Qyaijp,Pierre de Maere,Un jour je marierai un ange,Belgium,0.544,0.578,7,-9.49,0,0.18,0.216,1.92e-06,0.0949,0.219,169.973,2.76,4
+5YbPxJwPfrj7uswNwoF1pJ,Burna Boy,Last Last,Belgium,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,2.87,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Belgium,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Belgium,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,Belgium,0.669,0.742,1,-3.518,0,0.0441,0.296,0.0,0.355,0.716,101.982,3.39,4
+22skzmqfdWrjJylampe0kt,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",Can't Hold Us (feat. Ray Dalton),Belgium,0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,0.88,146.097,4.31,4
+4otT81iBBpaf36roGtzT4a,Lomepal,Decrescendo,Belgium,0.681,0.459,0,-7.178,0,0.0398,0.595,0.0,0.0828,0.33,83.47,3.64,4
+1c2hJSwcCfoPEw1su83Sw0,Lady Gaga,Hold My Hand,Belgium,0.53,0.612,7,-4.286,1,0.0331,0.0403,0.0,0.393,0.264,148.009,3.75,3
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Belgium,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+2GokgKgBBYgKsMbkyndpvu,"Joost, Apson, Acid",Disco Belgica,Belgium,0.815,0.912,5,-6.728,0,0.16,0.0263,0.000133,0.129,0.894,153.989,2.56,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Belgium,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,Belgium,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,3.4,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Belgium,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Belgium,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+7IXQrRgmHxWYWitSlyFY7z,"Kerchak, Ziak",Peur (feat. Ziak),Belgium,0.715,0.836,11,-4.972,1,0.366,0.203,0.0,0.0288,0.777,160.015,3.17,4
+6YWjskKykdPsBuiTBOg1VK,Damso,Δ. Dieu ne ment jamais,Belgium,0.756,0.736,11,-7.719,1,0.0443,0.0597,4.98e-06,0.0373,0.612,115.985,3.32,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Belgium,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Belgium,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Belgium,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,BREAK MY SOUL,Belgium,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,4.64,4
+48BdA5qBxXVoe59xvu0bwc,Gazo,RAPPEL,Belgium,0.486,0.786,4,-6.468,0,0.209,0.441,4.46e-06,0.077,0.534,94.644,3.63,3
+5hnGrTBaEsdukpDF6aZg8a,Dean Lewis,How Do I Say Goodbye,Belgium,0.4,0.641,8,-6.303,1,0.0674,0.214,0.0,0.0656,0.393,81.552,2.73,4
+2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Belgium,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4.79,4
+1cgy2FSOQMbq7DHCVgMAUA,"Lost Frequencies, James Arthur",Questions,Belgium,0.599,0.713,11,-7.008,1,0.0542,0.405,2.53e-05,0.266,0.518,123.962,2.95,4
+1RF02Cf80mTaeNXG2P2boR,"Nathan Dawe, Ella Henderson",21 Reasons (feat. Ella Henderson),Belgium,0.621,0.785,6,-4.499,1,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,2.59,4
+2wqnUV5B4g6u3somiH9JkX,Lomepal,Tee,Belgium,0.606,0.41,4,-9.532,0,0.0874,0.689,0.000356,0.321,0.228,123.315,3.39,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Belgium,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Belgium,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+6V40xLcDlYwZpz3oKIVNhL,Lomepal,Hasarder,Belgium,0.77,0.649,1,-8.011,0,0.0865,0.282,0.0,0.117,0.181,91.046,2.98,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Belgium,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+0ll8uFnc0nANY35E0Lfxvg,Keane,Somewhere Only We Know,Belgium,0.453,0.655,9,-4.22,1,0.0259,0.0794,7.61e-06,0.0849,0.368,172.012,3.94,4
+1stcTlLCa16GvgKtzelN7U,"Dimitri Vegas, David Guetta, Nicole Scherzinger, Azteck",The Drop,Belgium,0.86,0.853,0,-4.606,0,0.0603,0.0101,0.293,0.062,0.791,122.033,2.04,4
+181AxLRTyYh9WUxEjmJt1Y,Willy William,Trompeta,Belgium,0.64,0.863,7,-3.864,0,0.0321,0.0152,0.088,0.301,0.36,128.042,2.81,4
+4GmRnc9J8GBBkVHUtihE3Z,Camille,Vuurwerk,Belgium,0.511,0.772,5,-6.935,1,0.0567,0.00484,0.000401,0.13,0.459,169.956,3.66,4
+3fgEIHsl6ecyAK1rpAxBIY,Jul,J'ai tout su,Belgium,0.786,0.757,9,-4.889,0,0.106,0.0978,0.00106,0.131,0.898,175.903,3.16,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Belgium,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Belgium,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Belgium,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4
+1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Belgium,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4.04,4
+2USlegnFJLrVLpoVfPimKB,"Gabry Ponte, LUM!X, Prezioso",Thunder,Belgium,0.67,0.896,1,-4.673,1,0.058,0.0342,3.21e-05,0.344,0.403,101.216,2.67,3
+2VxeLyX666F8uXCJ0dZF8B,"Lady Gaga, Bradley Cooper",Shallow,Belgium,0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,3.6,4
+73OIG7WFqOyfh0vRZCczu8,Angèle,"Amour, Haine & Danger",Belgium,0.798,0.663,7,-7.238,1,0.0702,0.0867,0.0157,0.12,0.182,113.012,3.32,4
+4sIkwgf9bU7rQPvsA37rVQ,Goldband,Witte Was,Belgium,0.831,0.739,7,-9.914,1,0.0524,0.0505,0.00233,0.0842,0.388,128.995,4.09,4
+3TVUW7bJJWDOonkVCZxfLV,Beendo Z,Pas bête,Belgium,0.734,0.532,7,-9.038,0,0.102,0.361,0.0,0.105,0.491,138.043,2.39,4
+1WCEAGGRD066z2Q89ObXTq,"David Guetta, Becky Hill, Ella Henderson",Crazy What Love Can Do,Belgium,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,2.83,4
+5ZzxgIheA8ZwywtZi61A5j,"Joost, Jack Parow",Fryslân Bop,Belgium,0.967,0.715,1,-7.666,1,0.126,0.0118,0.0791,0.312,0.873,124.008,2.43,4
+5QQKWOwPjG9vcDBTQ5Hv5Q,"PEDRO SAMPAIO, Anitta, Dadju, Mc Pedrinho, Nicky Jam","DANÇARINA (feat. Nicky Jam, MC Pedrinho) - Remix",Belgium,0.763,0.669,9,-4.402,0,0.0651,0.156,0.0,0.0867,0.609,135.028,3.53,4
+46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Belgium,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,3.74,4
+3dzSxtuVrlDZkILfMVGXD9,"REDVOLUTION, 1PLIKÉ140",Shevchenko,Belgium,0.682,0.76,8,-4.199,1,0.261,0.247,0.0,0.254,0.755,143.866,3.33,4
+4wn7cO2iHlWueXGDd4gH9g,MEAU,Dat heb jij gedaan,Belgium,0.69,0.274,0,-12.923,1,0.051,0.845,0.000428,0.12,0.663,131.704,3.52,4
+7sA2SKTo1QbTSSYn5YvJC4,Imagine Dragons,Sharks,Belgium,0.927,0.642,10,-4.466,0,0.0657,0.00791,3.62e-05,0.279,0.901,123.969,3.18,4
+0DDcpc9ImOsGUWupRj2xu5,"Kris Kross Amsterdam, Ronnie Flex, Zoë Tauran",Adrenaline,Belgium,0.741,0.727,7,-4.835,0,0.155,0.0231,0.0,0.121,0.716,150.061,2.48,4
+13Irp51zj01BZu2XtDrnAg,Lizzo,2 Be Loved (Am I Ready),Belgium,0.721,0.769,7,-4.111,1,0.105,0.0922,0.0,0.0817,0.915,155.932,3.12,4
+63siBeZzxXVaY0uASns1V2,"Bigflo & Oli, Julien Doré",Coup de vieux,Belgium,0.834,0.624,9,-8.565,0,0.0838,0.0729,0.0,0.106,0.831,115.981,3.87,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Belgium,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+4BTiunrWSAMGCB4HuvqYJr,DIKKE,Gasolina,Belgium,0.864,0.655,0,-8.471,0,0.282,0.147,0.000278,0.207,0.69,141.112,2.17,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Belgium,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+20on25jryn53hWghthWWW3,"ACRAZE, Cherish",Do It To It,Belgium,0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,0.637,124.927,2.63,4
+2YGtFjsTpSrsGb2rQy4ARj,"Fresh, Niska",Allez dehors,Belgium,0.699,0.848,7,-5.331,1,0.431,0.407,2.49e-05,0.114,0.754,139.825,2.78,4
+0HaRLPnr887lcQM2YQzkff,"Burna Boy, Ed Sheeran",For My Hand (feat. Ed Sheeran),Belgium,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,2.65,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Belgium,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+5QJoojtfYodIvWSfpeCcHh,Metejoor,Dit Is Wat Mijn Mama Zei,Belgium,0.792,0.524,9,-6.749,1,0.0372,0.258,0.0,0.128,0.737,118.958,2.95,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Belgium,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+6kwmp0U8M1tPvgPHqvbwsr,"Tiakola, Rsko",Gasolina (feat. Rsko),Belgium,0.684,0.493,6,-7.946,0,0.124,0.517,0.0,0.0672,0.501,119.087,3.05,4
+1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Belgium,0.686,0.735,2,-4.616,1,0.264,0.00921,0.00066,0.342,0.0596,171.355,5.37,4
+6HTJgY7iWWlVLSDHsfHePf,Ninho,Jefe,Belgium,0.648,0.599,7,-8.611,0,0.0799,0.474,6.81e-06,0.121,0.213,120.985,2.96,4
+2ewjMyCbNv2X1dB2qIDCwD,Damso,Θ. Macarena,Belgium,0.777,0.554,2,-8.179,1,0.0572,0.182,1.7e-06,0.0477,0.27,129.933,3.45,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Belgium,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+2wXS2IXCyBX0WL76LLYT31,Gazo,CELINE 3X,Belgium,0.677,0.841,9,-7.179,1,0.378,0.162,0.0,0.141,0.563,138.906,2.64,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Belgium,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+0i9RysNKssk6syOrKDX3U2,"Gazo, Tiakola",FLEURS (feat. Tiakola),Belgium,0.673,0.636,10,-7.431,1,0.0771,0.268,0.0,0.108,0.438,127.021,3.52,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Belgium,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+2whrZu1OVT5c1QJerSO0Jr,GAMS,Laisse tomber,Belgium,0.724,0.735,3,-5.313,0,0.0467,0.0342,7.69e-06,0.111,0.54,98.043,3.31,4
+1jDJFeK9x3OZboIAHsY9k2,Elton John,I'm Still Standing,Belgium,0.504,0.904,6,-6.863,1,0.179,0.356,0.121,0.14,0.772,176.808,3.06,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Belgium,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+3pPN20syOYvbUuEiBpbenI,Ava Max,Million Dollar Baby,Belgium,0.667,0.858,2,-2.268,0,0.0926,0.0367,1.47e-05,0.325,0.641,133.039,3.07,4
+6phZ9iQDWrB11ZPRjNDdNS,"Acid, Used, Joost, Apson","Go, Acid! - Used Remix",Belgium,0.673,0.982,1,-0.505,1,0.0527,0.0358,4.7e-06,0.707,0.814,175.039,2.88,4
+2toEys3zZ8rRB242Na7FZh,"Disiz, Damso",RENCONTRE,Belgium,0.62,0.458,2,-10.557,1,0.269,0.521,0.0,0.11,0.518,125.132,3.31,4
+2dgKsKDtH97Gw2yw7vP8zb,CASAWI,DARWA,Belgium,0.595,0.769,1,-9.739,0,0.255,0.13,0.0,0.129,0.67,145.911,3.12,4
+3ElGRG3DqSzzkh1b2wnbzf,"Gabry Ponte, LUM!X, Daddy DJ",We Could Be Together (feat. Daddy DJ),Belgium,0.706,0.778,10,-4.491,1,0.0606,0.198,1.06e-05,0.0778,0.376,125.893,2.49,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Belgium,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+7lJ7lEntxkNUrbDN9giLmB,Natte Visstick,Visstick Gooi Die Kanker Kick,Belgium,0.748,0.723,3,-4.469,0,0.0569,0.00255,0.612,0.077,0.457,145.03,1.87,4
+5qrSlOut2rNAWv3ubArkNy,Dean Lewis,Be Alright,Belgium,0.551,0.537,11,-7.595,1,0.034,0.705,0.0,0.0802,0.493,126.421,3.27,4
+3sa06xVNmLLYIxdNNmVQN8,"Jax Jones, MNEK",Where Did You Go? (feat. MNEK),Belgium,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,0.502,127.034,2.96,4
+63JrADDfrcjOaI6lyVkN3c,"Kris Kross Amsterdam, Antoon, Sigourney K",Vluchtstrook,Belgium,0.73,0.771,6,-6.973,0,0.0534,0.0321,0.0,0.127,0.689,159.979,2.47,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Belgium,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Belgium,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+3BsYL1gVsiFpo0bM8oTbi0,"Mig, Tiakola",Quand j'y repense,Belgium,0.609,0.692,4,-5.887,0,0.24,0.614,0.0,0.147,0.718,139.873,3.23,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Belgium,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Belgium,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+1LIvdWNdKmHvU0FJvw2diN,"Luude, Mattafix",Big City Life,Belgium,0.615,0.902,3,-4.316,1,0.0859,0.0176,3.91e-05,0.103,0.298,87.03,2.45,4
+4fouWK6XVHhzl78KzQ1UjL,GAYLE,abcdefu,Belgium,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,0.415,121.932,2.81,4
+1CxtymiucDK0AB9vgGZ6q2,PNL,J’comprends pas,Belgium,0.373,0.523,1,-9.111,1,0.041,0.228,0.0171,0.111,0.0398,104.959,4.72,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Belgium,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+6aZPMuJetqwKQCPClCNgd3,Yanns,Clic clic pan pan,Belgium,0.798,0.763,10,-6.134,0,0.0654,0.204,0.0,0.213,0.698,132.016,2.73,4
+3dYD57lRAUcMHufyqn9GcI,Hozier,Take Me to Church,Belgium,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,4.03,4
+3UmaczJpikHgJFyBTAJVoz,"Eminem, Dido",Stan,Belgium,0.78,0.768,6,-4.325,0,0.238,0.0371,2.34e-06,0.518,0.507,80.063,6.74,4
+0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Belgium,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,3.41,4
+3im90dPSC5z1PYJ305kgSy,"Gazo, Damso",BODIES (feat. Damso),Belgium,0.906,0.518,1,-7.104,1,0.18,0.00864,0.00174,0.0711,0.259,146.06,2.77,4
+3Oww84xrmgjyr5J1ilOmAf,"Luude, Colin Hay",Down Under (feat. Colin Hay),Belgium,0.308,0.86,11,-4.111,0,0.168,0.0116,0.000828,0.277,0.0387,171.835,2.65,4
+0Jh6iWjna1wk5le0Ahn7No,Ninho,La vie qu'on mène,Belgium,0.8,0.756,7,-4.4,0,0.0367,0.687,2.06e-06,0.111,0.456,113.204,3.22,3
+4u7EnebtmKWzUH433cf5Qv,Queen,Bohemian Rhapsody - Remastered 2011,Belgium,0.414,0.404,0,-9.928,0,0.0499,0.271,0.0,0.3,0.224,71.105,5.91,4
+4N5s8lPTsjI9EGP7K4SXzB,George Ezra,Green Green Grass,Belgium,0.685,0.738,8,-4.413,1,0.0595,0.0695,0.0,0.128,0.8,112.972,2.79,4
+0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Belgium,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,0.691,116.731,5.01,4
+3Z7CaxQkqbIs1rewKi6v4W,"Tiësto, Charli XCX",Hot In It,Belgium,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,2.16,4
+717QGTmZdkemDaCo1vQHG0,"13 Organisé, SCH, Kofs, Jul, Naps, Soso Maness, Elams, Solda, Houari",Bande organisée,Belgium,0.901,0.939,6,-2.762,1,0.274,0.117,0.0,0.0643,0.805,142.948,5.94,4
+1bwhDrXcAtqePp8mNJ0pTe,Naps,La kiffance,Belgium,0.805,0.637,6,-6.515,1,0.0869,0.228,0.0,0.071,0.678,140.045,2.99,4
+0nrRP2bk19rLc0orkWPQk2,Avicii,Wake Me Up,Belgium,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,4.12,4
+5S12Ds2RswM2ITC0u1J01f,Ninho,VVS,Belgium,0.751,0.61,10,-8.368,0,0.485,0.337,0.0,0.11,0.525,167.983,3.12,4
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,Belgium,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+4WB9OeauHXnGOMUK4s80gM,Lomepal,Trop beau,Belgium,0.748,0.66,4,-6.034,0,0.0404,0.295,5.56e-06,0.0883,0.324,123.902,4.08,4
+3U4isOIWM3VvDubwSI3y7a,John Legend,All of Me,Belgium,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93,4.49,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Belgium,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+6hzi3AGB39FjxFqcjgbWs7,PNL,Deux frères,Belgium,0.794,0.659,7,-7.063,0,0.0498,0.143,0.00224,0.0944,0.308,112.019,4.12,4
+1YR7VB3xx85Iad2n3soyMb,"Cristian D, $hirak, Brysa, Ashafar",Amsterdam,Belgium,0.908,0.52,0,-7.688,0,0.0782,0.0457,0.0,0.109,0.81,134.046,2.89,4
+43cL1h1glLvYSfJ0EcbcG4,Joost,Wachtmuziek,Belgium,0.731,0.856,11,-5.788,1,0.185,0.0304,0.00699,0.0912,0.269,171.953,2.88,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Belgium,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+4kLLWz7srcuLKA7Et40PQR,Black Eyed Peas,I Gotta Feeling,Belgium,0.743,0.766,0,-6.375,1,0.0265,0.0873,0.0,0.509,0.61,127.96,4.82,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Belgium,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Belgium,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Belgium,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+1GCE5VlXjguhtBwOOZ2dvI,"Netsky, Rita Ora",Barricades (with Rita Ora),Belgium,0.648,0.88,11,-3.53,0,0.13,0.0408,0.0,0.16,0.378,149.791,2.57,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Belgium,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+775qtHu1rNoq1N2aKFa4nD,Lomepal,Etna,Belgium,0.697,0.7,2,-7.006,1,0.0892,0.262,3.21e-06,0.114,0.195,149.972,4.38,4
+7DFNE7NO0raLIUbgzY2rzm,Passenger,Let Her Go,Belgium,0.509,0.538,7,-7.335,1,0.0572,0.385,0.0,0.104,0.244,75.089,4.21,4
+0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,THATS WHAT I WANT,Belgium,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,2.4,4
+003vvx7Niy0yvhvHt4a68B,The Killers,Mr. Brightside,Belgium,0.352,0.911,1,-5.23,1,0.0747,0.00121,0.0,0.0995,0.236,148.033,3.72,4
+5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Belgium,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4.03,4
+4RVPmkIVvzcWF27zfn3sap,Fresh,Drama queen,Belgium,0.808,0.506,11,-9.949,0,0.436,0.115,0.0,0.124,0.32,135.087,2.66,4
+3hRV0jL3vUpRrcy398teAU,Lord Huron,The Night We Met,Belgium,0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,0.102,87.01,3.47,3
+46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Belgium,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,0.47,105.006,3.77,4
+4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,good 4 u,Belgium,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,2.97,4
+2374M0fQpWi3dLnB54qaLX,TOTO,Africa,Belgium,0.671,0.373,9,-18.064,1,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,4.93,4
+2gMXnyrvIjhVBUZwvLZDMP,Lewis Capaldi,Before You Go,Belgium,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,3.59,4
+6vECYJHxYmm3Ydt3fF01pE,Milky Chance,Stolen Dance,Belgium,0.885,0.581,11,-8.813,1,0.0378,0.427,0.000204,0.0759,0.728,114.016,5.23,4
+503OTo2dSqe7qk76rgsbep,"Dr. Dre, Snoop Dogg",Still D.R.E.,Belgium,0.816,0.775,11,-3.323,1,0.234,0.16,0.00031,0.0543,0.527,93.431,4.51,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Belgium,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+1NFgyfNYN7ZlVeS0TUbCna,"Jinho 9, KATNUF, Jeriel Thunder, Bizzey",Interessant (feat. Bizzey),Belgium,0.588,0.658,11,-5.701,0,0.317,0.288,0.0,0.13,0.624,101.161,2.38,4
+3Wrjm47oTz2sjIgck11l5e,Måneskin,Beggin',Belgium,0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,0.589,134.002,3.53,4
+0V5cvmTKsYmF5FmGGEAfmS,Patrick Watson,Je te laisserai des mots,Belgium,0.303,0.187,2,-16.757,1,0.0356,0.989,0.489,0.101,0.213,132.731,2.68,4
+46vfSYsDJZaNQcD4YvT8GD,"Naps, GIMS",Best life,Belgium,0.919,0.779,7,-4.739,0,0.147,0.258,0.0,0.0991,0.941,138.038,3.16,4
+2Xr1dTzJee307rmrkt8c0g,CKay,love nwantiti (ah ah ah),Belgium,0.727,0.739,8,-3.805,1,0.0411,0.365,0.00137,0.161,0.533,93.005,2.43,4

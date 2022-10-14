@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Lithuania,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+4SA3hKVvIbnDWjwH1Hnp1C,dj nevykele,aerobika,Lithuania,0.774,0.444,6,-11.299,0,0.0591,0.532,0.0999,0.109,0.709,142.532,2.5,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Lithuania,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Lithuania,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Lithuania,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+6RmV54gl0nByycqhTajiiZ,"Jessica Shy, Nombeko Auguste",Tyliai Pakuždėk,Lithuania,0.891,0.765,8,-5.843,0,0.0391,0.206,0.000491,0.0936,0.736,119.991,2.87,4
+4tRhRLBxIZ34Iw0eCuiC03,southstar,Miss You,Lithuania,0.663,0.559,6,-12.876,0,0.0391,0.136,0.0894,0.108,0.296,145.007,3.44,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Lithuania,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Lithuania,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Lithuania,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Lithuania,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Lithuania,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Lithuania,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+0uo7p6JtXF7U8x0ktN0Vty,Funk Tribu,Phonky Tribu,Lithuania,0.731,0.873,11,-7.746,0,0.0518,0.000268,0.851,0.1,0.671,159.984,4.77,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Lithuania,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Lithuania,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+3rb0tMq42WfggucPm0HHkA,"MEDUZA, James Carter, Elley Duhé, FAST BOY",Bad Memories (feat. Elley Duhé & FAST BOY),Lithuania,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,2.48,3
+0JzG1wJuB4v9UPkSE7LMXi,Montell Fish,Hotel,Lithuania,0.228,0.427,0,-8.739,0,0.0363,0.752,0.0167,0.592,0.192,180.345,3.29,4
+2uA8NSZkGpKlBdEBN8JuYd,dj nevykele,"aš tavo lovoj, o tu lolą kapoji",Lithuania,0.411,0.73,7,-7.213,1,0.0588,0.000226,0.0,0.264,0.561,151.259,2.03,4
+6KOhOLjSsbv3bggefGCLLm,ba.,PAŽADAI,Lithuania,0.489,0.732,8,-5.29,0,0.0288,8.97e-05,0.000219,0.277,0.478,100.089,2.98,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Lithuania,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+2ksyzVfU0WJoBpu8otr4pz,INTERWORLD,METAMORPHOSIS,Lithuania,0.593,0.641,7,-12.727,0,0.0992,0.426,0.901,0.122,0.147,175.014,2.38,4
+4QHRKu6scoEilEvLnHYOnz,Gabrielius Vagelis,Man Moji,Lithuania,0.65,0.798,8,-7.364,0,0.0427,0.0414,0.0,0.181,0.573,114.932,2.44,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Lithuania,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Lithuania,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Lithuania,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Lithuania,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Lithuania,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+43M7mBUccCPGFD39ivJJPR,Vaidas Baumila,Apžavai,Lithuania,0.614,0.855,1,-7.066,0,0.0547,0.0017,0.0,0.0708,0.807,156.088,3.31,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Lithuania,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Lithuania,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Lithuania,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+0zCgWGmDF0aih5qexATyBn,Mr.Kitty,After Dark,Lithuania,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,0.0392,140.019,4.29,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Lithuania,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+2psbE7Ds01Xz2MaMIk7APk,"Justinas Jarutis, Jessica Shy",Rugpjūtis,Lithuania,0.792,0.942,1,-5.03,1,0.0404,0.0415,0.000178,0.0983,0.862,140.024,2.7,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Lithuania,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+149qQkZez6yujONJspKw7U,Jessica Shy,Šokam Lėtai,Lithuania,0.755,0.616,9,-8.481,0,0.0257,0.256,6.4e-05,0.251,0.509,100.014,2.6,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Lithuania,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+01kfSdF9zfcDLri5sSWEoL,Dxrk ダーク,RAVE,Lithuania,0.716,0.748,8,-6.06,1,0.0356,0.235,0.849,0.114,0.338,119.918,2.82,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Lithuania,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Lithuania,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Lithuania,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+73vIOb4Q7YN6HeJTbscRx5,"Oliver Tree, Robin Schulz",Miss You,Lithuania,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.00107,0.146,0.199,145.007,3.43,4
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,Lithuania,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Lithuania,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+5Sk39LuvdwuvL84jD01Dum,"MUPP, Sadfriendd",vendetta!,Lithuania,0.706,0.91,1,-3.527,1,0.146,0.175,2e-06,0.11,0.667,126.007,1.78,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Lithuania,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Lithuania,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,2.89,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Lithuania,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Lithuania,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+1HB2GllXBNIOtSPZNLAkpu,ba.,PRARADAU MINTIS,Lithuania,0.499,0.646,4,-6.447,0,0.0417,0.00142,0.0247,0.0912,0.442,160.014,4.77,4
+7AGc8wXghy0gpkrsaB1qJ8,ba.,FONAS,Lithuania,0.526,0.815,5,-6.375,1,0.0509,0.000409,0.0171,0.102,0.146,105.095,3.35,4
+6LYFTApLeccK8mQDyF1yi5,ba.,IŠ NAUJO,Lithuania,0.271,0.552,7,-7.733,0,0.0354,9.14e-05,0.146,0.0698,0.458,80.667,3.08,4
+3hxIUxnT27p5WcmjGUXNwx,Hotel Ugly,Shut up My Moms Calling,Lithuania,0.485,0.409,9,-10.711,0,0.101,0.325,0.0,0.103,0.376,138.419,2.74,4
+2QXiusEY3BfMwzwELWj1Ee,ba.,NUOGAS NERVAS,Lithuania,0.36,0.62,8,-6.814,1,0.0307,0.000237,0.616,0.338,0.153,150.076,4.69,4
+60aA4A8wLV5lxgWMjJQjBH,ba.,TRŪNO KIAURAI,Lithuania,0.452,0.818,6,-6.204,0,0.0296,7.25e-06,0.585,0.144,0.501,136.016,2.93,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Lithuania,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Lithuania,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+2WzAAerBvZvvFXgUpSwHZ9,"PLAYAMANE, Nateki",MIDNIGHT,Lithuania,0.633,0.433,1,-8.833,1,0.229,0.0053,0.28,0.145,0.373,122.088,2.03,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Lithuania,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+2nuu8lZA1uFqwq1Vnu3rld,ba.,SKĘSTAM,Lithuania,0.579,0.749,2,-6.922,1,0.0463,0.00058,0.302,0.138,0.228,130.055,3.29,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Lithuania,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+4iClTrpYr3WSwOJCITKXGN,Remis Retro,Iki Aušros,Lithuania,0.926,0.777,11,-5.772,0,0.111,0.0177,4.44e-06,0.0659,0.924,111.029,2.83,4
+7ysbI6x6HxDHC8qFeMMv8O,Monique,Palauksiu kol užmigsi,Lithuania,0.763,0.819,11,-4.908,0,0.0276,0.0517,0.000135,0.214,0.972,125.025,2.91,4
+2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Lithuania,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,0.37,93.986,3.44,4
+3nMmKrDc3i1BkdY0S7iKVb,ba.,PURVO GERKLE,Lithuania,0.495,0.439,6,-7.157,0,0.0441,0.000117,0.444,0.0887,0.105,169.847,4.68,4
+5twL3BpxBA3ryTnaouiBea,ba.,LINIJA,Lithuania,0.383,0.88,9,-5.309,1,0.0468,1.13e-06,0.676,0.0408,0.192,99.934,4.44,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Lithuania,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Lithuania,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+40SBS57su9xLiE1WqkXOVr,LF SYSTEM,Afraid To Feel,Lithuania,0.578,0.912,1,-3.929,1,0.114,0.0166,0.00362,0.273,0.68,127.87,2.96,4
+3E6vxNXwk85CgHSj0qJ120,OG Version,BILIETAS I ROJU,Lithuania,0.59,0.463,8,-11.848,0,0.286,0.0822,0.00014,0.234,0.451,104.724,1.83,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Lithuania,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+1bgKMxPQU7JIZEhNsM1vFs,"Alesso, Zara Larsson",Words (feat. Zara Larsson),Lithuania,0.739,0.586,10,-5.079,0,0.0472,0.0245,0.000252,0.308,0.444,124.026,2.38,4
+63WuQOXohQIxOxIFA2K7bR,Måneskin,SUPERMODEL,Lithuania,0.636,0.876,7,-3.413,1,0.0555,0.00164,0.0,0.117,0.799,120.983,2.47,4
+1wGPGvj0moDoKMMVwFWFLj,Katarsis,Vasarą galvoj minoras,Lithuania,0.643,0.276,10,-15.511,1,0.0569,0.957,0.456,0.105,0.282,119.974,3.41,4
+74WPxHLm2S2VDiMKkYWYwK,OG Version,I ZINUTE ATSAKYK,Lithuania,0.731,0.593,6,-9.904,1,0.129,0.437,2.87e-06,0.108,0.474,153.012,2.37,4
+5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,Lithuania,0.715,0.47,5,-12.638,0,0.0772,0.353,0.0923,0.104,0.426,89.965,1.86,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Lithuania,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Lithuania,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,4.34,4
+4OmfWzukSVD140NiAIEjem,Steve Lacy,Static,Lithuania,0.335,0.305,1,-12.661,1,0.0741,0.434,0.631,0.101,0.215,79.001,2.61,5
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Lithuania,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+5RBOcBpJXaNnHCGViJmYhh,Mareux,The Perfect Girl,Lithuania,0.485,0.89,8,-5.992,0,0.0911,0.000872,0.818,0.102,0.258,128.881,3.24,4
+7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Lithuania,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,2.52,4
+32lESQLmAaiJjmkdw6N2j2,dj nevykele,dreineris konteineris esi,Lithuania,0.3,0.946,0,-5.511,1,0.558,0.00997,0.0,0.347,0.486,196.807,1.67,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,Lithuania,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Lithuania,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Lithuania,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+1aXV8GrmQLvgoFtBPERP7E,Eyedress,Jealous,Lithuania,0.474,0.921,9,-10.431,0,0.0457,0.00491,0.85,0.476,0.696,93.01,2.04,4
+7wCmS9TTVUcIhRalDYFgPy,Pixies,Where Is My Mind? - Remastered,Lithuania,0.519,0.441,4,-14.178,1,0.0353,0.0204,0.000453,0.076,0.25,81.334,3.92,4
+0wGbyS1tExQSwOYu6UceyE,"ONIMXRU, SMITHMANE",SHADOW,Lithuania,0.721,0.692,7,-2.927,1,0.0414,0.000166,0.275,0.104,0.531,120.005,2.7,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Lithuania,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Lithuania,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Lithuania,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+2JtsIAfAu4PFyjlk17Hg3M,"Jessica Shy, Rokas",Stadionai,Lithuania,0.831,0.786,8,-8.174,1,0.0397,0.0682,1.85e-06,0.344,0.961,121.964,3.25,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Lithuania,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Lithuania,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+3CLSHJv5aUROAN2vfOyCOh,DVRST,Close Eyes,Lithuania,0.784,0.572,0,-9.853,1,0.0573,0.0748,0.843,0.139,0.209,96.181,2.21,4
+2LIVPIuDTXNxV3cjH6bvJq,Kamaniu Silelis,Aš Bijau,Lithuania,0.291,0.325,7,-12.42,1,0.0362,0.706,0.0435,0.214,0.344,199.739,4.18,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Lithuania,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Lithuania,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Lithuania,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Lithuania,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Lithuania,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+4woTEX1wYOTGDqNXuavlRC,"Eminem, Dina Rae",Superman,Lithuania,0.802,0.755,4,-3.138,0,0.0564,0.0215,0.0,0.295,0.58,130.027,5.84,4
+3sNVsP50132BTNlImLx70i,Kanye West,Bound 2,Lithuania,0.367,0.665,1,-2.821,1,0.0465,0.145,0.0,0.113,0.31,148.913,3.82,4
+4iH8j7gh3ylok7ehCgUjHa,Justinas Jarutis,Tavo Tavo,Lithuania,0.669,0.819,10,-5.227,1,0.0307,0.101,0.000229,0.277,0.963,133.988,2.8,4
+4oMyggIzClkOcCTvotFLkP,Ghostface Playa,Why Not,Lithuania,0.725,0.984,9,-1.638,1,0.0351,0.000718,0.895,0.372,0.931,119.983,2.75,4
+2e9GFQn2nNXTbnTl02U7YJ,southstar,We Are The People - Southstar Remix,Lithuania,0.744,0.786,7,-7.851,1,0.0425,0.00547,0.0964,0.0792,0.106,149.993,3.97,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Lithuania,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Lithuania,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+4ZilODwU5mxnpHcZrpmVPx,ba.,ŠOKIS,Lithuania,0.507,0.748,2,-6.873,1,0.0308,2.35e-05,0.828,0.33,0.231,110.994,4.87,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Lithuania,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Lithuania,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Lithuania,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+6nqdgUTiWt4JbABDurkxMI,Hensonn,Sahara,Lithuania,0.615,0.521,2,-9.488,1,0.0318,0.146,0.772,0.11,0.045,115.016,2.86,4
+3pBpX15YF0hdlRz2ddfSh2,"Fred again.., Swedish House Mafia, Future",Turn On The Lights again.. (feat. Future),Lithuania,0.683,0.887,6,-4.944,0,0.0497,0.0125,0.446,0.318,0.551,132.007,4.47,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Lithuania,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+6vECYJHxYmm3Ydt3fF01pE,Milky Chance,Stolen Dance,Lithuania,0.885,0.581,11,-8.813,1,0.0378,0.427,0.000204,0.0759,0.728,114.016,5.23,4
+0DvjNkf7BUG4tJFBz6N15s,Gabrielius Vagelis,Man Trūksta Dienų,Lithuania,0.717,0.539,7,-8.967,1,0.0323,0.175,0.000104,0.12,0.513,122.993,3.07,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Lithuania,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+0KOUMy6U5bozotIRAUzF5A,Donny Montell,Lūpos kaip medus,Lithuania,0.638,0.718,0,-7.076,0,0.0571,0.0994,2.9e-05,0.48,0.682,98.001,3.66,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Lithuania,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+0iUrxveyNUBfj0cqjYEijt,MoonDeity,NEON BLADE,Lithuania,0.548,0.996,7,-2.169,1,0.112,0.0284,0.92,0.595,0.893,94.999,4.42,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Lithuania,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+7EkWXAI1wn8Ii883ecd9xr,Surf Curse,Freaks,Lithuania,0.345,0.941,9,-9.918,1,0.0466,3.84e-05,0.633,0.0511,0.407,179.626,2.45,4
+7LX4aXtvImhdgUHQBlo8Kp,Cigarettes After Sex,K.,Lithuania,0.454,0.404,3,-10.26,1,0.027,0.146,0.819,0.141,0.313,94.113,5.33,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Lithuania,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Lithuania,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+0wHFktze2PHC5jDt3B17DC,Jack Harlow,First Class,Lithuania,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2.9,4
+34lfu3S4fIcKZRNXzbdbo7,Kordhell,Live Another Day,Lithuania,0.822,0.981,9,-1.321,1,0.109,0.000593,0.748,0.0938,0.404,115.005,2.23,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,Lithuania,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+3Z7CaxQkqbIs1rewKi6v4W,"Tiësto, Charli XCX",Hot In It,Lithuania,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,2.16,4
+2HbKqm4o0w5wEeEFXm2sD4,"Kendrick Lamar, Jay Rock",Money Trees,Lithuania,0.716,0.531,7,-7.355,1,0.122,0.0703,0.0,0.224,0.344,71.994,6.45,4
+5TRPicyLGbAF2LGBFbHGvO,"Kanye West, Dwele",Flashing Lights,Lithuania,0.639,0.628,6,-7.578,0,0.0399,0.0381,0.0,0.386,0.43,90.482,3.96,4
+4y8aCoEUWXCHAgKo0cDcNy,Vaidas Baumila,Kunigunda,Lithuania,0.805,0.797,0,-6.978,1,0.0339,0.0277,4.5e-06,0.0623,0.88,129.974,3.0,4
+3T56drS7FjnZgGcOAHlXzx,Kordhell,Murder In My Mind - Sped Up,Lithuania,0.598,0.994,2,-0.89,1,0.404,0.00364,0.0617,0.397,0.151,151.135,1.92,4
+3XstEplljzYDXw3pipKeYE,"jautì, Gabrielė Vilkickytė",Pražys,Lithuania,0.502,0.445,2,-10.254,1,0.0299,0.395,0.0029,0.104,0.341,139.429,4.22,3
+2BH3j05ZXWr5PR30sW079d,Isolate.exe,Crystals,Lithuania,0.692,0.729,11,-10.435,1,0.0554,0.438,0.656,0.0939,0.13,100.015,2.32,4
+7MIhUdNJtaOnDmC5nBC1fb,"Alok, Ella Eyre, Kenny Dope, Never Dull",Deep Down (feat. Never Dull),Lithuania,0.687,0.818,0,-4.221,1,0.0778,0.0112,0.0,0.248,0.886,125.952,2.76,4
+0w7JPlp7eEQI2EKW3ayXrv,Mau P,Drugs From Amsterdam,Lithuania,0.683,0.932,8,-10.402,1,0.0513,0.0389,0.605,0.0615,0.553,125.002,3.93,4
+07BNde3sPpR0FiHli9vNXf,"dj nevykele, mdnght7",rūkymo zona,Lithuania,0.592,0.476,1,-10.624,1,0.319,0.446,0.675,0.214,0.62,137.318,2.18,4
+56yotrAAIBWU2XsPMjl8T9,"OG Version, Calmbees",360 (feat. Calmbees),Lithuania,0.755,0.576,1,-11.141,1,0.281,0.16,0.0234,0.13,0.679,147.926,2.79,4
+11jRCxY01k9jvCdUru0EeP,Arctic Monkeys,Body Paint,Lithuania,0.56,0.313,7,-11.653,0,0.0627,0.567,0.0,0.0767,0.254,144.745,4.84,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Lithuania,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Lithuania,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+30bqVoKjX479ab90a8Pafp,Lil Peep,Star Shopping,Lithuania,0.585,0.471,4,-9.934,0,0.0616,0.0967,0.0184,0.115,0.323,93.099,2.37,4
+52eAieWS7smUTma4islWd9,GJan,Leidžiu Sau Viską,Lithuania,0.746,0.534,11,-6.273,0,0.224,0.0613,0.000229,0.0901,0.577,183.963,2.84,3
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Lithuania,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+1F80MEkZA9yTlpMQp9dhht,"Tinlicker, Helsloot",Because You Move Me,Lithuania,0.789,0.435,2,-9.506,0,0.149,0.691,0.0395,0.107,0.166,122.997,3.27,4
+2vXKRlJBXyOcvZYTdNeckS,"Gesaffelstein, The Weeknd",Lost in the Fire (feat. The Weeknd),Lithuania,0.658,0.671,2,-12.21,1,0.0363,0.0933,0.000927,0.115,0.166,100.966,3.37,4
+2UQAT9sksVGNqjPEiM2rvA,"Daddy Was a Milkman, Giedrė",Viskas Čia Gerumu,Lithuania,0.735,0.568,10,-9.921,0,0.0854,0.554,0.41,0.116,0.249,117.995,3.65,4
+5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,BREAK MY SOUL,Lithuania,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,4.64,4
+0oO1AbL92F6329z13C2qQH,Yeat,Talk,Lithuania,0.698,0.763,4,-4.716,0,0.205,0.0873,0.0,0.647,0.252,139.939,2.91,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Lithuania,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+4qbEaaJ29p32GI8EWQmm6R,mazie,dumb dumb,Lithuania,0.783,0.472,2,-8.392,1,0.0427,0.22,0.000458,0.0798,0.589,122.052,2.09,4
+7oEZ0k2MNxPzghYT1XmE9o,Rimvis,NIDA,Lithuania,0.774,0.367,10,-14.169,0,0.0351,0.647,0.461,0.174,0.816,125.018,3.42,4
+0VO8gYVDSwM1Qdd2GsMoYK,"Swedish House Mafia, The Weeknd",Moth To A Flame (with The Weeknd),Lithuania,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,3.9,4
+11iIikXxC6NP0Ma8vMD27x,Vundabar,Alien Blues,Lithuania,0.467,0.757,3,-5.093,1,0.033,0.0807,0.908,0.0876,0.433,82.282,2.6,4
+5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,Lithuania,0.669,0.742,1,-3.518,0,0.0441,0.296,0.0,0.355,0.716,101.982,3.39,4
+3sa06xVNmLLYIxdNNmVQN8,"Jax Jones, MNEK",Where Did You Go? (feat. MNEK),Lithuania,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,0.502,127.034,2.96,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Lithuania,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+2uNrriUaePhbbmsXT8HQJU,INSTASAMKA,POPSTAR,Lithuania,0.808,0.688,7,-8.964,0,0.0493,0.115,0.0251,0.114,0.377,120.039,2.3,4
+59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),Lithuania,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,3.16,4
+6GomT970rCOkKAyyrwJeZi,"Öwnboss, Sevek",Move Your Body,Lithuania,0.848,0.821,2,-5.408,0,0.0527,0.0169,0.000403,0.0962,0.249,125.051,2.62,4
+5Y6nVaayzitvsD5F7nr3DV,Lana Del Rey,West Coast,Lithuania,0.527,0.591,6,-7.664,0,0.0396,0.194,0.0194,0.0907,0.461,123.167,4.28,4
+7zwn1eykZtZ5LODrf7c0tS,The Neighbourhood,You Get Me So High,Lithuania,0.551,0.881,7,-6.099,0,0.0542,0.186,0.0791,0.152,0.387,88.036,2.55,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Lithuania,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+2kx5sQgmjYug0GiDh1a4sU,"Cheriimoya, Sierra Kidd","Living Life, In The Night",Lithuania,0.624,0.499,0,-9.962,0,0.0495,0.82,0.0,0.12,0.298,143.249,2.04,4
+2Y0iGXY6m6immVb2ktbseM,MGMT,Little Dark Age,Lithuania,0.705,0.712,6,-6.156,1,0.0385,0.0102,0.000855,0.1,0.62,97.512,5.0,4
+3XxelZxcOZFY4xcXr7ZYvq,Jessica Shy,Viskas Ką Turiu,Lithuania,0.786,0.476,0,-8.944,1,0.0339,0.569,0.0,0.32,0.878,125.029,2.89,4
+6dBUzqjtbnIa1TwYbyw5CM,TV Girl,Lovers Rock,Lithuania,0.559,0.871,5,-5.338,0,0.0397,7.53e-06,0.00545,0.096,0.572,104.97,3.57,4
+6QeYSvYqYUsfBzsApbjDHO,TV Girl,Cigarettes out the Window,Lithuania,0.625,0.659,0,-5.669,1,0.0337,0.12,0.0,0.17,0.594,113.551,3.32,4
+5FX30idriKlEIRYTxpNf65,KUTE,AVOID ME,Lithuania,0.656,0.964,6,-2.087,0,0.0964,0.123,0.813,0.78,0.965,114.007,1.76,4
+5K9tfeoiztw94dyWzF39jq,Vierre Cloud,moment,Lithuania,0.544,0.855,6,-7.461,1,0.093,0.0426,0.157,0.167,0.517,171.349,2.16,4
+2pSDaZu88LIVt9aCBpgY7e,Gabrielius Vagelis,Vieni Du,Lithuania,0.858,0.617,9,-8.186,0,0.1,0.101,0.0016,0.108,0.568,120.023,3.15,4
+5nujrmhLynf4yMoMtj8AQF,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),Lithuania,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,3.38,4
+4UsLaffcP013Gy8SSSTAsq,Kinneret,No Wind Resistance SPED UP!,Lithuania,0.728,0.559,4,-11.18,0,0.046,0.246,0.298,0.293,0.489,110.423,2.76,5
+0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Lithuania,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,0.691,116.731,5.01,4
+73YwAp1830h6nrJeXyuDtS,OG Version,JAUCIUOSI LAISVAI,Lithuania,0.624,0.512,3,-11.539,0,0.651,0.304,2.03e-06,0.158,0.383,195.809,2.82,4
+6WtxgI42kF4WbsVinpqNis,Justinas Jarutis,"Ten, kur noriu",Lithuania,0.694,0.793,9,-5.644,1,0.0263,0.0153,0.000352,0.215,0.678,107.021,3.23,4
+7H0ya83CMmgFcOhw0UB6ow,Beach House,Space Song,Lithuania,0.508,0.792,0,-7.311,0,0.0297,0.229,0.124,0.145,0.601,147.067,5.34,4
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,Lithuania,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+3Wrjm47oTz2sjIgck11l5e,Måneskin,Beggin',Lithuania,0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,0.589,134.002,3.53,4
+7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,Lithuania,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,3.4,4
+6MlIIJwO4FxnOlrpOrS4hU,INTERWORLD,METAMORPHOSIS - Sped Up,Lithuania,0.679,0.69,11,-10.582,0,0.0732,0.472,0.904,0.181,0.136,112.478,1.85,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Lithuania,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Lithuania,0.575,0.648,10,-4.891,1,0.0358,0.583,0.0,0.115,0.466,75.977,2.67,4
+69UqtTHfUKAJweQwEStRzC,Cigarettes After Sex,Sunsetz,Lithuania,0.412,0.477,9,-9.381,0,0.029,0.0542,0.798,0.0975,0.141,75.302,3.58,4
+0V5cvmTKsYmF5FmGGEAfmS,Patrick Watson,Je te laisserai des mots,Lithuania,0.303,0.187,2,-16.757,1,0.0356,0.989,0.489,0.101,0.213,132.731,2.68,4
+3aP5m41DWm1ozhD19SxHwQ,QV Trap,Panama Ibiza,Lithuania,0.883,0.572,4,-11.431,0,0.174,0.052,0.0954,0.0548,0.706,130.008,3.12,4
+3UmaczJpikHgJFyBTAJVoz,"Eminem, Dido",Stan,Lithuania,0.78,0.768,6,-4.325,0,0.238,0.0371,2.34e-06,0.518,0.507,80.063,6.74,4
+1WCEAGGRD066z2Q89ObXTq,"David Guetta, Becky Hill, Ella Henderson",Crazy What Love Can Do,Lithuania,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,2.83,4
+7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,Lithuania,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,4.04,4
+31tf1qEai5o5f4r66Kd0pU,Childish Gambino,Me and Your Mama,Lithuania,0.554,0.433,5,-12.628,1,0.0341,0.0116,0.0449,0.0667,0.237,117.996,6.32,3
+0SCewo5K6t75DKRwrQrMVK,"jautì, Justinas Jarutis",Grįšiu,Lithuania,0.58,0.837,6,-7.347,0,0.0754,0.00377,0.0,0.091,0.808,174.983,2.57,4
+1oWx8NYL1lvLMBlHTEOTqz,"Jovani, Justinas Jarutis",Wildest Dreams,Lithuania,0.73,0.618,6,-7.288,1,0.038,0.148,0.0,0.163,0.748,99.991,3.29,4
+3GZD6HmiNUhxXYf8Gch723,Frank Ocean,Lost,Lithuania,0.913,0.603,8,-4.892,1,0.226,0.0272,0.000503,0.167,0.497,123.061,3.9,4
+7J5J0RjBq1rz9vV2iBqDqd,"Zoliukas, Saules Berniukas",Rojaus Obuoliukai,Lithuania,0.785,0.318,9,-11.776,0,0.118,0.792,2.52e-05,0.0781,0.535,141.899,3.52,4
+0HYAsQwJIO6FLqpyTeD3l6,Fujii Kaze,Shinunoga E-Wa,Lithuania,0.6,0.76,6,-6.123,0,0.0451,0.167,4.07e-05,0.189,0.519,158.075,3.09,4
+1RF02Cf80mTaeNXG2P2boR,"Nathan Dawe, Ella Henderson",21 Reasons (feat. Ella Henderson),Lithuania,0.621,0.785,6,-4.499,1,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,2.59,4

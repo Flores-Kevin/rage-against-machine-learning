@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Malaysia,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,Malaysia,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Malaysia,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Malaysia,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+1b0aDgrG775i4sPQgJGmkU,Keisya Levronka,Tak Ingin Usai,Malaysia,0.49,0.398,0,-7.712,1,0.0266,0.815,0.000187,0.114,0.136,129.772,4.64,3
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Malaysia,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+3w75Uvn1cojNlBhQoxpVP3,Fabio Asher,Rumah Singgah,Malaysia,0.466,0.228,8,-10.666,1,0.0305,0.717,0.0,0.107,0.366,77.982,4.11,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Malaysia,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+0HYAsQwJIO6FLqpyTeD3l6,Fujii Kaze,Shinunoga E-Wa,Malaysia,0.6,0.76,6,-6.123,0,0.0451,0.167,4.07e-05,0.189,0.519,158.075,3.09,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Malaysia,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Malaysia,0.881,0.592,2,-4.898,1,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,2.57,4
+3W4U7TEgILGpq0EmquurtH,"yuji, putri dahlia",Old Love,Malaysia,0.478,0.367,11,-10.513,1,0.0283,0.716,0.0,0.124,0.359,141.95,4.16,3
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Malaysia,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Malaysia,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Malaysia,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+0L8LOav65XwLjCLS11gNPD,BLACKPINK,Typa Girl,Malaysia,0.915,0.621,7,-6.519,1,0.1,0.0745,0.0,0.628,0.527,131.984,2.99,4
+2m6Ko3CY1qXNNja8AlugNc,Troye Sivan,Angel Baby,Malaysia,0.559,0.559,11,-6.425,1,0.0358,0.0145,0.0,0.138,0.338,72.498,3.68,4
+1gH1h30wkQdd9zhY3j7a8T,Rex Orange County,THE SHADE,Malaysia,0.898,0.509,5,-7.973,1,0.062,0.391,0.0,0.0876,0.727,119.869,3.03,4
+2gYj9lubBorOPIVWsTXugG,IVE,After LIKE,Malaysia,0.68,0.922,0,-1.215,1,0.121,0.103,0.0,0.0877,0.799,125.014,2.95,4
+6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,Malaysia,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2.55,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Malaysia,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+0a4MMyCrzT0En247IhqZbD,NewJeans,Hype Boy,Malaysia,0.593,0.935,4,-3.43,0,0.225,0.268,0.0,0.286,0.783,99.976,2.98,4
+2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Malaysia,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,0.454,116.959,3.9,3
+6gNG7O2IlMYUXAcCDwQrPT,Fabio Asher,Bertahan Terluka,Malaysia,0.325,0.345,5,-9.536,1,0.0311,0.495,0.0,0.0726,0.135,77.835,4.01,4
+3MJhPqL2IgGs7gHEB2M35q,BLACKPINK,Hard to Love,Malaysia,0.654,0.768,5,-5.007,1,0.0431,0.00616,0.0,0.202,0.505,104.97,2.71,4
+5nsfVwWz1M1sug2ILCVygq,"Joe Flizzow, SonaOne",Satu Malam Di Temasek,Malaysia,0.479,0.737,0,-4.756,1,0.287,0.1,0.0,0.303,0.713,82.501,3.62,4
+1jIMjbzcGCcCQn5iMu9CUc,Charlie Puth,That's Hilarious,Malaysia,0.714,0.442,6,-5.909,1,0.0605,0.742,0.0,0.114,0.546,108.039,2.45,4
+1zxfRSZcaonV1VXcY0PgY5,NIKI,High School in Jakarta,Malaysia,0.873,0.488,7,-8.285,0,0.0413,0.531,0.000132,0.153,0.462,119.983,3.65,4
+0QzuaeCEEOV40Pn7IvKEny,dhruv,double take,Malaysia,0.656,0.436,8,-11.141,1,0.0744,0.845,0.0,0.221,0.196,109.239,2.86,4
+7AdGloF1UHKe1vAZPbqIXH,BLACKPINK,The Happiest Girl,Malaysia,0.382,0.37,0,-8.475,1,0.0785,0.605,0.0,0.102,0.556,181.459,3.7,3
+67C6LHREqmytK923Ak6R0I,Insomniacks,Sempurna,Malaysia,0.317,0.38,9,-10.414,1,0.0319,0.467,2.7e-05,0.091,0.191,135.563,4.2,3
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Malaysia,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+0bYVPJvXr8ACmw313cVvhB,BLACKPINK,Tally,Malaysia,0.688,0.637,2,-4.85,1,0.031,0.00777,0.0,0.13,0.427,129.902,3.07,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Malaysia,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+6pmo9ha8iOPZc5lxPU9o8w,Mahalini,Sisa Rasa,Malaysia,0.488,0.405,8,-6.324,0,0.0302,0.503,6.86e-06,0.108,0.152,122.049,4.25,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Malaysia,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+3OM6qQmdFV6uy61GIqpRtf,Rex Orange County,AMAZING,Malaysia,0.719,0.461,8,-8.191,1,0.0454,0.279,0.0,0.0875,0.548,123.915,3.49,4
+3sqrvkNC6IPTIXvvbx9Arw,Taylor Swift,Enchanted,Malaysia,0.535,0.618,8,-3.913,1,0.0273,0.0716,0.000388,0.169,0.228,81.975,5.87,4
+2pIUpMhHL6L9Z5lnKxJJr9,NewJeans,Attention,Malaysia,0.811,0.648,10,-3.684,0,0.0368,0.236,0.0,0.0761,0.695,104.988,3.0,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Malaysia,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Malaysia,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Malaysia,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+4xqrdfXkTW4T0RauPLv3WA,Conan Gray,Heather,Malaysia,0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,3.3,3
+5O2P9iiztwhomNh8xkR9lJ,One Direction,Night Changes,Malaysia,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,3.78,4
+5y4WmuvFX1t3NdSId0MFOh,BLACKPINK,Yeah Yeah Yeah,Malaysia,0.729,0.588,1,-6.654,0,0.0359,0.00574,2.91e-06,0.0614,0.639,124.019,2.98,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Malaysia,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+0kqTXMHiQiB7IECD0WwcPq,TWICE,Talk that Talk,Malaysia,0.774,0.905,3,-2.432,0,0.122,0.143,0.0,0.332,0.768,119.964,2.96,4
+5CZ40GBx1sQ9agT82CLQCT,Olivia Rodrigo,traitor,Malaysia,0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,3.82,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Malaysia,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Malaysia,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+0Q5VnK2DYzRyfqQRJuUtvi,IVE,LOVE DIVE,Malaysia,0.703,0.709,1,-4.169,0,0.0433,0.00379,5.43e-05,0.333,0.538,117.941,2.95,4
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Malaysia,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Malaysia,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+1Wwh6gmMeolwzbRzfZMY5b,BLACKPINK,Ready For Love,Malaysia,0.676,0.702,6,-5.446,1,0.118,0.0143,0.0,0.103,0.542,107.931,3.08,4
+5ajjAnNRh8bxFvaVHzpPjh,Madison Beer,Reckless,Malaysia,0.386,0.426,3,-6.642,1,0.0363,0.807,0.0,0.14,0.261,180.104,3.39,3
+4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Malaysia,0.575,0.648,10,-4.891,1,0.0358,0.583,0.0,0.115,0.466,75.977,2.67,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Malaysia,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Malaysia,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,4.98,3
+2tGvwE8GcFKwNdAXMnlbfl,Olivia Rodrigo,happier,Malaysia,0.395,0.443,6,-9.72,1,0.133,0.765,9.67e-06,0.0839,0.338,168.924,2.93,3
+5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Malaysia,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4.03,4
+7gvhpn0qGA0r3GDqrPnmhD,"Nuha Bahrin, Naufal Azrin",CASABLANCA,Malaysia,0.711,0.746,5,-5.224,0,0.0279,0.452,0.0,0.251,0.609,110.018,3.0,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Malaysia,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+2aTKrdenCq5qBOoJPFdn4P,Jamie Miller,Here's Your Perfect,Malaysia,0.558,0.454,6,-5.335,1,0.0551,0.499,0.0,0.146,0.424,113.12,2.64,4
+6C734SmqoIYuRWo2qSCnpC,NMIXX,DICE,Malaysia,0.556,0.798,7,-3.331,1,0.254,0.0848,0.0,0.33,0.628,131.096,2.76,4
+3afkJSKX0EAMsJXTZnDXXJ,Troye Sivan,Strawberries & Cigarettes,Malaysia,0.578,0.537,9,-8.676,1,0.0832,0.162,0.0,0.076,0.25,83.909,3.36,4
+2GThBgzZoZfz0lx1JjBwfe,New West,Those Eyes,Malaysia,0.597,0.351,4,-8.043,1,0.0281,0.727,3.86e-05,0.319,0.243,119.948,3.68,3
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Malaysia,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Malaysia,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Malaysia,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+5fDCy4Hse30ZsjaTUGKVh5,"Lyodra, Andi Rianto",Sang Dewi,Malaysia,0.339,0.58,6,-5.426,1,0.0319,0.554,2.15e-05,0.421,0.319,81.857,4.13,4
+5b0NpyYAwW2dUGL08ir7Bg,Rizky Febian,Hingga Tua Bersama,Malaysia,0.579,0.459,10,-8.741,1,0.0269,0.796,5.28e-06,0.123,0.375,123.956,4.52,4
+1u8c2t2Cy7UBoG4ArRcF5g,Taylor Swift,Blank Space,Malaysia,0.76,0.703,5,-5.412,1,0.054,0.103,0.0,0.0913,0.57,95.997,3.86,4
+2hHeGD57S0BcopfVcmehdl,Tulus,Hati-Hati di Jalan,Malaysia,0.643,0.436,6,-11.322,1,0.0357,0.702,0.0889,0.115,0.755,71.969,4.03,4
+3AVXwaOGCEL8cmBecfcsFJ,Charlie Puth,Light Switch,Malaysia,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,0.912,184.009,3.09,4
+7As3vd7OvJwyGUsZfNtHce,Judika,Bagaimana Kalau Aku Tidak Baik Baik Saja,Malaysia,0.304,0.465,2,-4.765,1,0.0319,0.791,0.0,0.123,0.304,130.02,3.87,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Malaysia,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Malaysia,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+3FAJ6O0NOHQV8Mc5Ri6ENp,Giveon,Heartbreak Anniversary,Malaysia,0.449,0.465,0,-8.964,1,0.0791,0.524,1.02e-06,0.303,0.543,89.087,3.31,3
+68HocO7fx9z0MgDU0ZPHro,NIKI,Every Summertime,Malaysia,0.628,0.676,6,-4.227,1,0.0424,0.393,6.94e-05,0.0978,0.723,78.996,3.59,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Malaysia,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+0ll8uFnc0nANY35E0Lfxvg,Keane,Somewhere Only We Know,Malaysia,0.453,0.655,9,-4.22,1,0.0259,0.0794,7.61e-06,0.0849,0.368,172.012,3.94,4
+3S8R8pcjHOBxweeZVovgvQ,D’MASIV,Cinta Ini Membunuhku,Malaysia,0.449,0.499,0,-4.735,1,0.0262,0.0109,0.0,0.377,0.328,145.881,4.03,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,Malaysia,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+2MJz8BxxMsERULatmBikDH,Pink Sweat$,At My Worst,Malaysia,0.813,0.415,0,-5.926,1,0.0349,0.777,0.0,0.131,0.667,91.921,2.84,4
+4HBZA5flZLE435QTztThqH,"Ariana Grande, Justin Bieber",Stuck with U (with Justin Bieber),Malaysia,0.597,0.45,8,-6.658,1,0.0418,0.223,0.0,0.382,0.537,178.765,3.81,3
+5h51lTy1jYDDkYLALQrzX9,Pamungkas,Risalah Hati,Malaysia,0.509,0.465,10,-10.112,1,0.0283,0.737,0.000233,0.136,0.324,73.991,5.03,4
+6HU7h9RYOaPRFeh0R3UeAr,Olivia Rodrigo,deja vu,Malaysia,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,3.59,4
+3rsZY9djzo1egB9OBJLuQ1,JVKE,this is what falling in love feels like,Malaysia,0.424,0.438,11,-5.53,1,0.0553,0.617,0.0,0.0837,0.325,128.983,2.01,5
+46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Malaysia,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,3.74,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Malaysia,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+62ke5zFUJN6RvtXZgVH0F8,Paloma Faith,Only Love Can Hurt Like This,Malaysia,0.566,0.885,8,-4.528,1,0.0818,0.0958,9.97e-05,0.334,0.304,90.99,3.88,4
+5SMCxRA6hB2jEhroaYfw6N,"MAX, keshi",IT'S YOU (feat. keshi),Malaysia,0.697,0.368,2,-9.708,1,0.056,0.835,0.00016,0.135,0.451,90.011,2.89,4
+161DnLWsx1i3u1JT05lzqU,Bruno Mars,Talking to the Moon,Malaysia,0.498,0.59,1,-4.721,0,0.032,0.511,0.0,0.107,0.0784,145.867,3.63,4
+0mL82sxCRjrs3br407IdJh,The Weeknd,Is There Someone Else?,Malaysia,0.702,0.586,9,-7.83,0,0.0313,0.0388,7.27e-05,0.156,0.608,134.951,3.32,4
+296nXCOv97WJNRWzIBQnoj,LE SSERAFIM,FEARLESS,Malaysia,0.863,0.62,7,-7.167,1,0.135,0.0508,0.00324,0.129,0.432,103.971,2.81,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Malaysia,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4
+1ei3hzQmrgealgRKFxIcWn,Benson Boone,In The Stars,Malaysia,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,0.3,78.007,3.61,3
+2UgCs0i0rNHUH2jKE5NZHE,Andra & The Backbone,Sempurna,Malaysia,0.358,0.32,4,-9.946,1,0.0308,0.726,0.0,0.105,0.384,115.499,4.47,3
+0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),Malaysia,0.762,0.861,0,-3.296,1,0.0955,0.0185,0.0,0.264,0.955,120.048,2.88,4
+5mdWIwsJAzR97ShGkt8gcR,"ZICO, HOMIES",New thing (Prod. ZICO) (Feat. Homies),Malaysia,0.775,0.865,1,-2.015,1,0.307,0.0453,0.0,0.261,0.663,175.12,2.46,4
+5rJ7bdPmr8nfmm2JQ8xHOz,NAYEON,POP!,Malaysia,0.793,0.859,2,-2.998,1,0.0544,0.0356,0.0,0.0343,0.392,97.001,2.8,4
+5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Malaysia,0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,3.52,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Malaysia,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+1XGmzt0PVuFgQYYnV2It7A,"Maroon 5, Wiz Khalifa",Payphone,Malaysia,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,3.85,4
+0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Malaysia,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,4.39,3
+1oFAF1hdPOickyHgbuRjyX,"The Weeknd, Ariana Grande",Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,Malaysia,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,3.18,4
+5aucVLKiumD89mxVCB4zvS,"Crush, j-hope",Rush Hour (Feat. j-hope of BTS),Malaysia,0.738,0.714,0,-5.235,1,0.249,0.157,0.0,0.31,0.74,95.035,2.96,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Malaysia,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+6TBJkXHPhu3EsMk1bshwuI,LeeHi,ONLY,Malaysia,0.536,0.296,5,-7.451,1,0.0346,0.892,0.0,0.0873,0.151,122.907,4.02,3
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Malaysia,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+4qgMPzf9QOETWQFUcFkHD4,RealestK,Love Me,Malaysia,0.569,0.325,7,-9.66,0,0.0376,0.67,0.0,0.141,0.274,122.051,3.46,3
+0rKtyWc8bvkriBthvHKY8d,Joji,SLOW DANCING IN THE DARK,Malaysia,0.515,0.479,3,-7.458,1,0.0261,0.544,0.00598,0.191,0.284,88.964,3.49,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Malaysia,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+5IG9aVkQS3P17TUBlkpRde,Hujan,Aku Skandal,Malaysia,0.328,0.933,7,-5.392,1,0.122,0.14,0.00184,0.359,0.685,165.036,4.16,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Malaysia,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+0X2bh8NVQ8svDQIn2AdCbW,"Chase Atlantic, GOON DES GARCONS*",Consume (feat. Goon Des Garcons),Malaysia,0.556,0.714,9,-5.322,0,0.158,0.07,0.0,0.261,0.434,146.113,4.47,4
+56Uibq6ur2xwUpSd9biBH1,Stevan Pasaribu,Belum Siap Kehilangan,Malaysia,0.476,0.563,9,-5.528,1,0.0285,0.657,0.0,0.0861,0.201,143.909,4.81,4
+4qu63nuBpdn0qHUHuObEj1,"Marshmello, Jonas Brothers",Leave Before You Love Me (with Jonas Brothers),Malaysia,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,2.58,4
+3Eb5sztvEMa0Mqnb8DUAlU,IV Of Spades,Come Inside Of My Heart,Malaysia,0.676,0.565,10,-9.411,1,0.03,0.00321,0.000579,0.241,0.689,113.007,4.11,4
+1oen3GpTcA486fTHaT7neg,Girls' Generation,FOREVER 1,Malaysia,0.615,0.871,9,-1.248,1,0.0516,0.0427,0.0,0.254,0.297,123.915,3.38,4
+2gMXnyrvIjhVBUZwvLZDMP,Lewis Capaldi,Before You Go,Malaysia,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,3.59,4
+1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,Malaysia,0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,3.35,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Malaysia,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+6Hii26x3qDErVitnGW8QtO,"Feby Putri, Fiersa Besari",Runtuh,Malaysia,0.593,0.287,3,-13.164,1,0.0289,0.876,0.000136,0.119,0.191,127.783,3.73,4
+2P91MQbaiQOfbiz9VqhqKQ,Lauv,I Like Me Better,Malaysia,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,3.29,4
+3TFdXrYIubXABQh0CxIiSs,Soegi Bornean,Asmalibrasi,Malaysia,0.721,0.565,4,-6.208,1,0.0292,0.855,5.48e-06,0.0973,0.794,139.941,4.25,4
+5TtmfZaNSYEcTR49cureT0,SAMSONS,Kenangan Terindah,Malaysia,0.607,0.469,3,-6.49,1,0.0337,0.317,4.48e-05,0.0488,0.331,120.014,4.12,4
+6cmTEMMw7Xz13wJAmermKv,6ixth Sense,Yang Sempurnakanku,Malaysia,0.572,0.758,0,-3.581,0,0.0349,0.151,1.02e-06,0.364,0.768,114.951,2.45,4
+2DwUdMJ5uxv20EhAildreg,NewJeans,Cookie,Malaysia,0.847,0.638,0,-3.764,1,0.0575,0.0596,0.0,0.0894,0.661,156.935,3.93,4
+0zRezEuKtaAXHcB4eruwi2,Charlie Puth,I Don’t Think That I Like Her,Malaysia,0.587,0.548,8,-5.846,0,0.0339,0.396,0.0,0.109,0.713,186.073,3.14,4
+0dcnrLo8s1rhjm8euGjI4n,TREASURE,DARARI,Malaysia,0.716,0.638,0,-6.87,1,0.0392,0.486,0.0,0.0702,0.552,84.955,3.68,4
+7BqBn9nzAq8spo5e7cZ0dJ,Bruno Mars,Just the Way You Are,Malaysia,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,3.68,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Malaysia,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+6fxVffaTuwjgEk5h9QyRjy,Ed Sheeran,Photograph,Malaysia,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,4.32,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Malaysia,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+50kpGaPAhYJ3sGmk6vplg0,Justin Bieber,Love Yourself,Malaysia,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,3.9,4
+6I2tqFhk8tq69iursYxuxd,SEVENTEEN,HOT,Malaysia,0.765,0.777,5,-4.376,0,0.0399,0.0539,2.58e-06,0.338,0.64,111.944,3.29,4
+0ClPIeT6MSgfSgQ9ZrJbAq,Charlie Puth,Cheating on You,Malaysia,0.749,0.535,4,-6.785,1,0.0336,0.0131,3.65e-05,0.0982,0.601,123.042,3.28,4
+7hU3IHwjX150XLoTVmjD0q,LISA,MONEY,Malaysia,0.831,0.554,1,-9.998,0,0.218,0.161,6.12e-05,0.152,0.396,140.026,2.8,4
+7ArVzlFsFsQXNseVXmdOyk,Denise Julia,NVMD,Malaysia,0.758,0.674,6,-4.533,1,0.108,0.0903,0.0,0.0902,0.424,97.977,3.02,4
+02VBYrHfVwfEWXk5DXyf0T,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,Malaysia,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03,4
+6gB7kLGZNkf5tkvWkzSGKR,Mahalini,Kisah Sempurna,Malaysia,0.537,0.486,11,-8.521,1,0.0336,0.51,1.65e-05,0.0817,0.0861,122.099,4.6,4
+1DVHCvTwuwtZrpYDV4irH5,Insomniacks,Pulang,Malaysia,0.406,0.596,8,-8.588,1,0.0369,0.0636,6.35e-06,0.0858,0.31,161.84,4.79,3
+32BeYxKPrig1LefHsC0Xuo,Billie Eilish,Happier Than Ever - Edit,Malaysia,0.334,0.599,0,-5.742,1,0.0365,0.0468,0.000392,0.205,0.127,161.74,2.52,3
+4cktbXiXOapiLBMprHFErI,Maroon 5,Memories,Malaysia,0.775,0.327,11,-7.241,1,0.0557,0.841,0.0,0.0821,0.595,91.05,3.16,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Malaysia,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+0Ryd8975WihbObpp5cPW1t,"Ariana Grande, Social House",boyfriend (with Social House),Malaysia,0.4,0.795,10,-3.731,0,0.461,0.119,0.0,0.159,0.702,190.097,3.1,4
+0hlZ8daapg8QHpHsDyaqbg,Hyper Act,Hanya Aku,Malaysia,0.451,0.509,0,-7.234,1,0.0292,0.745,0.0,0.131,0.171,157.978,3.34,4
+5TTXEcfsYLh6fTarLaevTi,NIKI,lowkey,Malaysia,0.752,0.494,0,-8.18,1,0.0559,0.432,0.0,0.0869,0.227,117.901,2.86,4
+0B7wvvmu9EISAwZnOpjhNI,Bruno Mars,When I Was Your Man,Malaysia,0.601,0.271,0,-8.688,1,0.0403,0.937,0.0,0.144,0.411,145.494,3.56,4
+1CAksvEO6oRHd9bBKWAfuY,Ariana Grande,One Last Time,Malaysia,0.631,0.601,8,-4.98,1,0.032,0.0953,2.86e-06,0.0999,0.104,125.014,3.29,4
+3QGsuHI8jO1Rx4JWLUh9jd,Shawn Mendes,Treat You Better,Malaysia,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,3.13,4
+46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Malaysia,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,0.47,105.006,3.77,4
+2BgEsaKNfHUdlh97KmvFyo,Anne-Marie,2002,Malaysia,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,3.12,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Malaysia,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+1dGr1c8CrMLDpV6mPbImSI,Taylor Swift,Lover,Malaysia,0.359,0.543,7,-7.582,1,0.0919,0.492,1.58e-05,0.118,0.453,68.534,3.69,4
+45bE4HXI0AwGZXfZtMp8JR,Tate McRae,you broke me first,Malaysia,0.667,0.373,4,-9.389,1,0.05,0.785,0.0,0.0906,0.0823,124.148,2.82,4
+35mvY5S1H3J2QZyna3TFe0,Ariana Grande,positions,Malaysia,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,2.87,4
+6FZDfxM3a3UCqtzo5pxSLZ,Halsey,Without Me,Malaysia,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,3.36,4
+3hUxzQpSfdDqwM3ZTFQY0K,Taylor Swift,august,Malaysia,0.532,0.623,5,-9.208,1,0.0331,0.538,7.28e-05,0.0925,0.403,89.937,4.37,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Malaysia,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+4HFP0A7i6NIOscKVdilus2,Aizat Amdan,Hanya Kau Yang Mampu,Malaysia,0.392,0.7,1,-4.549,0,0.0328,0.31,0.0,0.247,0.392,84.045,4.22,4
+4zRZAmBQP8vhNPf9i9opXt,Why Don't We,8 Letters,Malaysia,0.607,0.478,1,-5.702,0,0.031,0.649,0.0,0.0928,0.255,88.979,3.17,4
+5F1ZmucV0uJY14y2dYKePa,Joji,Sanctuary,Malaysia,0.552,0.638,1,-7.474,1,0.11,0.387,0.00014,0.374,0.332,167.834,3.0,4
+1ZMiCix7XSAbfAJlEZWMCp,Harry Styles,Falling,Malaysia,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,4.0,4
+68EMU2RD1ECNeOeJ5qAXCV,"Charlie Puth, Selena Gomez",We Don't Talk Anymore (feat. Selena Gomez),Malaysia,0.728,0.563,1,-8.053,0,0.134,0.621,0.0,0.179,0.352,100.017,3.63,4
+4iJyoBOLtHqaGxP12qzhQI,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),Malaysia,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,3.3,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Malaysia,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+1ex8euBuzVyqjThnYfwY2k,TREASURE,HELLO,Malaysia,0.653,0.575,2,-5.432,1,0.0571,0.0315,0.0,0.0764,0.528,135.015,3.02,4
+69UqtTHfUKAJweQwEStRzC,Cigarettes After Sex,Sunsetz,Malaysia,0.412,0.477,9,-9.381,0,0.029,0.0542,0.798,0.0975,0.141,75.302,3.58,4
+6MpCaSIOfqBqbMED4kXgNY,Beach Bunny,Prom Queen,Malaysia,0.528,0.797,4,-7.487,1,0.0485,0.000391,0.011,0.14,0.751,143.785,2.28,4
+1TQXIltqoZ5XXyfCbAeSQQ,Sasha Alex Sloan,Dancing With Your Ghost,Malaysia,0.629,0.328,11,-8.284,1,0.029,0.768,2.5e-05,0.103,0.389,74.953,3.3,4
+4EWBhKf1fOFnyMtUzACXEc,Rex Orange County,Pluto Projector,Malaysia,0.379,0.219,5,-11.196,1,0.0307,0.707,0.000691,0.118,0.188,79.786,4.46,4
+0FOBJ5PbwOe5XBY9y0bnhi,"B.I, Soulja Boy, DeVita",BTBT,Malaysia,0.763,0.663,9,-6.928,0,0.183,0.321,0.0,0.115,0.496,109.979,3.66,4
+3M0lSi5WW79CXQamgSBIjx,Chase Atlantic,Swim,Malaysia,0.666,0.542,8,-6.429,1,0.0392,0.27,0.0,0.0765,0.0771,120.134,3.81,4
+6lanRgr6wXibZr8KgzXxBl,Christina Perri,A Thousand Years,Malaysia,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,4.75,3
+3Ysf0Y3iu23mrDsVh1mdu0,Tiara Andini,Merasa Indah,Malaysia,0.386,0.416,4,-10.543,1,0.0306,0.766,1.07e-05,0.119,0.345,122.536,3.67,4
+26wRwKHHcYQXxF1KMWaYeC,Noah,Bintang di Surga,Malaysia,0.428,0.763,7,-7.841,1,0.0409,0.0216,0.00122,0.093,0.264,149.951,5.02,4
+5ZuqV8q0TgfCGluxgPEkNT,NIKI,Oceans & Engines,Malaysia,0.373,0.315,1,-8.908,1,0.0341,0.622,9.38e-06,0.0903,0.0647,94.573,5.6,4
+5DqdesEfbRyOlSS3Tf6c29,Ali Gatie,It's You,Malaysia,0.732,0.463,11,-6.972,0,0.0287,0.374,0.0,0.194,0.397,95.971,3.54,4
+7JJmb5XwzOO8jgpou264Ml,Shawn Mendes,There's Nothing Holdin' Me Back,Malaysia,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,3.32,4
+1ZPVEo8RfmrEz8YAD5n6rW,Juicy Luicy,Lantas,Malaysia,0.588,0.311,8,-8.143,1,0.025,0.791,0.0,0.352,0.545,86.022,3.9,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Malaysia,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+5qrSlOut2rNAWv3ubArkNy,Dean Lewis,Be Alright,Malaysia,0.551,0.537,11,-7.595,1,0.034,0.705,0.0,0.0802,0.493,126.421,3.27,4
+6hkOqJ5mE093AQf2lbZnsG,Katy Perry,The One That Got Away,Malaysia,0.691,0.795,1,-4.021,0,0.0355,0.000812,1.02e-06,0.156,0.876,133.971,3.79,4
+4Yxc55NX3tAXC2mHRAhtcW,"Olivia Rodrigo, Disney","All I Want - From ""High School Musical: The Musical: The Series""",Malaysia,0.376,0.43,0,-6.585,0,0.0328,0.0902,0.0,0.0912,0.129,77.599,2.96,3
+0Qr61NXlyAeQaADO5xn3rI,Cigarettes After Sex,Cry,Malaysia,0.409,0.399,7,-10.456,1,0.0275,0.763,0.654,0.112,0.161,142.823,4.28,4
+7LX4aXtvImhdgUHQBlo8Kp,Cigarettes After Sex,K.,Malaysia,0.454,0.404,3,-10.26,1,0.027,0.146,0.819,0.141,0.313,94.113,5.33,4
+4SFknyjLcyTLJFPKD2m96o,BLACKPINK,How You Like That,Malaysia,0.812,0.761,11,-5.222,1,0.0812,0.0465,0.000135,0.0601,0.344,130.032,3.05,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Malaysia,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+6jjYDGxVJsWS0a5wlVF5vS,BTS,Butter,Malaysia,0.759,0.459,8,-5.187,1,0.0948,0.00323,0.0,0.0788,0.695,109.997,2.75,4
+7Kkafe9iuvskCpd6mlUqwD,Afgan,Jodoh Pasti Bertemu,Malaysia,0.474,0.573,2,-5.454,1,0.0258,0.489,2.09e-06,0.137,0.146,67.974,4.11,4
+2SLwbpExuoBDZBpjfefCtV,The Weeknd,Out of Time,Malaysia,0.65,0.76,0,-4.422,0,0.0446,0.255,0.0,0.339,0.838,93.057,3.57,4
+1xdp8tXLTGbPeUSEODP9N7,Amigdala,Kukira Kau Rumah,Malaysia,0.643,0.275,0,-15.462,1,0.0315,0.939,0.454,0.115,0.603,90.022,3.45,4
+72OVnXDzugvrCU25lMi9au,WeiBird,"如果可以 - 電影""月老""主題曲",Malaysia,0.54,0.54,3,-6.368,1,0.029,0.241,0.0,0.351,0.372,74.969,4.57,4
+28MATCYDctW5EiBa2repxb,Ado,New Genesis,Malaysia,0.49,0.987,7,-2.279,1,0.253,0.049,3.24e-06,0.406,0.451,175.064,3.78,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Malaysia,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,good 4 u,Malaysia,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,2.97,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Malaysia,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+1Fhb9iJPufNMZSwupsXiRe,keshi,beside you,Malaysia,0.711,0.747,0,-6.335,1,0.0523,0.459,0.0,0.0957,0.852,136.0,2.77,4

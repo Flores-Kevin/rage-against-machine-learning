@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Slovakia,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Slovakia,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+2sXnat46y10FtAbW2A0ira,Calin,Hannah Montana,Slovakia,0.583,0.784,6,-6.708,0,0.0882,0.0621,4.49e-05,0.171,0.744,135.08,2.64,4
+4ToxkJ4VvWs026R3QfHDI3,Calin,Santé,Slovakia,0.604,0.649,2,-8.458,0,0.0524,0.4,0.273,0.186,0.273,120.111,1.9,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Slovakia,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Slovakia,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Slovakia,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+5TnbMs8fTDVrqRGrCv3Y10,"Yzomandias, NobodyListen, Luca Brassi10x, Saul, Blako, Nik Tendo",NFS,Slovakia,0.665,0.802,11,-5.346,0,0.19,0.49,0.0,0.208,0.764,92.355,3.21,4
+163UXyyrFlAIQapVN3DqIp,Calin,Praha/Vídeň,Slovakia,0.778,0.449,6,-7.464,0,0.0339,0.41,0.00126,0.105,0.325,130.007,2.71,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Slovakia,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+6IUE3plp8y2kr3oeqEtAdN,Alan Murin,Prepáč,Slovakia,0.453,0.742,11,-5.09,1,0.222,0.114,0.0,0.119,0.415,82.691,3.66,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Slovakia,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Slovakia,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+1sk1HMcretzLiljqIBAZ8J,Gleb,KOMANDER PUMP IT UP,Slovakia,0.811,0.767,0,-7.368,1,0.123,0.037,0.000106,0.204,0.412,133.088,4.07,4
+2YxGxCDLDmSCOOrrfX3nDN,Separ,Flow Kmeť,Slovakia,0.793,0.822,5,-4.584,0,0.149,0.186,0.0,0.0978,0.343,129.961,3.82,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Slovakia,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Slovakia,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+2wPph50bF6qHnXgruVKHm8,"P T K, Yzomandias",Baby a Benzo,Slovakia,0.894,0.677,4,-8.054,1,0.0648,0.207,1.9e-06,0.13,0.462,110.024,4.13,4
+3rxHQ7HeJCpiei1d6ANDPW,"Viktor Sheen, Calin, Hasan, Nik Tendo",Až na měsíc,Slovakia,0.741,0.572,3,-10.405,0,0.0645,0.265,0.0,0.13,0.525,115.093,3.48,4
+705U2GkmMiEPrqRWMPmabr,"Calin, Viktor Sheen",Sangria,Slovakia,0.643,0.597,3,-7.181,0,0.0671,0.346,0.0,0.11,0.593,164.056,3.17,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Slovakia,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Slovakia,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+3rb0tMq42WfggucPm0HHkA,"MEDUZA, James Carter, Elley Duhé, FAST BOY",Bad Memories (feat. Elley Duhé & FAST BOY),Slovakia,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,2.48,3
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Slovakia,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Slovakia,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Slovakia,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Slovakia,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,2.52,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Slovakia,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Slovakia,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+0J3SIAOndpL1MS2Vq2RMQ9,Viktor Sheen,Stíny,Slovakia,0.533,0.784,8,-6.578,1,0.164,0.0756,0.0,0.126,0.564,92.42,2.88,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Slovakia,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+0zCgWGmDF0aih5qexATyBn,Mr.Kitty,After Dark,Slovakia,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,0.0392,140.019,4.29,4
+7sqpK9TpNVIWSn01Nm2AUu,"Kali, Peter Pann, Pišta Lakatoš",Hop Čip,Slovakia,0.843,0.76,1,-5.501,0,0.207,0.248,0.0,0.308,0.825,127.944,4.09,4
+0fThlG4YBkCsRVSJkGpWAX,"Koky, Viktor Sheen, Robin Zoot",SOS,Slovakia,0.657,0.769,6,-6.849,0,0.0388,0.101,0.0,0.139,0.45,109.982,3.75,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Slovakia,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Slovakia,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+1TLdCwhyeVjSXjn5OSvML8,Calin,Hannah Montana VIP,Slovakia,0.454,0.754,6,-6.246,0,0.0409,0.000104,0.244,0.141,0.543,164.148,2.39,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Slovakia,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+1QJr9gqb6wqumAkLBHcJCq,"Nik Tendo, Hasan, Calin",POD DRN,Slovakia,0.75,0.634,6,-5.691,1,0.332,0.0957,0.0,0.145,0.556,79.993,3.5,4
+7qm6kPfCjzvPDMdLTVCisc,"Sima, Ben Cristovao",V Oblakoch,Slovakia,0.824,0.804,7,-5.004,0,0.0552,0.417,1.83e-06,0.493,0.648,121.973,2.95,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Slovakia,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+1VAWL9pNSsdyTLHYvmPhcm,"Porsche Boy, Zayo, Taomi",b a b y . r e l a x,Slovakia,0.855,0.77,1,-4.049,1,0.0931,0.0214,0.0,0.115,0.238,130.003,3.0,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Slovakia,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+5mC6tVYVscr1YR4zD6p94h,Ektor,To neni hra,Slovakia,0.706,0.554,2,-9.705,1,0.301,0.329,0.0,0.231,0.593,142.948,3.44,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Slovakia,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Slovakia,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+3DnT4qyb7YSW4y1ValyUo4,"Viktor Sheen, Manene",Stíny (MANENE Remix),Slovakia,0.541,0.913,0,-7.174,0,0.167,0.0499,4.62e-06,0.278,0.697,173.974,3.26,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Slovakia,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+1i6Q39TzaIp6EkJL9k51qd,"Gleb, Separ",Hey G!,Slovakia,0.822,0.769,1,-5.227,1,0.221,0.11,9.83e-06,0.664,0.454,103.973,4.17,4
+6LhuehVA6IXU92z4q01lDU,"Peter Pann, Kali, Separ",Stroj,Slovakia,0.762,0.823,9,-3.25,0,0.211,0.507,0.0,0.0958,0.342,121.958,3.5,4
+3AExPJ7KcjzpJWY2k8UAZO,Viktor Sheen,Sérum,Slovakia,0.721,0.567,6,-9.123,0,0.133,0.652,0.0,0.197,0.542,151.0,3.02,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Slovakia,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+3cmi2jWihhNRk7W6QhuHAZ,"Strapo, Separ",3:59,Slovakia,0.788,0.578,9,-11.952,0,0.265,0.17,0.0,0.0668,0.438,155.944,3.58,4
+6FbRFo9fweIUtLvglbEF0i,"Separ, Yzomandias",Zasvoe,Slovakia,0.562,0.812,0,-3.26,0,0.38,0.569,0.0,0.118,0.154,102.252,3.08,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Slovakia,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Slovakia,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Slovakia,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Slovakia,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+2zCkru42FlOYnguzb9Z4aT,"Nerieš, Separ",Viac,Slovakia,0.915,0.388,6,-5.587,1,0.0382,0.0583,0.000229,0.106,0.759,110.003,3.55,4
+1c8zjkNnLKqLfqOUwNZHrn,Rytmus,Za mojej éry,Slovakia,0.491,0.741,3,-5.424,0,0.174,0.0226,0.0,0.183,0.195,147.684,3.03,4
+7sA2SKTo1QbTSSYn5YvJC4,Imagine Dragons,Sharks,Slovakia,0.927,0.642,10,-4.466,0,0.0657,0.00791,3.62e-05,0.279,0.901,123.969,3.18,4
+32X1PwQVeATkp4soNcu5BW,Nerieš,Ruka Na Volante,Slovakia,0.644,0.637,8,-5.392,1,0.0433,0.298,0.0,0.0972,0.35,140.086,2.87,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Slovakia,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Slovakia,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Slovakia,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+01kfSdF9zfcDLri5sSWEoL,Dxrk ダーク,RAVE,Slovakia,0.716,0.748,8,-6.06,1,0.0356,0.235,0.849,0.114,0.338,119.918,2.82,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Slovakia,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+2kx5sQgmjYug0GiDh1a4sU,"Cheriimoya, Sierra Kidd","Living Life, In The Night",Slovakia,0.624,0.499,0,-9.962,0,0.0495,0.82,0.0,0.12,0.298,143.249,2.04,4
+2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Slovakia,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4.79,4
+6OVlADVquXLhHH7x79AjR1,Saul,Niekde V Oblakoch,Slovakia,0.615,0.522,5,-10.335,1,0.0356,0.151,0.0,0.121,0.237,119.949,3.97,4
+2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Slovakia,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,0.37,93.986,3.44,4
+0E92CGQj3E7REEC9TWqYze,"Yzomandias, Nik Tendo",Rolls,Slovakia,0.719,0.702,2,-8.463,1,0.112,0.232,0.0,0.119,0.512,142.094,3.44,4
+5MCYkfAfAk1moFtzSoZkgC,Yael,MY,Slovakia,0.765,0.558,0,-10.891,0,0.131,0.679,9.91e-06,0.19,0.49,111.93,3.02,4
+6GomT970rCOkKAyyrwJeZi,"Öwnboss, Sevek",Move Your Body,Slovakia,0.848,0.821,2,-5.408,0,0.0527,0.0169,0.000403,0.0962,0.249,125.051,2.62,4
+4ERjIDbLvQYSxVT3cRu2LK,Calin,Nad ránem,Slovakia,0.616,0.607,4,-10.021,0,0.0631,0.511,7.48e-06,0.129,0.75,95.065,3.04,4
+27FjG8BCMk1UjOcBfffHk4,"Ben Cristovao, Calin","PRŠÍ, PRŠÍ",Slovakia,0.675,0.6,4,-9.57,0,0.0667,0.257,3.31e-05,0.359,0.476,89.982,3.13,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Slovakia,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+65sTVVVMDnczku5Gt2PTmt,Viktor Sheen,Rozdělený světy,Slovakia,0.712,0.66,9,-7.68,0,0.032,0.331,5.66e-05,0.0904,0.418,111.068,3.53,4
+2KUTDIXO3sxrR5FJw6AndI,Kontrafakt,Reklama na Rap,Slovakia,0.772,0.737,6,-5.736,0,0.325,0.159,0.0,0.114,0.642,149.945,2.85,4
+5Sk39LuvdwuvL84jD01Dum,"MUPP, Sadfriendd",vendetta!,Slovakia,0.706,0.91,1,-3.527,1,0.146,0.175,2e-06,0.11,0.667,126.007,1.78,4
+3GAD4OTfUu4k5Y3euOFYat,"Nerieš, DMS",10 Minút,Slovakia,0.68,0.74,3,-5.715,0,0.127,0.181,0.0,0.0775,0.319,132.015,5.53,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Slovakia,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Slovakia,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Slovakia,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Slovakia,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+3Wo8axp5gZsy7N40dvsAHj,Nik Tendo,Bílá & Černá,Slovakia,0.761,0.645,9,-8.206,0,0.283,0.385,0.0,0.288,0.531,142.019,2.54,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Slovakia,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+1bgKMxPQU7JIZEhNsM1vFs,"Alesso, Zara Larsson",Words (feat. Zara Larsson),Slovakia,0.739,0.586,10,-5.079,0,0.0472,0.0245,0.000252,0.308,0.444,124.026,2.38,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Slovakia,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Slovakia,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Slovakia,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+7fvEeoOaFOBiPafnfaRnG0,"Calin, fiedlerski",Hot Dropout,Slovakia,0.489,0.768,3,-6.592,0,0.2,0.389,0.0,0.0938,0.547,179.736,2.0,4
+19hDtYa9xPLr8JlujoCNVO,DMS,Lepšia Pesnička,Slovakia,0.742,0.576,3,-6.539,0,0.291,0.633,0.0,0.0953,0.555,160.261,3.31,4
+7E8LK4R9gAkSG4CD1kqvsX,"Viktor Sheen, Calin",Virtuální drogy,Slovakia,0.665,0.781,10,-8.07,0,0.0722,0.22,0.0,0.107,0.201,113.991,3.58,4
+3U6V6QdJkUuxrrI6cx3JBs,"Gleb, Natalia Hulejova",MC ERIK & BARBARA,Slovakia,0.674,0.613,1,-9.336,1,0.106,0.0463,0.000776,0.421,0.433,88.307,3.2,4
+4KjqlEk1pWvPiW9fLt7t3n,"Kali, Peter Pann, Alan Murin, Čis T",Kým ťa mám,Slovakia,0.735,0.881,4,-2.581,0,0.0587,0.0698,0.0,0.255,0.673,103.964,3.0,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Slovakia,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+0S4R6vsr5MlIJyOutUjHd3,"Cico Band, Rene Rendy",Piatoček,Slovakia,0.913,0.651,6,-6.243,0,0.04,0.418,0.0,0.157,0.965,135.036,2.9,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Slovakia,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+2ksyzVfU0WJoBpu8otr4pz,INTERWORLD,METAMORPHOSIS,Slovakia,0.593,0.641,7,-12.727,0,0.0992,0.426,0.901,0.122,0.147,175.014,2.38,4
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Slovakia,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+0l2hgXhJ2qcTT5npzPfu2s,"Frayer Flexking, Shimmi",HOLA,Slovakia,0.751,0.484,1,-9.373,0,0.169,0.65,0.0,0.1,0.697,143.972,3.57,4
+5TKjAQyTkezAQGz6eRMOL6,Earth,Diamanty,Slovakia,0.753,0.651,11,-7.269,0,0.105,0.603,1.73e-05,0.199,0.386,98.972,3.3,4
+7sJNeWTXkZCEC7OnFMpGWL,"Luciano, Aitch, BIA",Bamba (feat. Aitch & BIA),Slovakia,0.797,0.791,10,-6.281,1,0.33,0.119,0.0,0.113,0.828,138.026,3.39,4
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Slovakia,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Slovakia,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+1WCEAGGRD066z2Q89ObXTq,"David Guetta, Becky Hill, Ella Henderson",Crazy What Love Can Do,Slovakia,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,2.83,4
+3h3CiDX7NyqRLxLUg5pFbu,Robin Zoot,Česká Floriiida,Slovakia,0.626,0.383,6,-12.136,0,0.218,0.201,3.85e-06,0.0788,0.197,148.055,4.51,4
+7tKl0VtxiEMtgQtYgf4JAZ,crazymarzy,Traktor! (with saymooon),Slovakia,0.702,0.957,7,0.319,1,0.253,0.0295,1.24e-05,0.425,0.181,115.002,2.72,4
+0N9Fccu5ESGwWPJ3MU9Yt5,Gleb,alibababigbass,Slovakia,0.635,0.671,8,-9.015,1,0.212,0.115,0.0,0.516,0.429,106.982,3.38,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Slovakia,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Slovakia,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Slovakia,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+3sa06xVNmLLYIxdNNmVQN8,"Jax Jones, MNEK",Where Did You Go? (feat. MNEK),Slovakia,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,0.502,127.034,2.96,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Slovakia,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Slovakia,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,4.34,4
+4woTEX1wYOTGDqNXuavlRC,"Eminem, Dina Rae",Superman,Slovakia,0.802,0.755,4,-3.138,0,0.0564,0.0215,0.0,0.295,0.58,130.027,5.84,4
+38mwzF0ib0Wsqcnhy0PbBm,"Mairee, Manene",Front 2 Back,Slovakia,0.611,0.951,11,-5.944,0,0.0633,0.00546,0.0281,0.385,0.294,128.096,2.34,4
+7vChidrSd5frTCwEHtsEck,"Pil C, Alan Murin",CARA MIA,Slovakia,0.458,0.668,10,-6.548,1,0.231,0.27,0.0,0.325,0.57,92.417,3.18,4
+21hW3GAslUNLFRwsWKiouC,Alan Murin,SR C,Slovakia,0.635,0.667,7,-6.103,1,0.0423,0.215,0.0,0.113,0.13,157.898,3.14,4
+0JzG1wJuB4v9UPkSE7LMXi,Montell Fish,Hotel,Slovakia,0.228,0.427,0,-8.739,0,0.0363,0.752,0.0167,0.592,0.192,180.345,3.29,4
+422I38B6wM8mWDUVwCn28f,"Calin, Ben Cristovao, KOJO, STEIN27",Asgard,Slovakia,0.732,0.633,8,-8.059,0,0.241,0.469,0.0,0.0582,0.728,80.027,3.1,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Slovakia,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+2WzAAerBvZvvFXgUpSwHZ9,"PLAYAMANE, Nateki",MIDNIGHT,Slovakia,0.633,0.433,1,-8.833,1,0.229,0.0053,0.28,0.145,0.373,122.088,2.03,4
+0uo7p6JtXF7U8x0ktN0Vty,Funk Tribu,Phonky Tribu,Slovakia,0.731,0.873,11,-7.746,0,0.0518,0.000268,0.851,0.1,0.671,159.984,4.77,4
+24dfvm7yRhR483SCD5X8Tr,"Vladis, Monika Bagarova",Tandem,Slovakia,0.762,0.756,9,-7.05,1,0.0943,0.232,4.25e-05,0.225,0.37,98.058,3.16,4
+1Fb8gCHRkmNAaN8vytd5vg,"Luciano, Central Cee",West Connect (feat. Central Cee),Slovakia,0.92,0.571,10,-7.133,0,0.494,0.0681,0.0,0.0969,0.465,139.99,3.54,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Slovakia,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Slovakia,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+36hOCzdZQHvhaqpx9xbI8W,"MadSkill, Rytmus",Technotronic Flow,Slovakia,0.764,0.795,9,-4.565,0,0.128,0.0141,1.51e-05,0.157,0.806,126.002,3.71,4
+7zMcZHrLESbzAsUzKeSILI,Kontrafakt,Nemusíme,Slovakia,0.706,0.75,10,-6.588,1,0.326,0.0195,0.0,0.0779,0.454,87.986,2.53,4
+5xbMnsnvwtSBeQ0S2zXQLq,"P T K, Eddie Fresco",Vrátit se zpátky,Slovakia,0.816,0.608,8,-4.164,0,0.13,0.0499,0.0,0.0994,0.411,95.005,3.2,4
+0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Slovakia,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,3.41,4
+0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,THATS WHAT I WANT,Slovakia,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,2.4,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Slovakia,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+62hR1RlfT269t4wJGOveO1,Gleb,ZNÁMKY ŽIVOTA,Slovakia,0.739,0.647,11,-10.536,0,0.253,0.0699,0.0,0.395,0.462,138.949,3.38,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Slovakia,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+7Iq00zqgo0uYuDbrDDkdBH,Porsche Boy,b a c k . i n . t h e . d a y z,Slovakia,0.84,0.629,9,-6.988,0,0.342,0.136,0.0,0.164,0.628,100.055,3.07,4
+07FyKVdi7YUlJry42sqFKm,"Pil C, Ego",VIDÍM JAK SA NA MŇA POZERÁŠ,Slovakia,0.797,0.362,10,-9.834,0,0.118,0.163,0.000134,0.104,0.311,101.955,3.03,4
+1dkTyDuDkpgfTyti3REUVE,"Samey, Gleb, Natalia Hulejova",breeze,Slovakia,0.891,0.621,10,-8.104,0,0.258,0.1,0.0,0.422,0.584,129.99,3.12,4
+4tRhRLBxIZ34Iw0eCuiC03,southstar,Miss You,Slovakia,0.663,0.559,6,-12.876,0,0.0391,0.136,0.0894,0.108,0.296,145.007,3.44,4
+22D2cfbPie1SXstcD8yaRe,"Peter Pann, Nerieš",Tanec s Diablom,Slovakia,0.704,0.784,7,-5.138,0,0.0322,0.127,0.0,0.0652,0.48,128.031,3.09,4
+302zIkWq3gT9BEorlYcgXU,Nik Tendo,13. komnata,Slovakia,0.654,0.63,0,-7.322,1,0.0472,0.0942,0.0,0.234,0.135,129.949,2.77,4
+3Z7CaxQkqbIs1rewKi6v4W,"Tiësto, Charli XCX",Hot In It,Slovakia,0.748,0.841,7,-5.08,1,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,2.16,4
+6QEwZLSXNzlOySwLyN4FbJ,"Kali, Peter Pann, Sima",Každé ráno,Slovakia,0.85,0.733,6,-2.862,0,0.204,0.0788,1.37e-06,0.199,0.685,102.021,3.57,4
+2DgdHcjWmO3qd50RzuBLgZ,Panic! At The Disco,House of Memories,Slovakia,0.506,0.817,11,-5.051,0,0.0335,0.00272,0.0,0.0486,0.506,109.952,3.48,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Slovakia,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+1SOClUWhOi8vHZYMz3GluK,Jaymes Young,Infinity,Slovakia,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,0.494,121.963,3.96,4
+7mykoq6R3BArsSpNDjFQTm,"Rosa Walton, Hallie Coggins",I Really Want to Stay at Your House,Slovakia,0.49,0.738,3,-7.399,0,0.0367,0.00237,4.58e-06,0.0851,0.126,124.966,4.11,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Slovakia,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+30bqVoKjX479ab90a8Pafp,Lil Peep,Star Shopping,Slovakia,0.585,0.471,4,-9.934,0,0.0616,0.0967,0.0184,0.115,0.323,93.099,2.37,4
+0SkXruhPA5gTI6AS9NR2aN,"Cico Band, Rene Rendy",Pivko,Slovakia,0.883,0.784,8,-5.276,1,0.0483,0.218,0.0,0.0732,0.965,141.068,2.94,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Slovakia,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+23FOWotpgv5laciAjNyZFe,DMS,MDMS,Slovakia,0.804,0.663,10,-3.413,0,0.171,0.169,0.0,0.0757,0.582,92.456,4.17,4
+1RF02Cf80mTaeNXG2P2boR,"Nathan Dawe, Ella Henderson",21 Reasons (feat. Ella Henderson),Slovakia,0.621,0.785,6,-4.499,1,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,2.59,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Slovakia,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+4xkOaSrkexMciUUogZKVTS,"Eminem, Nate Dogg",Till I Collapse,Slovakia,0.548,0.847,1,-3.237,1,0.186,0.0622,0.0,0.0816,0.1,171.447,4.96,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Slovakia,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+2CewvqbfMOcnvYE3yayAJV,KAMRAD,I Believe,Slovakia,0.711,0.681,10,-7.459,1,0.0263,0.124,0.0,0.262,0.775,118.021,2.45,4
+0z7L3ZNiRZTsJv1vpiSHG0,"Puerto, Yael",Vďaka Ti - Acoustic Version,Slovakia,0.785,0.521,4,-7.389,0,0.0438,0.64,0.0,0.0851,0.481,109.689,3.03,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Slovakia,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+6qccVBVMufw9uiFGEVLz6R,"Separ, Matej Straka",Vyjebala Rešpekt,Slovakia,0.583,0.763,9,-4.756,1,0.264,0.0388,0.0,0.187,0.432,89.631,4.79,4
+5r43qanLhUCdBj8HN3fa6B,OneRepublic,Sunshine,Slovakia,0.697,0.875,5,-4.621,1,0.034,0.137,0.0,0.28,0.774,140.069,2.73,4
+5TB7FL9eaJ4fIN3oqJK8rp,Robin Zoot,Everyday,Slovakia,0.809,0.499,11,-12.186,0,0.256,0.116,0.000153,0.106,0.591,145.955,3.38,4
+2uY9r1nXpU6JyePiB32hDV,Porsche Boy,p o z n a . m a . m i n u t u,Slovakia,0.89,0.57,11,-5.208,0,0.179,0.101,0.135,0.0981,0.664,143.019,3.2,4
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,Slovakia,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Slovakia,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+7B0VYDSHupnOUmZOSazkEi,Calin,Perfect Week,Slovakia,0.625,0.355,5,-10.83,1,0.0394,0.26,0.0,0.108,0.0702,127.07,3.12,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Slovakia,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+3sKrwPfcjqAxfpv5beQStq,"Kali, Peter Pann, Alan Murin, Majself",Srdce ako z kameňa,Slovakia,0.728,0.895,9,-3.927,0,0.142,0.346,0.0,0.279,0.337,120.04,3.56,4
+63WuQOXohQIxOxIFA2K7bR,Måneskin,SUPERMODEL,Slovakia,0.636,0.876,7,-3.413,1,0.0555,0.00164,0.0,0.117,0.799,120.983,2.47,4
+6f3Slt0GbA2bPZlz0aIFXN,Tiësto,The Business,Slovakia,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,2.73,4
+7vSGKtgahUlShkLWLONbbh,"Momo, Hoodini, Rida Radar",Cool brate,Slovakia,0.518,0.783,9,-5.354,1,0.478,0.497,0.0,0.57,0.715,83.432,2.86,4
+5qaEfEh1AtSdrdrByCP7qR,Imagine Dragons,Demons,Slovakia,0.505,0.71,3,-3.015,1,0.0321,0.19,0.00025,0.269,0.428,89.938,2.96,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Slovakia,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+0SIE2x9fMlZMUaMtYbMD7g,Saul,Včera Mi Zhorel Dom,Slovakia,0.572,0.733,4,-6.496,0,0.0519,0.102,0.0,0.291,0.45,103.895,3.69,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Slovakia,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+4Y87xnbiJJUzUL7m0OfCt9,DMS,Zlatí a Zároveň Kanál,Slovakia,0.701,0.881,1,-5.683,0,0.316,0.557,0.0,0.166,0.738,139.962,3.09,4
+3Yn1eOU2fLwJeuBmONmrk2,Rytmus,AKM,Slovakia,0.752,0.69,11,-4.892,0,0.197,0.189,0.0,0.34,0.492,127.983,4.44,4
+25E3P7re561KWj5hZysrYG,Calin,Popstar,Slovakia,0.691,0.872,3,-6.876,0,0.278,0.251,0.109,0.109,0.684,145.033,2.34,4
+79s5XnCN4TJKTVMSmOx8Ep,Pop Smoke,Dior,Slovakia,0.548,0.805,7,-5.732,1,0.351,0.212,0.000389,0.408,0.648,142.094,3.61,4
+2sNrirJx5Se5MO2tU2lJVL,Viktor Sheen,Blessed,Slovakia,0.771,0.666,5,-7.507,0,0.159,0.318,1.45e-06,0.0909,0.737,140.03,2.17,4
+4oMyggIzClkOcCTvotFLkP,Ghostface Playa,Why Not,Slovakia,0.725,0.984,9,-1.638,1,0.0351,0.000718,0.895,0.372,0.931,119.983,2.75,4
+3hRV0jL3vUpRrcy398teAU,Lord Huron,The Night We Met,Slovakia,0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,0.102,87.01,3.47,3
+3CLSHJv5aUROAN2vfOyCOh,DVRST,Close Eyes,Slovakia,0.784,0.572,0,-9.853,1,0.0573,0.0748,0.843,0.139,0.209,96.181,2.21,4
+3Wrjm47oTz2sjIgck11l5e,Måneskin,Beggin',Slovakia,0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,0.589,134.002,3.53,4
+1rWrrEAVMu8E0uP9rBFpWo,Samey,MY,Slovakia,0.501,0.46,1,-9.459,0,0.283,0.294,0.0,0.0885,0.157,99.563,2.85,4
+20on25jryn53hWghthWWW3,"ACRAZE, Cherish",Do It To It,Slovakia,0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,0.637,124.927,2.63,4
+6E5SjolY6r9OxIecxuQicY,"Calin, Yzomandias",Bounce (feat. Yzomandias),Slovakia,0.9,0.482,9,-12.041,1,0.213,0.267,0.00169,0.111,0.502,97.011,2.68,4
+3DrqE4QiUbnHj9GVqTWlvu,Gleb,NA SKALÁCH FREESTYLE,Slovakia,0.583,0.782,11,-6.96,0,0.392,0.564,0.0,0.133,0.752,136.501,3.32,4
+2KnTkLoq0MZKIR8GrCdUCH,"Pil C, Alan Murin",ŽIVOT JE ZVLÁŠTNY,Slovakia,0.771,0.6,9,-7.933,1,0.201,0.128,1.19e-05,0.222,0.317,94.998,2.66,4
+2ijloBiuZP94dkVULrdf92,Separ,OG,Slovakia,0.727,0.943,5,-2.907,0,0.384,0.395,0.0,0.086,0.423,170.253,3.37,4
+37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Slovakia,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,2.89,4
+1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Slovakia,0.686,0.735,2,-4.616,1,0.264,0.00921,0.00066,0.342,0.0596,171.355,5.37,4
+7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,Slovakia,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,3.4,4
+2nZkSWHpojGzeeCFpFqrXe,Yzomandias,Pararampam,Slovakia,0.909,0.664,4,-6.151,0,0.219,0.701,5.44e-06,0.24,0.63,138.011,2.87,4
+0ZoS0OXuPpBPKa2arKKKJ1,"Kontrafakt, Mirez, Dokkeytino, Dalyb, Zayo",J Lo,Slovakia,0.92,0.524,7,-5.963,1,0.151,0.0852,0.0,0.0827,0.556,110.011,3.54,4
+3eJH2nAjvNXdmPfBkALiPZ,Jason Derulo,Acapulco,Slovakia,0.774,0.792,10,-4.021,1,0.0523,0.051,0.0,0.155,0.507,122.062,2.33,4
+7wcz4V9XLZpteZEnMEJNEZ,"SIMILIVINLIFE, Taomi, Porsche Boy",Ty,Slovakia,0.725,0.779,7,-4.548,0,0.0407,0.0314,1.11e-05,0.103,0.224,137.056,3.85,4
+5nujrmhLynf4yMoMtj8AQF,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),Slovakia,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,3.38,4

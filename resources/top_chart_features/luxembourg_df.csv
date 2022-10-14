@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+7sJNeWTXkZCEC7OnFMpGWL,"Luciano, Aitch, BIA",Bamba (feat. Aitch & BIA),Luxembourg,0.797,0.791,10,-6.281,1,0.33,0.119,0.0,0.113,0.828,138.026,3.39,4
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Luxembourg,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Luxembourg,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+3D29kjUyWxsT3jUUTtARVQ,Gazo,DIE,Luxembourg,0.695,0.63,8,-7.16,0,0.035,0.229,0.0,0.118,0.55,130.968,4.01,4
+1Fb8gCHRkmNAaN8vytd5vg,"Luciano, Central Cee",West Connect (feat. Central Cee),Luxembourg,0.92,0.571,10,-7.133,0,0.494,0.0681,0.0,0.0969,0.465,139.99,3.54,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Luxembourg,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Luxembourg,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Luxembourg,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Luxembourg,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+3BnDvpeuGOj21Ir2aVEtQo,Rema,Calm Down,Luxembourg,0.814,0.789,11,-6.29,1,0.0405,0.365,0.000502,0.137,0.842,107.003,3.66,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Luxembourg,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+53tfEupEzQRtVFOeZvk7xq,ROSALÍA,DESPECHÁ,Luxembourg,0.914,0.622,7,-6.538,1,0.0892,0.146,1.68e-05,0.0632,0.77,130.04,2.61,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Luxembourg,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+2WigMwGJysIh9fRnSJvpjn,Oxlade,KU LO SA - A COLORS SHOW,Luxembourg,0.649,0.655,10,-5.534,0,0.0652,0.307,0.0,0.22,0.793,92.9,2.46,4
+5xX2LYdXyx0Boa61rZOjq5,Luciano,Beautiful Girl,Luxembourg,0.846,0.42,11,-8.659,0,0.104,0.296,0.00134,0.09,0.621,139.883,2.97,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Luxembourg,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Luxembourg,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Luxembourg,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Luxembourg,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Luxembourg,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Luxembourg,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Luxembourg,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Luxembourg,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+4ZpIuzx91EAPK3VimONbfB,"ZEG P, Hamza, SCH",FADE UP,Luxembourg,0.758,0.599,4,-5.99,0,0.0877,0.57,1.13e-06,0.129,0.557,129.96,3.65,4
+6yeZM8gyykjaf8w0GqRfK4,Nina Chuba,Wildberry Lillet,Luxembourg,0.89,0.521,6,-7.048,0,0.169,0.078,0.0,0.0958,0.646,139.981,2.2,4
+4UyVCLbNG8yhrqbzeSmdho,"Black Eyed Peas, Shakira, David Guetta",DON'T YOU WORRY,Luxembourg,0.816,0.874,11,-4.822,1,0.0308,0.201,0.0,0.209,0.5,131.967,3.27,4
+6PrB4KpvuoYWtwjPC5a44S,"Soolking, Niska",Balader,Luxembourg,0.603,0.802,4,-5.089,0,0.111,0.306,5.06e-05,0.124,0.787,130.121,2.94,4
+2XXpLFPZGxgtohTd79DjZO,Luciano,Drill LUV,Luxembourg,0.607,0.429,1,-9.397,0,0.193,0.104,0.00195,0.0767,0.312,76.987,2.93,4
+6OZwia8loN0aPS0vTvsBjR,"Alonzo, Ninho, Naps",TOUT VA BIEN (feat. Ninho & Naps),Luxembourg,0.66,0.72,3,-5.874,0,0.0753,0.301,0.0,0.226,0.628,99.937,3.22,4
+5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,Luxembourg,0.659,0.772,0,-4.595,1,0.11,0.0748,0.000346,0.187,0.484,126.018,3.37,4
+5YbPxJwPfrj7uswNwoF1pJ,Burna Boy,Last Last,Luxembourg,0.795,0.565,3,-4.457,0,0.0948,0.131,0.0,0.0802,0.55,87.925,2.87,4
+7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Luxembourg,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,2.52,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Luxembourg,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+5QQKWOwPjG9vcDBTQ5Hv5Q,"PEDRO SAMPAIO, Anitta, Dadju, Mc Pedrinho, Nicky Jam","DANÇARINA (feat. Nicky Jam, MC Pedrinho) - Remix",Luxembourg,0.763,0.669,9,-4.402,0,0.0651,0.156,0.0,0.0867,0.609,135.028,3.53,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Luxembourg,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+5BGdBH8MsaHCgfr4TMpRin,"Bárbara Bandeira, Ivandro",Como Tu (feat. Ivandro),Luxembourg,0.562,0.671,1,-8.672,0,0.437,0.665,5.86e-06,0.4,0.43,187.57,3.46,4
+2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",Luxembourg,0.621,0.782,2,-5.548,1,0.044,0.0125,0.033,0.23,0.55,128.033,3.32,4
+5O7O4n706M7NCdfV7iygm1,"Bezza, C.D.S 13 El Niño, Skaymen, Mc Santos, Bandii, Ferow, Karekz, Raime, Nixo",Luxembourg City,Luxembourg,0.845,0.769,11,-8.395,0,0.281,0.0592,4.43e-06,0.153,0.57,130.002,4.78,4
+5E2JcyolDstvqZ0PNpT3pS,Luciano,SUVs,Luxembourg,0.813,0.261,1,-8.788,1,0.378,0.34,0.0,0.0932,0.62,139.993,2.7,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Luxembourg,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Luxembourg,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Luxembourg,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Luxembourg,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Luxembourg,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Luxembourg,0.65,0.715,5,-5.198,0,0.253,0.0993,0.000291,0.126,0.187,106.672,4.06,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Luxembourg,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Luxembourg,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+6Pk9SrYcNROzVANFESonWh,Pashanim,Doppel G,Luxembourg,0.716,0.661,5,-8.171,0,0.0655,0.467,0.000402,0.135,0.887,154.827,2.05,4
+5ucyKDPjLpYLGadsRO1wSB,"DJ Robin, Schürze",Layla,Luxembourg,0.448,0.921,5,-3.468,0,0.0687,0.00124,0.0,0.383,0.375,140.067,3.1,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Luxembourg,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+6KHsTu4Ht4XYiWcZOOdwbW,Fresh,Chop (Nouvelle École),Luxembourg,0.745,0.801,3,-6.545,0,0.724,0.439,1.13e-06,0.519,0.486,143.011,3.26,4
+2KqVUrATmCbFWODOGJji2n,"Luciano, Gazo",Moonlight (feat. Gazo),Luxembourg,0.915,0.625,10,-6.997,1,0.421,0.345,1.51e-05,0.102,0.524,139.941,2.29,4
+63WuQOXohQIxOxIFA2K7bR,Måneskin,SUPERMODEL,Luxembourg,0.636,0.876,7,-3.413,1,0.0555,0.00164,0.0,0.117,0.799,120.983,2.47,4
+75cxFn3oHrwMRDUXsLTvUl,"Luciano, Headie One",Life Lessons (feat. Headie One),Luxembourg,0.917,0.573,4,-8.207,1,0.365,0.173,1.12e-05,0.121,0.72,139.993,2.56,4
+2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Luxembourg,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,4.79,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Luxembourg,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+7BaLRoaLSmnOgmMnQzonGq,"Luciano, KALIM",Blue Cheese (feat. KALIM),Luxembourg,0.84,0.51,6,-6.602,0,0.279,0.281,0.000382,0.175,0.485,101.032,2.17,4
+7hFw40Ta4n5wwD1Xzdscb5,Luciano,Frozen Tears,Luxembourg,0.799,0.542,10,-10.341,0,0.109,0.137,0.000656,0.103,0.23,110.925,3.47,3
+5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Luxembourg,0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,2.71,4
+6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Luxembourg,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,0.723,108.965,3.2,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Luxembourg,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+7sA2SKTo1QbTSSYn5YvJC4,Imagine Dragons,Sharks,Luxembourg,0.927,0.642,10,-4.466,0,0.0657,0.00791,3.62e-05,0.279,0.901,123.969,3.18,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Luxembourg,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Luxembourg,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+7BELSQR2lAJLELaKvVkct3,Ivandro,Lua,Luxembourg,0.629,0.348,3,-10.154,0,0.0854,0.843,0.000107,0.117,0.35,152.088,3.21,4
+4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Luxembourg,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,0.842,131.443,2.72,4
+0i9RysNKssk6syOrKDX3U2,"Gazo, Tiakola",FLEURS (feat. Tiakola),Luxembourg,0.673,0.636,10,-7.431,1,0.0771,0.268,0.0,0.108,0.438,127.021,3.52,4
+48BdA5qBxXVoe59xvu0bwc,Gazo,RAPPEL,Luxembourg,0.486,0.786,4,-6.468,0,0.209,0.441,4.46e-06,0.077,0.534,94.644,3.63,3
+3tclrcMq55RBexbs0hg77O,"Luciano, Sophie Hunger",Everywhere (feat. Sophie Hunger),Luxembourg,0.79,0.585,1,-8.539,1,0.0919,0.0594,0.154,0.174,0.465,113.063,2.16,4
+1CxtymiucDK0AB9vgGZ6q2,PNL,J’comprends pas,Luxembourg,0.373,0.523,1,-9.111,1,0.041,0.228,0.0171,0.111,0.0398,104.959,4.72,4
+1c2hJSwcCfoPEw1su83Sw0,Lady Gaga,Hold My Hand,Luxembourg,0.53,0.612,7,-4.286,1,0.0331,0.0403,0.0,0.393,0.264,148.009,3.75,3
+7xTDT7gyIrv0xWpwwXExxU,Ed Sheeran,Celestial,Luxembourg,0.574,0.852,2,-1.248,1,0.0397,0.0529,0.0,0.161,0.501,123.038,3.48,4
+1IhwTymQA1QFgQJu4ZjYtW,Pashanim,2019 (justbars rmx),Luxembourg,0.731,0.466,1,-9.402,1,0.362,0.389,0.0,0.337,0.3,129.63,1.73,4
+0g2leZuI3jD5pRsrRIDvYe,"Miksu / Macloud, makko",Nachts wach,Luxembourg,0.719,0.683,6,-7.083,0,0.255,0.58,0.0,0.304,0.634,136.151,2.98,4
+2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Luxembourg,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3.61,3
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Luxembourg,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+0HaRLPnr887lcQM2YQzkff,"Burna Boy, Ed Sheeran",For My Hand (feat. Ed Sheeran),Luxembourg,0.87,0.479,9,-7.779,1,0.165,0.161,0.000157,0.209,0.717,104.059,2.65,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Luxembourg,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+5hnGrTBaEsdukpDF6aZg8a,Dean Lewis,How Do I Say Goodbye,Luxembourg,0.4,0.641,8,-6.303,1,0.0674,0.214,0.0,0.0656,0.393,81.552,2.73,4
+3rb0tMq42WfggucPm0HHkA,"MEDUZA, James Carter, Elley Duhé, FAST BOY",Bad Memories (feat. Elley Duhé & FAST BOY),Luxembourg,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,2.48,3
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Luxembourg,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+6ZjuBJah2xFEl4z3X20di3,"Miksu / Macloud, makko",Nachts wach (Lila Wolken Bootleg),Luxembourg,0.667,0.849,10,-4.4,0,0.124,0.165,4.8e-05,0.107,0.752,155.002,2.63,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Luxembourg,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+2wXS2IXCyBX0WL76LLYT31,Gazo,CELINE 3X,Luxembourg,0.677,0.841,9,-7.179,1,0.378,0.162,0.0,0.141,0.563,138.906,2.64,4
+6xukxpR18uEv9CpNQ0d0ll,Luciano,Magic,Luxembourg,0.856,0.327,11,-11.9,0,0.27,0.182,0.000349,0.114,0.373,97.062,2.65,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Luxembourg,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Luxembourg,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+0RGpd5zCowfEItCUF7Itpr,Farruko,Nazareno,Luxembourg,0.658,0.725,7,-4.604,0,0.0321,0.0292,0.000107,0.163,0.368,128.117,3.72,4
+70Xfh3baxA4xusCiV5B5jg,"Jamule, FOURTY",KISSENSCHLACHT,Luxembourg,0.91,0.447,1,-5.58,1,0.0688,0.101,0.000377,0.138,0.315,125.021,2.85,4
+2GS9AEoOjgbztBfIbCJ2mr,Lucenzo,Baila Pa Mi,Luxembourg,0.853,0.619,5,-5.842,1,0.154,0.499,0.0124,0.102,0.755,94.988,2.67,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Luxembourg,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+23EzkJ0gwrAW3mAH1H0vuv,"Luciano, RAF Camora",Tattoos (feat. RAF Camora),Luxembourg,0.702,0.639,1,-6.812,0,0.0847,0.0988,6.61e-06,0.202,0.397,144.098,2.33,4
+7nhRvNTtuNPWvJuEnmNJYb,"Luciano, Gzuz",Voyage Skit (feat. Gzuz),Luxembourg,0.825,0.536,1,-8.572,1,0.172,0.506,1.11e-05,0.0975,0.212,124.014,1.23,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Luxembourg,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+4tRhRLBxIZ34Iw0eCuiC03,southstar,Miss You,Luxembourg,0.663,0.559,6,-12.876,0,0.0391,0.136,0.0894,0.108,0.296,145.007,3.44,4
+6KNw3UKRp3QRsO7Cf4ASVE,Gazo,MOLLY - A COLORS SHOW,Luxembourg,0.787,0.827,1,-6.441,1,0.13,0.476,0.00071,0.135,0.657,145.072,2.37,4
+1RF02Cf80mTaeNXG2P2boR,"Nathan Dawe, Ella Henderson",21 Reasons (feat. Ella Henderson),Luxembourg,0.621,0.785,6,-4.499,1,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,2.59,4
+1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Luxembourg,0.4,0.479,8,-7.989,0,0.0308,0.0529,2.14e-06,0.115,0.213,166.159,3.82,4
+6HTJgY7iWWlVLSDHsfHePf,Ninho,Jefe,Luxembourg,0.648,0.599,7,-8.611,0,0.0799,0.474,6.81e-06,0.121,0.213,120.985,2.96,4
+2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Luxembourg,0.695,0.636,5,-4.654,1,0.317,0.234,0.0,0.081,0.575,174.14,2.87,4
+3kcKlOkQQEPVwxwljbGJ5p,"Topic, A7S",Kernkraft 400 (A Better Day),Luxembourg,0.623,0.727,11,-5.57,0,0.0562,0.184,2.02e-05,0.309,0.4,125.975,2.76,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Luxembourg,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+5EWPzyWm0b9McPS5Qyaijp,Pierre de Maere,Un jour je marierai un ange,Luxembourg,0.544,0.578,7,-9.49,0,0.18,0.216,1.92e-06,0.0949,0.219,169.973,2.76,4
+0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Luxembourg,0.733,0.67,5,-6.009,1,0.0751,0.121,0.0,0.121,0.472,100.964,3.21,4
+1WCEAGGRD066z2Q89ObXTq,"David Guetta, Becky Hill, Ella Henderson",Crazy What Love Can Do,Luxembourg,0.601,0.713,4,-3.758,0,0.0449,0.0282,0.0,0.158,0.464,122.872,2.83,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Luxembourg,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+0z3bi63SNZ5ylyHOzb81Uq,Gambi,PETETE,Luxembourg,0.752,0.669,10,-9.817,0,0.251,0.167,0.0,0.0795,0.627,155.997,2.06,4
+5IOF2LmEZaGDPOepCRFXTC,Samra,Undercover,Luxembourg,0.448,0.831,1,-5.277,1,0.365,0.185,0.00011,0.361,0.709,171.159,2.94,5
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Luxembourg,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+6kwmp0U8M1tPvgPHqvbwsr,"Tiakola, Rsko",Gasolina (feat. Rsko),Luxembourg,0.684,0.493,6,-7.946,0,0.124,0.517,0.0,0.0672,0.501,119.087,3.05,4
+0npHflJzLWZ6svbq5Abnfo,"Luciano, Paula Hartmann",Passion (feat. Paula Hartmann),Luxembourg,0.789,0.465,11,-10.974,0,0.527,0.395,4.24e-06,0.153,0.308,107.918,2.67,4
+10R2O2G7E42x3l8GKRf4an,Luciano,Majestic,Luxembourg,0.579,0.648,1,-6.211,1,0.321,0.012,4.31e-05,0.191,0.214,138.692,3.43,4
+6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Luxembourg,0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2.98,4
+59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),Luxembourg,0.463,0.642,1,-4.474,1,0.34,0.314,0.0,0.0686,0.339,83.389,3.16,4
+22skzmqfdWrjJylampe0kt,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",Can't Hold Us (feat. Ray Dalton),Luxembourg,0.633,0.927,2,-4.468,1,0.0839,0.0267,0.0,0.0986,0.88,146.097,4.31,4
+0ll8uFnc0nANY35E0Lfxvg,Keane,Somewhere Only We Know,Luxembourg,0.453,0.655,9,-4.22,1,0.0259,0.0794,7.61e-06,0.0849,0.368,172.012,3.94,4
+1IwYW1AOGriTuAS52gUm2i,Pashanim,Marseille,Luxembourg,0.888,0.707,7,-8.632,0,0.0938,0.0141,0.231,0.0981,0.242,137.984,2.59,4
+2q7jpVfCtcuRwcur9nQeuC,Liaze,PARADISE (MIT DIR),Luxembourg,0.666,0.534,2,-8.495,0,0.0828,0.269,0.000873,0.068,0.392,139.998,3.22,4
+7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,Luxembourg,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,3.4,4
+6nghFixNnWi6Rp3Rm6AfP7,"Luciano, Yung Hurn",London (feat. Yung Hurn),Luxembourg,0.799,0.5,1,-10.657,1,0.537,0.253,0.000726,0.0886,0.331,85.98,2.79,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Luxembourg,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Luxembourg,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Luxembourg,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Luxembourg,0.912,0.774,0,-4.673,0,0.0455,0.121,0.0127,0.101,0.632,119.966,2.59,4
+1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Luxembourg,0.686,0.735,2,-4.616,1,0.264,0.00921,0.00066,0.342,0.0596,171.355,5.37,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Luxembourg,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+0JzG1wJuB4v9UPkSE7LMXi,Montell Fish,Hotel,Luxembourg,0.228,0.427,0,-8.739,0,0.0363,0.752,0.0167,0.592,0.192,180.345,3.29,4
+6hzi3AGB39FjxFqcjgbWs7,PNL,Deux frères,Luxembourg,0.794,0.659,7,-7.063,0,0.0498,0.143,0.00224,0.0944,0.308,112.019,4.12,4
+2Xr1dTzJee307rmrkt8c0g,CKay,love nwantiti (ah ah ah),Luxembourg,0.727,0.739,8,-3.805,1,0.0411,0.365,0.00137,0.161,0.533,93.005,2.43,4
+6Qe7YCkIOc1iaw9HKqO3qV,Soolking,Suavemente,Luxembourg,0.862,0.696,0,-4.519,1,0.0538,0.326,0.00467,0.0418,0.519,140.018,2.66,4
+1rEdhvoQOUXQTPRAKkYxb9,Luciano,Intro,Luxembourg,0.826,0.773,4,-7.914,0,0.236,0.119,2.29e-06,0.256,0.701,137.953,1.76,4
+737gzPI5VAmgUGWiJ9yXuu,"Sofía Reyes, Jason Derulo, De La Ghetto","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Luxembourg,0.792,0.895,1,-3.112,0,0.0587,0.165,0.0,0.0501,0.793,94.968,3.36,4
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Luxembourg,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+3sgzxVe4NjuezbZ8CiPlLP,"Kalash, Damso",Malpolis,Luxembourg,0.796,0.534,1,-8.074,0,0.073,0.26,0.00103,0.0863,0.172,130.008,3.34,4
+7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Luxembourg,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,3.04,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Luxembourg,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Luxembourg,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+4wXJldkJcvxENCYs5ghbNj,Pashanim,Milano,Luxembourg,0.673,0.438,0,-12.103,0,0.0537,0.811,0.0432,0.2,0.145,95.025,1.69,4
+46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Luxembourg,0.573,0.711,1,-6.268,0,0.0406,0.0114,0.0,0.328,0.47,105.006,3.77,4
+3TVUW7bJJWDOonkVCZxfLV,Beendo Z,Pas bête,Luxembourg,0.734,0.532,7,-9.038,0,0.102,0.361,0.0,0.105,0.491,138.043,2.39,4
+6cWath96kzfqITDd6S0El8,CKay,emiliana,Luxembourg,0.738,0.549,6,-9.704,1,0.0513,0.638,0.402,0.111,0.475,98.965,2.75,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Luxembourg,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+1I4dwH7C0jBAEtz5DjlJgQ,Sofia Carson,Come Back Home,Luxembourg,0.552,0.531,7,-7.732,1,0.0421,0.241,1.21e-05,0.122,0.438,144.946,2.95,4
+0Jh6iWjna1wk5le0Ahn7No,Ninho,La vie qu'on mène,Luxembourg,0.8,0.756,7,-4.4,0,0.0367,0.687,2.06e-06,0.111,0.456,113.204,3.22,3
+1ei3hzQmrgealgRKFxIcWn,Benson Boone,In The Stars,Luxembourg,0.362,0.54,10,-6.031,1,0.0528,0.338,0.0,0.139,0.3,78.007,3.61,3
+46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Luxembourg,0.604,0.366,5,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,3.74,4
+5qrSlOut2rNAWv3ubArkNy,Dean Lewis,Be Alright,Luxembourg,0.551,0.537,11,-7.595,1,0.034,0.705,0.0,0.0802,0.493,126.421,3.27,4
+0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,THATS WHAT I WANT,Luxembourg,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,2.4,4
+0wHFktze2PHC5jDt3B17DC,Jack Harlow,First Class,Luxembourg,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2.9,4
+1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Luxembourg,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4.04,4
+2VxeLyX666F8uXCJ0dZF8B,"Lady Gaga, Bradley Cooper",Shallow,Luxembourg,0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,3.6,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Luxembourg,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+5QM0SsyzmBM0pbFY52Xj1X,Sam Smith,I'm Not The Only One,Luxembourg,0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,3.99,4
+7vkq044gRCCrEhThIHvbI7,Pashanim,Tourlife.mp3,Luxembourg,0.805,0.502,1,-11.337,1,0.147,0.0401,0.101,0.0969,0.324,120.007,2.23,4
+1SOClUWhOi8vHZYMz3GluK,Jaymes Young,Infinity,Luxembourg,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,0.494,121.963,3.96,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Luxembourg,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+2wGSgTmgSF3xjRrHkTc25R,"The Game, 50 Cent",Hate It Or Love It,Luxembourg,0.802,0.785,9,-4.781,1,0.207,0.14,0.0,0.123,0.435,99.998,3.44,4
+56MDdzieU2dTT3YLpCdpcA,Pashanim,BMW,Luxembourg,0.737,0.532,2,-8.087,1,0.162,0.165,8.03e-06,0.185,0.418,75.491,2.02,4
+78QR3Wp35dqAhFEc2qAGjE,"Lil Baby, Gunna",Drip Too Hard (Lil Baby & Gunna),Luxembourg,0.897,0.662,1,-6.903,0,0.292,0.0852,0.0,0.534,0.389,112.511,2.43,4
+3Oj1LNWn6826ugw1fHzUYv,"Ed Sheeran, Lil Baby",2step (feat. Lil Baby),Luxembourg,0.763,0.661,4,-5.592,0,0.056,0.169,0.0,0.117,0.632,95.002,2.56,4
+5S12Ds2RswM2ITC0u1J01f,Ninho,VVS,Luxembourg,0.751,0.61,10,-8.368,0,0.485,0.337,0.0,0.11,0.525,167.983,3.12,4
+3im90dPSC5z1PYJ305kgSy,"Gazo, Damso",BODIES (feat. Damso),Luxembourg,0.906,0.518,1,-7.104,1,0.18,0.00864,0.00174,0.0711,0.259,146.06,2.77,4
+0e5UZadoZ5me957hKsxRYh,JVKE,golden hour,Luxembourg,0.511,0.594,1,-4.799,0,0.0316,0.651,0.177,0.249,0.143,94.473,3.49,3
+5zNxUkUW9WiV5oyg6gh2wB,"PEDRO SAMPAIO, Mc Pedrinho",DANÇARINA,Luxembourg,0.778,0.571,9,-4.776,0,0.0788,0.0423,0.0,0.0964,0.554,134.999,1.84,4
+5pyoxDZ1PX0KxBxiRVxA4U,Beyoncé,BREAK MY SOUL,Luxembourg,0.693,0.887,1,-5.039,0,0.0795,0.0581,2.71e-06,0.27,0.864,114.942,4.64,4
+6GomT970rCOkKAyyrwJeZi,"Öwnboss, Sevek",Move Your Body,Luxembourg,0.848,0.821,2,-5.408,0,0.0527,0.0169,0.000403,0.0962,0.249,125.051,2.62,4
+0H5JKQ7qQ5MBeRSZSieZsM,Lomepal,Mauvais ordre,Luxembourg,0.764,0.43,4,-9.956,0,0.0594,0.767,0.0585,0.0843,0.426,143.992,3.66,4
+5b8HD1dJDuPawgS5FjSC2q,"Tiakola, Niska, Gazo",Mode AV (feat. Niska & Gazo),Luxembourg,0.684,0.538,10,-8.189,1,0.038,0.352,0.000144,0.194,0.788,144.005,3.22,4
+4fouWK6XVHhzl78KzQ1UjL,GAYLE,abcdefu,Luxembourg,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,0.415,121.932,2.81,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Luxembourg,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Luxembourg,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Luxembourg,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+20on25jryn53hWghthWWW3,"ACRAZE, Cherish",Do It To It,Luxembourg,0.854,0.806,11,-8.262,0,0.0886,0.0209,0.0542,0.0703,0.637,124.927,2.63,4
+6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Luxembourg,0.346,0.5,10,-6.097,1,0.0388,0.757,0.0,0.189,0.191,202.466,2.94,3
+63siBeZzxXVaY0uASns1V2,"Bigflo & Oli, Julien Doré",Coup de vieux,Luxembourg,0.834,0.624,9,-8.565,0,0.0838,0.0729,0.0,0.106,0.831,115.981,3.87,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,Luxembourg,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+7IXQrRgmHxWYWitSlyFY7z,"Kerchak, Ziak",Peur (feat. Ziak),Luxembourg,0.715,0.836,11,-4.972,1,0.366,0.203,0.0,0.0288,0.777,160.015,3.17,4
+79s5XnCN4TJKTVMSmOx8Ep,Pop Smoke,Dior,Luxembourg,0.548,0.805,7,-5.732,1,0.351,0.212,0.000389,0.408,0.648,142.094,3.61,4
+1jrQCsm4kN8ImpsASJnyhC,Luciano,Bottega Glasses,Luxembourg,0.876,0.432,6,-9.219,0,0.278,0.0126,0.00198,0.178,0.253,127.982,3.03,4
+717QGTmZdkemDaCo1vQHG0,"13 Organisé, SCH, Kofs, Jul, Naps, Soso Maness, Elams, Solda, Houari",Bande organisée,Luxembourg,0.901,0.939,6,-2.762,1,0.274,0.117,0.0,0.0643,0.805,142.948,5.94,4
+75UUG6x5zQe0gCVOiQpa6X,"Purple Disco Machine, Sophie and the Giants",In The Dark,Luxembourg,0.691,0.763,6,-5.628,0,0.0464,0.0405,3.67e-05,0.0783,0.771,115.936,3.1,4
+4IbDTrLxImTJfZePAX2nKB,"Koba LaD, Gazo",Daddy chocolat,Luxembourg,0.721,0.523,7,-8.399,1,0.147,0.0693,0.0,0.281,0.757,141.034,3.2,4
+7iL6o9tox1zgHpKUfh9vuC,50 Cent,In Da Club,Luxembourg,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,3.22,4
+5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,Luxembourg,0.669,0.742,1,-3.518,0,0.0441,0.296,0.0,0.355,0.716,101.982,3.39,4
+503OTo2dSqe7qk76rgsbep,"Dr. Dre, Snoop Dogg",Still D.R.E.,Luxembourg,0.816,0.775,11,-3.323,1,0.234,0.16,0.00031,0.0543,0.527,93.431,4.51,4
+0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Luxembourg,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,0.691,116.731,5.01,4
+2USlegnFJLrVLpoVfPimKB,"Gabry Ponte, LUM!X, Prezioso",Thunder,Luxembourg,0.67,0.896,1,-4.673,1,0.058,0.0342,3.21e-05,0.344,0.403,101.216,2.67,3
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Luxembourg,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Luxembourg,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,3.41,4
+4vzJrkfHbCGaodPA5RY5BV,Central Cee,Loading,Luxembourg,0.85,0.68,3,-6.18,0,0.338,0.732,0.0,0.0964,0.694,144.006,2.89,1
+4oxGI8yyghLuMV7ybRG3kg,Central Cee,Obsessed With You,Luxembourg,0.746,0.825,3,-4.457,1,0.0435,0.192,0.0,0.365,0.904,143.062,1.81,4
+0VO8gYVDSwM1Qdd2GsMoYK,"Swedish House Mafia, The Weeknd",Moth To A Flame (with The Weeknd),Luxembourg,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,3.9,4
+2a1o6ZejUi8U3wzzOtCOYw,"Don Omar, Lucenzo",Danza Kuduro,Luxembourg,0.4,0.915,0,-4.89,1,0.28,0.0846,0.0,0.0503,0.878,88.917,3.31,3
+1bwhDrXcAtqePp8mNJ0pTe,Naps,La kiffance,Luxembourg,0.805,0.637,6,-6.515,1,0.0869,0.228,0.0,0.071,0.678,140.045,2.99,4
+3fgEIHsl6ecyAK1rpAxBIY,Jul,J'ai tout su,Luxembourg,0.786,0.757,9,-4.889,0,0.106,0.0978,0.00106,0.131,0.898,175.903,3.16,4
+2gS8lDl64QTXdeIzWxLrJG,"Calema, Dj Youcef",Te Amo - DJ Youcef Remix,Luxembourg,0.535,0.786,6,-5.544,0,0.147,0.364,0.0,0.142,0.685,94.818,3.43,4
+3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Luxembourg,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372,4.45,4
+3sa06xVNmLLYIxdNNmVQN8,"Jax Jones, MNEK",Where Did You Go? (feat. MNEK),Luxembourg,0.763,0.782,7,-4.541,0,0.0346,0.182,7.08e-06,0.293,0.502,127.034,2.96,4
+5kr0kja5gbZAaT7w3TGKts,Calema,Te Amo,Luxembourg,0.522,0.688,6,-8.771,0,0.136,0.241,0.00016,0.368,0.482,126.202,4.3,5
+4cG7HUWYHBV6R6tHn1gxrl,"Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine",Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Luxembourg,0.824,0.862,2,-3.424,1,0.126,0.0076,0.000132,0.303,0.801,122.98,2.82,4

@@ -1,0 +1,201 @@
+track_id,artist_names,track_name,region,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_mins,time_signature
+3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Bulgaria,0.714,0.472,2,-7.375,1,0.0864,0.013,4.51e-06,0.266,0.238,131.121,2.62,4
+1Oxshg4204lRdcogzvdP4x,"Emilia, Galin",Alcohol,Bulgaria,0.829,0.91,1,-3.461,0,0.0567,0.165,0.0,0.0526,0.962,144.031,3.19,4
+56dILgPraSNLKcd89hxXaq,Molec,7 Dni,Bulgaria,0.597,0.71,0,-5.706,0,0.402,0.283,0.0,0.117,0.478,89.245,3.82,4
+2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Bulgaria,0.951,0.878,2,-2.565,1,0.211,0.0509,1.61e-05,0.321,0.923,133.014,2.85,4
+5qX0V96jKJ6zC8UImlXKmO,"V:RGO, EMIL TRF, FYRE, 2bona",PARALIA,Bulgaria,0.817,0.647,9,-6.475,1,0.243,0.145,0.0,0.102,0.723,142.981,4.56,4
+4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Bulgaria,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07e-06,0.371,0.304,128.04,2.92,4
+5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Bulgaria,0.733,0.69,9,-5.529,0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,3.08,4
+6eOG7lOgVEWKqhWFRL2O4j,"V:RGO, Sami Issa, Trey Stellar",RIDE OR DIE,Bulgaria,0.615,0.837,11,-7.447,1,0.108,0.0791,0.0,0.306,0.62,89.933,3.69,4
+6UyMkM4523bYKwHIIrfuJu,"Djordan, Tsvetelina Yaneva",Krasiv geroy,Bulgaria,0.708,0.854,0,-4.157,0,0.0596,0.0765,1.99e-05,0.0402,0.964,152.084,3.9,4
+4B4f0Jno4VnQA2a7R1kWgX,"V:RGO, Mishell",VSE EDNO,Bulgaria,0.736,0.601,5,-7.486,0,0.0535,0.121,0.0,0.117,0.217,141.973,2.54,4
+23HAp6WM0phD5RqDyxtr6b,FYRE,DJIGIT DRILL,Bulgaria,0.915,0.423,8,-8.34,1,0.489,0.467,1.87e-05,0.113,0.678,139.91,3.1,4
+4NQK5RwcwoQCjsMONIiXEo,"V:RGO, Atanas Kolev",NEIZBEJNO POLOJENIE,Bulgaria,0.815,0.69,1,-4.479,1,0.155,0.0235,0.0,0.145,0.419,97.019,3.54,4
+4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Bulgaria,0.704,0.797,0,-5.927,1,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2.47,4
+4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Bulgaria,0.847,0.69,1,-7.877,0,0.0493,0.0127,6e-05,0.0526,0.692,125.004,3.11,4
+6kN80cMcK1Gu1rJ82Xr6vt,Molec,Euphoria,Bulgaria,0.578,0.555,9,-8.974,0,0.0475,0.473,0.0,0.0662,0.431,159.008,3.69,4
+3bEbRxixvEVlEVIgvepXcg,"Medi, Azis",Пистолет,Bulgaria,0.515,0.911,0,-5.225,0,0.315,0.231,0.0,0.367,0.553,184.175,2.79,4
+04zqsdXIs6fCpvKgl0AYY7,"Galena, DJ Damyan, Costi",Welcome to Bulgaria,Bulgaria,0.631,0.856,1,-1.577,0,0.222,0.0747,0.0,0.0862,0.665,180.007,3.38,4
+6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Bulgaria,0.712,0.972,10,-0.514,1,0.112,0.00547,7.06e-05,0.128,0.568,119.966,2.42,4
+4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Bulgaria,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,0.662,173.93,2.79,4
+2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Bulgaria,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4.01,4
+4sO11a54gXayms6GDyqKep,Galena,Euphoria,Bulgaria,0.787,0.903,11,-5.339,1,0.0498,0.169,1.72e-06,0.0743,0.711,143.011,3.72,4
+1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Bulgaria,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4.02,4
+38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Bulgaria,0.637,0.715,2,-4.971,0,0.0455,0.148,0.0,0.0892,0.308,141.872,3.51,4
+16rryuFZpdvWzKllkUw0ri,"Preslava, Konstantin",Sladkoto zlo,Bulgaria,0.577,0.852,1,-5.471,0,0.176,0.0464,0.0,0.361,0.653,93.746,3.77,4
+5yXmtupoVp0GSM1ENKciOX,Molec,Случки,Bulgaria,0.655,0.688,1,-7.237,0,0.14,0.268,0.0,0.214,0.543,177.649,3.06,4
+1fTNb11PK6Ode6hx4bC8pl,"Galin, Lidia, Dessita, SIMONA, Adam, Costi",Нашата,Bulgaria,0.654,0.909,5,-2.584,0,0.0611,0.0301,4.26e-06,0.121,0.86,180.04,3.27,4
+7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,Bulgaria,0.818,0.69,0,-5.119,1,0.0454,0.00327,0.0,0.186,0.688,110.071,2.93,3
+0zbZVkNiZfelBLVrdJvuiX,Itzo Hazarta,Депутата Христо,Bulgaria,0.931,0.544,9,-6.927,0,0.195,0.0614,4.71e-06,0.104,0.647,96.995,3.55,4
+7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Bulgaria,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,3.07,4
+7sJNeWTXkZCEC7OnFMpGWL,"Luciano, Aitch, BIA",Bamba (feat. Aitch & BIA),Bulgaria,0.797,0.791,10,-6.281,1,0.33,0.119,0.0,0.113,0.828,138.026,3.39,4
+7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",Bulgaria,0.572,0.839,4,-5.083,0,0.0377,0.013,0.00976,0.522,0.465,143.969,3.28,4
+4AOUyrWRXMuSRG3eTWxizo,"Mom4eto, FYRE",TOPA NA BANKETA,Bulgaria,0.867,0.937,11,-4.686,0,0.0755,0.0126,1.84e-05,0.0935,0.439,130.006,3.12,4
+54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Bulgaria,0.772,0.75,5,-3.67,0,0.0455,0.0201,0.0,0.074,0.587,114.061,2.75,4
+7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Bulgaria,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,3.84,4
+3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Bulgaria,0.911,0.573,6,-7.43,1,0.288,0.38,0.0,0.403,0.972,140.04,1.62,4
+7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,Bulgaria,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758,4.07,4
+4z7cTjQGpdJzzKy4wEdAEX,V:RGO,LOTUS,Bulgaria,0.769,0.582,4,-6.585,0,0.267,0.143,0.0,0.0975,0.433,154.102,3.25,4
+1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,Bulgaria,0.647,0.514,8,-10.05,1,0.0593,0.0655,0.0,0.398,0.386,79.975,4.01,4
+0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Bulgaria,0.801,0.601,8,-7.574,0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,3.05,4
+13GRVUH2tL94b9yHCkLHRm,Rizziatta,BVHT!,Bulgaria,0.719,0.634,10,-5.687,0,0.193,0.000886,0.0,0.111,0.346,158.07,1.99,4
+58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Bulgaria,0.52,0.852,0,-5.866,1,0.0543,0.00237,5.79e-05,0.0733,0.234,140.267,4.23,4
+5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,Bulgaria,0.693,0.734,4,-6.189,1,0.202,0.0145,0.0,0.217,0.708,180.06,3.12,4
+4cLi9bZRMvDITlmKdo6D2l,"Mom4eto, Gyoky",Без теб,Bulgaria,0.801,0.851,5,-4.899,0,0.0836,0.329,0.000221,0.462,0.603,160.027,2.64,4
+3AXZZgreuwWgYX2IL3oGkA,"V:RGO, SHIZO",MAYBACH,Bulgaria,0.876,0.629,11,-6.626,0,0.243,0.000162,0.0,0.0803,0.876,150.038,3.33,4
+09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Bulgaria,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,3.81,3
+58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Bulgaria,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,0.0899,185.727,3.07,3
+2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Bulgaria,0.586,0.525,1,-7.163,0,0.0615,0.111,0.0,0.134,0.508,133.629,4.34,4
+5Sk39LuvdwuvL84jD01Dum,"MUPP, Sadfriendd",vendetta!,Bulgaria,0.706,0.91,1,-3.527,1,0.146,0.175,2e-06,0.11,0.667,126.007,1.78,4
+6kl1QzJtnTgToGGxZWeTJw,Yung Mici,DROGA,Bulgaria,0.775,0.442,4,-11.229,0,0.067,0.205,0.0273,0.112,0.439,118.04,2.85,4
+3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Bulgaria,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,4.54,4
+02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Bulgaria,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3.98,4
+3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),Bulgaria,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,0.366,165.921,3.64,4
+4woTEX1wYOTGDqNXuavlRC,"Eminem, Dina Rae",Superman,Bulgaria,0.802,0.755,4,-3.138,0,0.0564,0.0215,0.0,0.295,0.58,130.027,5.84,4
+3Ya6AUGGni7HPC5P9gh2bj,"Emilia, DENIS TEOFIKOV",Пак ще се броиш,Bulgaria,0.659,0.752,6,-7.315,0,0.152,0.0614,0.0,0.105,0.566,179.981,4.54,4
+2tqDS3gLLAPh66bSm8I32D,DJAANY,GRRT,Bulgaria,0.777,0.491,1,-10.317,1,0.428,0.00582,3.16e-05,0.298,0.604,77.346,3.16,4
+5bYyQzaUSXpGGrJuGZfafd,"Galena, Azis",А+Г=ВНЛ,Bulgaria,0.733,0.807,3,-5.136,0,0.0405,0.0935,2.09e-06,0.365,0.799,136.065,3.85,4
+01kfSdF9zfcDLri5sSWEoL,Dxrk ダーク,RAVE,Bulgaria,0.716,0.748,8,-6.06,1,0.0356,0.235,0.849,0.114,0.338,119.918,2.82,4
+4JFBEg1MNSuzGgsJNgoyYG,"Desi Slava, Azis",Брутален,Bulgaria,0.713,0.708,11,-5.428,0,0.043,0.00992,0.0,0.0607,0.451,147.989,3.89,4
+3EafBu8bBdhrkLe84OgnNZ,Papi Hans,Мр. Перфектен,Bulgaria,0.788,0.576,6,-6.562,0,0.105,0.157,0.00628,0.086,0.68,83.07,3.35,4
+4Nkgkvf4AKvt6a3VXlyM0O,Molec,Med,Bulgaria,0.68,0.447,10,-13.323,0,0.132,0.0212,0.0,0.177,0.492,155.057,2.97,4
+2FBlCQ6UYQu1KHMBnruVul,"Torino, Pashata, Kamelia",Plan B,Bulgaria,0.744,0.775,7,-4.981,0,0.256,0.159,0.0,0.311,0.853,169.99,3.47,4
+0JK0UF0VcZTNRkx5HhmQOV,Medi,Maria,Bulgaria,0.712,0.855,1,-4.786,0,0.0494,0.0561,3.64e-06,0.109,0.826,137.997,3.61,4
+5JwxdYpoZPJasiOjpmeeB0,Lidia,Alpha Doll,Bulgaria,0.671,0.977,2,-3.077,1,0.0553,0.0742,2.94e-06,0.124,0.809,143.061,3.55,4
+2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Bulgaria,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,0.37,93.986,3.44,4
+0zCgWGmDF0aih5qexATyBn,Mr.Kitty,After Dark,Bulgaria,0.579,0.601,8,-10.492,1,0.0322,0.0673,0.414,0.0778,0.0392,140.019,4.29,4
+48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Bulgaria,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,2.69,4
+1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Bulgaria,0.571,0.544,6,-10.613,1,0.0299,0.453,0.00805,0.322,0.216,132.052,2.21,4
+772ARvmnEjryug7ce0lRAF,"Tsvetelina Yaneva, Medi",Филм за нас,Bulgaria,0.565,0.871,6,-4.698,0,0.114,0.0922,0.0,0.0386,0.661,184.168,3.02,4
+7kDgO7iBtdBhrx0X0esUrB,"V:RGO, Boro Purvi",SAUCE,Bulgaria,0.805,0.664,6,-6.335,0,0.0902,0.00643,8.39e-05,0.108,0.961,157.975,3.19,4
+18y7QMqWhkkd1akp6FmXgA,DJAANY,Без лед,Bulgaria,0.559,0.49,0,-10.107,1,0.477,0.403,0.0,0.104,0.603,64.412,3.46,3
+2WzAAerBvZvvFXgUpSwHZ9,"PLAYAMANE, Nateki",MIDNIGHT,Bulgaria,0.633,0.433,1,-8.833,1,0.229,0.0053,0.28,0.145,0.373,122.088,2.03,4
+2vXKRlJBXyOcvZYTdNeckS,"Gesaffelstein, The Weeknd",Lost in the Fire (feat. The Weeknd),Bulgaria,0.658,0.671,2,-12.21,1,0.0363,0.0933,0.000927,0.115,0.166,100.966,3.37,4
+1jmwXsqCLABS1RNUtcz7GC,"Emilia, DENIS TEOFIKOV",Единствено,Bulgaria,0.766,0.788,5,-5.737,0,0.0337,0.197,0.0,0.098,0.946,136.015,3.8,4
+6I9VzXrHxO9rA9A5euc8Ak,Britney Spears,Toxic,Bulgaria,0.774,0.838,5,-3.914,0,0.114,0.0249,0.025,0.242,0.924,143.04,3.31,4
+1Fb8gCHRkmNAaN8vytd5vg,"Luciano, Central Cee",West Connect (feat. Central Cee),Bulgaria,0.92,0.571,10,-7.133,0,0.494,0.0681,0.0,0.0969,0.465,139.99,3.54,4
+42sQ9jc3NRDpxRvppjEtmA,Molec,Там ли си?,Bulgaria,0.81,0.702,0,-6.365,1,0.11,0.211,0.0,0.114,0.348,111.305,2.78,5
+6tfajS9NU9zqfOZdByVbV1,Nikos Vertis,S' Agapao,Bulgaria,0.525,0.699,8,-6.07,0,0.16,0.141,2.8e-05,0.183,0.612,138.896,4.0,4
+7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,Bulgaria,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,4.04,4
+4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,Bulgaria,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,0.7,168.946,3.87,4
+0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Bulgaria,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,3.33,4
+5evJJmNenJJF04OBGEGgZc,FYRE,Бийта като спре,Bulgaria,0.791,0.685,5,-9.207,0,0.386,0.0806,0.0,0.114,0.58,179.979,2.67,4
+0u52MS7dNsEFTbAuwcgSKM,"Dessita, Emrah",Първият,Bulgaria,0.579,0.907,5,-3.367,0,0.118,0.0811,0.0,0.0825,0.629,184.056,3.29,4
+27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,Bulgaria,0.9,0.509,1,-6.647,1,0.257,0.115,1.67e-06,0.0937,0.765,100.007,1.65,4
+79s5XnCN4TJKTVMSmOx8Ep,Pop Smoke,Dior,Bulgaria,0.548,0.805,7,-5.732,1,0.351,0.212,0.000389,0.408,0.648,142.094,3.61,4
+5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Bulgaria,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,4.34,4
+4P5VUXBuMIuTgyR8YuR11T,"Yung Mici, Boro Purvi",DROGA - REMIX,Bulgaria,0.719,0.794,6,-7.102,0,0.155,0.259,0.0728,0.134,0.863,153.923,2.59,4
+0VO8gYVDSwM1Qdd2GsMoYK,"Swedish House Mafia, The Weeknd",Moth To A Flame (with The Weeknd),Bulgaria,0.553,0.659,8,-7.295,1,0.0391,0.0027,0.0,0.105,0.105,120.146,3.9,4
+6CanjkbQRS139muYXQEbTm,V:RGO,FAKE,Bulgaria,0.797,0.591,8,-7.203,0,0.284,0.229,0.0,0.165,0.571,142.905,2.91,4
+3W9jnJBPYeihwNSXsr65f9,"Lil Mabu, DUSTY LOCANE",NO SNITCHING (with Dusty Locane),Bulgaria,0.731,0.653,1,-8.767,1,0.348,0.0627,0.0,0.348,0.424,155.943,2.67,4
+7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Bulgaria,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,4.84,4
+5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Bulgaria,0.746,0.251,11,-16.169,0,0.259,0.782,0.00203,0.106,0.18,139.999,2.0,4
+0oO1AbL92F6329z13C2qQH,Yeat,Talk,Bulgaria,0.698,0.763,4,-4.716,0,0.205,0.0873,0.0,0.647,0.252,139.939,2.91,4
+5thvwNPeyjFr3iKRGrxPuO,Tsvetelina Yaneva,Черните очи,Bulgaria,0.696,0.78,8,-5.843,0,0.035,0.0113,0.0,0.355,0.566,146.04,4.55,4
+18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Bulgaria,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2.75,4
+17ebbiVJ3iAtqJ5TxdVzWm,"Severina, Azis",Falis mi,Bulgaria,0.826,0.872,1,-3.407,0,0.048,0.0455,7.68e-06,0.18,0.919,157.013,3.52,4
+1jeH7hX7LylA16T7MosUO3,"Alisia, Toni Storaro",Боц,Bulgaria,0.7,0.801,5,-4.294,0,0.0474,0.103,0.0,0.153,0.599,145.885,4.47,4
+58b4WUBJM3IVzIDT2HEGe3,Bandata Na Ruba,Газ даам,Bulgaria,0.855,0.654,7,-7.668,0,0.321,0.141,0.0,0.122,0.283,160.008,2.68,4
+3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Bulgaria,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4.74,4
+1FEiijYPJtyswChfcpv3p0,Lana Del Rey,Summertime Sadness,Bulgaria,0.568,0.646,1,-6.793,0,0.0332,0.0464,0.0,0.121,0.211,111.945,4.41,4
+2ksyzVfU0WJoBpu8otr4pz,INTERWORLD,METAMORPHOSIS,Bulgaria,0.593,0.641,7,-12.727,0,0.0992,0.426,0.901,0.122,0.147,175.014,2.38,4
+0iUrxveyNUBfj0cqjYEijt,MoonDeity,NEON BLADE,Bulgaria,0.548,0.996,7,-2.169,1,0.112,0.0284,0.92,0.595,0.893,94.999,4.42,4
+7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,Bulgaria,0.467,0.9,11,-4.505,1,0.0451,0.000187,0.000493,0.105,0.554,130.027,4.08,4
+7KpoCH5M4hSJSCTPdeKm2h,"EMIL TRF, V:RGO",С теб,Bulgaria,0.711,0.783,5,-4.126,1,0.0446,0.296,0.0,0.0734,0.503,85.007,3.27,4
+6LpL3NUIJuJ3zyBfdMXD2O,MBT,Skupa,Bulgaria,0.87,0.577,2,-10.546,1,0.271,0.0315,0.0,0.0753,0.55,129.962,2.95,4
+78ctG4oXFeZOqrr7bcJFE2,Fiki,Отпусни се,Bulgaria,0.771,0.912,10,-4.423,0,0.0646,0.318,1.06e-05,0.106,0.921,141.958,4.2,3
+4BGRK42GfRCw2Hoolpu1G7,"Galin, SIMONA",Трезора,Bulgaria,0.704,0.888,5,-4.345,0,0.0549,0.106,0.0,0.0572,0.777,153.939,3.58,4
+2P06Kf0MWVRPQ0n1PQWEba,Molec,Има кой,Bulgaria,0.658,0.658,2,-6.137,0,0.0474,0.0642,0.0,0.324,0.301,123.978,3.52,4
+0wGbyS1tExQSwOYu6UceyE,"ONIMXRU, SMITHMANE",SHADOW,Bulgaria,0.721,0.692,7,-2.927,1,0.0414,0.000166,0.275,0.104,0.531,120.005,2.7,4
+2gTyfm5jrmTx4IH9K0CJk3,Galena,Ти не си за мен,Bulgaria,0.607,0.779,8,-5.923,0,0.248,0.0306,0.0,0.096,0.875,169.966,3.62,4
+3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Bulgaria,0.671,0.636,6,-8.117,0,0.103,0.515,0.000411,0.172,0.262,120.966,2.47,4
+0WtM2NBVQNNJLh6scP13H8,"Rema, Selena Gomez",Calm Down (with Selena Gomez),Bulgaria,0.801,0.806,11,-5.206,1,0.0381,0.382,0.000669,0.114,0.802,106.999,3.99,4
+3M0lSi5WW79CXQamgSBIjx,Chase Atlantic,Swim,Bulgaria,0.666,0.542,8,-6.429,1,0.0392,0.27,0.0,0.0765,0.0771,120.134,3.81,4
+3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Bulgaria,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,2.89,4
+3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Bulgaria,0.788,0.859,2,-2.724,1,0.0856,0.281,0.0,0.0424,0.822,141.02,3.46,4
+7aO0KrTDSwWv2mBZwEgN8N,"MBT, Bandata Na Ruba",Trap Kingx,Bulgaria,0.867,0.516,0,-8.805,0,0.187,0.0693,0.0,0.643,0.488,120.957,5.17,4
+2kx5sQgmjYug0GiDh1a4sU,"Cheriimoya, Sierra Kidd","Living Life, In The Night",Bulgaria,0.624,0.499,0,-9.962,0,0.0495,0.82,0.0,0.12,0.298,143.249,2.04,4
+2BfIkZJht4lBG73fqtsSxp,"Tita, Fiki",Забравяй ме,Bulgaria,0.62,0.96,5,-3.663,0,0.103,0.0639,0.0,0.15,0.894,184.037,3.17,4
+5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Bulgaria,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,2.36,4
+1a019wP7IdYLexwbmfZPm3,"Yeat, Lil Uzi Vert",Flawlëss (feat. Lil Uzi Vert),Bulgaria,0.474,0.805,1,-5.997,1,0.332,0.0715,0.0,0.147,0.109,131.001,2.94,4
+5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,Bulgaria,0.715,0.47,5,-12.638,0,0.0772,0.353,0.0923,0.104,0.426,89.965,1.86,4
+5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Bulgaria,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,3.59,4
+3rb0tMq42WfggucPm0HHkA,"MEDUZA, James Carter, Elley Duhé, FAST BOY",Bad Memories (feat. Elley Duhé & FAST BOY),Bulgaria,0.607,0.767,5,-6.069,0,0.0474,0.118,0.0,0.122,0.662,123.998,2.48,3
+01tx4JZuHnKP3ellVYWHwn,"FYRE, Gocata Kangal",Химн За Квартала,Bulgaria,0.912,0.385,8,-10.468,0,0.542,0.163,0.0,0.106,0.444,143.969,3.58,4
+37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Bulgaria,0.603,0.783,6,-4.023,1,0.062,0.449,7.96e-06,0.119,0.775,172.041,2.89,4
+1xzi1Jcr7mEi9K2RfzLOqS,Beyoncé,CUFF IT,Bulgaria,0.78,0.689,7,-5.668,1,0.141,0.0368,9.69e-06,0.0698,0.642,115.042,3.76,4
+0lKiqlTA0kN0k2TrjG5daO,FYRE,Всекиму своето,Bulgaria,0.917,0.496,0,-10.676,1,0.421,0.0558,0.0,0.179,0.667,90.002,4.33,4
+75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,Bulgaria,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,0.197,108.375,4.98,4
+32vRPT2jNoRZRg22GxtY0l,Medi,Рана,Bulgaria,0.635,0.735,0,-4.617,1,0.0857,0.0435,0.0,0.12,0.558,172.009,3.24,4
+5UnA7doBvFDdpKs90fp8dE,Mom4eto,Дявола пара изкара,Bulgaria,0.875,0.672,6,-7.312,0,0.153,0.116,0.0,0.085,0.466,105.008,2.75,4
+4EWCNWgDS8707fNSZ1oaA5,Kanye West,Heartless,Bulgaria,0.79,0.647,10,-5.983,0,0.136,0.0515,0.0,0.248,0.654,87.999,3.52,4
+1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,Don’t Blame Me,Bulgaria,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917,3.94,4
+6o1w1oqUMiJI1Kp0s0ksRK,Preslava,Moeto slabo myasto,Bulgaria,0.694,0.745,1,-5.492,0,0.0302,0.174,2.13e-05,0.0502,0.629,98.066,3.39,4
+6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,Bulgaria,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,0.934,116.032,3.38,4
+5MaFlpAHHxv7f3MMQLxF0Q,Alex Robov,Zabraven,Bulgaria,0.59,0.813,2,-6.387,0,0.0864,0.144,0.0,0.0827,0.668,174.024,3.7,4
+0iaumECxQiDwgDHxv8rFAy,"Miro, ALMA",Повече,Bulgaria,0.681,0.834,0,-4.542,1,0.0387,0.0118,2.99e-05,0.329,0.402,123.003,4.0,4
+6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,Bulgaria,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2.88,4
+6ex1Pz3pntgy4NPtxHXN2V,Ed Sheeran,Bad Habits,Bulgaria,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,3.85,4
+5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Bulgaria,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,3.54,4
+7IDxMPA2kEhDP2wFcKOqBL,"V:RGO, Alex & Vladi",NQMA KO DA STANE,Bulgaria,0.805,0.603,6,-7.079,0,0.0419,0.0983,0.0,0.108,0.402,97.504,3.53,4
+0yxnBa0bqbDE87o1wQswIs,"Medi, Gabriella",Женен,Bulgaria,0.623,0.867,2,-4.632,0,0.0548,0.111,0.0,0.219,0.609,176.052,3.18,4
+63WuQOXohQIxOxIFA2K7bR,Måneskin,SUPERMODEL,Bulgaria,0.636,0.876,7,-3.413,1,0.0555,0.00164,0.0,0.117,0.799,120.983,2.47,4
+6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,Bulgaria,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,0.268,169.914,3.89,3
+4tw8Yz9FEg8r1ciicWwwdE,"Sezy, Siimbad, SkandaU",NA BREGA,Bulgaria,0.745,0.874,6,-5.939,0,0.128,0.121,0.0146,0.206,0.588,134.981,4.03,4
+3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,Bulgaria,0.369,0.467,5,-9.018,1,0.0274,0.0194,0.46,0.109,0.174,94.473,4.84,4
+4qkggtykkzl6qfuScsNmJk,Emanuela,Podvodnitsa,Bulgaria,0.685,0.803,5,-4.99,0,0.0865,0.00216,3.16e-06,0.253,0.866,173.955,3.36,4
+7KZSo4wspWL0AyUZgr9S17,Atanas Kolev,Tova NE sym az,Bulgaria,0.736,0.629,7,-5.813,0,0.132,0.426,0.0,0.416,0.465,89.95,3.66,4
+788fXILjvTnAoHw4rtIJCA,FYRE,Sofia Hills,Bulgaria,0.886,0.568,0,-9.527,0,0.264,0.494,0.0,0.126,0.753,140.01,3.54,4
+76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Bulgaria,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,0.525,170.01,2.99,4
+0Sg2rdlwv6tXhocfPCGpIT,"MBT, BM, denkata",Polov Jivot,Bulgaria,0.927,0.486,7,-10.761,1,0.461,0.0281,0.0,0.116,0.436,127.979,5.25,4
+2jQiSYrwJehQAcuaaQrXnS,Chase Atlantic,Friends,Bulgaria,0.422,0.609,11,-6.361,0,0.0335,0.0114,4.76e-06,0.108,0.0911,107.34,3.83,3
+71wrEyCQBdBzQetMjc8omC,"Ilian Boyd, Сиана",Прати ми локация,Bulgaria,0.687,0.813,2,-4.76,1,0.0907,0.0312,0.0,0.0796,0.601,90.0,3.63,4
+4xkOaSrkexMciUUogZKVTS,"Eminem, Nate Dogg",Till I Collapse,Bulgaria,0.548,0.847,1,-3.237,1,0.186,0.0622,0.0,0.0816,0.1,171.447,4.96,4
+29tzJGvqJPTAFs6LXmsHoA,Arctic Monkeys,R U Mine?,Bulgaria,0.288,0.758,6,-5.692,0,0.0371,0.00616,0.0,0.303,0.619,97.094,3.36,4
+0F4FejjWi3bf5vGOkuQwPS,Darci,On My Own,Bulgaria,0.767,0.593,4,-5.901,1,0.0413,0.0324,4.5e-06,0.0878,0.579,130.007,2.86,4
+4oMyggIzClkOcCTvotFLkP,Ghostface Playa,Why Not,Bulgaria,0.725,0.984,9,-1.638,1,0.0351,0.000718,0.895,0.372,0.931,119.983,2.75,4
+2AD3faozZmU71dxlpPO4PJ,"Emilia, Florin Salam, Costi",Turbulence,Bulgaria,0.594,0.949,0,-2.642,1,0.0562,0.0943,0.0,0.0884,0.669,180.035,3.98,4
+1BYZxKSf0aTxp8ZFoeyM3d,girl in red,we fell in love in october,Bulgaria,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,3.07,4
+34lfu3S4fIcKZRNXzbdbo7,Kordhell,Live Another Day,Bulgaria,0.822,0.981,9,-1.321,1,0.109,0.000593,0.748,0.0938,0.404,115.005,2.23,4
+6PHB6mLa8HlK1m7I5wzmXD,"Galena, Medi",Scandal,Bulgaria,0.75,0.906,6,-4.36,0,0.0615,0.0309,0.0,0.0681,0.51,125.028,3.52,4
+2MuWTIM3b0YEAskbeeFE1i,Metallica,Master of Puppets (Remastered),Bulgaria,0.543,0.836,4,-9.11,0,0.0353,0.000647,0.431,0.153,0.56,105.173,8.59,4
+1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Bulgaria,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,2.97,4
+7iL6o9tox1zgHpKUfh9vuC,50 Cent,In Da Club,Bulgaria,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,3.22,4
+3CLSHJv5aUROAN2vfOyCOh,DVRST,Close Eyes,Bulgaria,0.784,0.572,0,-9.853,1,0.0573,0.0748,0.843,0.139,0.209,96.181,2.21,4
+0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Bulgaria,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,3.34,4
+2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Bulgaria,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,0.956,94.996,3.43,4
+6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Bulgaria,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,2.9,4
+6nqdgUTiWt4JbABDurkxMI,Hensonn,Sahara,Bulgaria,0.615,0.521,2,-9.488,1,0.0318,0.146,0.772,0.11,0.045,115.016,2.86,4
+0L8LOav65XwLjCLS11gNPD,BLACKPINK,Typa Girl,Bulgaria,0.915,0.621,7,-6.519,1,0.1,0.0745,0.0,0.628,0.527,131.984,2.99,4
+6x5rKKUI3kX1mAyiQx7mjN,"Ilian Boyd, Andreas",Един хотел,Bulgaria,0.503,0.898,10,-4.754,0,0.138,0.0722,6.16e-06,0.12,0.518,93.196,4.01,4
+11jRCxY01k9jvCdUru0EeP,Arctic Monkeys,Body Paint,Bulgaria,0.56,0.313,7,-11.653,0,0.0627,0.567,0.0,0.0767,0.254,144.745,4.84,4
+1MqzIgGsHP4cNjPboevsfq,Indila,Tourner Dans Le Vide,Bulgaria,0.594,0.698,6,-8.645,0,0.0428,0.103,0.0,0.173,0.376,119.991,4.1,4
+1iIIsJlKQW7E4eLw7x5XOI,Preslava,Piyan,Bulgaria,0.695,0.834,5,-5.594,0,0.0806,0.0826,0.0,0.0706,0.782,157.956,3.8,4
+2GAE9g1xwQorR9zzxSBbPy,Danna,Disneyland,Bulgaria,0.798,0.951,5,-2.611,1,0.0719,0.133,0.0,0.0796,0.862,119.982,4.72,4
+2SKoecvDt04LkeRGGzhjtA,"Lidia, SIMONA",Навик,Bulgaria,0.756,0.899,3,-4.218,0,0.0403,0.0397,0.0,0.0723,0.716,140.972,4.04,4
+5d6gL8EcuaisGM9UWJN4gM,Preslava,Ot utre,Bulgaria,0.676,0.892,2,-5.6,0,0.0373,0.0112,1.1e-06,0.156,0.378,132.016,3.86,4
+59CfNbkERJ3NoTXDvoURjj,Dove Cameron,Boyfriend,Bulgaria,0.345,0.612,7,-6.543,0,0.0608,0.232,0.0,0.194,0.232,179.773,2.55,3
+0wHFktze2PHC5jDt3B17DC,Jack Harlow,First Class,Bulgaria,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2.9,4
+5Y6nVaayzitvsD5F7nr3DV,Lana Del Rey,West Coast,Bulgaria,0.527,0.591,6,-7.664,0,0.0396,0.194,0.0194,0.0907,0.461,123.167,4.28,4
+3Wrjm47oTz2sjIgck11l5e,Måneskin,Beggin',Bulgaria,0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,0.589,134.002,3.53,4
+3U7LRoxDT1WvbliazYkmpV,"Galin, SIMONA",Vendetta,Bulgaria,0.667,0.901,7,-3.979,1,0.0452,0.00785,0.0,0.142,0.56,152.04,3.43,4
+5nuqX3R4iAhbXO1sGrBLqi,"MBT, BM",Nqma Kak,Bulgaria,0.704,0.462,9,-10.722,1,0.293,0.0818,0.00103,0.111,0.155,178.02,3.6,4
+6OBQnr1Yl3BMadDQl1t7Mu,"Alex Robov, Danna",Бях с теб,Bulgaria,0.564,0.888,0,-3.668,0,0.0584,0.0736,0.0,0.327,0.661,179.994,3.43,4
+68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Bulgaria,0.69,0.521,10,-8.492,0,0.339,0.324,0.0,0.0534,0.494,100.028,4.88,4
+5FX30idriKlEIRYTxpNf65,KUTE,AVOID ME,Bulgaria,0.656,0.964,6,-2.087,0,0.0964,0.123,0.813,0.78,0.965,114.007,1.76,4
+6zwJBnhNnugUuhMP7NUOfT,Papi Hans,Горгона,Bulgaria,0.828,0.666,7,-5.187,0,0.143,0.183,0.0,0.0598,0.627,94.954,3.0,4
+39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Bulgaria,0.736,0.906,0,-7.589,1,0.048,0.164,0.585,0.106,0.698,137.001,3.78,4
+2TV1dvFVj2tjnWoJyA86LS,"Toni G, Tedi Aleksandrova",Abstinentsiya,Bulgaria,0.55,0.909,1,-4.41,0,0.0701,0.113,0.0,0.113,0.465,166.026,4.92,4
+0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Bulgaria,0.489,0.918,1,-4.502,1,0.0554,3.53e-05,7.64e-05,0.0908,0.691,116.731,5.01,4
+6sD2Ar3Wmt2Tbxmpw43Qsh,EMIL TRF,Samo Za Men,Bulgaria,0.768,0.556,5,-5.59,0,0.179,0.285,0.000848,0.129,0.312,100.003,3.0,4
+5XVM8dBWJ7cNT7wRRGJF4L,"V:RGO, Rizziatta",KORIANDAR,Bulgaria,0.751,0.844,7,-5.107,1,0.304,0.0143,0.0,0.49,0.794,141.005,3.4,4
+7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Bulgaria,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,3.58,4
+5nujrmhLynf4yMoMtj8AQF,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),Bulgaria,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,3.38,4
+6SGm8eua5N2voJhxlHgIK5,Preslava,Chupliva i vlyubena,Bulgaria,0.686,0.9,6,-7.159,0,0.069,0.0511,0.000243,0.527,0.884,96.033,3.19,4
+5AqsbgXcg5o55HBnwjYpqa,"Marso, Bobkata, Pepe Shitz, Pameca",Monica Belluci,Bulgaria,0.883,0.713,6,-6.726,1,0.286,0.0531,0.0,0.118,0.924,83.05,2.6,4
+7cgkuZeVnDQtDVvHvmZmEg,Pepa,Erotichna Mashina,Bulgaria,0.741,0.909,3,-4.702,0,0.0398,0.238,0.0,0.385,0.962,150.051,3.14,4
+6ARd0Qd8iunz6lNyYQZz4t,"Tita, Djena",Да си траят,Bulgaria,0.468,0.91,6,-2.073,1,0.351,0.0865,0.0,0.178,0.494,167.951,3.81,4
+2xql0pid3EUwW38AsywxhV,The Neighbourhood,Reflections,Bulgaria,0.648,0.594,11,-7.027,0,0.0293,0.114,0.0462,0.116,0.544,113.983,4.07,4
+1JpqwDolccy7XGrFINYLYy,"Donika, Dessita",Никога твой,Bulgaria,0.693,0.875,0,-5.811,0,0.051,0.00487,0.0019,0.0753,0.926,159.987,2.83,4
+1NXDDexJAupRgVjkEdaGP8,Krisko,Balenciaga Kuchek,Bulgaria,0.587,0.95,1,-2.393,0,0.0543,0.0569,0.0,0.0407,0.964,170.02,3.97,4
+3SWZ11D0kLfgMQda6DwjJ9,"Emanuela, Antonio",Chastno party,Bulgaria,0.618,0.951,7,-2.103,1,0.0662,0.0326,0.000351,0.0744,0.651,150.123,3.37,4
