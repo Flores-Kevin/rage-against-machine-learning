@@ -181,5 +181,6 @@ def recommendSongs(track, artist, region):
     for i in range(0, 5):
         indx = sim_scores[i][0]
         ranked_tracks.append([combined_df['track_id'].iloc[indx], combined_df['artist_names'].iloc[indx], combined_df['track_name'].iloc[indx], np.round(sim_scores[i][1],decimals=3)])
-    
-    return ranked_tracks
+        df = pd.DataFrame(ranked_tracks)
+        df = df.rename(columns={'1':'Artist Name(s)', '2':'Track Name','3':'Similarity Score'})
+    return df
