@@ -33,10 +33,11 @@ with st.sidebar:
 
 if choose=='Home':
     st.title('Rage Against The Machine Learning')
-    st.markdown('## Welcome!')
+    st.markdown('## Welcome to our app!')
     # df=pd.read_csv('emp_analytics.csv')
     # st.write(df.head())
-    st.write('testing')
+    st.write("We've created a Music Diversifier to help expand your musical horizons. Once you input a favorite song of yours and select a region you're interested in, our app will return the five most similar songs from that region's Top 200 Chart.")
+    st.write("Please note: our app is currently only working with chart data from the week of 9/30/22 - 10/6/22.")
 
 
 if choose=='Music Diversifier':
