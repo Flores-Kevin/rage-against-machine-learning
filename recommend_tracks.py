@@ -92,8 +92,8 @@ def searchTrack(track,artist):
     #create a dictionary to hold data gathered from the api
     track_dict = {
         "track_id": id_num,
-        "artist_names": artist_names,
         "track_name": track_name,
+        "artist_names": artist_names,
         "danceability": danceability,
         "energy": energy,
         # "key": key,
@@ -112,6 +112,7 @@ def searchTrack(track,artist):
     #convert dictionary to a dataframe
     input_track_df = pd.DataFrame(track_dict)
     # input_track_df = input_track_df.drop(columns=['duration_mins'])
+    
     return input_track_df
 
 
@@ -180,8 +181,8 @@ def recommendSongs(track, artist, region):
 
     for i in range(0, 5):
         indx = sim_scores[i][0]
-        ranked_tracks.append([combined_df['track_id'].iloc[indx], combined_df['track_name'].iloc[indx], combined_df['artist_names'].iloc[indx], np.round(sim_scores[i][1],decimals=3)])
+        ranked_tracks.append([combined_df['track_id'].iloc[indx], combined_df['track_name'].iloc[indx], combined_df['artist_names'].iloc[indx], sim_scores[i][1], combined_df['danceability'].iloc[indx], combined_df['energy'].iloc[indx], combined_df['loudness'].iloc[indx], combined_df['mode'].iloc[indx], combined_df['speechiness'].iloc[indx], combined_df['acousticness'].iloc[indx], combined_df['instrumentalness'].iloc[indx], combined_df['liveness'].iloc[indx], combined_df['valence'].iloc[indx], combined_df['tempo'].iloc[indx]])
         df = pd.DataFrame(ranked_tracks)
-        df.columns = ['Track ID', 'Track Name', 'Artist Name(s)', 'Similarity Score']
+        df.columns = ['Track ID', 'Track Name', 'Artist Name(s)', 'Similarity Score', 'Danceability','Energy','Loudness','Mode','Speechiness','Acousticness','Instrumentalness','Liveness','Valence','Tempo']
         df.index = np.arange(1, len(df) + 1)
     return df
