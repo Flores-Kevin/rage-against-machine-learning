@@ -28,15 +28,25 @@ if app_mode=='Home':
 if app_mode=='Music Diversifier':
     st.title('Music Diversifier')
     st.markdown('Please type a song from Spotify :')
-    track = st.text_input('Song name')
-    artist = st.text_input('Artist name')
-
-    st.markdown('Please select a region :')
-    region = st.selectbox('Pick One', regions)
-    st.button("Find Songs")
+    
+    with st.form(key='my_form'):
+        track = st.text_input('Song name')
+        artist = st.text_input('Artist name')
+        st.markdown('Please select a region :')
+        region = st.selectbox('Pick One', regions)
+    
+        clicked = st.form_submit_button("Find Songs")
  
-    results = recommendSongs(track, artist, region)
-    st.dataframe(results.iloc[:,1:4])
+        if clicked:
+            results = recommendSongs(track, artist, region)
+            st.dataframe(results.iloc[:,1:4])
+
+# if text_input('Song name')
     
     
     
+# # Group multiple widgets:
+# >>> with st.form(key='my_form'):
+# >>>   username = st.text_input('Username')
+# >>>   password = st.text_input('Password')
+# >>>   st.form_submit_button('Login')
