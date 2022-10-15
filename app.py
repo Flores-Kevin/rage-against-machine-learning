@@ -41,12 +41,3 @@ if app_mode=='Music Diversifier':
             results = recommendSongs(track, artist, region)
             st.write(results.iloc[:,1:4])
 
-# if text_input('Song name')
-    
-    
-    
-# # Group multiple widgets:
-# >>> with st.form(key='my_form'):
-# >>>   username = st.text_input('Username')
-# >>>   password = st.text_input('Password')
-# >>>   st.form_submit_button('Login')
