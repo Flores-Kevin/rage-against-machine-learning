@@ -1,9 +1,6 @@
 import streamlit as st
-import requests
-import json
 from pprint import pprint
 import pandas as pd
-import time
 import numpy as np
 from sklearn.preprocessing import StandardScaler, MinMaxScaler, Normalizer
 from sklearn.metrics.pairwise import cosine_similarity
