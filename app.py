@@ -103,13 +103,13 @@ if choose=='Our Team':
     with col1: 
         st.markdown('## Dan')
         st.image(dan_profile, width=150 )
-        st.markdown("Dan is a [] and data scientist based in Chicago, IL. First song checked in the app: []")
+        st.markdown("Dan is a man of mystery and data scientist based in Chicago, IL. First song checked in the app: Bohemian Rhapsody by Queen.")
         st.markdown("""[GitHub](https://github.com/dtmurphy6)    
         [LinkedIn](https://www.linkedin.com/in/danielmurphy3/)""")
 
         st.markdown('## Molly')
         st.image(molly_profile, width=150 )
-        st.markdown("Molly is a knitter and data scientist based in Evanston, IL. First song checked in the app: Born to Run by Bruce Springsteen")
+        st.markdown("Molly is a knitter and data scientist based in Evanston, IL. First song checked in the app: Born to Run by Bruce Springsteen.")
         st.markdown("""[GitHub](https://github.com/mbruns13)    
         [LinkedIn](https://www.linkedin.com/in/mollybruns)""")
 
@@ -117,13 +117,13 @@ if choose=='Our Team':
     with col2: 
         st.markdown('## Kevin')
         st.image(kevin_profile, width=150 )
-        st.markdown("Kevin is a barista and a data scientist based in Lyons, IL. First song checked in the app: Yesterday by The Beatles")
+        st.markdown("Kevin is a barista and a data scientist based in Lyons, IL. First song checked in the app: Yesterday by The Beatles.")
         st.markdown("""[GitHub](https://github.com/flores-kevin)    
         [LinkedIn](https://www.linkedin.com/in/kevin-flores-097991237)""")
 
         st.markdown('## Slone')
         st.image(slone_profile, width=150 )
-        st.markdown("Slone is a musician and data scientist based in Chicago, IL. First song checked in the app: Run Away to Mars by TALK")
+        st.markdown("Slone is a musician and data scientist based in Chicago, IL. First song checked in the app: Run Away to Mars by TALK.")
         st.markdown("""[GitHub](https://github.com/bslone1)    
         [LinkedIn](https://www.linkedin.com/in/bridget-slone-021bs/)""")
 
