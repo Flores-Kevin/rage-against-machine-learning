@@ -83,6 +83,7 @@ if choose=='Music Diversifier':
         for t in range(len(results)):
             track_id = results.iloc[t,0]
             embed = f'<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/{track_id}?utm_source=generator&theme=0" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>'
+            st.write(f'Recommendation {t+1}:')
             components.html(embed)
 
 
