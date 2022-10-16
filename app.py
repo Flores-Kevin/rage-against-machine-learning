@@ -26,7 +26,7 @@ with st.sidebar:
         "container": {"padding": "5!important", "background-color": "#white"},
         "icon": {"color": "black", "font-size": "25px"}, 
         "nav-link": {"font-size": "16px", "text-align": "left", "margin":"0px", "--hover-color": "#eee"},
-        "nav-link-selected": {"background-color": "#02ab21"},
+        "nav-link-selected": {"background-color": "#4b8aff"},
     }
     )
 
@@ -35,7 +35,7 @@ if choose=='Home':
     st.title('Rage Against The Machine Learning')
     st.markdown('## Welcome to our app!')
     st.write("We've created a Music Diversifier to help expand your musical horizons. Once you input a favorite song and select a country/region of interest, our app will return the five most similar songs from that region's Top 200 Chart.")
-    st.write("Please note: our app is currently working with Spotify's chart data from the weeks of 9/30/22 - 10/6/22.")
+    st.write("Please note: our app is currently working with Spotify's chart data from 9/30/22 - 10/6/22.")
 
 
 if choose=='Music Diversifier':
