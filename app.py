@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-import streamlit.components.v1 as html
+import streamlit.components.v1 as components
 from  PIL import Image
 from pprint import pprint
 import pandas as pd
@@ -18,7 +18,6 @@ st.set_page_config(layout="wide")
 
 regions = ['Argentina', 'Australia', 'Austria', 'Belarus', 'Belgium', 'Bolivia', 'Brazil', 'Bulgaria', 'Canada', 'Chile', 'Colombia', 'Costa Rica', 'Cyprus', 'Czech Republic', 'Denmark', 'Dominican Republic', 'Ecuador', 'Egypt', 'El Salvador', 'Estonia', 'Finland', 'France', 'Germany', 'Global', 'Greece', 'Guatemala', 'Honduras', 'Hong Kong', 'Hungary', 'Indonesia', 'Ireland', 'Israel', 'Italy', 'Japan', 'Kazakhstan', 'Latvia', 'Lithuania', 'Luxembourg', 'Malaysia', 'Mexico', 'Netherlands', 'New Zealand', 'Nicaragua', 'Nigeria', 'Norway', 'Pakistan', 'Panama', 'Paraguay', 'Peru', 'Philippines', 'Poland', 'Portugal', 'Romania', 'Saudi Arabia', 'Singapore', 'Slovakia', 'South Africa', 'South Korea', 'Spain', 'Sweden', 'Switzerland', 'Taiwan', 'Thailand', 'Turkey', 'UAE', 'Ukraine', 'United Kingdom', 'Uruguay', 'Venezuela', 'Vietnam']
 
-
 with st.sidebar:
     choose = option_menu(None, ['Home','Music Diversifier', 'Our Team'],
                          icons=['house', 'music-player-fill', 'people-fill'],
@@ -31,7 +30,6 @@ with st.sidebar:
     }
     )
 
-# app_mode = st.sidebar.selectbox('Select Page',['Home','Music Diversifier'])
 
 if choose=='Home':
     st.title('Rage Against The Machine Learning')
@@ -49,35 +47,44 @@ if choose=='Music Diversifier':
         artist = st.text_input('Artist name:')
         # st.markdown('Regional Top 200 Chart:')
         region = st.selectbox('Regional Top 200 Chart:', regions)
-    
+
         clicked = st.form_submit_button("Find Songs")
-    
+        # clicked = st.button("Find Songs", on_click=callback)
 
-        if clicked:
-            results = recommendSongs(track, artist, region)
 
-            st.markdown(""" ### Results: """)
-            st.write(results.iloc[:,1:4])
+    if clicked:
+        results = recommendSongs(track, artist, region)
 
-            results_info = results.drop(columns=['Similarity Score'])
-            # st.write(results_info)
-            input_info = searchTrack(track,artist)
-            input_info = input_info.rename(columns = {'track_id':'Track ID', 
-            'track_name':'Track Name', 
-            'artist_names':'Artist Name(s)', 
-            'danceability':'Danceability',
-            'energy':'Energy',
-            'loudness':'Loudness',
-            'mode':'Mode',
-            'speechiness':'Speechiness',
-            'acousticness':'Acousticness',
-            'instrumentalness':'Instrumentalness',
-            'liveness':'Liveness',
-            'valence':'Valence',
-            'tempo':'Tempo'})
+        st.markdown(""" ### Results: """)
+        st.write(results.iloc[:,1:4])
 
-            combined_df = pd.concat([input_info,results_info.loc[:]]).reset_index(drop=True)    
-            st.write(combined_df.iloc[:,1:13])
+        st.markdown(""" ### Compare Track Audio Features: """)
+        results_info = results.drop(columns=['Similarity Score'])
+        # st.write(results_info)
+        input_info = searchTrack(track,artist)
+        input_info = input_info.rename(columns = {'track_id':'Track ID', 
+        'track_name':'Track Name', 
+        'artist_names':'Artist Name(s)', 
+        'danceability':'Danceability',
+        'energy':'Energy',
+        'loudness':'Loudness',
+        'mode':'Mode',
+        'speechiness':'Speechiness',
+        'acousticness':'Acousticness',
+        'instrumentalness':'Instrumentalness',
+        'liveness':'Liveness',
+        'valence':'Valence',
+        'tempo':'Tempo'})
+
+        combined_df = pd.concat([input_info,results_info.loc[:]]).reset_index(drop=True)    
+        st.write(combined_df.iloc[:,1:13])
+
+        st.markdown(""" ### Preview Recommended Songs: """)
+        for t in range(len(results)):
+            track_id = results.iloc[t,0]
+            embed = f'<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/{track_id}?utm_source=generator&theme=0" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>'
+            components.html(embed)
+
 
 
 # github_logo = Image.open('assets/img/team/GitHub-Mark-120px-plus.png')
