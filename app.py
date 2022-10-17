@@ -37,6 +37,8 @@ if choose=='Music Diversifier':
         track = st.text_input('Song name:')
         artist = st.text_input('Artist name:')
         region = st.selectbox('Regional Top 200 Chart:', regions)
+        track = track.replace('"', '').replace("'", '').replace("!",'')
+        artist = track.replace('"', '').replace("'", '')
 
         clicked = st.form_submit_button("Find Songs")
 
