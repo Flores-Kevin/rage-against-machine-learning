@@ -26,7 +26,7 @@ with st.sidebar:
         "container": {"padding": "5!important", "background-color": "#white"},
         "icon": {"color": "black", "font-size": "25px"}, 
         "nav-link": {"font-size": "16px", "text-align": "left", "margin":"0px", "--hover-color": "#eee"},
-        "nav-link-selected": {"background-color": "#491394"},
+        "nav-link-selected": {"background-color": "#136e2c"},
     }
     )
 
