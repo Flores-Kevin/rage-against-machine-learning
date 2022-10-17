@@ -26,7 +26,7 @@ with st.sidebar:
         "container": {"padding": "5!important", "background-color": "#white"},
         "icon": {"color": "black", "font-size": "25px"}, 
         "nav-link": {"font-size": "16px", "text-align": "left", "margin":"0px", "--hover-color": "#eee"},
-        "nav-link-selected": {"background-color": "#4b8aff"},
+        "nav-link-selected": {"background-color": "#491394"},
     }
     )
 
@@ -40,7 +40,7 @@ if choose=='Home':
 
 if choose=='Music Diversifier':
     st.title('Music Diversifier')
-    st.markdown('Please enter information about a song you like:')
+    st.markdown('Please enter information for a song you like:')
     
     with st.form(key='my_form'):
         track = st.text_input('Song name:')
