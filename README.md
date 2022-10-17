@@ -34,6 +34,6 @@ Definition of each feature:
 
 - We have a few features we think would be cool to add, like a language filter to search for songs in different languages and not just by country or region.
 
-- Lastly, it would be cool to work with our peers in music cognition to get a better idea of how listeners map and implicitly decide that a song sounds “similar.” Is it the groove? Tempo? The textures of the song? These kinds of questions would help us finetune our model to better weigh features that have a greater impact on listener-percieved similarity. 
+- Lastly, it would be interesting to work with our peers in music cognition to get a better idea of how listeners map and implicitly decide that a song sounds “similar.” Is it the groove? Tempo? The textures of the song? These kinds of questions would help us finetune our model to better weigh features that have a greater impact on listener-percieved similarity. 
 
 
