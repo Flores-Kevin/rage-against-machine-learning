@@ -103,7 +103,7 @@ if choose=='Our Team':
     with col1: 
         st.markdown('## Dan')
         st.image(dan_profile, width=150 )
-        st.markdown("Dan is a man of mystery and data scientist based in Chicago, IL. First song checked in the app: Bohemian Rhapsody by Queen.")
+        st.markdown("Dan is a bookworm and data scientist based in Chicago, IL. First song checked in the app: We Dance by Pavement")
         st.markdown("""[GitHub](https://github.com/dtmurphy6)    
         [LinkedIn](https://www.linkedin.com/in/danielmurphy3/)""")
 
