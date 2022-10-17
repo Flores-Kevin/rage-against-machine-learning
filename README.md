@@ -2,16 +2,13 @@
 Project 4
 
 ### Brief Summary:
-For our final project, we set out to create a new kind of Spotify recommendation GUI that would help listeners expand beyond the top charts of the country that currently listen in. We were interested in creating an app that went beyond the limitations of spotify’s recommendation algorithm. Spotify seems to have a bias towards recommending songs in your country and language of origin, and we wanted to create something that broke free of that bias!
+For our final project, we set out to create a new kind of Spotify recommendation GUI that would help listeners expand beyond the top charts of the country that currently listen in. We were interested in creating an app that went beyond the limitations of spotify’s recommendation algorithm. Spotify seems to have a bias towards recommending songs in your country and language of origin, and we wanted to create something that broke free of that bias
 
 ### ETL:
-We decided to work with Spotify’s API. To pull song data for our recommendations, we used the Spotify Weekly Top Songs charts from every available country, which they make available only via CSV downloads [here](https://charts.spotify.com/charts/overview/global). We downloaded all of the available charts for the timeframe of 9/30/22 - 10/6/22. Using a loop, we then read in all of these files as DataFrames in order to then look up the audio features of each song using the Spotify API. New DataFrames were created for each chart that included each track’s ID, name, artist(s), and audio features (see [here](https://github.com/Flores-Kevin/rage-against-machine-learning/blob/main/pulling_chart_track_features.ipynb)). In order to pull song information based on the user’s input, we created a function that would first search Spotify’s API for a track (based on a song name and artist) and return that track’s ID, name, and artist. Next, within this same function, a second API call is made, using the track ID, which then pulls the track’s audio features of the input song. The results of those two API calls are combined into a one row DataFrame that will be used within the main function of our code, and to be fed into our machine learning model. 
+We decided to work with Spotify’s API. To pull song data for our recommendations, we used the Spotify Weekly Top Songs charts from every available country, which they make available only via CSV downloads [here](https://charts.spotify.com/charts/overview/global). We downloaded charts for the timeframe of 9/30/22 - 10/6/22. Using a loop, we then read in all of these files as DataFrames in order to then look up the audio features of each song using the Spotify API. New DataFrames were created for each regional chart that included each track’s ID, name, artist(s), and audio features (see our code [here](https://github.com/Flores-Kevin/rage-against-machine-learning/blob/main/pulling_chart_track_features.ipynb)). In order to pull song information based on the user’s input, we created a function that would first search Spotify’s API for a track (based on a song name and artist) and return that track’s ID, name, and artist. Next, within this same function, a second API call is made, using the track ID, which then pulls the track’s audio features of the input song. The results of those two API calls are combined into a one row DataFrame that will be used within the main function of our code, and to be fed into our machine learning model (the code with these functions can be found [here](https://github.com/Flores-Kevin/rage-against-machine-learning/blob/main/building_functions.ipynb)). 
 
 ### Machine Learning Model:
 After scaling the data, we tried a variety of distance-based machine learning models. We knew we needed our model to identify songs closest in features (closest in distance) to the features of an input song. The musical features we included were dancability, energy, loudness, mode (major or minor), speechiness, acousticness, and instrumentalness, liveness, valence, tempo. We tried out knearest neighbor, cosine similarity, and euchlidian distance to find the most accurate distance-based song recommendations. We ultimately went with cosine similarity for our app, as it is one of the simpler distance-based models, and it is a standard model used in music recommendation systems. We further optimized our model by dropping features such as time signature and key, as these likely introduced noise into the model and didn’t actually lend itself to better recommendations. We then tested the model by trying it out to see how good the cosine similarity scores were. Scores are from 0 to 1 with a score of one meaning the song is a perfect match (aka the same song). We saw that some countries didn’t have songs with a lot of similarities to our input songs, which is to be expected, and ultimately yielded less strong recommendations (with cosine scores around .7 or less). Because the app uses top chart data from each country, popular music generally yields better recommendations and higher cosign similarity scores. 
-
-### Details About The App:
-We decided to use Streamlit to host and deploy our Music Diversifier since we liked it better than Flask. We sought to design an app that was both easy to use and provided enough information to be interesting and engaging. And although Streamlit can be publicly deployed we would have some difficulties due to our dependency on the Spotify API which requires access tokens created from personal account ID’s and key’s. No we will now provide a demo!
 
 Definition of each feature:
 - Danceability: Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.
@@ -25,6 +22,9 @@ Definition of each feature:
 - Valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 - Tempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 
+### Details About The App:
+We decided to use Streamlit to host and deploy our Music Diversifier. We sought to design an app that was both easy to use and provided enough information to be interesting and engaging. Although Streamlit can be publicly deployed, our app is currently only running locally. This is due to our dependency on the Spotify API which requires access tokens created from personal account IDs and keys. (Screenshots of our app can be found at the bottom of this report.)
+
 ### Limitations and Future Directions:
 - Our app is currently in its beta form, and we have a few limitations we experienced with this version. For example if you want to input a heavy metal song and input Belarus you might not get a lot of very similar songs if Belarus does not have a lot of heavy metal songs in their top 200 songs. We also have a few future directions we look forward to pursuing to make the Music Diversifier better!
 
@@ -36,4 +36,13 @@ Definition of each feature:
 
 - Lastly, it would be interesting to work with our peers in music cognition to get a better idea of how listeners map and implicitly decide that a song sounds “similar.” Is it the groove? Tempo? The textures of the song? These kinds of questions would help us finetune our model to better weigh features that have a greater impact on listener-percieved similarity. 
 
+### App Screenshots
+![Home Page](https://github.com/Flores-Kevin/rage-against-machine-learning/blob/main/resources/app_home_screenshot.png?raw=true)
 
+![Music Diversifier Page](https://github.com/Flores-Kevin/rage-against-machine-learning/blob/main/resources/app_music_diversifier_screenshot.png?raw=true)
+
+![Results Part 1](https://github.com/Flores-Kevin/rage-against-machine-learning/blob/main/resources/app_results1_screenshot.png?raw=true)
+
+![Results Part 2](https://github.com/Flores-Kevin/rage-against-machine-learning/blob/main/resources/app_results2_screenshot.png?raw=true)
+
+![Our Team Page](https://github.com/Flores-Kevin/rage-against-machine-learning/blob/main/resources/app_our_team_screenshot.png?raw=true)
