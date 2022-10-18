@@ -34,11 +34,9 @@ if choose=='Music Diversifier':
     st.markdown('Please enter information for a song you like:')
     
     with st.form(key='my_form'):
-        track = st.text_input('Song name:')
-        artist = st.text_input('Artist name:')
+        track = st.text_input('Song name:').replace('"', '').replace("'", '').replace("!",'')
+        artist = st.text_input('Artist name:').replace('"', '').replace("'", '')
         region = st.selectbox('Regional Top 200 Chart:', regions)
-        track = track.replace('"', '').replace("'", '').replace("!",'')
-        artist = track.replace('"', '').replace("'", '')
 
         clicked = st.form_submit_button("Find Songs")
 
