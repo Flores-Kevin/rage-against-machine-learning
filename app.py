@@ -41,38 +41,40 @@ if choose=='Music Diversifier':
         clicked = st.form_submit_button("Find Songs")
 
     if clicked:
-        results = recommendSongs(track, artist, region)
+        try:
+            results = recommendSongs(track, artist, region)
 
-        st.markdown(""" ### Results: """)
-        st.write(results.iloc[:,1:4])
+            st.markdown(""" ### Results: """)
+            st.write(results.iloc[:,1:4])
 
-        with st.expander("Compare Track Audio Features"):
-            results_info = results.drop(columns=['Similarity Score'])
-            input_info = searchTrack(track,artist)
-            input_info = input_info.rename(columns = {'track_id':'Track ID', 
-            'track_name':'Track Name', 
-            'artist_names':'Artist Name(s)', 
-            'danceability':'Danceability',
-            'energy':'Energy',
-            'loudness':'Loudness',
-            'mode':'Mode',
-            'speechiness':'Speechiness',
-            'acousticness':'Acousticness',
-            'instrumentalness':'Instrumentalness',
-            'liveness':'Liveness',
-            'valence':'Valence',
-            'tempo':'Tempo'})
+            with st.expander("Compare Track Audio Features"):
+                results_info = results.drop(columns=['Similarity Score'])
+                input_info = searchTrack(track,artist)
+                input_info = input_info.rename(columns = {'track_id':'Track ID', 
+                'track_name':'Track Name', 
+                'artist_names':'Artist Name(s)', 
+                'danceability':'Danceability',
+                'energy':'Energy',
+                'loudness':'Loudness',
+                'mode':'Mode',
+                'speechiness':'Speechiness',
+                'acousticness':'Acousticness',
+                'instrumentalness':'Instrumentalness',
+                'liveness':'Liveness',
+                'valence':'Valence',
+                'tempo':'Tempo'})
 
-            combined_df = pd.concat([input_info,results_info.loc[:]]).reset_index(drop=True)    
-            st.write(combined_df.iloc[:,1:13])
+                combined_df = pd.concat([input_info,results_info.loc[:]]).reset_index(drop=True)    
+                st.write(combined_df.iloc[:,1:13])
 
-        st.markdown(""" ### Preview Recommended Songs: """)
-        for t in range(len(results)):
-            track_id = results.iloc[t,0]
-            embed = f'<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/{track_id}?utm_source=generator&theme=0" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>'
-            st.write(f'Recommendation {t+1}:')
-            components.html(embed)
-
+            st.markdown(""" ### Preview Recommended Songs: """)
+            for t in range(len(results)):
+                track_id = results.iloc[t,0]
+                embed = f'<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/{track_id}?utm_source=generator&theme=0" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>'
+                st.write(f'Recommendation {t+1}:')
+                components.html(embed)
+        except IndexError:
+            st.error('Sorry! No results found. Please check the spelling and try again.')
 
 
 # github_logo = Image.open('assets/img/team/GitHub-Mark-120px-plus.png')
